@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lector de Sagas Literarias</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+  <!-- Barra superior de lectura Wattpad -->
+  <header class="reader-header">
+    <div class="brand-section">
+      <div class="brand-logo">W</div>
+      <span class="brand-title">SagaReader</span>
+    </div>
+
+    <!-- Selectores en Cascada: Saga -> Libro -> Capítulo -->
+    <div class="selector-cascade">
+      <div class="custom-select-wrap" title="Seleccionar Saga">
+        <select id="sagaSelect" aria-label="Seleccionar Saga"></select>
+      </div>
+
+      <div class="custom-select-wrap" title="Seleccionar Libro">
+        <select id="bookSelect" aria-label="Seleccionar Libro"></select>
+      </div>
+
+      <div class="custom-select-wrap" title="Seleccionar Capítulo">
+        <select id="chapterSelect" aria-label="Seleccionar Capítulo"></select>
+      </div>
+    </div>
+
+    <!-- Controles de tipografía y tema visual -->
+    <div class="reader-controls">
+      <button id="zoomOutBtn" class="ctrl-btn" title="Reducir fuente">A-</button>
+      <button id="zoomInBtn" class="ctrl-btn" title="Aumentar fuente">A+</button>
+      <button id="themeBtn" class="ctrl-btn" title="Cambiar tema (Oscuro/Sepia/Claro)">🌓 Tema</button>
+    </div>
+  </header>
+
+  <!-- Indicador visual de progreso según desplazamiento -->
+  <div class="progress-bar-container">
+    <div id="readingProgress" class="reading-progress"></div>
+  </div>
+
+  <!-- Escenario central de lectura literaria -->
+  <main class="reader-stage">
+    <article class="story-container">
+      
+      <!-- Metadatos superiores -->
+      <header class="chapter-meta">
+        <span id="chapterBadge" class="badge-tag">Saga</span>
+        <h1 id="chapterTitle" class="chapter-headline">Cargando...</h1>
+        <div id="readingTime" class="reading-time-est">Calculando tiempo de lectura...</div>
+      </header>
+
+      <!-- Cuerpo de la prosa literaria -->
+      <section id="storyBody" class="story-body">
+        <!-- Renderizado dinámico de la prosa -->
+      </section>
+
+      <!-- Botones de cambio de capítulo estilo Wattpad -->
+      <nav class="navigation-bar" aria-label="Navegación entre capítulos">
+        <button id="prevChapterBtn" class="nav-arrow-btn" disabled>
+          <span>←</span> Anterior
+        </button>
+
+        <span id="chapterCounter" class="chapter-counter-pill">Capítulo</span>
+
+        <button id="nextChapterBtn" class="nav-arrow-btn">
+          Siguiente <span>→</span>
+        </button>
+      </nav>
+
+    </article>
+  </main>
+
+  <script src="/js/app.js"></script>
+</body>
+</html>
