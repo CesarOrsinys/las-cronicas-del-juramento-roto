@@ -228,12 +228,15 @@ function renderMarkdown(md) {
 
     // Párrafos normales
     if (line.length > 0) {
-      html += `<p>${formatInline(line)}</p>`;
+      html += `<p class="story-paragraph" data-p-index="">${formatInline(line)}</p>`;
     }
   }
 
   if (inBlockquote) html += '</blockquote>';
   elStoryBody.innerHTML = html;
+
+  // Enumerar párrafos reales y restaurar marcapáginas si existe
+  setupParagraphBookmarks();
 }
 
 // Formateo en línea (negritas, cursivas, diálogos y guiones largos)
@@ -243,6 +246,108 @@ function formatInline(text) {
     .replace(/\*(.*?)\*/g, '<em>$1</em>')
     .replace(/_([^_]+)_/g, '<em>$1</em>')
     .replace(/—\s*/g, '— '); // Asegurar espacio tras raya de diálogo
+}
+
+// ==========================================================================
+// Marcapáginas persistente (LocalStorage + SessionStorage)
+// ==========================================================================
+function getBookmarkKey() {
+  return `bookmark_${state.currentSaga}_${state.currentBook}_${state.currentChapterIndex}`;
+}
+
+function setupParagraphBookmarks() {
+  const pList = Array.from(elStoryBody.querySelectorAll('p'));
+  pList.forEach((p, idx) => {
+    p.setAttribute('data-p-index', idx);
+
+    // Evento Click / Tap para móviles y escritorio: poner marcapáginas
+    p.addEventListener('click', (e) => {
+      // Guardar marcapáginas en localStorage y sessionStorage
+      saveBookmark(idx, p);
+      
+      // Si el TTS está reproduciendo o se quiere iniciar desde aquí
+      if (state.tts.isPlaying) {
+        state.tts.currentParagraphIndex = idx;
+        speakParagraph(idx);
+      }
+    });
+  });
+
+  // Restaurar marcapáginas previo si existe para este capítulo
+  restoreChapterBookmark(pList);
+}
+
+function saveBookmark(paragraphIndex, targetElement) {
+  const bookmarkData = {
+    saga: state.currentSaga,
+    book: state.currentBook,
+    chapterIndex: state.currentChapterIndex,
+    paragraphIndex: paragraphIndex,
+    snippet: targetElement ? targetElement.textContent.trim().substring(0, 60) : '',
+    timestamp: Date.now()
+  };
+
+  // Guardar tanto en localStorage (persistencia indefinida) como en sessionStorage (sesión actual)
+  const key = getBookmarkKey();
+  localStorage.setItem(key, JSON.stringify(bookmarkData));
+  sessionStorage.setItem(key, JSON.stringify(bookmarkData));
+
+  // Guardar también como último marcapáginas global de lectura
+  localStorage.setItem('wattpad_last_global_bookmark', JSON.stringify(bookmarkData));
+
+  // Indicador visual del marcapáginas en el DOM
+  highlightBookmark(paragraphIndex);
+  showBookmarkNotification(`🔖 Marcapáginas guardado en párrafo ${paragraphIndex + 1}`);
+}
+
+function highlightBookmark(paragraphIndex) {
+  const pList = elStoryBody.querySelectorAll('p');
+  pList.forEach(p => p.classList.remove('user-bookmark'));
+  const target = pList[paragraphIndex];
+  if (target) {
+    target.classList.add('user-bookmark');
+  }
+}
+
+function restoreChapterBookmark(pList) {
+  const key = getBookmarkKey();
+  const raw = localStorage.getItem(key) || sessionStorage.getItem(key);
+  if (!raw) return;
+
+  try {
+    const data = JSON.parse(raw);
+    const idx = data.paragraphIndex;
+    if (idx !== undefined && pList[idx]) {
+      highlightBookmark(idx);
+      
+      // Auto-desplazar suavemente hasta el párrafo marcado
+      setTimeout(() => {
+        pList[idx].scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }, 350);
+
+      // Si el usuario presiona "Escuchar", arrancará desde este marcapáginas
+      state.tts.currentParagraphIndex = idx;
+    }
+  } catch (err) {
+    console.error('Error restaurando marcapáginas:', err);
+  }
+}
+
+// Pequeño aviso visual flotante de confirmación
+function showBookmarkNotification(msg) {
+  let notif = document.getElementById('bookmarkNotif');
+  if (!notif) {
+    notif = document.createElement('div');
+    notif.id = 'bookmarkNotif';
+    notif.className = 'bookmark-toast';
+    document.body.appendChild(notif);
+  }
+  notif.textContent = msg;
+  notif.classList.add('show');
+  clearTimeout(notif._timer);
+  notif._timer = setTimeout(() => {
+    notif.classList.remove('show');
+  }, 2200);
 }
 
 // Configuración de temas
@@ -429,7 +534,7 @@ function toggleTts() {
   }
 }
 
-// Iniciar lectura secuencial desde el primer párrafo visible
+// Iniciar lectura secuencial desde el marcapáginas o primer párrafo visible
 function startTts() {
   window.speechSynthesis.cancel();
 
@@ -438,7 +543,13 @@ function startTts() {
   if (pElements.length === 0) return;
 
   state.tts.paragraphs = pElements;
-  state.tts.currentParagraphIndex = 0;
+
+  // Si existe un marcapáginas previo restaurado, arrancar desde ahí
+  let startIndex = state.tts.currentParagraphIndex || 0;
+  if (startIndex < 0 || startIndex >= pElements.length) {
+    startIndex = 0;
+  }
+  state.tts.currentParagraphIndex = startIndex;
   state.tts.isPlaying = true;
   state.tts.isPaused = false;
 
@@ -448,7 +559,7 @@ function startTts() {
   elTtsBtnLabel.textContent = 'Detener';
   elTtsPauseResumeBtn.textContent = '⏸️';
 
-  speakParagraph(0);
+  speakParagraph(startIndex);
 }
 
 // Leer un párrafo específico y resaltar visualmente
