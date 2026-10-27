@@ -72,11 +72,12 @@ body {
   justify-content: space-between;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
   transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  position: sticky;
 }
 
 /* Modo Compacto al hacer Scroll hacia abajo */
 .reader-header.is-compact {
-  padding: 0.4rem 1.25rem;
+  padding: 0.35rem 1.25rem;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
   background: rgba(18, 18, 20, 0.95);
 }
@@ -87,6 +88,7 @@ body {
   gap: 0.8rem;
   font-weight: 700;
   font-size: 1.15rem;
+  transition: all 0.3s ease;
 }
 
 .brand-logo {
@@ -100,13 +102,7 @@ body {
   justify-content: center;
   font-weight: 900;
   box-shadow: 0 2px 10px var(--accent-glow);
-  transition: transform 0.2s ease;
-}
-
-.reader-header.is-compact .brand-logo {
-  width: 28px;
-  height: 28px;
-  font-size: 0.85rem;
+  transition: all 0.3s ease;
 }
 
 .brand-title {
@@ -119,7 +115,7 @@ body {
   display: none;
 }
 
-/* En modo compacto se ocultan los selectores de Saga y Libro, manteniendo SOLO el de Capítulo */
+/* En modo compacto se ocultan los selectores de Saga y Libro */
 .reader-header.is-compact #sagaWrap,
 .reader-header.is-compact #bookWrap {
   display: none !important;
@@ -128,7 +124,62 @@ body {
 .reader-header.is-compact .chapter-select-wrap select {
   padding: 0.35rem 1.8rem 0.35rem 0.75rem;
   font-size: 0.84rem;
-  max-width: 260px;
+  max-width: 240px;
+}
+
+/* Botón de Colapso (solo visible cuando el header está en modo compacto) */
+.header-collapse-btn {
+  display: none;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  color: var(--accent-orange);
+  width: 30px;
+  height: 30px;
+  border-radius: 6px;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+  margin-left: 0.5rem;
+}
+
+.reader-header.is-compact .header-collapse-btn {
+  display: flex;
+}
+
+.header-collapse-btn:hover {
+  background: var(--bg-elevated);
+  border-color: var(--accent-orange);
+  transform: scale(1.05);
+}
+
+/* ESTADO COLAPSADO POR DEFECTO AL HACER SCROLL:
+   Oculta el selector del capítulo y todos los botones de la barra, 
+   centrando el logo absolutamente en la barra y dejando el botón de colapso a la derecha */
+.reader-header.is-compact.is-collapsed {
+  justify-content: flex-end;
+  min-height: 44px;
+}
+
+.reader-header.is-compact.is-collapsed .brand-section {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.reader-header.is-compact.is-collapsed .brand-logo {
+  width: 30px;
+  height: 30px;
+}
+
+.reader-header.is-compact.is-collapsed .selector-cascade,
+.reader-header.is-compact.is-collapsed .reader-controls {
+  display: none !important;
+}
+
+.reader-header.is-compact.is-collapsed .header-collapse-btn .collapse-icon {
+  transform: rotate(-90deg);
 }
 
 /* Selector cascada en header */

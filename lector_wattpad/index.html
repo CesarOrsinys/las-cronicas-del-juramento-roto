@@ -34,7 +34,7 @@
     </div>
 
     <!-- Controles de tipografía, accesibilidad TTS y tema visual -->
-    <div class="reader-controls">
+    <div id="readerControls" class="reader-controls">
       <button id="ttsPlayBtn" class="ctrl-btn tts-btn" title="Escuchar capítulo en voz alta (Texto a Voz)">
         <span class="tts-icon">🔊</span> <span id="ttsBtnLabel">Escuchar</span>
       </button>
@@ -42,6 +42,11 @@
       <button id="zoomInBtn" class="ctrl-btn" title="Aumentar fuente">A+</button>
       <button id="themeBtn" class="ctrl-btn" title="Cambiar tema (Oscuro/Sepia/Claro)">🌓 Tema</button>
     </div>
+
+    <!-- Botón flotante a la derecha para colapsar/expandir en modo scroll -->
+    <button id="headerCollapseBtn" class="header-collapse-btn" title="Mostrar/Ocultar controles de lectura" aria-label="Mostrar u ocultar controles">
+      <span class="collapse-icon">▾</span>
+    </button>
   </header>
 
   <!-- Barra flotante de control de Audio/TTS -->

@@ -424,8 +424,30 @@ function setupEventListeners() {
     setTheme(themes[nextIdx]);
   });
 
-  // Barra de progreso y modo compacto del header según scroll
+  // Barra de progreso y modo compacto/colapsado del header según scroll
   const headerEl = document.querySelector('.reader-header');
+  const collapseBtn = document.getElementById('headerCollapseBtn');
+
+  // Por defecto al hacer scroll: colapsado (solo logo centrado y botón a la derecha)
+  let userExpandedWhileScrolled = false;
+
+  if (collapseBtn) {
+    collapseBtn.addEventListener('click', () => {
+      if (headerEl) {
+        const isCollapsed = headerEl.classList.contains('is-collapsed');
+        if (isCollapsed) {
+          // Descolapsar: mostrar capítulo y botones de control
+          headerEl.classList.remove('is-collapsed');
+          userExpandedWhileScrolled = true;
+        } else {
+          // Colapsar: ocultar todo excepto logo centrado y botón a la derecha
+          headerEl.classList.add('is-collapsed');
+          userExpandedWhileScrolled = false;
+        }
+      }
+    });
+  }
+
   window.addEventListener('scroll', () => {
     const scrollY = window.scrollY || window.pageYOffset;
     const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
@@ -435,15 +457,23 @@ function setupEventListeners() {
       elProgressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
     }
 
-    // Si el usuario hace scroll hacia abajo (> 80px), encoger header
-    // Cuando vuelve arriba del todo (<= 25px), restaurar a tamaño completo
+    // Al hacer scroll hacia abajo (> 80px), entra en modo compacto
+    // Por defecto viene colapsado (solo logo centrado y botón toggle a la derecha)
     if (scrollY > 80) {
-      if (headerEl && !headerEl.classList.contains('is-compact')) {
-        headerEl.classList.add('is-compact');
+      if (headerEl) {
+        if (!headerEl.classList.contains('is-compact')) {
+          headerEl.classList.add('is-compact');
+          if (!userExpandedWhileScrolled) {
+            headerEl.classList.add('is-collapsed');
+          }
+        }
       }
     } else if (scrollY <= 25) {
-      if (headerEl && headerEl.classList.contains('is-compact')) {
+      // Al volver completamente arriba, vuelve a la normalidad absoluta
+      if (headerEl) {
         headerEl.classList.remove('is-compact');
+        headerEl.classList.remove('is-collapsed');
+        userExpandedWhileScrolled = false;
       }
     }
   });
