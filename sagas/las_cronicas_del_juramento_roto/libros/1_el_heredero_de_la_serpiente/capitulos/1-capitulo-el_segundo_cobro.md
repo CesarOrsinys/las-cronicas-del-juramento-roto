@@ -1,4 +1,4 @@
-# Capítulo 1: El olvido de los mastines
+# Capítulo 1: El segundo cobro
 
 La primera señal de que Edrath estaba perdida fue que los perros dejaron de reconocer a sus dueños.
 
