@@ -1,0 +1,27 @@
+# Capítulo 18: La danza en los riscos
+
+La ciudadela de Alos era un avispero revuelto desde que los tres muchachos habían cruzado los portones del muelle con las piernas empapadas en orina y el terror congelado en los ojos. La historia no tardó en inflarse en las tabernas bajas, en los corrillos de la plaza y junto a los abrevaderos comunales: ya no se murmuraba sobre un incidente infantil en las orillas del torrente, sino sobre un monstruo telúrico, una bestia infernal surgida de las entrañas de los barrancos del Calístrato que obedecía las órdenes mudas del salvaje de la viuda y aguardaba la caída del sol para degollar los rebaños de ovejas y abrir las gargantas de los niños en sus lechos.
+
+Alexandros, con la túnica limpia de lino y el orgullo destrozado ante la mirada de Ianthe, no cesó de lloriquear y exigir venganza hasta que su padre —el magistrado supremo del concejo, un hombre de hombros macizos que custodiaba los sellos oficiales de plomo y administraba las ejecuciones de la comarca— decidió intervenir para salvaguardar el honor de su linaje. No acudió él en persona a mancharse las sandalias de cuero fino en los pedregales de la sierra, pero bastaron dos órdenes secas dictadas desde la tarima municipal para que cuatro guardias armados con horcas de tres puntas, chuzos con regatón de hierro y dos sabuesos de presa atados con cadenas cortas subieran hacia las faldas del monte antes de que el sol se ocultara tras los cerros occidentales.
+
+Theron y la loba oscura se encontraban ladera arriba, en los riscos escarpados donde los encinares cedían su lugar a crestas calizas desnudas y monte bajo de romero y tomillo.
+
+El estruendo de la batida se escuchó mucho antes de que los hombres asomaran por el primer collado.
+
+Los seres humanos cazaban con una torpeza ruidosa que provocaba el desdén del chico: pisadas pesadas de botas claveteadas que quebraban ramas secas sin miramiento, gritos destemplados para espantar el miedo atávico que les helaba la sangre en la penumbra del bosque y el jadeo asmático y continuo de los dos sabuesos molosos, ahogados por la tracción feroz de sus collares de hierro con púas.
+
+No hubo desconcierto ni precipitaciones en la cumbre. La fiera sacudió el lomo macizo, alzó la trufa para medir la dirección del viento que subía del llano y echó a correr en un trote bajo, elástico y tendido hacia las zonas más quebradas y fracturadas del relieve. Theron la siguió pegado a sus cuartos traseros, deslizándose entre los matorrales de lentisco y las lajas cortantes con esa soltura ágil, silenciosa y baja de quien no necesita fijar los ojos en el suelo para saber dónde asientan sus plantas desnudas.
+
+No huyeron hacia las alturas inaccesibles de la sierra; jugaron con los cazadores en su propio terreno.
+
+La loba se dejaba entrever apenas durante un segundo en lo alto de un saliente calizo, recortando su anatomía negra contra el cielo encendido del crepúsculo para desatar los alaridos de los guardias. Los hombres azuzaban a los perros monte arriba, resbalando en la grava suelta de las pendientes, desgarrándose las sayas en los zarzales y perdiendo el aliento en persecuciones ciegas. Cuando alcanzaban exhaustos la cima del risco con las picas en ristre, Theron y la loba ya se habían deslizado por una torrentera seca hacia la vaguada contraria, quebrando el rastro entre matas olorosas de cantueso que cegaban el olfato de los canes.
+
+Fueron dos horas completas de una danza invisible e implacable. Theron salvaba barranqueras de tres brazadas con una ligereza mineral, sintiendo el aire helado de la noche azotándole el torso y percibiendo el hedor a sudor rancio, miedo y fatiga de los hombres que se quedaban atrás, apaleando los arbustos a ciegas y maldiciendo al cielo. Los sabuesos de presa, enloquecidos por un rastro que cambiaba de dirección en cada quiebro y asfixiados por el polvillo de la caliza, terminaron por derrumbarse sobre las piedras con las lenguas colgando y los belfos cubiertos de espuma blanca, negándose a dar un paso más a pesar de los varazos de los capataces.
+
+Con la caída de las primeras sombras densas de la noche, la batida enviada por el concejo se deshizo en una retirada confusa, humillada y dispersa hacia las luces distantes de Alos.
+
+Theron y la loba se detuvieron en la cima de un promontorio de piedra que dominaba la vega entera. El muchacho respiraba despacio, con las plantas de los pies manchadas de arcilla bermeja y las manos apoyadas en los muslos, contemplando cómo los puntos temblorosos de las antorchas de los guardias descendían torpemente por los caminos comunales, buscando el amparo de las murallas de la ciudadela.
+
+La fiera se sentó sobre sus cuartos traseros a su lado. Soltó un bufido suave por la nariz, expulsando una densa vaharada de vapor blanco que se disolvió en el aire gélido de la sierra, y apoyó su lomo pesado y caliente contra las piernas desnudas de Theron.
+
+El muchacho hundió los dedos en el pelaje áspero y espeso de la cerviz de la loba, sintiendo el latido lento, rítmico y primordial de su corazón animal. Se acomodaron en la oquedad protegida entre dos rocas milenarias cubiertas de líquenes secos, y mientras el murmullo lejano de la ciudadela de los hombres terminaba de extinguirse en el fondo del valle, Theron cerró los ojos acompasando su respiración a la noche, consciente de que la tormenta definitiva no tardaría en desatar sus rayos sobre la finca de Doris.
