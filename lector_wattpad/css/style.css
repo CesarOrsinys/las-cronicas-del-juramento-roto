@@ -508,12 +508,12 @@ body {
 
 /* Responsividad */
 @media (max-width: 768px) {
-  .reader-header {
+  .reader-header:not(.is-compact) {
     flex-direction: column;
     gap: 0.8rem;
     align-items: stretch;
   }
-  .selector-cascade {
+  .reader-header:not(.is-compact) .selector-cascade {
     width: 100%;
     justify-content: space-between;
   }
@@ -525,6 +525,22 @@ body {
   }
   .story-body {
     font-size: 1.05rem;
+  }
+}
+
+/* En modo compacto en móviles, mantener barra horizontal compacta y centrada */
+@media (max-width: 768px) {
+  .reader-header.is-compact {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.35rem 0.75rem;
+  }
+  .reader-header.is-compact.is-collapsed {
+    justify-content: flex-end;
+  }
+  .reader-header.is-compact .selector-cascade {
+    width: auto;
   }
 }
 
@@ -557,6 +573,18 @@ body {
 
 .reader-header.is-compact ~ .tts-panel {
   top: 45px;
+}
+
+/* Cuando el header está colapsado, la barra flotante de voz también se pliega elegantemente para no estorbar la lectura */
+.reader-header.is-compact.is-collapsed ~ .tts-panel {
+  max-height: 0;
+  opacity: 0;
+  overflow: hidden;
+  pointer-events: none;
+  border-bottom: none;
+  box-shadow: none;
+  padding: 0;
+  transition: all 0.25s ease;
 }
 
 @keyframes slideDown {

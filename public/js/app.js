@@ -463,9 +463,9 @@ function setupEventListeners() {
       if (headerEl) {
         if (!headerEl.classList.contains('is-compact')) {
           headerEl.classList.add('is-compact');
-          if (!userExpandedWhileScrolled) {
-            headerEl.classList.add('is-collapsed');
-          }
+        }
+        if (!userExpandedWhileScrolled && !headerEl.classList.contains('is-collapsed')) {
+          headerEl.classList.add('is-collapsed');
         }
       }
     } else if (scrollY <= 25) {
