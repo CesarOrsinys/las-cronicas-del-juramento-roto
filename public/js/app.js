@@ -424,12 +424,27 @@ function setupEventListeners() {
     setTheme(themes[nextIdx]);
   });
 
-  // Barra de progreso según scroll
+  // Barra de progreso y modo compacto del header según scroll
+  const headerEl = document.querySelector('.reader-header');
   window.addEventListener('scroll', () => {
+    const scrollY = window.scrollY || window.pageYOffset;
     const totalHeight = document.documentElement.scrollHeight - window.innerHeight;
+
     if (totalHeight > 0) {
-      const progress = (window.scrollY / totalHeight) * 100;
+      const progress = (scrollY / totalHeight) * 100;
       elProgressBar.style.width = `${Math.min(100, Math.max(0, progress))}%`;
+    }
+
+    // Si el usuario hace scroll hacia abajo (> 80px), encoger header
+    // Cuando vuelve arriba del todo (<= 25px), restaurar a tamaño completo
+    if (scrollY > 80) {
+      if (headerEl && !headerEl.classList.contains('is-compact')) {
+        headerEl.classList.add('is-compact');
+      }
+    } else if (scrollY <= 25) {
+      if (headerEl && headerEl.classList.contains('is-compact')) {
+        headerEl.classList.remove('is-compact');
+      }
     }
   });
 
