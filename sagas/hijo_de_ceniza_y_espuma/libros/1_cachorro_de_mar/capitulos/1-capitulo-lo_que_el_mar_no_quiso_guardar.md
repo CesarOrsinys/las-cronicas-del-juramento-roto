@@ -1,5 +1,4 @@
-# Libro 1: Cachorro de mar
-## Capítulo 1: Lo que el mar no quiso guardar
+# Capítulo 1: Lo que el mar no quiso guardar
 
 El mar no tiene memoria, dicen los que solo conocen el agua desde la orilla. Y puede que sea verdad, o puede que simplemente no la necesite. La memoria es un lastre de los vivos, un inventario de nombres, deudas y cicatrices para convencerse de que siguen estando ahí. El mar no necesita saber quién es: simplemente ocupa el espacio.
 

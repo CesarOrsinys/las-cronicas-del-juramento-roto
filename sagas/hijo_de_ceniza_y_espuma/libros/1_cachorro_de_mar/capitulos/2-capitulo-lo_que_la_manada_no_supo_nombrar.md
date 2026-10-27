@@ -1,5 +1,4 @@
-# Libro 1: Cachorro de mar
-## Capítulo 2: Lo que la manada no supo nombrar
+# Capítulo 2: Lo que la manada no supo nombrar
 
 Una manada de lobos no vota ni discute lo que ya ha ocurrido.
 
