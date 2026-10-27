@@ -379,18 +379,37 @@ function loadVoices() {
 
   // Filtrar o priorizar voces en español (es-ES, es-MX, es-419, etc.)
   const spanishVoices = allVoices.filter(v => v.lang.toLowerCase().startsWith('es'));
-  const voicesToShow = spanishVoices.length > 0 ? spanishVoices : allVoices;
+  const voicesPool = spanishVoices.length > 0 ? spanishVoices : allVoices;
+
+  // Función para calificar qué tan natural es una voz
+  const getNaturalScore = (voice) => {
+    const name = voice.name.toLowerCase();
+    let score = 0;
+    // Voces Neural / Natural de Edge y Windows (las de mayor realismo humano)
+    if (name.includes('natural') || name.includes('neural') || name.includes('online')) score += 100;
+    // Voces Google de Chrome en Android/PC (alta calidad)
+    if (name.includes('google')) score += 50;
+    // Voces Microsoft de escritorio modernas (Helena, Sabina, Álvaro, Jorge)
+    if (name.includes('microsoft')) score += 30;
+    // Si no es sintetizador sintético básico antiguo
+    if (!name.includes('desktop') && !name.includes('mobile')) score += 10;
+    return score;
+  };
+
+  // Ordenar de mayor a menor calidad/naturalidad
+  voicesPool.sort((a, b) => getNaturalScore(b) - getNaturalScore(a));
 
   elTtsVoiceSelect.innerHTML = '';
-  voicesToShow.forEach(v => {
+  voicesPool.forEach(v => {
     const opt = document.createElement('option');
     opt.value = v.voiceURI;
-    opt.textContent = `${v.name} (${v.lang})`;
+    const isNatural = getNaturalScore(v) >= 30 ? '✨ ' : '';
+    opt.textContent = `${isNatural}${v.name} (${v.lang})`;
     elTtsVoiceSelect.appendChild(opt);
   });
 
-  // Elegir voz por defecto
-  state.tts.selectedVoice = spanishVoices[0] || allVoices[0];
+  // Elegir por defecto la voz de máxima calidad detectada
+  state.tts.selectedVoice = voicesPool[0];
   if (state.tts.selectedVoice) {
     elTtsVoiceSelect.value = state.tts.selectedVoice.voiceURI;
   }
@@ -460,9 +479,15 @@ function speakParagraph(index) {
 
   updateTtsStatus(`Leyendo párrafo ${index + 1} de ${state.tts.paragraphs.length}`);
 
-  const utterance = new SpeechSynthesisUtterance(textToRead);
-  utterance.rate = state.tts.rate;
-  utterance.pitch = 1.0;
+  // Preprocesar el texto para pausas literarias más naturales (puntos suspensivos, comas y guiones largos)
+  const cleanText = textToRead
+    .replace(/—\s*/g, ', ') // Convertir guiones de diálogo en pausas respiratorias
+    .replace(/\.{3}/g, '... ') // Pausa en puntos suspensivos
+    .replace(/\s+/g, ' ');
+
+  const utterance = new SpeechSynthesisUtterance(cleanText);
+  utterance.rate = state.tts.rate * 0.95; // Ligera modulación para evitar atropello robótico
+  utterance.pitch = 0.98; // Tono ligeramente más cálido y humano
   utterance.lang = state.tts.selectedVoice ? state.tts.selectedVoice.lang : 'es-ES';
   if (state.tts.selectedVoice) {
     utterance.voice = state.tts.selectedVoice;
