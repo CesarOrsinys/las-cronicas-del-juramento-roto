@@ -49,15 +49,29 @@ module.exports = (req, res) => {
           });
 
           sagas[sagaKey].books[bookKey].chapters = files.map(file => {
-            let label = file.replace('.md', '');
-            if (label.startsWith('0-prologo')) label = 'Prólogo: El precio del olvido';
-            else if (label.startsWith('epilogo')) label = 'Epílogo: La sombra de los que esperan';
-            else {
-              label = label.replace(/^(\d+)-capitulo-/, 'Capítulo $1: ').replace(/_/g, ' ');
+            const filePath = path.join(capDir, file);
+            let title = '';
+            try {
+              const text = fs.readFileSync(filePath, 'utf-8');
+              const firstHeading = text.split('\n').find(l => l.startsWith('# '));
+              if (firstHeading) {
+                title = firstHeading.replace('# ', '').trim();
+              }
+            } catch (e) {}
+
+            if (!title) {
+              let label = file.replace('.md', '');
+              if (label.startsWith('0-prologo')) label = 'Prólogo';
+              else if (label.startsWith('epilogo')) label = 'Epílogo';
+              else {
+                label = label.replace(/^(\d+)-capitulo-/, 'Capítulo $1: ').replace(/_/g, ' ');
+              }
+              title = label;
             }
+
             return {
               file,
-              title: label
+              title
             };
           });
         }

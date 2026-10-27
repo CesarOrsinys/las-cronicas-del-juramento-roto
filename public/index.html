@@ -33,13 +33,50 @@
       </div>
     </div>
 
-    <!-- Controles de tipografía y tema visual -->
+    <!-- Controles de tipografía, accesibilidad TTS y tema visual -->
     <div class="reader-controls">
+      <button id="ttsPlayBtn" class="ctrl-btn tts-btn" title="Escuchar capítulo en voz alta (Texto a Voz)">
+        <span class="tts-icon">🔊</span> <span id="ttsBtnLabel">Escuchar</span>
+      </button>
       <button id="zoomOutBtn" class="ctrl-btn" title="Reducir fuente">A-</button>
       <button id="zoomInBtn" class="ctrl-btn" title="Aumentar fuente">A+</button>
       <button id="themeBtn" class="ctrl-btn" title="Cambiar tema (Oscuro/Sepia/Claro)">🌓 Tema</button>
     </div>
   </header>
+
+  <!-- Barra flotante de control de Audio/TTS -->
+  <aside id="ttsPanel" class="tts-panel" aria-label="Controles de audio y voz" hidden>
+    <div class="tts-panel-content">
+      <div class="tts-status">
+        <span class="tts-wave-anim">
+          <span></span><span></span><span></span><span></span>
+        </span>
+        <span id="ttsStatusText">Listo para leer en voz alta</span>
+      </div>
+
+      <div class="tts-actions">
+        <button id="ttsPauseResumeBtn" class="tts-sub-btn" title="Pausar / Reanudar">⏸️</button>
+        <button id="ttsStopBtn" class="tts-sub-btn" title="Detener audio">⏹️</button>
+        
+        <div class="tts-setting">
+          <label for="ttsRateSelect">Vel:</label>
+          <select id="ttsRateSelect">
+            <option value="0.8">0.8x</option>
+            <option value="1" selected>1.0x</option>
+            <option value="1.2">1.2x</option>
+            <option value="1.5">1.5x</option>
+          </select>
+        </div>
+
+        <div class="tts-setting">
+          <label for="ttsVoiceSelect">Voz:</label>
+          <select id="ttsVoiceSelect" class="tts-voice-select"></select>
+        </div>
+
+        <button id="ttsCloseBtn" class="tts-close-btn" title="Ocultar barra de voz">✕</button>
+      </div>
+    </div>
+  </aside>
 
   <!-- Indicador visual de progreso según desplazamiento -->
   <div class="progress-bar-container">
