@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 13: El descenso a las raíces de basalto
+## Capítulo 14: El descenso a las raíces de basalto
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* Las Galerías Ciclópeas y las Cloacas Pre-fundacionales de Vhaldyr  

@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 12: El asedio del hombre sin sombra
+## Capítulo 13: El asedio del hombre sin sombra
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Pasadizo de las Cenizas y el Claustro de las Almenas Bajas  

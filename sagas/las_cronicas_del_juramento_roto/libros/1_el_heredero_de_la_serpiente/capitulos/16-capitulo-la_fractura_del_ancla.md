@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 15: La fractura del ancla
+## Capítulo 16: La fractura del ancla
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Corazón del Pilar Maestro bajo Vhaldyr  

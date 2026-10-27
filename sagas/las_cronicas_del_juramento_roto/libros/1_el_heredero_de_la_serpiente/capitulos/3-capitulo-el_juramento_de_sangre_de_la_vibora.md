@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 2: El juramento de sangre de la Víbora
+## Capítulo 3: El juramento de sangre de la Víbora
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Vestíbulo Central y la Torre Este de la Casa de la Víbora  

@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 16: El suspiro de la grieta
+## Capítulo 17: El suspiro de la grieta
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Pretil Mayor del Puente de los Murmullos y la Celda Catorce  

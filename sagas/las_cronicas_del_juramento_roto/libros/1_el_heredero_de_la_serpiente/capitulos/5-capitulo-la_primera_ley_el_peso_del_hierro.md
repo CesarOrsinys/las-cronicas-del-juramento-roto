@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 4: La primera ley: El peso del hierro
+## Capítulo 5: La primera ley: El peso del hierro
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Aula de Fundición Primaria y los Sótanos de Vínculo de Vhaldyr  

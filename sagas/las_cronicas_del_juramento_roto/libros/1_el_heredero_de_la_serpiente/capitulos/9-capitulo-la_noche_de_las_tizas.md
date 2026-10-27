@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 8: La noche de las tizas
+## Capítulo 9: La noche de las tizas
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* Los Dormitorios Comunes de la Casa de la Víbora y la Galería del Viento  

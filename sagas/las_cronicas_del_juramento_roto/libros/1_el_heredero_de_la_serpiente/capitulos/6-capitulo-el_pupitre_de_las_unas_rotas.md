@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 5: El pupitre de las uñas rotas
+## Capítulo 6: El pupitre de las uñas rotas
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Aula de Dialéctica de la Casa del Espejo y los Archivos Menores  

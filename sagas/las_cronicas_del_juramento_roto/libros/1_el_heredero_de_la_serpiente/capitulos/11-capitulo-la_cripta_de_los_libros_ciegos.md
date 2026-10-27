@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 10: La cripta de los libros ciegos
+## Capítulo 11: La cripta de los libros ciegos
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* Las Catacumbas Documentales bajo la Casa del Espejo  

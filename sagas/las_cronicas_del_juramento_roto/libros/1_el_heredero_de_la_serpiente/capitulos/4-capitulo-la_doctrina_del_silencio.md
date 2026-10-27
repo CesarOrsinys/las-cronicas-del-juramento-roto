@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 3: La doctrina del silencio
+## Capítulo 4: La doctrina del silencio
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Patio de las Cuatro Casas y el Claustro del Espejo  

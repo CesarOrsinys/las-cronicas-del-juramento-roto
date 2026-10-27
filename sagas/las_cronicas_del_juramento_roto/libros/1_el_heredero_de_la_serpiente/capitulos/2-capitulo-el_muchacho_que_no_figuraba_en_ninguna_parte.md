@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 1: El muchacho que no figuraba en ninguna parte
+## Capítulo 2: El muchacho que no figuraba en ninguna parte
 
 *Punto de vista:* Tercera persona limitada (focalizada estrictamente en el muchacho del sayo oscuro)  
 *Lugar:* La Garganta del Abismo, el arrabal de los curtidores, la Posada del Cuervo y el Atrio del Basalto de Vhaldyr  

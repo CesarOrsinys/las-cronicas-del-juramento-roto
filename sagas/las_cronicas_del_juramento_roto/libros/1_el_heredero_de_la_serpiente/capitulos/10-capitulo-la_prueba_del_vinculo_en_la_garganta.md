@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 9: La prueba del vínculo en la Garganta
+## Capítulo 10: La prueba del vínculo en la Garganta
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Puente de los Murmullos y las Plataformas de Vuelo sobre el Abismo  

@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 14: La verdad del estudiante sacrificado
+## Capítulo 15: La verdad del estudiante sacrificado
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* La Cámara de las Cadenas bajo el Pilar Maestro de Vhaldyr  

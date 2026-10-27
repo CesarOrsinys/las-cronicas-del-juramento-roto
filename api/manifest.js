@@ -53,9 +53,10 @@ module.exports = (req, res) => {
             let title = '';
             try {
               const text = fs.readFileSync(filePath, 'utf-8');
-              const firstHeading = text.split('\n').find(l => l.startsWith('# '));
+              const lines = text.split('\n');
+              const firstHeading = lines.find(l => /^#{1,3}\s+(Capítulo|Prólogo|PRÓLOGO|Epílogo)/i.test(l)) || lines.find(l => /^#+\s+/.test(l));
               if (firstHeading) {
-                title = firstHeading.replace('# ', '').trim();
+                title = firstHeading.replace(/^#+\s*/, '').trim();
               }
             } catch (e) {}
 

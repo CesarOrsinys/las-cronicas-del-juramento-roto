@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 7: La alianza de los desconfiados
+## Capítulo 8: La alianza de los desconfiados
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Jardín Botánico de los Alquimistas y la Galería de Cristal del Espejo  

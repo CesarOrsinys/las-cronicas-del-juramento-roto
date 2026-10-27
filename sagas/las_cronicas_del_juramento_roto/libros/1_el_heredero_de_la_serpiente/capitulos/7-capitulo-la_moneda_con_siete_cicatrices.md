@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 6: La moneda con siete cicatrices
+## Capítulo 7: La moneda con siete cicatrices
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* La Celda Catorce de la Torre Este y el adarve del murallón norte  

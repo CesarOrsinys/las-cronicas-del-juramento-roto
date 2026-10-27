@@ -1,5 +1,5 @@
 # Libro I: El heredero de la serpiente
-## Capítulo 11: El banquete de las cuatro lunas
+## Capítulo 12: El banquete de las cuatro lunas
 
 *Punto de vista:* Lucien Veyr (Tercera persona limitada)  
 *Lugar:* El Gran Salón de los Mármoles del Palacio de la Cancillería  
