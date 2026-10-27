@@ -9,6 +9,17 @@ const state = {
   // TTS State
   tts: {
     synth: window.speechSynthesis || null,
+    audioElement: new Audio(),
+    engine: 'neural', // 'neural' (Azure Edge Server) | 'local' (WebSpeech fallback)
+    neuralVoices: [
+      { id: 'es-ES-AlvaroNeural', name: '✨ Álvaro (España - Narrador Cálido)' },
+      { id: 'es-ES-RaquelNeural', name: '✨ Raquel (España - Narradora Expresiva)' },
+      { id: 'es-MX-DaliaNeural', name: '✨ Dalia (México - Suave y Melódica)' },
+      { id: 'es-MX-JorgeNeural', name: '✨ Jorge (México - Profundo)' },
+      { id: 'es-CO-GonzaloNeural', name: '✨ Gonzalo (Colombia - Neutro)' },
+      { id: 'es-AR-TomasNeural', name: '✨ Tomás (Argentina - Natural)' }
+    ],
+    selectedNeuralVoice: 'es-ES-AlvaroNeural',
     voices: [],
     selectedVoice: null,
     rate: 1.0,
@@ -459,74 +470,61 @@ function setupEventListeners() {
 }
 
 // ==========================================================================
-// Motor de Accesibilidad TTS (Web Speech API Nativa y Gratuita)
+// Motor TTS Híbrido: Azure Edge Neural (Servidor) + Fallback WebSpeech
 // ==========================================================================
 function initTts() {
-  if (!('speechSynthesis' in window)) {
-    if (elTtsPlayBtn) {
-      elTtsPlayBtn.style.display = 'none';
-    }
-    return;
-  }
-
-  loadVoices();
-  if (speechSynthesis.onvoiceschanged !== undefined) {
-    speechSynthesis.onvoiceschanged = loadVoices;
-  }
+  // Cargar catálogo de voces neuronales garantizadas de alta fidelidad
+  loadNeuralAndLocalVoices();
 }
 
-// Cargar catálogo de voces instaladas en el navegador/dispositivo
-function loadVoices() {
-  const allVoices = window.speechSynthesis.getVoices();
-  if (!allVoices || allVoices.length === 0) return;
-
-  state.tts.voices = allVoices;
-
-  // Filtrar o priorizar voces en español (es-ES, es-MX, es-419, etc.)
-  const spanishVoices = allVoices.filter(v => v.lang.toLowerCase().startsWith('es'));
-  const voicesPool = spanishVoices.length > 0 ? spanishVoices : allVoices;
-
-  // Función para calificar qué tan natural es una voz
-  const getNaturalScore = (voice) => {
-    const name = voice.name.toLowerCase();
-    let score = 0;
-    // Voces Neural / Natural de Edge y Windows (las de mayor realismo humano)
-    if (name.includes('natural') || name.includes('neural') || name.includes('online')) score += 100;
-    // Voces Google de Chrome en Android/PC (alta calidad)
-    if (name.includes('google')) score += 50;
-    // Voces Microsoft de escritorio modernas (Helena, Sabina, Álvaro, Jorge)
-    if (name.includes('microsoft')) score += 30;
-    // Si no es sintetizador sintético básico antiguo
-    if (!name.includes('desktop') && !name.includes('mobile')) score += 10;
-    return score;
-  };
-
-  // Ordenar de mayor a menor calidad/naturalidad
-  voicesPool.sort((a, b) => getNaturalScore(b) - getNaturalScore(a));
-
+function loadNeuralAndLocalVoices() {
   elTtsVoiceSelect.innerHTML = '';
-  voicesPool.forEach(v => {
-    const opt = document.createElement('option');
-    opt.value = v.voiceURI;
-    const isNatural = getNaturalScore(v) >= 30 ? '✨ ' : '';
-    opt.textContent = `${isNatural}${v.name} (${v.lang})`;
-    elTtsVoiceSelect.appendChild(opt);
-  });
 
-  // Elegir por defecto la voz de máxima calidad detectada
-  state.tts.selectedVoice = voicesPool[0];
-  if (state.tts.selectedVoice) {
-    elTtsVoiceSelect.value = state.tts.selectedVoice.voiceURI;
+  // 1. Añadir voces neuronales de Azure Edge (funcionan en cualquier móvil/navegador)
+  const groupNeural = document.createElement('optgroup');
+  groupNeural.label = '👑 Voces Neuronales Humanas (Streaming HD)';
+  state.tts.neuralVoices.forEach(v => {
+    const opt = document.createElement('option');
+    opt.value = `neural:${v.id}`;
+    opt.textContent = v.name;
+    groupNeural.appendChild(opt);
+  });
+  elTtsVoiceSelect.appendChild(groupNeural);
+
+  // 2. Añadir voces locales del dispositivo como alternativa
+  if ('speechSynthesis' in window) {
+    const allVoices = window.speechSynthesis.getVoices() || [];
+    const spanishVoices = allVoices.filter(v => v.lang.toLowerCase().startsWith('es'));
+    if (spanishVoices.length > 0) {
+      const groupLocal = document.createElement('optgroup');
+      groupLocal.label = '📱 Voces locales del navegador';
+      spanishVoices.forEach(v => {
+        const opt = document.createElement('option');
+        opt.value = `local:${v.voiceURI}`;
+        opt.textContent = `${v.name} (${v.lang})`;
+        groupLocal.appendChild(opt);
+      });
+      elTtsVoiceSelect.appendChild(groupLocal);
+    }
+
+    if (speechSynthesis.onvoiceschanged !== undefined) {
+      speechSynthesis.onvoiceschanged = () => {
+        // Refrescar lista manteniendo la selección actual
+        const currentVal = elTtsVoiceSelect.value;
+        loadNeuralAndLocalVoices();
+        if (currentVal) elTtsVoiceSelect.value = currentVal;
+      };
+    }
   }
+
+  // Por defecto: Álvaro Neural (Narrador literario de España)
+  elTtsVoiceSelect.value = 'neural:es-ES-AlvaroNeural';
+  state.tts.engine = 'neural';
+  state.tts.selectedNeuralVoice = 'es-ES-AlvaroNeural';
 }
 
 // Alternar reproducción / parada
 function toggleTts() {
-  if (!('speechSynthesis' in window)) {
-    alert('Tu navegador no soporta síntesis de voz (Web Speech API).');
-    return;
-  }
-
   if (state.tts.isPlaying) {
     stopTts();
   } else {
@@ -536,15 +534,13 @@ function toggleTts() {
 
 // Iniciar lectura secuencial desde el marcapáginas o primer párrafo visible
 function startTts() {
-  window.speechSynthesis.cancel();
+  stopTtsAudio();
 
-  // Obtener todos los párrafos de la historia
   const pElements = Array.from(elStoryBody.querySelectorAll('p'));
   if (pElements.length === 0) return;
 
   state.tts.paragraphs = pElements;
 
-  // Si existe un marcapáginas previo restaurado, arrancar desde ahí
   let startIndex = state.tts.currentParagraphIndex || 0;
   if (startIndex < 0 || startIndex >= pElements.length) {
     startIndex = 0;
@@ -562,7 +558,7 @@ function startTts() {
   speakParagraph(startIndex);
 }
 
-// Leer un párrafo específico y resaltar visualmente
+// Leer un párrafo específico usando Azure Neural TTS o Local
 function speakParagraph(index) {
   if (index >= state.tts.paragraphs.length) {
     stopTts();
@@ -570,7 +566,7 @@ function speakParagraph(index) {
     return;
   }
 
-  window.speechSynthesis.cancel();
+  stopTtsAudio();
 
   // Limpiar resaltados previos
   state.tts.paragraphs.forEach(p => p.classList.remove('tts-active-paragraph'));
@@ -578,30 +574,80 @@ function speakParagraph(index) {
   const pEl = state.tts.paragraphs[index];
   pEl.classList.add('tts-active-paragraph');
 
-  // Auto-scroll suave para personas con visión reducida
+  // Auto-scroll suave centrado en el párrafo leído
   pEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
 
   const textToRead = pEl.textContent.trim();
   if (!textToRead) {
-    // Si el párrafo está vacío, avanzar al siguiente
     speakParagraph(index + 1);
     return;
   }
 
   updateTtsStatus(`Leyendo párrafo ${index + 1} de ${state.tts.paragraphs.length}`);
 
-  // Preprocesar el texto para pausas literarias más naturales (puntos suspensivos, comas y guiones largos)
-  const cleanText = textToRead
-    .replace(/—\s*/g, ', ') // Convertir guiones de diálogo en pausas respiratorias
-    .replace(/\.{3}/g, '... ') // Pausa en puntos suspensivos
+  // Verificar si usamos el motor neuronal de streaming o el local
+  const voiceSelection = elTtsVoiceSelect ? elTtsVoiceSelect.value : 'neural:es-ES-AlvaroNeural';
+
+  if (voiceSelection.startsWith('neural:')) {
+    const voiceId = voiceSelection.replace('neural:', '');
+    speakWithNeuralServer(textToRead, voiceId, index);
+  } else {
+    const voiceURI = voiceSelection.replace('local:', '');
+    speakWithLocalSynth(textToRead, voiceURI, index);
+  }
+}
+
+// Reproducción con Azure Neural TTS (Audio MP3 streaming del servidor)
+function speakWithNeuralServer(text, voiceId, index) {
+  state.tts.engine = 'neural';
+  const audio = state.tts.audioElement;
+
+  // Modulación de velocidad
+  const rateParam = state.tts.rate;
+  const url = `/api/tts?voice=${encodeURIComponent(voiceId)}&rate=${encodeURIComponent(rateParam)}&text=${encodeURIComponent(text)}`;
+
+  audio.src = url;
+  audio.playbackRate = 1.0;
+
+  audio.onended = () => {
+    if (state.tts.isPlaying && !state.tts.isPaused) {
+      state.tts.currentParagraphIndex = index + 1;
+      speakParagraph(index + 1);
+    }
+  };
+
+  audio.onerror = (e) => {
+    console.warn('Error en streaming neuronal, recurriendo a voz local:', e);
+    // Fallback a síntesis local si falla la red
+    speakWithLocalSynth(text, null, index);
+  };
+
+  const playPromise = audio.play();
+  if (playPromise !== undefined) {
+    playPromise.catch(err => {
+      console.warn('Error iniciando audio neuronal:', err);
+    });
+  }
+}
+
+// Reproducción con WebSpeech local como respaldo
+function speakWithLocalSynth(text, voiceURI, index) {
+  state.tts.engine = 'local';
+  if (!('speechSynthesis' in window)) return;
+
+  const cleanText = text
+    .replace(/—\s*/g, ', ')
+    .replace(/\.{3}/g, '... ')
     .replace(/\s+/g, ' ');
 
   const utterance = new SpeechSynthesisUtterance(cleanText);
-  utterance.rate = state.tts.rate * 0.95; // Ligera modulación para evitar atropello robótico
-  utterance.pitch = 0.98; // Tono ligeramente más cálido y humano
-  utterance.lang = state.tts.selectedVoice ? state.tts.selectedVoice.lang : 'es-ES';
-  if (state.tts.selectedVoice) {
-    utterance.voice = state.tts.selectedVoice;
+  utterance.rate = state.tts.rate * 0.95;
+  utterance.pitch = 0.98;
+  utterance.lang = 'es-ES';
+
+  if (voiceURI) {
+    const v = (window.speechSynthesis.getVoices() || []).find(x => x.voiceURI === voiceURI);
+    if (v) utterance.voice = v;
   }
 
   utterance.onend = () => {
@@ -612,7 +658,6 @@ function speakParagraph(index) {
   };
 
   utterance.onerror = (e) => {
-    console.warn('TTS Utterance error:', e);
     if (state.tts.isPlaying && !state.tts.isPaused) {
       state.tts.currentParagraphIndex = index + 1;
       speakParagraph(index + 1);
@@ -629,14 +674,22 @@ function pauseResumeTts() {
 
   if (state.tts.isPaused) {
     // Reanudar
-    window.speechSynthesis.resume();
+    if (state.tts.engine === 'neural') {
+      state.tts.audioElement.play();
+    } else if ('speechSynthesis' in window) {
+      window.speechSynthesis.resume();
+    }
     state.tts.isPaused = false;
     elTtsPauseResumeBtn.textContent = '⏸️';
     elTtsPanel.classList.add('playing');
     updateTtsStatus(`Reanudando párrafo ${state.tts.currentParagraphIndex + 1}`);
   } else {
     // Pausar
-    window.speechSynthesis.pause();
+    if (state.tts.engine === 'neural') {
+      state.tts.audioElement.pause();
+    } else if ('speechSynthesis' in window) {
+      window.speechSynthesis.pause();
+    }
     state.tts.isPaused = true;
     elTtsPauseResumeBtn.textContent = '▶️';
     elTtsPanel.classList.remove('playing');
@@ -644,11 +697,20 @@ function pauseResumeTts() {
   }
 }
 
-// Detener por completo la síntesis de voz
-function stopTts() {
+// Detener audio
+function stopTtsAudio() {
+  if (state.tts.audioElement) {
+    state.tts.audioElement.pause();
+    state.tts.audioElement.removeAttribute('src');
+    state.tts.audioElement.load();
+  }
   if ('speechSynthesis' in window) {
     window.speechSynthesis.cancel();
   }
+}
+
+function stopTts() {
+  stopTtsAudio();
 
   state.tts.isPlaying = false;
   state.tts.isPaused = false;
@@ -658,19 +720,11 @@ function stopTts() {
     state.tts.paragraphs.forEach(p => p.classList.remove('tts-active-paragraph'));
   }
 
-  if (elTtsPanel) {
-    elTtsPanel.classList.remove('playing');
-  }
-  if (elTtsPlayBtn) {
-    elTtsPlayBtn.classList.remove('is-active');
-  }
-  if (elTtsBtnLabel) {
-    elTtsBtnLabel.textContent = 'Escuchar';
-  }
-  if (elTtsPauseResumeBtn) {
-    elTtsPauseResumeBtn.textContent = '⏸️';
-  }
-  updateTtsStatus('Listo para leer en voz alta');
+  if (elTtsPanel) elTtsPanel.classList.remove('playing');
+  if (elTtsPlayBtn) elTtsPlayBtn.classList.remove('is-active');
+  if (elTtsBtnLabel) elTtsBtnLabel.textContent = 'Escuchar';
+  if (elTtsPauseResumeBtn) elTtsPauseResumeBtn.textContent = '⏸️';
+  updateTtsStatus('Listo para leer con voz humana HD');
 }
 
 // Actualizar texto informativo de estado

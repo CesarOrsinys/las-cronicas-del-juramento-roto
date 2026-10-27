@@ -46,6 +46,21 @@ const server = http.createServer((req, res) => {
     }
   }
 
+  // Endpoint API para TTS Neuronal de Alta Fidelidad (Streaming MP3)
+  if (pathname === '/api/tts') {
+    const ttsHandler = require('../api/tts');
+    req.query = Object.fromEntries(urlObj.searchParams);
+    res.status = (code) => {
+      res.statusCode = code;
+      return res;
+    };
+    res.json = (data) => {
+      res.setHeader('Content-Type', 'application/json');
+      res.end(JSON.stringify(data));
+    };
+    return ttsHandler(req, res);
+  }
+
   // Archivos estáticos de la web
   let staticPath = path.join(__dirname, pathname === '/' ? 'index.html' : pathname);
   if (fs.existsSync(staticPath) && fs.statSync(staticPath).isFile()) {
