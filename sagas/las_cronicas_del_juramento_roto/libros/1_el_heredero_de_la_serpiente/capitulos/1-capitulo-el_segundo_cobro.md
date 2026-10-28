@@ -2,134 +2,108 @@
 
 La primera señal de que Edrath estaba perdida fue que los perros dejaron de reconocer a sus dueños.
 
-No ocurrió durante una batalla ni después de un incendio. Sucedió al amanecer, en una calle estrecha del barrio de los curtidores, cuando un carnicero abrió la puerta de su casa y encontró a su mastín sentado bajo la lluvia.
+No ocurrió durante un asedio ni tras el paso de una plaga. Sucedió al alba, en un callejón empinado del arrabal de los curtidores, cuando un carnicero empujó el postigo de su taller y encontró a su viejo mastín echado bajo una llovizna fría que apestaba a hollín.
 
-El animal llevaba nueve años durmiendo junto a su cama. Había aprendido a distinguir sus pasos entre los de cualquier otro hombre y siempre corría a recibirlo, incluso después de las noches en que el carnicero regresaba borracho y apenas podía mantenerse en pie.
+El animal llevaba nueve inviernos durmiendo junto a su fogón. Sabía distinguir el peso exacto de sus pasos entre la multitud del mercado y solía trotar a su encuentro incluso en las madrugadas en que el hombre regresaba tambaleándose por el aguardiente de enebro.
 
-Aquella mañana, el perro enseñó los dientes.
+Aquella mañana, el mastín enseñó los colmillos.
 
-El carnicero se detuvo en el umbral. El frío le mordía las manos, pero apenas lo notó. Miró al animal, desconcertado, esperando que reconociera su olor o el tono familiar de su voz.
+El carnicero se detuvo sobre el umbral embarrado. El aire helado le mordía los nudillos agrietados, pero no retrocedió. Miró los ojos turbios de la bestia, esperando que el olor a sebo o el silbido familiar con el que lo llamaba al despiece aplacaran aquel gruñido sordo.
 
-—Ven aquí —le ordenó el carnicero.
+—Ven aquí —le ordenó.
 
-El mastín no se movió.
+El perro no cedió una pulgada. El lomo erizado y los belfos tirantes dibujaban una máscara de hostilidad pura.
 
-El hombre intentó llamarlo por su nombre, pero no consiguió recordarlo. Abrió la boca y se quedó inmóvil. Conocía aquel sonido. Lo había pronunciado cientos, quizá miles de veces. Podía recordar el peso del animal contra sus piernas, el ruido de sus uñas sobre el suelo de madera y la costumbre de dejarle un trozo de carne junto al fogón.
+El hombre abrió la boca para gritar su nombre, pero la garganta se le secó de golpe. Conocía aquel nombre. Lo había voceado por las callejuelas cientos de veces, hasta desgarrarse la voz. Podía recordar el tacto áspero del pelaje en las noches de escarcha y el ruido de sus uñas arañando los tablones de pino.
 
-Pero el nombre había desaparecido.
+Sin embargo, el sonido exacto del nombre había desaparecido.
 
-—Vamos, muchacho —insistió el carnicero, extendiendo una mano temblorosa—. Soy yo.
+—Muchacho... soy yo —insistió, alargando una mano temblorosa hacia la lluvia.
 
-El perro gruñó.
+El animal soltó una dentellada al vacío que restalló como una trampa de hierro.
 
-La mujer del carnicero salió de la casa, envolviéndose en un chal. Tenía el cabello recogido de cualquier manera y el rostro hinchado por el sueño.
+La mujer del carnicero asomó a su espalda, envolviéndose en un mantón de lana burda, con el rostro abotargado por el sueño.
 
-—¿Qué ocurre? —preguntó la mujer.
+—¿Qué demonios ocurre ahí fuera?
 
-El carnicero no apartó la mirada del animal.
+—No me reconoce —murmuró él, sin apartar la vista de los colmillos—. No sé qué le pasa en los ojos.
 
-—No sé qué le pasa —respondió el carnicero—. No me reconoce.
+La mujer entornó los párpados hacia el animal empapado, con las orejas pegadas al cráneo y el vientre pegado al fango. Para ella no era más que una alimaña extraviada, uno de tantos perros cimarrones que bajaban de los mataderos buscando vísceras podridas.
 
-Su mujer observó al mastín con cautela. El animal estaba empapado, con el lomo oscuro por la lluvia y las orejas pegadas a la cabeza. Parecía un perro perdido, quizá uno de los muchos que rondaban los puestos del mercado.
+—Será de alguna recua de arrieros —dijo ella, tirándole de la manga con impaciencia—. Métete dentro antes de que te muerda. Hace demasiado frío para andar discutiendo con bestias ajenas.
 
-—Será de alguna granja —dijo ella—. Se habrá extraviado durante la noche.
+—Ha vivido aquí siempre —dijo el carnicero, pero la voz se le quebró.
 
-El carnicero giró lentamente la cabeza hacia su mujer.
+—¿Aquí? —repitió ella con sorna—. ¿Desde cuándo tenemos nosotros perro, pedazo de necio? Bastante nos cuesta pagar el tributo de la harina como para alimentar una boca sin provecho.
 
-—Siempre ha estado aquí.
+El hombre quiso contradecirla. Quiso recordarle la tarde en que el animal espantó a tres ladrones en el muelle de curtidos, la risa de ambos compartiendo un jarro de sidra sobre el mostrador, el rincón tibio donde el animal solía enroscarse cada noche.
 
-—¿Aquí? —preguntó ella.
+Pero mientras buscaba los recuerdos, los bordes de la memoria empezaron a disolverse como sal en agua hirviendo. El muelle parecía el recuerdo de otra vida; la risa no tenía rostro; el rincón junto al fogón solo era un rincón vacío.
 
-Él quiso responder. Quiso decirle que el animal dormía junto a su cama, que lo acompañaba al mercado, que una vez había ahuyentado a tres ladrones y que ambos habían reído durante días al recordar la escena.
+La mujer cerró la puerta de golpe, amortiguando el viento.
 
-Pero, mientras buscaba las palabras, las imágenes empezaron a perder sus bordes. La cama parecía pertenecer a otra casa. El mercado se le antojaba un lugar que había visitado con alguien, aunque no sabía con quién. Y el recuerdo de los ladrones se deshizo antes de que pudiera alcanzarlo.
+El carnicero permaneció unos instantes inmóvil sobre el umbral. Miró sus propios dedos encallecidos, miró al perro que continuaba gruñéndole desde el fango y, con un parpadeo lento, se dio la vuelta y entró en la casa.
 
-Su mujer miró al perro y luego a su marido.
+El animal montó guardia bajo el agua hasta el anochecer.
 
-—Métete dentro —dijo ella, con un estremecimiento—. Hace demasiado frío.
-
-La mujer cerró la puerta.
-
-El carnicero permaneció unos segundos en el umbral. Después se apartó del animal y entró en casa, convencido de que había encontrado un perro perdido y de que aquella mañana no tenía tiempo para ocuparse de él.
-
-El mastín permaneció allí hasta que cayó la noche.
-
-Al día siguiente, el carnicero había olvidado que alguna vez tuvo perro.
+A la mañana siguiente, el carnicero abrió el postigo y arrojó un cubo de agua sucia a la calle sin acordarse de que alguna vez hubo un perro esperando fuera.
 
 ***
 
-No fue el único.
+No fue un caso aislado. Fue una carcoma invisible.
 
-En los días siguientes, una anciana dejó de reconocer el rostro de su hermana. Un escribano descubrió que no recordaba el nombre de la calle en la que había vivido durante treinta años. Un niño señaló a su padre en mitad del mercado y preguntó a su madre por qué aquel desconocido los seguía.
+En las semanas posteriores, una anciana en el barrio del mercado se detuvo ante el rostro de su propia hermana con la cortesía distante y cautelosa que se reserva a un forastero. Un escribano del concejo descubrió que no recordaba el nombre del callejón donde había vivido cuarenta años. En la plaza mayor, un muchacho señaló a su padre entre la multitud y le preguntó a su madre por qué aquel desconocido los seguía a todas partes.
 
-Al principio, la gente encontró explicaciones.
+Al principio, la ciudad buscó refugio en las excusas de siempre.
 
-El cansancio. La edad. La fiebre. El vino. Las malas cosechas.
+La edad de los viejos. El vino adulterado de las tabernas bajas. La fiebre del barro. El cansancio de los talleres.
 
-Siempre había una razón sencilla para una desgracia, siempre que uno no mirara demasiado de cerca.
+La desgracia siempre admitía una explicación sensata, siempre que nadie se detuviera a hilar los cabos sueltos.
 
-Pero pronto los olvidos empezaron a dejar rastros.
+Pero el olvido no se conformó con carcomer los hogares; empezó a dejar cicatrices a la vista de todos.
 
-En algunas casas aparecieron marcas de tiza junto a los marcos de las puertas: nombres, fechas, pequeñas frases escritas con una letra temblorosa. *Esta es tu casa.* *La mujer del cuarto es tu esposa.* *No abras la puerta a nadie que diga conocerte.*
+En las jambas de roble de muchas casas aparecieron marcas de tiza blanquecina: nombres propios, fechas borrosas, avisos trazados con caligrafía temblorosa en mitad de la noche. *Esta es tu puerta.* *La mujer ciega es tu madre.* *No abras a nadie que jure conocerte de niño.*
 
-Nadie admitía haber escrito aquellas advertencias.
+Nadie reconocía haber tomado la tiza.
 
-Algunos las borraban al descubrirlas y volvían a encontrarlas al día siguiente. Otros llenaban las paredes de palabras, temiendo que la memoria se les escapara mientras dormían. En los mercados, los comerciantes ataban etiquetas a sus mercancías para recordar qué vendían. En las tabernas, los hombres se escribían los nombres en las muñecas antes de beber.
+Algunos borraban las letras con un trapo húmedo al amanecer, solo para encontrarlas reescritas al día siguiente con trazos más profundos y desesperados. Los buhoneros empezaron a colgar etiquetas de hojalata a sus mercancías para no dudar del precio. En las tabernas más oscuras, los peones se grababan iniciales con la punta de una navaja en el dorso de la mano antes de vaciar la primera jarra.
 
-Y, aun así, había cosas que desaparecían sin dejar rastro.
+Y aun así, las cosas se desvanecían.
 
-Un matrimonio podía despertarse y contemplar a la persona que dormía a su lado con la cortesía distante que se reserva a un huésped. Un soldado podía mirar su espada y no comprender por qué le temblaban las manos. Una madre podía encontrar una cuna vacía en una habitación y sentir una tristeza insoportable sin recordar qué había perdido.
+Un soldado veterano podía desenfundar su espada y contemplar el acero forjado con un espanto mudo, incapaz de comprender por qué sus manos sabían cómo matar. Una madre podía entrar en una alcoba vacía, arrodillarse junto a una cuna de mimbre y llorar con un dolor desgarrador sin saber el nombre de lo que había perdido.
 
-Edrath seguía en pie. Las campanas continuaban sonando y los comerciantes abrían sus puestos. Los guardias vigilaban las murallas. Los niños corrían por las calles.
+Edrath aparentaba seguir en pie. Las campanas de bronce marcaban las horas del templo, las carretas de grano cruzaban los puentes y los guardias cobraban el portazgo con la misma avaricia de siempre.
 
-Pero bajo aquella apariencia de normalidad, algo se estaba desprendiendo del mundo.
+Pero bajo la superficie, el tejido del mundo se estaba deshilachando por las costuras. En los archivos de la cancillería, los nombres de linajes enteros aparecían en blanco, como si la tinta se hubiera evaporado dejando solo el papel raspado. Y en las callejuelas más antiguas, los ancianos despertaban empapados en sudor, con el pulso desbocado tras soñar con una puerta negra hundida bajo tierra.
 
-En el barrio antiguo, un sacerdote encontró un nombre borrado de todas las páginas de un libro. En la torre de los escribanos, una mujer descubrió que los registros de una familia entera habían quedado en blanco. En las casas más viejas, algunos habitantes comenzaron a soñar con una puerta negra bajo tierra.
+Despertaban sin recordar la puerta.
 
-Despertaban sin recordar el sueño.
-
-Solo conservaban una sensación: la certeza de que algo los había estado esperando al otro lado.
+Solo les quedaba un peso gélido en las entrañas: la certidumbre de que aquello que los esperaba al otro lado ya se había cansado de esperar.
 
 ***
 
-Cuatro siglos después del pacto, bajo los cimientos de la academia de Vhaldyr, la piedra se agrietó.
+Dieciséis inviernos atrás, a muchas leguas al sur, bajo las raíces de basalto de la ciudadela de Vhaldyr, la piedra viva había crujido por primera vez.
 
-No hubo terremoto. Ninguna tormenta sacudió las torres, y ningún obrero oyó crujir los cimientos. La grieta apareció en una pared olvidada de las galerías inferiores, allí donde el polvo llevaba generaciones acumulándose y las lámparas se habían consumido mucho antes de que nacieran los actuales maestros.
+No fue un cataclismo. No temblaron las torres de los señores ni los albañiles que reparaban las murallas oyeron quebrarse los sillares. Ocurrió en la penumbra de las galerías más profundas, donde el agua de las simas gotea en la oscuridad y el aire arrastra el hedor a salmuera fósil y azufre dormido.
 
-Era una fisura estrecha, apenas visible entre las vetas oscuras de la roca.
+Una fisura fina como un cabello había rasgado la roca.
 
-Al principio no ocurrió nada.
+Aquel mismo invierno, en una choza olvidada de las estribaciones norteñas, una mujer que huía de las purgas de la Torre dio a luz a un niño antes de que la fiebre se la llevara. Su nombre no figuró en ningún registro parroquial. Ningún heraldo proclamó su cuna ni hubo un solo diezmo asignado a su sustento. En las cuentas de los escribanos del reino, aquel recién nacido era una vida inexistente, una pieza suelta que desafiaba el orden sellado cuatro siglos atrás.
 
-Después, desde el otro lado de la piedra, llegó un sonido.
+La oscuridad sepultada tras la fisura había aguardado dieciséis años a que esa vida creciera.
 
-No era un golpe. Tampoco un susurro. Se parecía al suspiro de alguien que hubiera esperado durante mucho tiempo y acabara de descubrir que la espera había terminado.
+Ahora, mientras en las calles de Edrath los hombres se borraban los nombres de las muñecas, en las entrañas de Vhaldyr la hendidura del basalto cedió otros tres dedos con un chasquido sordo.
 
-La grieta se extendió unos centímetros.
+Desde el fondo insondable del abismo brotó un murmullo de aire viciado, parecido al aliento de una boca colosal que vuelve a abrirse tras cuatrocientos años de letargo.
 
-En algún lugar de la academia, un niño acababa de nacer.
+Una sola palabra reverberó entre las sombras de la piedra:
 
-No hubo campanas que anunciaran su llegada. Ningún registro esperaba su nombre, ninguna familia había sido inscrita para recibirlo. Su existencia no encajaba en las cuentas del mundo. Era una vida que no debía estar allí, una pieza aparecida en un lugar donde todas las piezas habían sido contadas.
+—Vuelve.
 
-Y, sin embargo, respiraba.
+Muy arriba, en la superficie, el viento helado barría los caminos de herradura que conducían a la garganta.
 
-Bajo la academia, la piedra volvió a crujir.
+Nadie en las murallas escuchó gemir la montaña.
 
-La oscuridad que aguardaba detrás de la grieta se movió por primera vez en cuatrocientos años.
+Nadie se acordaba del juramento que había comprado la paz del reino.
 
-Entonces, una voz atravesó la roca.
-
-Esta vez no habló dentro de la mente de siete desconocidos. No necesitó una promesa ni exigió un sacrificio.
-
-Pronunció una sola frase.
-
-—Por fin.
-
-La grieta se abrió un poco más.
-
-Muy por encima de ella, Edrath continuó con su vida. Los mercaderes discutieron sus precios, los estudiantes llegaron tarde a sus lecciones y las campanas marcaron las horas como habían hecho durante siglos.
-
-Nadie oyó el sonido de la piedra al partirse.
-
-Nadie recordó la puerta.
-
-Y nadie comprendió que el precio del olvido acababa de empezar a cobrarse de nuevo.
+Y ninguno de los guardias apostados en el rastrillo sospechaba que el muchacho que en ese instante bajaba del coche de línea, con un hatillo de lona al hombro y el pliego sellado en plata pegado a las costillas, traía consigo el precio que Edrath se había negado a pagar.
