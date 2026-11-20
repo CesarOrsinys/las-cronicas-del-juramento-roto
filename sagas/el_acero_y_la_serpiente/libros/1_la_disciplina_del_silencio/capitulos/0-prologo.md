@@ -25,15 +25,15 @@ Lily observó al pequeño tropezar con un cojín y sentarse de golpe en la alfom
 
 —Las buenas noticias nunca viajan con prisa —repuso James con un tono ligero, pasando un brazo protector alrededor de su cintura y acercándola a su costado—. Si algo hubiera ido mal en la asamblea de la Orden o en Londres, nos habríamos enterado. Sirius habría encontrado el modo de avisarnos, aunque tuviera que mandar tres lechuzas o presentarse él mismo haciendo ruido.
 
-—Sirius no puede venir, James. Quedamos en eso.
+—Sirius no puede venir, James. Quedamos en eso. Y Remus lleva semanas incomunicado en las colonias del norte intentando ganar terreno para la Orden. Ni siquiera sabemos si le llegaron nuestras cartas.
 
-—Lo sé, lo sé. Pero me refiero a que si hubiera peligro real, ya lo sabríamos. Todo marcha según lo planeado. Peter está en su refugio, el encantamiento *Fidelius* es una fortaleza invisible y nosotros tres estamos a salvo aquí dentro. En unas semanas, cuando la presión en el norte baje, Dumbledore revisará el cerco y podremos salir al jardín a que Harry vea la nieve.
+—Remus sabe cuidarse solo, Lily. Conoce las sombras mejor que cualquiera de nosotros. Y todo esto marcha según lo planeado: Peter está en su refugio, el encantamiento *Fidelius* es una fortaleza invisible y nosotros tres estamos a salvo aquí dentro. En unas semanas, cuando la presión baje y la Orden rompa el cerco, Dumbledore nos dará vía libre y podremos salir al jardín a que Harry vea la nieve.
 
 Lily asintió despacio y apoyó la cabeza en el hombro de James, respirando el aroma conocido a jabón y a lana limpia. Quería creerle con todas sus fuerzas. Quería convencerse de que esa taza de té caliente, el fuego crepitando mansamente en la rejilla y las risas de su hijo eran una muralla suficiente para mantener al margen el horror que devoraba el resto del país.
 
-—Tienes razón —murmuró ella, obligándose a aflojar la tensión de los hombros—. Estoy nerviosa sin motivo. Es solo… esta fecha. El año pasado por Samhain estábamos cenando con los muchachos en el Caldero Chorreante. Se me hace extraño estar encerrados mientras los demás celebran afuera.
+—Tienes razón —murmuró ella, obligándose a aflojar la tensión de los hombros—. Estoy nerviosa sin motivo. Es solo… esta fecha. El año pasado por Samhain estábamos cenando con los muchachos en el Caldero Chorreante. Remus discutiendo de libros con Marlene, Sirius intentando encantar las jarras de cerveza y Peter riéndose detrás de la servilleta. Se me hace extraño estar encerrados mientras los demás resisten afuera.
 
-—El año que viene lo celebraremos el doble —prometió él, dándole un beso suave en la coronilla—. Ya lo verás. Tú, yo, Canuto tirando rollos de papel por el techo y Peter quejándose del desorden. Te doy mi palabra de que todo esto va a pasar.
+—El año que viene lo celebraremos el doble —prometió él, dándole un beso suave en la coronilla—. Ya lo verás. Tú, yo, Canuto tirando rollos de papel por el techo, Remus quejándose de la resaca y Peter buscando las migajas del pastel. Te doy mi palabra de que todo esto va a pasar.
 
 Permanecieron un instante en silencio, mecidos por la falsa sensación de paz que ambos se empeñaban en construir para proteger al niño y protegerse a sí mismos del peso de la guerra.
 
