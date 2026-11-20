@@ -3,87 +3,124 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lector de Sagas Literarias</title>
+  <title>Lector Editorial — Sagas Literarias</title>
+  
+  <!-- Tipografía Editorial y Escénica -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700;800;900&family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  
   <link rel="stylesheet" href="/css/style.css">
 </head>
-<body>
+<body class="theme-dark">
 
-  <!-- Barra superior de lectura Wattpad -->
+  <!-- Fondo ambiental con gradiente cinemático sutil -->
+  <div class="ambient-glow" aria-hidden="true"></div>
+
+  <!-- Barra superior de lectura editorial -->
   <header class="reader-header">
     <div class="brand-section">
-      <div class="brand-logo">W</div>
-      <span class="brand-title">SagaReader</span>
+      <div class="brand-emblem" aria-hidden="true">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"></path>
+          <path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"></path>
+          <path d="M8 7h8"></path>
+          <path d="M8 11h6"></path>
+        </svg>
+      </div>
+      <div class="brand-text-wrap">
+        <span class="brand-title">Atelier</span>
+        <span class="brand-subtitle">Edición Literaria</span>
+      </div>
     </div>
 
     <!-- Selectores en Cascada: Saga -> Libro -> Capítulo -->
     <div class="selector-cascade">
       <div id="sagaWrap" class="custom-select-wrap" title="Seleccionar Saga">
+        <span class="select-label-micro">SAGA</span>
         <select id="sagaSelect" aria-label="Seleccionar Saga"></select>
       </div>
 
       <div id="bookWrap" class="custom-select-wrap" title="Seleccionar Libro">
+        <span class="select-label-micro">VOLUMEN</span>
         <select id="bookSelect" aria-label="Seleccionar Libro"></select>
       </div>
 
       <div id="chapterWrap" class="custom-select-wrap chapter-select-wrap" title="Seleccionar Capítulo">
+        <span class="select-label-micro">CRÓNICA</span>
         <select id="chapterSelect" aria-label="Seleccionar Capítulo"></select>
       </div>
     </div>
 
-    <!-- Controles de tipografía, accesibilidad TTS y tema visual -->
+    <!-- Controles de tipografía, voz y atmósfera -->
     <div id="readerControls" class="reader-controls">
-      <button id="ttsPlayBtn" class="ctrl-btn tts-btn" title="Escuchar capítulo en voz alta (Texto a Voz)">
-        <span class="tts-icon">🔊</span> <span id="ttsBtnLabel">Escuchar</span>
+      <button id="ttsPlayBtn" class="ctrl-btn tts-btn" title="Narración de voz natural (Edge Neural TTS)">
+        <span class="tts-icon">
+          <svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"></polygon>
+            <path d="M15.54 8.46a5 5 0 0 1 0 7.07"></path>
+            <path d="M19.07 4.93a10 10 0 0 1 0 14.14"></path>
+          </svg>
+        </span>
+        <span id="ttsBtnLabel">Narrar</span>
       </button>
-      <button id="zoomOutBtn" class="ctrl-btn" title="Reducir fuente">A-</button>
-      <button id="zoomInBtn" class="ctrl-btn" title="Aumentar fuente">A+</button>
-      <button id="themeBtn" class="ctrl-btn" title="Cambiar tema (Oscuro/Sepia/Claro)">🌓 Tema</button>
+
+      <div class="font-zoom-group">
+        <button id="zoomOutBtn" class="ctrl-btn micro-btn" title="Reducir tamaño de letra" aria-label="Reducir fuente">A−</button>
+        <button id="zoomInBtn" class="ctrl-btn micro-btn" title="Aumentar tamaño de letra" aria-label="Aumentar fuente">A+</button>
+      </div>
+
+      <button id="themeBtn" class="ctrl-btn theme-toggle-btn" title="Alternar atmósfera (Noche / Pergamino / Albura)">
+        <span class="theme-icon">◐</span>
+        <span class="theme-label">Atmósfera</span>
+      </button>
     </div>
 
-    <!-- Botón flotante a la derecha para colapsar/expandir en modo scroll -->
-    <button id="headerCollapseBtn" class="header-collapse-btn" title="Mostrar/Ocultar controles de lectura" aria-label="Mostrar u ocultar controles">
+    <!-- Botón para colapsar/expandir en modo scroll -->
+    <button id="headerCollapseBtn" class="header-collapse-btn" title="Expandir/ocultar barra de control" aria-label="Expandir u ocultar controles">
       <span class="collapse-icon">▾</span>
     </button>
   </header>
 
-  <!-- Barra flotante de control de Audio/TTS -->
-  <aside id="ttsPanel" class="tts-panel" aria-label="Controles de audio y voz" hidden>
+  <!-- Barra flotante de control de Audio/TTS Neuronal -->
+  <aside id="ttsPanel" class="tts-panel" aria-label="Consola de narración" hidden>
     <div class="tts-panel-content">
       <div class="tts-status">
         <span class="tts-wave-anim">
           <span></span><span></span><span></span><span></span>
         </span>
-        <span id="ttsStatusText">Listo para leer en voz alta</span>
+        <span id="ttsStatusText">Consola de narración lista</span>
       </div>
 
       <div class="tts-actions">
-        <button id="ttsPauseResumeBtn" class="tts-sub-btn" title="Pausar / Reanudar">⏸️</button>
-        <button id="ttsStopBtn" class="tts-sub-btn" title="Detener audio">⏹️</button>
+        <button id="ttsPauseResumeBtn" class="tts-sub-btn" title="Pausar / Reanudar">
+          <span class="btn-symbol">⏸</span>
+        </button>
+        <button id="ttsStopBtn" class="tts-sub-btn" title="Detener narración">
+          <span class="btn-symbol">⏹</span>
+        </button>
         
         <div class="tts-setting">
-          <label for="ttsRateSelect">Vel:</label>
+          <label for="ttsRateSelect">Ritmo</label>
           <select id="ttsRateSelect">
-            <option value="0.8">0.8x</option>
-            <option value="1" selected>1.0x</option>
-            <option value="1.2">1.2x</option>
-            <option value="1.5">1.5x</option>
+            <option value="0.8">0.8× Calmo</option>
+            <option value="1" selected>1.0× Natural</option>
+            <option value="1.2">1.2× Fluido</option>
+            <option value="1.5">1.5× Ágil</option>
           </select>
         </div>
 
-        <div class="tts-setting">
-          <label for="ttsVoiceSelect">Voz:</label>
+        <div class="tts-setting voice-setting">
+          <label for="ttsVoiceSelect">Intérprete</label>
           <select id="ttsVoiceSelect" class="tts-voice-select"></select>
         </div>
 
-        <button id="ttsCloseBtn" class="tts-close-btn" title="Ocultar barra de voz">✕</button>
+        <button id="ttsCloseBtn" class="tts-close-btn" title="Cerrar panel de narración">✕</button>
       </div>
     </div>
   </aside>
 
-  <!-- Indicador visual de progreso según desplazamiento -->
+  <!-- Indicador visual sutil de progreso de lectura -->
   <div class="progress-bar-container">
     <div id="readingProgress" class="reading-progress"></div>
   </div>
@@ -92,10 +129,16 @@
   <main class="reader-stage">
     <article class="story-container">
       
-      <!-- Metadatos superiores -->
+      <!-- Ornamento superior clásico -->
+      <div class="story-flourish-top" aria-hidden="true">
+        <span>❧</span>
+      </div>
+
+      <!-- Metadatos superiores del capítulo -->
       <header class="chapter-meta">
         <span id="chapterBadge" class="badge-tag">Saga</span>
-        <h1 id="chapterTitle" class="chapter-headline">Cargando...</h1>
+        <h1 id="chapterTitle" class="chapter-headline">Cargando crónica...</h1>
+        <div class="meta-separator-line"></div>
         <div id="readingTime" class="reading-time-est">Calculando tiempo de lectura...</div>
       </header>
 
@@ -104,16 +147,24 @@
         <!-- Renderizado dinámico de la prosa -->
       </section>
 
-      <!-- Botones de cambio de capítulo estilo Wattpad -->
-      <nav class="navigation-bar" aria-label="Navegación entre capítulos">
+      <!-- Ornamento de cierre de capítulo -->
+      <div class="story-flourish-bottom" aria-hidden="true">
+        <span class="f-leaf">❦</span>
+      </div>
+
+      <!-- Barra de navegación editorial entre crónicas -->
+      <nav class="navigation-bar" aria-label="Navegación de capítulos">
         <button id="prevChapterBtn" class="nav-arrow-btn" disabled>
-          <span>←</span> Anterior
+          <span class="arrow-char">←</span> Crónica Anterior
         </button>
 
-        <span id="chapterCounter" class="chapter-counter-pill">Capítulo</span>
+        <div class="chapter-counter-pill">
+          <span class="pill-dot"></span>
+          <span id="chapterCounter">Capítulo</span>
+        </div>
 
         <button id="nextChapterBtn" class="nav-arrow-btn">
-          Siguiente <span>→</span>
+          Siguiente Crónica <span class="arrow-char">→</span>
         </button>
       </nav>
 

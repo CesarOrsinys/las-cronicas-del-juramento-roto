@@ -1,147 +1,382 @@
-/* Reset y variables de diseño Wattpad Premium */
+/* ==========================================================================
+   ATELIER EDITORIAL — LECTOR DE SAGAS Y CRÓNICAS LITERARIAS
+   Diseño de alta fidelidad: Lirismo estético, tipografía de imprenta y pulcritud
+   ========================================================================== */
+
 :root {
-  --bg-primary: #0f1015;
-  --bg-secondary: #171821;
-  --bg-surface: #1e202e;
-  --bg-elevated: #26293b;
-  --text-main: #e2e8f0;
-  --text-muted: #94a3b8;
-  --text-dim: #64748b;
-  --accent-orange: #ff6122; /* Clásico Wattpad naranja vivo */
-  --accent-hover: #ff773d;
-  --accent-glow: rgba(255, 97, 34, 0.25);
-  --border-color: rgba(255, 255, 255, 0.08);
-  --font-serif: 'Lora', 'Merriweather', Georgia, serif;
-  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-  --reading-width: 740px;
+  /* Paleta Nocturna (Dark / Obsidian & Burnished Gold) */
+  --bg-primary: #0a0b0e;
+  --bg-secondary: rgba(14, 16, 22, 0.88);
+  --bg-surface: #131620;
+  --bg-elevated: #1a1e2b;
+  --bg-input: #10131c;
+  
+  --text-main: #e6e4df;
+  --text-prose: #d8d5ce;
+  --text-muted: #8e95a5;
+  --text-dim: #5c6475;
+  
+  --accent-gold: #d4af37;
+  --accent-gold-soft: #c5a059;
+  --accent-gold-glow: rgba(212, 175, 55, 0.22);
+  --accent-gold-subtle: rgba(212, 175, 55, 0.08);
+
+  --border-color: rgba(255, 255, 255, 0.07);
+  --border-focus: rgba(212, 175, 55, 0.45);
+  
+  --font-editorial: 'Cormorant Garamond', 'EB Garamond', Georgia, serif;
+  --font-display: 'Cinzel', serif;
+  --font-ui: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  
+  --reading-width: 760px;
+  --header-height: 64px;
 }
 
-/* Modos de lectura */
+/* Atmósfera Sepia / Pergamino Antiguo */
 body.theme-sepia {
-  --bg-primary: #f4ecd8;
-  --bg-secondary: #ebdcb9;
-  --bg-surface: #dfceaa;
-  --text-main: #3d3224;
-  --text-muted: #6e5c46;
-  --text-dim: #8c785f;
-  --border-color: rgba(0, 0, 0, 0.08);
-  --accent-orange: #b84c17;
-  --accent-glow: rgba(184, 76, 23, 0.2);
+  --bg-primary: #f6efe2;
+  --bg-secondary: rgba(240, 230, 214, 0.92);
+  --bg-surface: #ede2cf;
+  --bg-elevated: #e3d5be;
+  --bg-input: #fbf7f0;
+  
+  --text-main: #2d261e;
+  --text-prose: #2f271f;
+  --text-muted: #6f6252;
+  --text-dim: #948573;
+  
+  --accent-gold: #966120;
+  --accent-gold-soft: #855318;
+  --accent-gold-glow: rgba(150, 97, 32, 0.2);
+  --accent-gold-subtle: rgba(150, 97, 32, 0.07);
+  
+  --border-color: rgba(60, 40, 20, 0.12);
+  --border-focus: rgba(150, 97, 32, 0.45);
 }
 
+/* Atmósfera Albura / Luz de Estudio */
 body.theme-light {
-  --bg-primary: #ffffff;
-  --bg-secondary: #f8fafc;
-  --bg-surface: #f1f5f9;
-  --text-main: #1e293b;
-  --text-muted: #475569;
-  --text-dim: #94a3b8;
+  --bg-primary: #faf9f6;
+  --bg-secondary: rgba(255, 255, 255, 0.92);
+  --bg-surface: #f1efe9;
+  --bg-elevated: #e6e3da;
+  --bg-input: #ffffff;
+  
+  --text-main: #18191d;
+  --text-prose: #1e2025;
+  --text-muted: #5c6270;
+  --text-dim: #8b92a2;
+  
+  --accent-gold: #b3882a;
+  --accent-gold-soft: #9c731e;
+  --accent-gold-glow: rgba(179, 136, 42, 0.2);
+  --accent-gold-subtle: rgba(179, 136, 42, 0.08);
+  
   --border-color: rgba(0, 0, 0, 0.08);
-  --accent-orange: #ff5400;
-  --accent-glow: rgba(255, 84, 0, 0.2);
+  --border-focus: rgba(179, 136, 42, 0.45);
 }
 
-* {
+/* Reseteo estructural */
+*, *::before, *::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-color: var(--bg-primary);
   color: var(--text-main);
-  font-family: var(--font-sans);
+  font-family: var(--font-ui);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   overflow-x: hidden;
-  transition: background-color 0.3s ease, color 0.3s ease;
+  transition: background-color 0.4s cubic-bezier(0.16, 1, 0.3, 1), color 0.4s ease;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* Barra superior de lectura */
+/* Brillo ambiental cinemático de fondo */
+.ambient-glow {
+  position: fixed;
+  top: -150px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 900px;
+  height: 400px;
+  background: radial-gradient(ellipse at center, var(--accent-gold-subtle), transparent 70%);
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.8;
+}
+
+/* ==========================================================================
+   Header Superior Flotante y Editorial
+   ========================================================================== */
 .reader-header {
   position: sticky;
   top: 0;
   z-index: 100;
   background: var(--bg-secondary);
   border-bottom: 1px solid var(--border-color);
-  backdrop-filter: blur(12px);
-  padding: 0.75rem 1.5rem;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  padding: 0.65rem 2rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-  transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
-  position: sticky;
+  gap: 1.5rem;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  min-height: var(--header-height);
 }
 
-/* Modo Compacto al hacer Scroll hacia abajo */
 .reader-header.is-compact {
-  padding: 0.35rem 1.25rem;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-  background: rgba(18, 18, 20, 0.95);
+  padding: 0.35rem 1.5rem;
+  min-height: 52px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+  background: var(--bg-secondary);
 }
 
+/* Logotipo / Marca */
 .brand-section {
   display: flex;
   align-items: center;
-  gap: 0.8rem;
-  font-weight: 700;
-  font-size: 1.15rem;
-  transition: all 0.3s ease;
+  gap: 0.85rem;
+  user-select: none;
+  cursor: default;
 }
 
-.brand-logo {
-  background: linear-gradient(135deg, var(--accent-orange), #ff9800);
-  color: white;
-  width: 34px;
-  height: 34px;
+.brand-emblem {
+  width: 36px;
+  height: 36px;
   border-radius: 8px;
+  background: linear-gradient(135deg, var(--bg-elevated), var(--bg-surface));
+  border: 1px solid var(--border-color);
+  color: var(--accent-gold);
   display: flex;
   align-items: center;
   justify-content: center;
-  font-weight: 900;
-  box-shadow: 0 2px 10px var(--accent-glow);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2), inset 0 1px 0 rgba(255, 255, 255, 0.05);
   transition: all 0.3s ease;
 }
 
-.brand-title {
-  letter-spacing: -0.02em;
-  transition: opacity 0.2s ease, width 0.2s ease;
+.brand-section:hover .brand-emblem {
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 16px var(--accent-gold-glow);
+  transform: translateY(-1px);
 }
 
-/* En modo compacto se oculta el texto del logo dejando solo el icono */
-.reader-header.is-compact .brand-title {
+.brand-text-wrap {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 1.05rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+}
+
+.brand-subtitle {
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+  text-transform: uppercase;
+}
+
+.reader-header.is-compact .brand-text-wrap {
   display: none;
 }
 
-/* En modo compacto se ocultan los selectores de Saga y Libro */
+/* Selectores en cascada con microetiquetas de lujo */
+.selector-cascade {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex: 1;
+  max-width: 780px;
+  justify-content: center;
+}
+
+.custom-select-wrap {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.select-label-micro {
+  position: absolute;
+  top: -6px;
+  left: 10px;
+  background: var(--bg-surface);
+  color: var(--accent-gold-soft);
+  font-size: 0.58rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  padding: 0 4px;
+  border-radius: 3px;
+  z-index: 2;
+  pointer-events: none;
+  border: 1px solid var(--border-color);
+}
+
+.custom-select-wrap select {
+  appearance: none;
+  background: var(--bg-input);
+  color: var(--text-main);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  padding: 0.5rem 2.2rem 0.5rem 0.95rem;
+  font-size: 0.84rem;
+  font-family: var(--font-ui);
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.25s ease;
+  max-width: 250px;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+.custom-select-wrap select:hover {
+  border-color: var(--border-focus);
+}
+
+.custom-select-wrap select:focus {
+  border-color: var(--accent-gold);
+  box-shadow: 0 0 0 2px var(--accent-gold-glow);
+}
+
+.custom-select-wrap::after {
+  content: "";
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 0;
+  height: 0;
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-top: 5px solid var(--text-muted);
+  pointer-events: none;
+  transition: transform 0.2s ease;
+}
+
+.custom-select-wrap:hover::after {
+  border-top-color: var(--accent-gold);
+}
+
 .reader-header.is-compact #sagaWrap,
 .reader-header.is-compact #bookWrap {
   display: none !important;
 }
 
 .reader-header.is-compact .chapter-select-wrap select {
-  padding: 0.35rem 1.8rem 0.35rem 0.75rem;
-  font-size: 0.84rem;
-  max-width: 240px;
+  padding: 0.38rem 2rem 0.38rem 0.8rem;
+  font-size: 0.82rem;
+  max-width: 280px;
 }
 
-/* Botón de Colapso (solo visible cuando el header está en modo compacto) */
+/* Controles de lectura (TTS, Zoom, Atmósfera) */
+.reader-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.ctrl-btn {
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  color: var(--text-main);
+  padding: 0.45rem 0.8rem;
+  border-radius: 8px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  font-family: var(--font-ui);
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  transition: all 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.ctrl-btn:hover {
+  background: var(--bg-elevated);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  transform: translateY(-1px);
+}
+
+.ctrl-btn:active {
+  transform: translateY(0);
+}
+
+.tts-btn {
+  background: linear-gradient(135deg, rgba(212, 175, 55, 0.12), rgba(212, 175, 55, 0.04));
+  border-color: var(--border-focus);
+  color: var(--accent-gold);
+}
+
+.tts-btn:hover {
+  background: var(--accent-gold);
+  color: #0a0b0e;
+  border-color: var(--accent-gold);
+  box-shadow: 0 4px 14px var(--accent-gold-glow);
+}
+
+.font-zoom-group {
+  display: flex;
+  background: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.micro-btn {
+  border: none;
+  background: transparent;
+  padding: 0.45rem 0.65rem;
+  font-size: 0.8rem;
+  border-radius: 0;
+}
+
+.micro-btn:first-child {
+  border-right: 1px solid var(--border-color);
+}
+
+.micro-btn:hover {
+  background: var(--bg-elevated);
+}
+
+.theme-toggle-btn .theme-icon {
+  font-size: 0.95rem;
+  color: var(--accent-gold);
+}
+
+/* Botón colapsar / expandir en modo scroll */
 .header-collapse-btn {
   display: none;
   background: var(--bg-surface);
   border: 1px solid var(--border-color);
-  color: var(--accent-orange);
-  width: 30px;
-  height: 30px;
-  border-radius: 6px;
+  color: var(--accent-gold);
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
   cursor: pointer;
   align-items: center;
   justify-content: center;
-  font-size: 0.95rem;
+  font-size: 0.9rem;
   transition: all 0.2s ease;
-  margin-left: 0.5rem;
 }
 
 .reader-header.is-compact .header-collapse-btn {
@@ -150,27 +385,12 @@ body {
 
 .header-collapse-btn:hover {
   background: var(--bg-elevated);
-  border-color: var(--accent-orange);
+  border-color: var(--accent-gold);
   transform: scale(1.05);
 }
 
-/* ESTADO COLAPSADO POR DEFECTO AL HACER SCROLL:
-   Oculta el selector del capítulo y todos los botones de la barra, 
-   centrando el logo absolutamente en la barra y dejando el botón de colapso a la derecha */
 .reader-header.is-compact.is-collapsed {
-  justify-content: flex-end;
-  min-height: 44px;
-}
-
-.reader-header.is-compact.is-collapsed .brand-section {
-  position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
-}
-
-.reader-header.is-compact.is-collapsed .brand-logo {
-  width: 30px;
-  height: 30px;
+  justify-content: space-between;
 }
 
 .reader-header.is-compact.is-collapsed .selector-cascade,
@@ -182,409 +402,45 @@ body {
   transform: rotate(-90deg);
 }
 
-/* Selector cascada en header */
-.selector-cascade {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  flex-wrap: wrap;
-}
-
-.custom-select-wrap {
-  position: relative;
-}
-
-.custom-select-wrap select {
-  appearance: none;
-  background: var(--bg-surface);
-  color: var(--text-main);
-  border: 1px solid var(--border-color);
-  border-radius: 8px;
-  padding: 0.45rem 2rem 0.45rem 0.85rem;
-  font-size: 0.88rem;
-  font-family: var(--font-sans);
-  cursor: pointer;
-  outline: none;
-  transition: all 0.2s ease;
-  max-width: 240px;
-}
-
-.custom-select-wrap select:focus,
-.custom-select-wrap select:hover {
-  border-color: var(--accent-orange);
-  box-shadow: 0 0 0 2px var(--accent-glow);
-}
-
-.custom-select-wrap::after {
-  content: "▾";
-  position: absolute;
-  right: 0.75rem;
-  top: 50%;
-  transform: translateY(-50%);
-  pointer-events: none;
-  font-size: 0.75rem;
-  color: var(--text-muted);
-}
-
-/* Controles de lectura (zoom y tema) */
-.reader-controls {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.ctrl-btn {
-  background: var(--bg-surface);
-  border: 1px solid var(--border-color);
-  color: var(--text-main);
-  padding: 0.4rem 0.65rem;
-  border-radius: 6px;
-  font-size: 0.82rem;
-  cursor: pointer;
-  transition: all 0.2s;
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-}
-
-.ctrl-btn:hover {
-  background: var(--bg-elevated);
-  border-color: var(--accent-orange);
-}
-
-/* Barra de progreso de lectura */
+/* ==========================================================================
+   Barra de Progreso Minimalista
+   ========================================================================== */
 .progress-bar-container {
   position: fixed;
-  top: 56px;
+  top: var(--header-height);
   left: 0;
   width: 100%;
-  height: 3px;
+  height: 2px;
   background: transparent;
-  z-index: 101;
+  z-index: 99;
+}
+
+.reader-header.is-compact + aside + .progress-bar-container,
+.reader-header.is-compact ~ .progress-bar-container {
+  top: 52px;
 }
 
 .reading-progress {
   height: 100%;
   width: 0%;
-  background: linear-gradient(90deg, var(--accent-orange), #ffb703);
-  transition: width 0.1s linear;
-}
-
-/* Contenedor central de lectura */
-.reader-stage {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  padding: 2.5rem 1rem 6rem;
-}
-
-.story-container {
-  width: 100%;
-  max-width: var(--reading-width);
-  margin: 0 auto;
-}
-
-/* Metadatos superiores de capítulo */
-.chapter-meta {
-  margin-bottom: 2.5rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--border-color);
-  text-align: center;
-}
-
-.badge-tag {
-  display: inline-block;
-  background: var(--accent-glow);
-  color: var(--accent-orange);
-  font-size: 0.75rem;
-  font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  padding: 0.25rem 0.75rem;
-  border-radius: 999px;
-  margin-bottom: 0.75rem;
-}
-
-.chapter-headline {
-  font-family: var(--font-serif);
-  font-size: 2.3rem;
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  line-height: 1.25;
-  margin-bottom: 0.5rem;
-}
-
-.reading-time-est {
-  font-size: 0.85rem;
-  color: var(--text-dim);
-}
-
-/* Prosa literaria (Inspirada en Wattpad & Rothfuss) */
-.story-body {
-  font-family: var(--font-serif);
-  font-size: 1.15rem;
-  line-height: 1.85;
-  color: var(--text-main);
-  letter-spacing: -0.005em;
-  text-rendering: optimizeLegibility;
-}
-
-.story-body p {
-  margin-bottom: 1.5rem;
-  text-align: justify;
-}
-
-.story-body p:first-of-type::first-letter {
-  float: left;
-  font-size: 3.4rem;
-  line-height: 0.85;
-  margin: 0.15rem 0.6rem 0 0;
-  color: var(--accent-orange);
-  font-weight: 700;
-}
-
-.story-body hr {
-  border: none;
-  height: 1px;
-  background: var(--border-color);
-  margin: 2.5rem auto;
-  width: 40%;
-  position: relative;
-}
-
-.story-body hr::after {
-  content: "✦";
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  background: var(--bg-primary);
-  padding: 0 0.5rem;
-  color: var(--text-dim);
-  font-size: 0.8rem;
-}
-
-.story-body blockquote {
-  border-left: 3px solid var(--accent-orange);
-  padding: 0.5rem 1.2rem;
-  margin: 1.8rem 0;
-  font-style: italic;
-  color: var(--text-muted);
-  background: var(--bg-surface);
-  border-radius: 0 8px 8px 0;
-}
-
-/* Barra inferior de navegación Wattpad */
-.navigation-bar {
-  margin-top: 3.5rem;
-  padding-top: 2rem;
-  border-top: 1px solid var(--border-color);
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
-}
-
-.nav-arrow-btn {
-  background: linear-gradient(135deg, var(--bg-surface), var(--bg-elevated));
-  color: var(--text-main);
-  border: 1px solid var(--border-color);
-  padding: 0.75rem 1.4rem;
-  border-radius: 10px;
-  font-family: var(--font-sans);
-  font-size: 0.95rem;
-  font-weight: 600;
-  cursor: pointer;
-  display: inline-flex;
-  align-items: center;
-  gap: 0.6rem;
-  transition: all 0.25s ease;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-}
-
-.nav-arrow-btn:hover:not(:disabled) {
-  background: var(--accent-orange);
-  color: white;
-  border-color: var(--accent-orange);
-  box-shadow: 0 4px 16px var(--accent-glow);
-  transform: translateY(-2px);
-}
-
-.nav-arrow-btn:disabled {
-  opacity: 0.35;
-  cursor: not-allowed;
-  transform: none;
-}
-
-.chapter-counter-pill {
-  font-size: 0.85rem;
-  color: var(--text-dim);
-  font-weight: 600;
-}
-
-/* Modal de biblioteca de sagas */
-.modal-overlay {
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.75);
-  backdrop-filter: blur(8px);
-  z-index: 200;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0;
-  pointer-events: none;
-  transition: opacity 0.25s ease;
-}
-
-.modal-overlay.active {
-  opacity: 1;
-  pointer-events: auto;
-}
-
-.modal-content {
-  background: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  width: 90%;
-  max-width: 600px;
-  max-height: 80vh;
-  border-radius: 16px;
-  padding: 1.8rem;
-  display: flex;
-  flex-direction: column;
-  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-}
-
-.modal-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1.2rem;
-  border-bottom: 1px solid var(--border-color);
-  padding-bottom: 0.8rem;
-}
-
-.close-modal-btn {
-  background: transparent;
-  border: none;
-  color: var(--text-muted);
-  font-size: 1.5rem;
-  cursor: pointer;
-}
-
-.chapter-list-scroll {
-  overflow-y: auto;
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 0.4rem;
-}
-
-.chapter-item-btn {
-  background: var(--bg-surface);
-  border: 1px solid var(--border-color);
-  color: var(--text-main);
-  padding: 0.75rem 1rem;
-  border-radius: 8px;
-  text-align: left;
-  cursor: pointer;
-  font-size: 0.9rem;
-  transition: all 0.15s ease;
-}
-
-.chapter-item-btn:hover {
-  background: var(--bg-elevated);
-  border-color: var(--accent-orange);
-  color: var(--accent-orange);
-}
-
-.chapter-item-btn.active {
-  background: var(--accent-glow);
-  border-color: var(--accent-orange);
-  color: var(--accent-orange);
-  font-weight: 700;
-}
-
-/* Responsividad */
-@media (max-width: 768px) {
-  .reader-header:not(.is-compact) {
-    flex-direction: column;
-    gap: 0.8rem;
-    align-items: stretch;
-  }
-  .reader-header:not(.is-compact) .selector-cascade {
-    width: 100%;
-    justify-content: space-between;
-  }
-  .custom-select-wrap select {
-    max-width: 100%;
-  }
-  .chapter-headline {
-    font-size: 1.8rem;
-  }
-  .story-body {
-    font-size: 1.05rem;
-  }
-}
-
-/* En modo compacto en móviles, mantener barra horizontal compacta y centrada */
-@media (max-width: 768px) {
-  .reader-header.is-compact {
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0.35rem 0.75rem;
-  }
-  .reader-header.is-compact.is-collapsed {
-    justify-content: flex-end;
-  }
-  .reader-header.is-compact .selector-cascade {
-    width: auto;
-  }
+  background: linear-gradient(90deg, var(--accent-gold-soft), var(--accent-gold));
+  box-shadow: 0 0 8px var(--accent-gold-glow);
+  transition: width 0.1s ease-out;
 }
 
 /* ==========================================================================
-   Controles y Panel de Audio / TTS (Texto a Voz)
+   Consola Flotante de Audio / TTS Neuronal
    ========================================================================== */
-.tts-btn {
-  background: linear-gradient(135deg, rgba(255, 107, 0, 0.15), rgba(255, 152, 0, 0.25));
-  border: 1px solid var(--accent-orange);
-  color: var(--accent-orange);
-  font-weight: 600;
-}
-
-.tts-btn.is-active {
-  background: var(--accent-orange);
-  color: white;
-  box-shadow: 0 0 12px var(--accent-glow);
-}
-
 .tts-panel {
   position: sticky;
-  top: 57px;
+  top: calc(var(--header-height) + 2px);
   z-index: 95;
   background: var(--bg-surface);
-  border-bottom: 2px solid var(--accent-orange);
-  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.25);
-  animation: slideDown 0.25s ease-out;
-  transition: top 0.3s ease;
-}
-
-.reader-header.is-compact ~ .tts-panel {
-  top: 45px;
-}
-
-/* Cuando el header está colapsado, la barra flotante de voz también se pliega elegantemente para no estorbar la lectura */
-.reader-header.is-compact.is-collapsed ~ .tts-panel {
-  max-height: 0;
-  opacity: 0;
-  overflow: hidden;
-  pointer-events: none;
-  border-bottom: none;
-  box-shadow: none;
-  padding: 0;
-  transition: all 0.25s ease;
+  border-bottom: 1px solid var(--border-color);
+  backdrop-filter: blur(12px);
+  padding: 0.65rem 2rem;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+  animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
 }
 
 @keyframes slideDown {
@@ -593,185 +449,347 @@ body {
 }
 
 .tts-panel-content {
-  max-width: 900px;
+  max-width: var(--reading-width);
   margin: 0 auto;
-  padding: 0.6rem 1.5rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: 1rem;
-  flex-wrap: wrap;
 }
 
 .tts-status {
   display: flex;
   align-items: center;
   gap: 0.75rem;
-  font-size: 0.86rem;
-  color: var(--text-main);
+  font-size: 0.85rem;
   font-weight: 500;
+  color: var(--text-main);
 }
 
 .tts-wave-anim {
-  display: inline-flex;
+  display: flex;
   align-items: center;
   gap: 3px;
-  height: 18px;
+  height: 16px;
 }
 
 .tts-wave-anim span {
-  display: block;
   width: 3px;
-  height: 5px;
-  background: var(--accent-orange);
+  height: 100%;
+  background: var(--accent-gold);
   border-radius: 2px;
-  transition: height 0.2s ease;
+  animation: wave 1.2s ease-in-out infinite;
 }
 
-.tts-panel.playing .tts-wave-anim span:nth-child(1) { animation: wave 0.8s infinite ease-in-out; }
-.tts-panel.playing .tts-wave-anim span:nth-child(2) { animation: wave 0.8s infinite ease-in-out 0.2s; }
-.tts-panel.playing .tts-wave-anim span:nth-child(3) { animation: wave 0.8s infinite ease-in-out 0.4s; }
-.tts-panel.playing .tts-wave-anim span:nth-child(4) { animation: wave 0.8s infinite ease-in-out 0.6s; }
+.tts-wave-anim span:nth-child(2) { animation-delay: 0.2s; }
+.tts-wave-anim span:nth-child(3) { animation-delay: 0.4s; }
+.tts-wave-anim span:nth-child(4) { animation-delay: 0.6s; }
 
 @keyframes wave {
   0%, 100% { height: 4px; }
-  50% { height: 18px; }
+  50% { height: 16px; }
 }
 
 .tts-actions {
   display: flex;
   align-items: center;
   gap: 0.6rem;
-  flex-wrap: wrap;
 }
 
 .tts-sub-btn {
   background: var(--bg-elevated);
   border: 1px solid var(--border-color);
   color: var(--text-main);
-  width: 34px;
-  height: 34px;
+  width: 32px;
+  height: 32px;
   border-radius: 6px;
+  cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  cursor: pointer;
-  transition: all 0.15s ease;
-  font-size: 0.9rem;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
 }
 
 .tts-sub-btn:hover {
-  border-color: var(--accent-orange);
-  color: var(--accent-orange);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  transform: scale(1.05);
 }
 
 .tts-setting {
   display: flex;
   align-items: center;
   gap: 0.4rem;
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   color: var(--text-muted);
 }
 
 .tts-setting select {
-  background: var(--bg-elevated);
-  border: 1px solid var(--border-color);
+  background: var(--bg-input);
   color: var(--text-main);
+  border: 1px solid var(--border-color);
   border-radius: 6px;
-  padding: 0.3rem 0.5rem;
-  font-size: 0.82rem;
-  outline: none;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.78rem;
   cursor: pointer;
+  outline: none;
 }
 
 .tts-setting select:focus {
-  border-color: var(--accent-orange);
-}
-
-.tts-voice-select {
-  max-width: 170px;
-  text-overflow: ellipsis;
+  border-color: var(--accent-gold);
 }
 
 .tts-close-btn {
   background: transparent;
   border: none;
-  color: var(--text-muted);
-  font-size: 1.1rem;
+  color: var(--text-dim);
+  font-size: 1rem;
   cursor: pointer;
   padding: 0.2rem 0.5rem;
   border-radius: 4px;
+  transition: color 0.2s;
 }
 
 .tts-close-btn:hover {
   color: var(--text-main);
 }
 
-/* Resaltado del párrafo que se está leyendo en voz alta */
+/* ==========================================================================
+   Escenario Central y Contenedor Editorial
+   ========================================================================== */
+.reader-stage {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  padding: 3.5rem 1.5rem 6rem;
+  position: relative;
+  z-index: 1;
+}
+
+.story-container {
+  width: 100%;
+  max-width: var(--reading-width);
+  margin: 0 auto;
+}
+
+/* Florituras clásicas de libro físico */
+.story-flourish-top,
+.story-flourish-bottom {
+  text-align: center;
+  color: var(--accent-gold-soft);
+  font-size: 1.4rem;
+  opacity: 0.45;
+  user-select: none;
+}
+
+.story-flourish-top {
+  margin-bottom: 2rem;
+}
+
+.story-flourish-bottom {
+  margin: 4.5rem 0 2rem;
+}
+
+/* Encabezado y Metadatos del Capítulo */
+.chapter-meta {
+  text-align: center;
+  margin-bottom: 3.5rem;
+}
+
+.badge-tag {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--accent-gold);
+  background: var(--accent-gold-subtle);
+  border: 1px solid rgba(212, 175, 55, 0.2);
+  padding: 0.35rem 1.1rem;
+  border-radius: 20px;
+  margin-bottom: 1.25rem;
+}
+
+.chapter-headline {
+  font-family: var(--font-display);
+  font-size: 2.35rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-main);
+  line-height: 1.25;
+  margin-bottom: 1.2rem;
+  text-wrap: balance;
+}
+
+.meta-separator-line {
+  width: 60px;
+  height: 1px;
+  background: var(--accent-gold-soft);
+  opacity: 0.35;
+  margin: 1.2rem auto;
+}
+
+.reading-time-est {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--text-dim);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+/* ==========================================================================
+   Cuerpo de la Prosa Literaria (Tratamiento Tipográfico Rothfuss / Alta Ficción)
+   ========================================================================== */
+.story-body {
+  font-family: var(--font-editorial);
+  font-size: 1.22rem; /* Tamaño óptimo para Cormorant Garamond */
+  line-height: 1.95;
+  color: var(--text-prose);
+  word-spacing: 0.04em;
+}
+
+.story-body p {
+  margin-bottom: 1.85rem;
+  text-align: justify;
+  text-justify: inter-word;
+  hyphens: auto;
+  position: relative;
+  transition: background-color 0.25s ease, border-left-color 0.25s ease;
+}
+
+/* Letra Capital Artística en el Primer Párrafo */
+.story-body p:first-of-type::first-letter {
+  font-family: var(--font-display);
+  float: left;
+  font-size: 4.4rem;
+  line-height: 0.82;
+  margin-top: 0.12em;
+  margin-right: 0.16em;
+  margin-bottom: -0.05em;
+  color: var(--accent-gold);
+  font-weight: 700;
+  text-shadow: 0 2px 12px var(--accent-gold-glow);
+}
+
+.story-body h2 {
+  font-family: var(--font-display);
+  font-size: 1.55rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  color: var(--accent-gold-soft);
+  margin: 3.5rem 0 1.5rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.story-body h3 {
+  font-family: var(--font-display);
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: var(--text-main);
+  margin: 2.5rem 0 1.2rem;
+}
+
+.story-body hr {
+  border: none;
+  height: 1px;
+  background: var(--border-color);
+  margin: 3.5rem auto;
+  width: 35%;
+  position: relative;
+}
+
+.story-body hr::after {
+  content: "♦";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background: var(--bg-primary);
+  padding: 0 0.75rem;
+  color: var(--accent-gold-soft);
+  font-size: 0.75rem;
+}
+
+.story-body blockquote {
+  border-left: 2px solid var(--accent-gold);
+  padding: 0.8rem 1.6rem;
+  margin: 2.5rem 0;
+  font-style: italic;
+  color: var(--text-muted);
+  background: var(--accent-gold-subtle);
+  border-radius: 0 8px 8px 0;
+}
+
+/* Resaltado del párrafo durante la narración TTS */
 .story-body p.tts-active-paragraph {
-  background: rgba(255, 107, 0, 0.12);
-  border-left: 3px solid var(--accent-orange);
-  padding-left: 0.75rem;
+  background: var(--accent-gold-subtle);
+  border-left: 3px solid var(--accent-gold);
+  padding-left: 1rem;
   border-radius: 0 6px 6px 0;
   transition: all 0.25s ease;
 }
 
-/* ==========================================================================
-   Marcapáginas del Usuario (Click / Tap en Móvil o PC)
-   ========================================================================== */
+/* Marcapáginas interactivo */
 .story-body p.story-paragraph {
   cursor: pointer;
-  position: relative;
-  transition: background-color 0.2s ease, border-color 0.2s ease;
-  border-radius: 4px;
-  padding: 0.25rem 0.4rem;
+  padding: 0.35rem 0.5rem;
+  border-radius: 6px;
 }
 
 .story-body p.story-paragraph:hover {
-  background: rgba(255, 255, 255, 0.03);
+  background: rgba(255, 255, 255, 0.02);
 }
 
-.theme-light .story-body p.story-paragraph:hover {
-  background: rgba(0, 0, 0, 0.03);
+body.theme-sepia .story-body p.story-paragraph:hover {
+  background: rgba(0, 0, 0, 0.025);
 }
 
-/* Párrafo con marcapáginas activo */
+body.theme-light .story-body p.story-paragraph:hover {
+  background: rgba(0, 0, 0, 0.025);
+}
+
 .story-body p.user-bookmark {
-  background: rgba(255, 152, 0, 0.08);
-  border-left: 3px dashed var(--accent-orange);
-  padding-left: 0.75rem;
+  background: var(--accent-gold-subtle);
+  border-left: 3px solid var(--accent-gold);
+  padding-left: 1rem;
   border-radius: 0 6px 6px 0;
 }
 
 .story-body p.user-bookmark::after {
-  content: "🔖 Marcapáginas";
+  content: "🔖 Marcapáginas guardado";
   position: absolute;
-  right: 0.5rem;
-  top: 0.25rem;
-  font-size: 0.72rem;
-  font-family: var(--font-sans);
-  color: var(--accent-orange);
-  opacity: 0.75;
+  right: 0.75rem;
+  top: 0.35rem;
+  font-size: 0.68rem;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  color: var(--accent-gold);
+  text-transform: uppercase;
+  opacity: 0.85;
   pointer-events: none;
 }
 
 /* Toast flotante de confirmación */
 .bookmark-toast {
   position: fixed;
-  bottom: 2rem;
+  bottom: 2.5rem;
   left: 50%;
   transform: translateX(-50%) translateY(20px);
   background: var(--bg-surface);
   color: var(--text-main);
-  border: 1px solid var(--accent-orange);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.35);
-  padding: 0.6rem 1.25rem;
+  border: 1px solid var(--accent-gold);
+  box-shadow: 0 10px 35px rgba(0, 0, 0, 0.45), 0 0 15px var(--accent-gold-glow);
+  padding: 0.7rem 1.6rem;
   border-radius: 30px;
-  font-size: 0.88rem;
+  font-size: 0.85rem;
   font-weight: 600;
   pointer-events: none;
   opacity: 0;
-  transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   z-index: 1000;
 }
 
@@ -780,3 +798,161 @@ body {
   opacity: 1;
 }
 
+/* ==========================================================================
+   Barra Inferior de Navegación Editorial
+   ========================================================================== */
+.navigation-bar {
+  margin-top: 4rem;
+  padding-top: 2.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.nav-arrow-btn {
+  background: var(--bg-surface);
+  color: var(--text-main);
+  border: 1px solid var(--border-color);
+  padding: 0.85rem 1.75rem;
+  border-radius: 10px;
+  font-family: var(--font-ui);
+  font-size: 0.88rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.6rem;
+  transition: all 0.25s cubic-bezier(0.16, 1, 0.3, 1);
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.nav-arrow-btn .arrow-char {
+  color: var(--accent-gold);
+  font-weight: 700;
+  transition: transform 0.2s ease;
+}
+
+.nav-arrow-btn:hover:not(:disabled) {
+  background: var(--bg-elevated);
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  box-shadow: 0 4px 18px var(--accent-gold-glow);
+  transform: translateY(-2px);
+}
+
+.nav-arrow-btn:hover:not(:disabled) .arrow-char {
+  transform: scale(1.2);
+}
+
+.nav-arrow-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.chapter-counter-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.82rem;
+  color: var(--text-dim);
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.pill-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--accent-gold-soft);
+  opacity: 0.6;
+}
+
+/* Mensajes de error */
+.error-msg {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: #ef4444;
+  font-family: var(--font-ui);
+  font-size: 0.95rem;
+}
+
+/* ==========================================================================
+   Diseño Adaptativo Móvil y Tablet
+   ========================================================================== */
+@media (max-width: 900px) {
+  .reader-header {
+    padding: 0.6rem 1rem;
+  }
+  
+  .selector-cascade {
+    gap: 0.5rem;
+  }
+  
+  .custom-select-wrap select {
+    max-width: 170px;
+    font-size: 0.78rem;
+    padding: 0.45rem 1.8rem 0.45rem 0.65rem;
+  }
+  
+  .story-body {
+    font-size: 1.15rem;
+    line-height: 1.85;
+  }
+  
+  .chapter-headline {
+    font-size: 1.85rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .reader-header {
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .brand-section {
+    flex: 1;
+  }
+
+  .selector-cascade {
+    order: 3;
+    width: 100%;
+    max-width: 100%;
+    justify-content: space-between;
+  }
+
+  .custom-select-wrap select {
+    max-width: 100%;
+    width: 100%;
+  }
+
+  .reader-stage {
+    padding: 2rem 1rem 4rem;
+  }
+
+  .story-body p {
+    text-align: left;
+    margin-bottom: 1.5rem;
+  }
+
+  .navigation-bar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .nav-arrow-btn {
+    width: 100%;
+    justify-content: center;
+  }
+
+  .chapter-counter-pill {
+    order: -1;
+  }
+}
