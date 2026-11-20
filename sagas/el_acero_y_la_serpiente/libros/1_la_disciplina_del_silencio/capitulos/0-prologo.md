@@ -1,7 +1,7 @@
 # PRÓLOGO
 ## La sombra sobre Godric’s Hollow
 
-Afuera, la tarde de Halloween se apagaba con la tranquila rutina de cualquier pueblo inglés al terminar octubre. Se oían a lo lejos risas infantiles de niños disfrazados corriendo por la acera de la iglesia, el rumor lejano de algún automóvil cruzando la plaza y el olor doméstico a leña de manzano ardiendo en las chimeneas vecinas. Los jardines tenían calabazas vaciadas con velas en los porches y las hojas secas crujían bajo los pasos de los vecinos que regresaban a sus casas para resguardarse del relente otoñal. Godric's Hollow parecía exactamente lo que siempre había sido: una aldea apacible, común y tibia.
+Afuera, la vigilia de Samhain se apagaba con la apacible rutina de cualquier pueblo inglés al terminar octubre. Aunque los muggles de la comarca lo llamaban Halloween y llenaban las aceras de niños disfrazados corriendo hacia la iglesia entre risas y farolillos de calabaza, para quienes conocían la antigua magia la noche tenía otro peso: el velo entre los mundos se volvía fino como un suspiro y el aire olía a tierra labrada, a leña de manzano ardiendo en los hogares y al relente helado que baja de las colinas. Godric's Hollow parecía exactamente lo que siempre había sido en la superficie: una aldea tranquila, tibia y ajena al terror.
 
 Dentro de la casa de dos plantas de la calle principal, sin embargo, la normalidad era un esfuerzo deliberado, casi una coreografía ensayada para no dejarse devorar por la incertidumbre.
 
@@ -17,7 +17,7 @@ La mujer que se acercaba traía dos tazas humeantes de cerámica esmaltada. Su m
 
 Él levantó la vista y le ofreció una sonrisa cálida, amplia y desenfadada, de esas que solían desarmarla en sus días de colegio.
 
-—Vamos, Lily, es Halloween. Todos los niños del pueblo están llenándose los bolsillos de caramelos. Al menos déjale tener su propio espectáculo de feria en el salón.
+—Vamos, Lily, es la noche de Samhain. Los muggles de afuera tendrán sus dulces, pero el chico lleva sangre de magos; déjale tener sus propios fuegos en el salón.
 
 Lily observó al pequeño tropezar con un cojín y sentarse de golpe en la alfombra, frotándose la nariz sin llorar, fascinado por una nueva pompa plateada que flotaba hacia el techo. Se le escapó una sonrisa genuina, pero al posar la mano sobre la rodilla de su marido, sus dedos apretaron la tela un poco más de lo necesario.
 
@@ -31,7 +31,7 @@ Lily observó al pequeño tropezar con un cojín y sentarse de golpe en la alfom
 
 Lily asintió despacio y apoyó la cabeza en el hombro de James, respirando el aroma conocido a jabón y a lana limpia. Quería creerle con todas sus fuerzas. Quería convencerse de que esa taza de té caliente, el fuego crepitando mansamente en la rejilla y las risas de su hijo eran una muralla suficiente para mantener al margen el horror que devoraba el resto del país.
 
-—Tienes razón —murmuró ella, obligándose a aflojar la tensión de los hombros—. Estoy nerviosa sin motivo. Es solo… esta fecha. El año pasado a estas alturas estábamos cenando con los muchachos en el Caldero Chorreante. Se me hace extraño estar encerrados mientras los demás celebran afuera.
+—Tienes razón —murmuró ella, obligándose a aflojar la tensión de los hombros—. Estoy nerviosa sin motivo. Es solo… esta fecha. El año pasado por Samhain estábamos cenando con los muchachos en el Caldero Chorreante. Se me hace extraño estar encerrados mientras los demás celebran afuera.
 
 —El año que viene lo celebraremos el doble —prometió él, dándole un beso suave en la coronilla—. Ya lo verás. Tú, yo, Canuto tirando rollos de papel por el techo y Peter quejándose del desorden. Te doy mi palabra de que todo esto va a pasar.
 
