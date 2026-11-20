@@ -1,67 +1,67 @@
 # PRÓLOGO
 ## La sombra sobre Godric’s Hollow
 
-El viento de finales de octubre no traía lluvia, sino un frío seco y rencoroso que hacía crujir los postigos de madera contra la mampostería. En el exterior, el caserío olía a turba quemada, a hojas de castaño pudriéndose en los canalones de zinc y a la quietud espesa de los pueblos de montaña cuando los mortales apagan sus lámparas y atrancan las puertas para convencerse de que la oscuridad no tiene dientes.
+Afuera, la tarde de Halloween se apagaba con la tranquila rutina de cualquier pueblo inglés al terminar octubre. Se oían a lo lejos risas infantiles de niños disfrazados corriendo por la acera de la iglesia, el rumor lejano de algún automóvil cruzando la plaza y el olor doméstico a leña de manzano ardiendo en las chimeneas vecinas. Los jardines tenían calabazas vaciadas con velas en los porches y las hojas secas crujían bajo los pasos de los vecinos que regresaban a sus casas para resguardarse del relente otoñal. Godric's Hollow parecía exactamente lo que siempre había sido: una aldea apacible, común y tibia.
 
-Dentro de la casa de dos plantas, el calor era precario, sostenido por brasas agonizantes en el hogar de piedra caliza.
+Dentro de la casa de dos plantas de la calle principal, sin embargo, la normalidad era un esfuerzo deliberado, casi una coreografía ensayada para no dejarse devorar por la incertidumbre.
 
-El hombre de cabello negro y desordenado no miraba el fuego. Estaba inclinado sobre la mesa baja de roble, jugueteando mecánicamente con un trozo de madera de caoba flexible, pulida y desgastada en la empuñadura por el roce constante de los dedos. A escasos palmos de él, pequeños destellos de humo púrpura y filamentos de luz dorada brotaban de la punta, dibujando en el aire formas breves y evanescentes: pájaros diminutos que aleteaban durante dos compases antes de disolverse en ceniza templada.
+La cocina olía a pan tostado y a manzanilla recién servida. En el salón, las lámparas de pantalla de tela proyectaban una luz ámbar acogedora sobre los sillones y las paredes empapeladas de tonos claros.
 
-En la alfombra de lana cardada, un niño de poco más de un año soltaba una risa ahogada y estiraba los puños regordetes intentando atrapar el aire tibio.
+Un hombre joven de cabello negro alborotado y gafas redondas estaba sentado con las piernas cruzadas en la alfombra. Llevaba un jersey de lana gastado en los codos y sostenía una varita de caoba pulida entre los dedos con aparente descuido. De la punta de la madera brotaban bocanadas de humo de colores —azul zafiro, violeta suave y chispas doradas— que formaban pequeñas figuras flotantes antes de deshacerse con un suave siseo tibio.
 
-—Se va a acostumbrar a creer que la magia no quema —dijo una voz desde el vano de la puerta.
+Frente a él, un niño de poco más de un año gateaba a trompicones persiguiendo las formas luminosas, riendo a carcajadas cada vez que un pájaro de humo se desvanecía contra sus manos regordetas.
 
-La mujer que entraba sostenía una taza entre las manos enguantadas en las mangas dobladas de su suéter gris. Su cabello caía en ondas de un rojo oscuro y espeso sobre los hombros, y sus ojos —de un verde almendrado, limpios pero atravesados por una fatiga que no se quitaba con el descanso— tenían las sombras violáceas de semanas enteras sin dormir más de tres horas seguidas.
+—Si sigue saltando así, va a tirar la lámpara de pie otra vez —dijo una voz suave desde el pasillo.
 
-El hombre sonrió de lado, aunque la arruga entre sus cejas no se borró tras los cristales redondos de sus gafas.
+La mujer que se acercaba traía dos tazas humeantes de cerámica esmaltada. Su melena caía en ondas de un tono cobrizo oscuro sobre los hombros, y sus ojos, de un verde almendrado y muy limpio, intentaban mantener un brillo sereno, aunque bajo ellos había una sombra de cansancio acumulado. Se inclinó para dejar las tazas sobre la mesita baja y se sentó junto al hombre, acomodándose la falda con un gesto cotidiano.
 
-—Déjalo, Lily. Por una sola noche… déjalo que crea que las chispas solo sirven para hacerlo reír.
+Él levantó la vista y le ofreció una sonrisa cálida, amplia y desenfadada, de esas que solían desarmarla en sus días de colegio.
 
-Lily no contestó de inmediato. Se arrodilló junto a la alfombra, apartando con tacto infinito un mechón rebelde que amenazaba con tapar la frente lisa del pequeño. La piel del niño desprendía ese calor denso e inocente de los que aún no saben que el mundo exterior está lleno de hierro y veneno.
+—Vamos, Lily, es Halloween. Todos los niños del pueblo están llenándose los bolsillos de caramelos. Al menos déjale tener su propio espectáculo de feria en el salón.
 
-—No ha venido nadie en tres días, James —susurró ella, clavando la mirada en los visillos corridos—. Ni un golpe en la verja. Ni un patronus entre las hayas.
+Lily observó al pequeño tropezar con un cojín y sentarse de golpe en la alfombra, frotándose la nariz sin llorar, fascinado por una nueva pompa plateada que flotaba hacia el techo. Se le escapó una sonrisa genuina, pero al posar la mano sobre la rodilla de su marido, sus dedos apretaron la tela un poco más de lo necesario.
 
-—El encantamiento nos aísla por completo. Sabes cómo funciona el *Fidelius*. Si Peter no cruza la línea, nadie puede recordar que esta colina existe.
+—Ha sido un día muy tranquilo —comentó ella, mirando de reojo las cortinas floreadas corridas hacia la ventana delantera—. Demasiado tranquilo, tal vez. No hemos tenido noticias desde el martes.
 
-—Peter tenía que pasar ayer antes del anochecer —replicó Lily. La taza tembló apenas un milímetro antes de apoyarla sobre la repisa de madera—. Dijo que traería noticias de Londres. De la frontera norte.
+—Las buenas noticias nunca viajan con prisa —repuso James con un tono ligero, pasando un brazo protector alrededor de su cintura y acercándola a su costado—. Si algo hubiera ido mal en la asamblea de la Orden o en Londres, nos habríamos enterado. Sirius habría encontrado el modo de avisarnos, aunque tuviera que mandar tres lechuzas o presentarse él mismo haciendo ruido.
 
-James dejó la varita sobre la mesa baja. Se frotó la base de la nariz, sintiendo cómo el cansancio le pesaba en las vértebras del cuello. Eran apenas unos muchachos que habían salido de los dormitorios de la escuela para entrar de cabeza en una guerra de trincheras invisibles.
+—Sirius no puede venir, James. Quedamos en eso.
 
-—Estará esperando que los rastreadores despejen el camino. Conoces a Colagusano. Se asusta de su propia sombra; por eso le pedí a él que fuera el Guardián. Sirius atrae demasiados ojos; Peter es una mota de polvo en un rincón oscuro.
+—Lo sé, lo sé. Pero me refiero a que si hubiera peligro real, ya lo sabríamos. Todo marcha según lo planeado. Peter está en su refugio, el encantamiento *Fidelius* es una fortaleza invisible y nosotros tres estamos a salvo aquí dentro. En unas semanas, cuando la presión en el norte baje, Dumbledore revisará el cerco y podremos salir al jardín a que Harry vea la nieve.
 
-Ella alzó la vista. En el fondo de sus pupilas verdes ardía una desconfianza antigua, esa que ninguna promesa ni ningún juramento inquebrantable lograba calmar cuando la noche caía sobre el valle.
+Lily asintió despacio y apoyó la cabeza en el hombro de James, respirando el aroma conocido a jabón y a lana limpia. Quería creerle con todas sus fuerzas. Quería convencerse de que esa taza de té caliente, el fuego crepitando mansamente en la rejilla y las risas de su hijo eran una muralla suficiente para mantener al margen el horror que devoraba el resto del país.
 
-—A veces sueño que la puerta cede, James. No con un trueno… sino despacio. Como si alguien tuviera la llave. Y me veo corriendo escaleras arriba, sintiendo que los peldaños se estiran y no llego a la cuna.
+—Tienes razón —murmuró ella, obligándose a aflojar la tensión de los hombros—. Estoy nerviosa sin motivo. Es solo… esta fecha. El año pasado a estas alturas estábamos cenando con los muchachos en el Caldero Chorreante. Se me hace extraño estar encerrados mientras los demás celebran afuera.
 
-James se sentó en el suelo a su lado, pasándole un brazo pesado por los hombros. El tejido de su túnica olía a café amargo y a encierro forzado.
+—El año que viene lo celebraremos el doble —prometió él, dándole un beso suave en la coronilla—. Ya lo verás. Tú, yo, Canuto tirando rollos de papel por el techo y Peter quejándose del desorden. Te doy mi palabra de que todo esto va a pasar.
 
-—Si ese momento llega, no vas a tener que correr rápido. Solo vas a tener que subir con Harry. Yo me quedaré en el rellano. Te juro por los huesos de mi padre que nadie pondrá un pie en esa habitación mientras a mí me quede una sola gota de sangre que bombear.
+Permanecieron un instante en silencio, mecidos por la falsa sensación de paz que ambos se empeñaban en construir para proteger al niño y protegerse a sí mismos del peso de la guerra.
 
-Lily apoyó la sien contra su pecho, escuchando el latido firme y terco bajo las costillas. Durante unos instantes, la casa fue un refugio. El niño bostezó en la alfombra, frotándose los párpados con los nudillos, rendido por el sueño.
+Harry bostezó sonoramente en la alfombra, frotándose los ojos con los nudillos, vencido por el sueño tras perseguir las últimas chispas doradas.
 
-Entonces, la trama invisible de la realidad se desgarró.
+—Ven aquí, dormilón —susurró Lily, extendiendo los brazos para tomarlo.
 
-No hubo una explosión exterior. Fue una vibración sorda, un golpe seco que resonó en el tuétano de los huesos, acompañado de la sensación atroz de que el aire de la habitación perdía toda densidad de golpe. Como si el vacío absoluto hubiera devorado el jardín de golpe.
+Fue en ese segundo exacto cuando la ilusión se hizo pedazos.
 
-En el sendero de grava, el pestillo de hierro forjado de la verja cedió con un chasquido agudo.
+No hubo aviso, ni un trueno lejano, ni el batir de unas alas. Solo una presión súbita en el aire, como si el salón entero hubiera perdido la gravedad durante un latido, seguida por un clic metálico inconfundible en la entrada: la verja exterior de hierro del jardín acababa de abrirse sin resistencia.
 
-El *Fidelius* acababa de ser traicionado.
+El encantamiento *Fidelius* ya no existía.
 
-James se puso en pie como impulsado por un resorte de acero, la mirada dilatada y el brazo derecho extendido hacia la mesa para aferrar la madera de caoba.
+La sonrisa de James no se desvaneció: se congeló, borrada por una palidez cadavérica que vació sus facciones en una fracción de segundo. Sus ojos buscaron la ventana y luego a su mujer. Toda la calma fingida, todas las palabras de consuelo que acababa de pronunciar se evaporaron como ceniza al viento.
 
-—¡Lily, es él! —su voz no tembló; fue un alarido ronco, desgarrado por una sobredosis de adrenalina pura—. ¡Toma a Harry y sube! ¡Corre! ¡Atranca la puerta y no bajes!
+—Lily, es él —la voz de James ya no intentaba sonar confiada; fue un grito seco, urgente y desgarrador—. ¡Toma a Harry y sube! ¡Corre! ¡No te detengas!
 
-Lily no titubeó, no sollozó ni perdió medio segundo en despedidas inútiles. Alzó al bebé del suelo, protegiendo su cabeza contra su cuello mientras el niño rompía a llorar asustado por el estruendo de los muebles, y sus pies descalzos devoraron los peldaños de la escalera en una ráfaga escarlata.
+Ella no hizo preguntas, no titubeó ni miró hacia atrás. La madre tomó al niño contra su pecho con una rapidez desesperada, cubriéndole la cabeza con el brazo mientras el pequeño rompía a llorar asustado por el cambio brutal en el tono de su padre, y sus pies subieron los escalones de madera de dos en dos hacia el piso superior.
 
-James dio tres zancadas hacia el vestíbulo.
+James se levantó del suelo de un salto, aferrando con fuerza su varita de caoba y encarando el vestíbulo.
 
-La puerta principal de roble macizo no se abrió: se pulverizó hacia adentro en una lluvia de astillas afiladas como navajas.
+La puerta principal no cedió con lentitud. Reventó hacia el interior con un estrépito ensordecedor, quebrada en cientos de astillas que salieron disparadas como metralla contra el pasillo.
 
-En el umbral, recortado contra la niebla negra del sendero, se erguía una silueta alta envuelta en una túnica de paño oscuro que no se agitaba con el viento. El rostro era blanco como la caliza lavada por la lluvia, sin vello, con dos fosas nasales estrechas y unos ojos escarlata cuyas pupilas eran delgadas hendiduras verticales.
+En el vano de la entrada, recortado contra la apacible noche de Godric's Hollow y las luces anaranjadas de las farolas del pueblo, apareció la silueta de Lord Voldemort.
 
-Lord Voldemort no llevaba la varita en alto como un duelista de salón. La sostenía floja entre dedos pálidos y esqueléticos, con la indolencia absoluta de quien camina por un matadero donde todas las reses ya están desangradas.
+Vestía una túnica negra como la brea que apenas rozaba el suelo. Su piel era blanca como la tiza, desprovista de pelo, y sus ojos brillaban con un fulgor escarlata sobre dos hendiduras que hacían las veces de nariz. Entró con una calma pausada, casi ceremonial, como quien cruza el umbral de su propia casa, sosteniendo una varita de tejo claro entre sus dedos largos y pálidos.
 
-—James Potter —dijo la sombra, y su voz fue un susurro sibilante que heló la condensación del aire en la estancia—. Tan predecible. Apartarse de mi camino habría sido un destello de inteligencia.
+—James Potter —dijo la figura con una voz sibilante y baja, carente de cualquier emoción humana—. Tan conmovedor empeñarse en jugar a las familias cuando el final ya estaba escrito.
 
 James no malgastó aire en responder. Con un latigazo seco de su brazo derecho, la mesa baja de roble y las dos butacas del salón se elevaron en el aire, transfigurándose en vuelo en enormes losas de granito macizo que se precipitaron contra el intruso como arietes de asedio.
 
