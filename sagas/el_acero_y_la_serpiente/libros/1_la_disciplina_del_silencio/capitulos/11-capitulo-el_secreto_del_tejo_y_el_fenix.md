@@ -94,3 +94,4 @@ Harry sacó siete galeones de oro de su bolsa de cuero y los depositó sobre el 
 —La grandeza depende de quién defina el final de la historia, señor Ollivander —dijo Harry, guardando la varita de acebo en el bolsillo interior de su abrigo, pegada al pecho—. Gracias por su tiempo.
 
 Se dio la vuelta y cruzó la puerta hacia la lluvia del Callejón Diagon, dejando al anciano artesano solo en la penumbra de su tienda, contemplando el rastro de calor dorado que aún flotaba sobre el mostrador.
+

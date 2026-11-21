@@ -82,3 +82,4 @@ Harry dejó el cuenco vacío en el suelo y se puso en pie, aferrando la rama de 
 Sirius sonrió. Fue una sonrisa terrible, desprovista de ternura, pero cargada de una devoción salvaje.
 
 —Entonces ponte en guardia, cachorro. La pausa ha terminado.
+

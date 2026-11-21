@@ -1,0 +1,48 @@
+# CAPÍTULO 13
+## La despedida en la bruma
+
+El humo blanco de las locomotoras de vapor llenaba la bóveda de hierro y cristal de King's Cross con un vaho caliente que olía a azufre, a carbón mineral quemado y a grasa de engranajes.
+
+A las diez y media de la mañana del primero de septiembre, la estación era un hormiguero de trabajadores con prisa, familias muggles arrastrando carritos de maletas y comerciantes que pregonaban los periódicos matutinos. Entre los andenes nueve y diez, apoyado contra la pared divisoria de ladrillo rojo, un hombre de abrigo oscuro y bufanda hasta las orejas contemplaba el paso de los viajeros con ojos entrecerrados.
+
+Harry estaba a su lado, vestido con una chaqueta de paño negro nueva, pantalones rectos y botas de cuero de suela gruesa compradas dos días antes en los soportales de Charing Cross. A sus pies descansaba un baúl de madera de fresno reforzado con esquineras de latón oscuro, sin adornos ni monogramas que llamaran la atención.
+
+—Los aurores de Crouch tienen tres observadores apostados junto a las taquillas de billetes —dijo Sirius en un murmullo que apenas compitió con el pitido agudo de un tren de cercanías—. Llevan trajes de paño marrón y periódicos doblados bajo el brazo, pero miran a la altura de la cintura buscando varitas bajo los abrigos. Son idiotas: creen que los fugitivos viajamos con un cartel en la espalda.
+
+Harry miró hacia las taquillas sin girar la cabeza de golpe, usando la visión periférica que había entrenado en los páramos. Registró al primer hombre por la rigidez antinatural de los hombros y al segundo por la forma en que su mano derecha descansaba siempre cerca de la solapa interior.
+
+—Están buscando a un perro o a un hombre solo —apuntó Harry con voz calma—. No esperan que entres de la mano de un niño.
+
+Sirius soltó un bufido corto que levantó una pequeña nube blanca en el aire frío de la estación.
+
+—Por eso sigues con vida, muchacho. Porque piensas en la probabilidad antes de dar el paso.
+
+Sirius metió la mano en el bolsillo interior de su abrigo y extrajo un objeto envuelto en un paño de terciopelo desgastado. Se lo entregó a Harry bajo el abrigo, disimulando el traspaso como un simple ajuste del equipaje.
+
+Harry desenrolló la tela con los dedos dentro del bolsillo. Era un reloj de bolsillo de plata maciza con la tapa lisa y gastada por el uso; en el reverso, apenas visible bajo una red de arañazos antiguos, figuraba la inicial *P* entrelazada con el lema de la Casa Black: *Toujours Pur*.
+
+—Perteneció a tu abuelo Charlus —dijo Sirius en voz baja—. Y luego James lo llevó en el bolsillo durante siete años en la escuela. No tiene encantamientos rastreables; solo da la hora con precisión de relojero duende y resiste una inmersión en agua hirviendo. Guárdalo. Cuando sientas que los discursos de Dumbledore o la palabrería de los profesores intentan ablandarte el juicio, tócate el bolsillo. Recuerda de qué madera estás hecho.
+
+Harry cerró los dedos sobre el metal frío del reloj.
+
+—Lo recordaré.
+
+Sirius le puso una mano huesuda sobre el hombro, apretando la clavícula con una fuerza seca.
+
+—Cruza la barrera ahora. Directo entre los dos andenes, sin correr y sin mirar a los lados. Si dudas, el ladrillo se vuelve piedra sólida; si caminas convencido de que el espacio está vacío, la magia cede ante tu paso.
+
+Harry alzó la vista y sostuvo la mirada gris de su padrino.
+
+—¿Y tú adónde irás?
+
+—A buscar el rastro de la rata —respondió Sirius, y por un segundo la sombra del asesino en fuga eclipsó las facciones demacradas de su rostro—. Peter sigue vivo en algún agujero de este país. Lo huelo en el viento. Cuando lo encuentre, la deuda de Godric's Hollow quedará saldada. Hasta entonces, cuídate la espalda en ese castillo. Y no enseñes la varita hasta que tengas un blanco claro.
+
+Harry asintió una sola vez. Se cuadró el baúl sobre las ruedas del carrito y caminó en línea recta hacia la columna divisoria entre los andenes nueve y diez.
+
+No aceleró. No cerró los ojos. Mantuvo la vista fija en la junta de cemento entre dos ladrillos desgastados y avanzó con el paso firme de quien cruza una puerta conocida.
+
+El aire se enfrió durante una fracción de segundo, la luz cambió de tonalidad y el ruido metálico de King's Cross fue sustituido por el rumor profundo y cavernoso de una locomotora escarlata que arrojaba columnas de humo sobre un andén atestado de túnicas negras, jaulas de lechuzas y carros de baúles.
+
+El andén nueve y tres cuartos.
+
+Harry no miró hacia atrás para ver la barrera. Ajustó el agarre de su carrito y se adentró en la multitud, con el reloj de plata en el bolsillo y la varita de acebo pegada a las costillas.

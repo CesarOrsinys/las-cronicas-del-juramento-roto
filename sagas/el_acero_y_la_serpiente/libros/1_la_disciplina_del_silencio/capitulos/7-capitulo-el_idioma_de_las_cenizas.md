@@ -62,3 +62,4 @@ Harry se puso de pie y comenzó a enrollar los pergaminos con movimientos precis
 Sirius se volvió despacio. Su silueta recortada contra la luz gris parecía la de un espectro tallado en pizarra, pero en sus ojos brillaba una resolución inquebrantable.
 
 —Seguiré siendo una sombra en las colinas, cachorro. Cazaré a la rata que vendió a tus padres. Y vigilaré que ninguno de los viejos bastardos de ese castillo se atreva a ponerte una mano encima sin pagar el precio en sangre.
+

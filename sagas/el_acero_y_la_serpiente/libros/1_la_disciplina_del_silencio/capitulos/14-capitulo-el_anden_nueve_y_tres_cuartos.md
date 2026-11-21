@@ -1,0 +1,34 @@
+# CAPÍTULO 14
+## El andén nueve y tres cuartos
+
+El andén olía a carbón ardiente, a plumas húmedas de lechuza y al perfume pesado de las familias aristocráticas que despedían a sus hijos bajo los arcos de hierro forjado.
+
+A lo largo de las vías, el Expreso de Hogwarts refulgía con su pintura escarlata lavada por la lluvia matinal, arrojando nubes de vapor denso que borraban los rostros de la multitud. Los gatos maullaban entre las piernas de los viajeros, los sapos croaban dentro de cajas de cartón con agujeros y en lo alto de los carros las jaulas de aves rapaces sacudían las rejas con aleteos secos.
+
+Harry empujó su carrito esquivando a un grupo de estudiantes de tercer año que discutían sobre la liga de Quidditch. No buscaba caras conocidas ni intentaba llamar la atención; caminaba pegado a la línea de los vagones, examinando la estructura del tren con ojos metódicos.
+
+El tren tenía ocho coches de pasajeros. Los compartimentos de cabeza estaban ocupados por prefectos con insignias plateadas en las solapas; los del medio albergaban a los clanes ruidosos de Gryffindor y Hufflepuff; y los vagones de cola, más oscuros y alejados del bullicio de los andenes, parecían reservados por costumbre no escrita para los alumnos que preferían la intimidad de las familias antiguas.
+
+Harry eligió el penúltimo vagón.
+
+Subió el baúl de fresno por los tres peldaños de latón con un esfuerzo medido de la espalda, sin pedir ayuda a los mozos de estación. Arrastró el equipaje por el pasillo estrecho con piso de linóleo rayado hasta encontrar un compartimento vacío en el extremo sur, donde la ventanilla daba hacia el muro de ladrillo del andén en lugar de hacia la multitud.
+
+Metió el baúl bajo el asiento de terciopelo verde oscuro, comprobó que el pestillo de la puerta corrediza de cristal ahumado funcionaba con suavidad y se sentó junto a la ventana, cruzando los brazos sobre el pecho.
+
+A través del cristal, Harry observó el teatro de despedidas.
+
+A treinta pasos de su ventanilla, una familia de pelo pelirrojo encendido se agolpaba en torno a un muchacho pecoso de nariz manchada: la madre le limpiaba la cara con un pañuelo de papel mientras dos gemelos idénticos bromeaban tirando petardos al suelo.
+
+Más allá, recortada bajo la sombra de un arco gótico, la silueta inconfundible de la Casa Malfoy dominaba el espacio como un monumento funerario de marfil.
+
+Lucius Malfoy permanecía inmóvil, apoyado en su bastón de cabeza de serpiente de plata, hablando en voz baja con un hombre rechoncho de capa morada: Cornelius Fudge, el ministro de Magia en persona. A dos pasos de su padre, Lyra Malfoy escuchaba las instrucciones con las manos enguantadas en piel de dragón cruzadas sobre el vientre, la barbilla alzada y una túnica de viaje de seda gris perla que destacaba con soberbia entre el paño ordinario de los demás alumnos.
+
+La niña no sonreía; no abrazaba a sus padres. Cuando Lucius terminó de hablar, la muchacha inclinó la cabeza con una cortesía milimétrica, recogió su baúl de cuero repujado con el escudo de los Malfoy y subió al tren con el porte de una general que pasa revista a un destacamento de frontera.
+
+El silbato de la locomotora desgarró el aire con un bramido metálico que hizo vibrar los cristales.
+
+Las puertas comenzaron a cerrarse de golpe a lo largo de todo el convoy. El tren dio una sacudida sorda hacia adelante, los engranajes chirriaron contra los raíles de acero y el andén nueve y tres cuartos empezó a deslizarse lentamente hacia atrás, disolviéndose en una bruma blanca de vapor y pañuelos agitados.
+
+Harry sintió la aceleración rítmica del viaje en el estómago.
+
+Metió la mano derecha en el bolsillo de la chaqueta y acarició la madera lisa del acebo. El viaje hacia el norte había comenzado; y en ese tren nadie sabía que el muchacho de la cicatriz no venía a ser salvado por nadie.

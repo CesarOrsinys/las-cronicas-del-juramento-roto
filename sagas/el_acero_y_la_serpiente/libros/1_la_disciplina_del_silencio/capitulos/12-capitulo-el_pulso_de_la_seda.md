@@ -80,3 +80,4 @@ La vio cruzar la puerta de la sastrería, donde un hombre alto de cabello platin
 Harry pagó sus tres túnicas con seis galeones de oro contados al milímetro y recogió sus paquetes.
 
 Al salir a la lluvia del Callejón Diagon, donde Sirius lo esperaba entre las sombras de los boticarios, Harry no sentía fatiga ni temor. Sentía la certeza de que el juego había comenzado antes de subir al tren; y la heredera de los Malfoy era exactamente el tipo de adversario para el que había sido forjado en los riscos de Yorkshire.
+

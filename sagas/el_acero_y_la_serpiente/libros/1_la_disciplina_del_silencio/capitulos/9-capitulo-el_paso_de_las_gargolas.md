@@ -56,3 +56,4 @@ Harry asintió con una inclinación mínima de la cabeza. Apretó la llave de hi
 *Entra, forastero, pero ten cuidado con lo que te espera en el pecado de la codicia...*
 
 Harry cruzó el umbral sin dudar. La codicia era para los débiles; él había venido a buscar las herramientas para no volver a ser jamás una víctima.
+

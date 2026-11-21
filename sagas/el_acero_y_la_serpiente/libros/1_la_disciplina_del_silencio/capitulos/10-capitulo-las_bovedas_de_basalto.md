@@ -74,3 +74,4 @@ Harry rozó la placa con la yema del pulgar, sintiendo la vibración residual de
 Salieron de la bóveda y la puerta de hierro negro se cerró de nuevo con un estampido sordo que resonó por los abismos de Gringotts.
 
 Al volver a subir al vagoncito para emprender el regreso hacia la superficie, Harry no miraba las monedas en su bolsa. Miraba hacia la oscuridad que quedaba atrás, consciente de que ahora poseía los medios financieros para sostener una guerra prolongada si las cosas se torcían en las aulas del castillo.
+

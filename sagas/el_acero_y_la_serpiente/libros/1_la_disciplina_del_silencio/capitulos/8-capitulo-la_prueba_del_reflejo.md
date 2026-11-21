@@ -70,3 +70,4 @@ Harry sostuvo la mirada gris de su padrino sin pestañear.
 —Estás listo para no morir el primer día —corrigió Sirius con aspereza pragmática—. Ahora entra en la torre y recoge tus cosas. Las lechuzas del Profeta matutino acaban de pasar sobre el valle con la edición especial de agosto. El Wizengamot ha ordenado a los duendes de Gringotts que bloqueen los movimientos sospechosos de las cámaras antiguas. Si queremos entrar en Londres y salir con tus libros antes de que los sabuesos de Crouch nos cierren el paso, tenemos que estar en el río antes de que caiga la noche.
 
 Harry asintió una sola vez. No hizo preguntas innecesarias. Se dio la vuelta y cruzó el arco de piedra hacia el interior de Blackstone Tor, dejando atrás los páramos donde había aprendido que la magia no era un regalo de los cielos, sino un filo que se afilaba con la propia voluntad.
+
