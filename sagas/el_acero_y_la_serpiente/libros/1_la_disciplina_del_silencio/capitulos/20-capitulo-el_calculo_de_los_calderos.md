@@ -1,0 +1,76 @@
+# CAPÍTULO 20
+## El cálculo de los calderos
+
+Las mazmorras de Hogwarts estaban excavadas bajo el lecho de roca del lago negro. El aire allí abajo era diez grados más frío que en el resto del castillo, húmedo y cargado de un olor penetrante a azufre quemado, a vinagre de estramonio y a vísceras de animales conservadas en alcohol de quemar dentro de grandes frascos de vidrio que se alineaban en las paredes de piedra caliza.
+
+A las dos de la tarde del viernes, los alumnos de primer año de Gryffindor y Slytherin ocupaban los bancos de trabajo de piedra de dos en dos, separados por el pasillo central como dos batallones en tregua forzada.
+
+Harry compartía mesa con Neville Longbottom, que ya había logrado volcar su balanza de latón dos veces antes de que el profesor entrara en la sala. Al otro lado del pasillo, sentada en el primer banco con la espalda recta y el instrumental de plata dispuesto con simetría milimétrica, Lyra Malfoy contemplaba a los de Gryffindor con su habitual expresión de fría superioridad.
+
+La puerta de madera maciza se abrió de golpe con un estruendo que hizo temblar los frascos de la estantería.
+
+Severus Snape entró en la mazmorra como una ráfaga de viento negro. Su capa ondeaba a su espalda como las alas de un murciélago gigante y su paso era tan rápido que la corriente de aire apagó dos de las antorchas laterales. Subió a la tarima del profesor, se volvió bruscamente y barrió el aula con dos ojos negros que no tenían brillo, pozos oscuros y vacíos donde solo ardía una malevolencia fría y calculada.
+
+—En esta clase no habrá estúpidos movimientos de varita ni tontos encantamientos —dijo Snape en un tono bajo, casi un susurro, pero tan nítido que obligó a los alumnos a contener la respiración—. Por lo tanto, no espero que muchos de ustedes aprecien la sutil ciencia y el arte exacto que es la preparación de pociones.
+
+El profesor se apoyó sobre el pupitre, inclinándose hacia adelante.
+
+—Sin embargo, para aquellos pocos elegidos que posean la predisposición adecuada, puedo enseñarles cómo encantar la mente y engañar a los sentidos; cómo embotellar la fama, cocinar la gloria e incluso detener la muerte.
+
+El silencio era absoluto. En la bancada de Slytherin, Lyra Malfoy sostenía la pluma con los dedos inmóviles, escuchando el discurso con la complacencia de quien se sabe parte de esos «pocos elegidos».
+
+Snape dio dos pasos lentos hacia la fila de Gryffindor y clavó su mirada cetrina directamente en el rostro de Harry.
+
+—¡Potter! —ladró el hombre de repente—. ¿Qué obtendría si añado raíz de asfódelo en polvo a una infusión de ajenjo?
+
+Harry no bajó la vista hacia su manual ni dudó medio segundo. Recordó las noches de insomnio en Blackstone Tor repasando los tomos antiguos de botánica mágica que Sirius había rescatado de las arquetas familiares.
+
+—Una poción somnífera de potencia extrema, profesor —respondió Harry con voz firme y serena—. Se conoce como el Filtro de Muertos en Vida.
+
+Los ojos de Snape se entrecerraron con una frialdad peligrosa. No esperaba una respuesta inmediata de un muchacho que supuestamente había crecido con muggles.
+
+—¿Dónde buscarías si te pidiera que me trajeras un bezoar, Potter?
+
+—En el estómago de una cabra, señor —repuso Harry sin alterar el pulso—. Es una masa de materia no digerida que neutraliza la mayoría de los venenos de origen vegetal y animal, con excepción de la ponzoña de basilisco y las toxinas de creación alquímica avanzada.
+
+En el banco contiguo, Hermione Granger bajó lentamente el brazo que había levantado con desesperación, mirando a Harry con una mezcla de frustración y desconcierto.
+
+Al otro lado del pasillo, Lyra Malfoy ladeó la cabeza una pulgada, con los ojos grises fijos en el perfil de Harry. Había reconocido la referencia a la «creación alquímica avanzada», un concepto que solo figuraba en tratados de nivel EXTASIS restringidos por el Ministerio.
+
+Snape dio un paso más hacia el pupitre de Harry. La sombra de su figura alta cubrió la mesa de trabajo como un sudario negro. En su rostro no había satisfacción por la brillantez del alumno; había una aversión física, un resentimiento podrido que parecía exigir una falta para poder castigarla.
+
+—¿Y cuál es la diferencia entre el acónito y la luparia, Potter?
+
+—No hay diferencia, señor —contestó Harry, sosteniendo la mirada del profesor de pociones sin pestañear—. Son dos nombres para la misma planta del género *Aconitum*, que también se conoce como capucha de monje. Sus alcaloides son altamente tóxicos si no se estabilizan con raíz de mandrágora hervida en luna menguante.
+
+El silencio en la mazmorra se volvió tan denso que el goteo del agua subterránea resonó como campanadas fúnebres.
+
+Snape apretó los labios hasta convertirlos en una línea blanca y delgada. Sus ojos se desviaron hacia la cicatriz en la frente del muchacho, buscando una grieta de arrogancia que le recordara a James Potter, pero solo encontró la mirada gélida y analítica de quien mide a un enemigo en el foso.
+
+—Parece que la fama no lo es todo, después de todo… ¿verdad, Potter? —dijo Snape con un veneno arrastrado—. Aunque veo que alguien se ha tomado la molestia de abrir un libro antes de presentarse en mi clase. ¿Por qué no están anotando todo esto?
+
+Los alumnos comenzaron a raspar los pergaminos con sus plumas en un frenesí de tinta y carraspeos.
+
+Snape dio media vuelta hacia la pizarra.
+
+—Hoy prepararemos una cura sencilla para los forúnculos. Pesen las púas de puercoespín, machaquen los colmillos de serpiente en el mortero de piedra y asegúrense de retirar el caldero del fuego antes de añadir las púas, a menos que deseen derretir el suelo de mi aula. Tienen cuarenta minutos.
+
+La mazmorra se llenó al instante del humo blanco y denso de decenas de calderos de peltre encendidos sobre quemadores de gas.
+
+Harry comenzó a trabajar con movimientos milimétricos. No usó la fuerza bruta para triturar los colmillos de serpiente; utilizó el talón del mortero en un movimiento circular de rotación que pulverizó el veneno cristalizado sin generar polvo residual. A su lado, apartó suavemente la mano temblorosa de Neville cuando el muchacho intentaba echar las púas con el caldero aún sobre la llama azul.
+
+—Espera a que el líquido baje a setenta grados —susurró Harry a Neville en un tono seco que no admitía réplica—. Si no disipas el calor, el ácido se come el peltre.
+
+Neville asintió con los ojos llenos de gratitud muda y retiró el fuego con las tenazas.
+
+Al cabo de treinta minutos, el caldero de Harry emitía un humo tenue de un color verde manzana límpido y perfecto, con una densidad suave que olía a resina fresca de pino.
+
+Al otro lado del pasillo, el caldero de Lyra Malfoy mostraba exactamente el mismo tono de verde translúcido.
+
+La muchacha rubia apagó su quemador con un movimiento elegante, limpió su varita con un pañuelo de lino y clavó sus ojos grises en el caldero de Harry. Durante dos segundos, sus miradas se cruzaron a través del humo cruzado de las pociones: dos mentes que se sabían por encima de la masa gregaria del aula, midiendo la precisión del contrario sin conceder un solo cumplido.
+
+Snape pasó junto a la mesa de Harry. Examinó el color de la poción con el ceño fruncido, buscando un grumo o una quemadura en el fondo del recipiente. Al no encontrar nada que reprochar, soltó un bufido despectivo y pasó de largo hacia el fondo de la sala, donde la poción de Seamus Finnigan ya amenazaba con perforar el suelo de granito.
+
+Harry tomó una muestra de su preparado en un vial de cristal transparente, lo selló con cera roja y anotó su nombre en la etiqueta con tinta indeleble.
+
+La primera prueba con el jefe de la Casa de Slytherin había sido superada; pero Harry sabía que aquel hombre no descansaría hasta encontrar la rendija por donde clavar su aguijón.

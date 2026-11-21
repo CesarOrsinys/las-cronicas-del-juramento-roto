@@ -1,0 +1,104 @@
+# CAPÍTULO 23
+## El cerrojo del tercer piso
+
+El pasadizo estrecho tras el tapiz de la batalla de Ottery olía a polvo acumulado durante siglos, a telarañas resecas y al excremento fósil de los murciélagos de piedra que anidaban en las cornisas.
+
+Harry avanzaba en cabeza en cuclillas, apoyando las yemas de los dedos en la pared húmeda para mantener la dirección sin encender la varita. A su espalda, Lyra Malfoy se movía con una ligereza sorprendente para una alumna de primer año, conteniendo la respiración y evitando que los pliegues de su capa rozaran las vigas podridas; al final de la fila, Ron Weasley avanzaba tropezando y ahogando toses secas por el polvo.
+
+El túnel desembocó en una puerta de madera baja atrancada con un cerrojo simple de latón.
+
+Harry deslizó el pestillo con cuidado y asomó la vista hacia el exterior.
+
+Estaban en el corredor del tercer piso, en el ala derecha del castillo: el territorio prohibido que Albus Dumbledore había vetado en el banquete inaugural bajo amenaza de *«una muerte muy dolorosa»*.
+
+El pasillo estaba desierto, sumido en una penumbra azulada por la luna que entraba a través de una hilera de ventanas altas y estrechas. No había antorchas encendidas ni tapices en los muros; solo losas frías de granito y un silencio sepulcral que parecía advertir que ningún pie humano debía pisar aquel suelo.
+
+A veinte pasos a su derecha, los pasos apresurados de Filch y el cascabel de la *Señora Norris* resonaron subiendo por la escalera de caracol.
+
+—Viene hacia aquí —susurró Ron con la voz rota por el pánico—. Estamos atrapados. Esta ala es un callejón sin salida.
+
+Harry miró a lo largo del corredor. Al final del pasillo solo había una puerta: una hoja colosal de madera de roble negro reforzada con planchas de hierro y cerrada con un candado de tres cerrojos que parecía sacado de una celda de alta seguridad.
+
+—Hacia la puerta —ordenó Harry, echando a correr pegado al zócalo.
+
+Llegaron frente al portalón en cuatro segundos. Ron se abalanzó contra la manija de hierro y tiró de ella con desesperación, pero la madera no cedió un solo milímetro.
+
+—¡Está cerrada! —gimió el pelirrojo—. ¡Estamos muertos! ¡Filch nos va a encadenar en las mazmorras!
+
+—Aparta, idiota —siseó Lyra, empujando a Ron hacia un lado con el hombro.
+
+La muchacha extrajo su varita de espino, apuntó directamente al ojo del candado de hierro y susurró con una pronunciación impecable y seca:
+
+—*¡Alohomora!*
+
+Un chasquido metálico resonó en el interior del mecanismo: el resorte de plomo cedió, el candado cayó sobre la madera con un golpe sordo y la pesada puerta se abrió hacia adentro dos pulgadas.
+
+Los tres se deslizaron hacia el interior de la estancia en el mismo instante en que el farol de Filch proyectaba su luz amarilla sobre la esquina del corredor. Harry empujó la puerta hasta cerrarla y pasó el cerrojo interior sin hacer ruido.
+
+—Por poco —resopló Ron, dejándose caer contra la pared con la mano en el pecho—. Creí que nos…
+
+—Cállate —cortó Harry.
+
+La voz de Harry no fue un susurro de advertencia; fue un látigo helado que paralizó a los dos en el acto.
+
+El chico no miraba la puerta que acababan de cerrar. Estaba inmóvil en el centro de la habitación, con la varita de acebo en la mano derecha y los ojos verdes fijos en la penumbra del fondo.
+
+La habitación no era un almacén abandonado ni un aula en desuso.
+
+Era una cámara circular de piedra ciclópea. Y el espacio entero, desde el suelo hasta las vigas del techo, estaba ocupado por una masa viva, monstruosa y oscura que respiraba con el bramido de tres fuelles de forja.
+
+Un perro.
+
+Pero no era un animal de este mundo.
+
+Tenía el tamaño de un elefante joven, con un pelaje azabache apelmazado que brillaba con reflejos grasientos bajo la escasa luz de la rendija. Y de sus hombros colosales no nacía un solo cuello: nacían tres cabezas gigantescas, con hocicos armados de colmillos como dagas de trinchera, ojos inyectados en sangre que parpadeaban en direcciones distintas y tres lenguas viscosas que goteaban hilos de saliva espesa sobre las losas de piedra.
+
+La bestia estaba durmiendo sobre sus cuartos traseros, pero el sonido de la puerta al cerrarse acababa de despertar a la cabeza central.
+
+Una de las mandíbulas se abrió en un bostezo cavernoso que dejó al descubierto una garganta negra como la brea; luego, los seis ojos del monstruo convergieron lentamente sobre los tres intrusos arrinconados junto a la entrada.
+
+Ron Weasley soltó un chillido que murió en su garganta antes de salir, encogiéndose contra el marco de madera con las rodillas temblando.
+
+Lyra Malfoy dio un paso atrás muy despacio, con la varita de espino alzada y el rostro desprovisto de toda sangre, midiendo con terror auténtico las proporciones de una criatura que superaba cualquier manual de criaturas mágicas que hubiera leído en Wiltshire.
+
+Harry no retrocedió.
+
+Sus ojos verdes no se quedaron fijos en los colmillos ni en la baba que caía sobre el pavimento.
+
+Miraron al suelo, exactamente entre las cuatro patas delanteras del animal.
+
+Allí, encajada en el pavimento de granito y disimulada entre las sombras de las garras del monstruo, descansaba una trampilla cuadrada de madera de tejo con una anilla de latón oscuro.
+
+El monstruo no estaba allí por accidente; estaba apostado como centinela sobre un acceso subterráneo que descendía hacia los cimientos más profundos del castillo.
+
+Las tres cabezas del perro emitieron un gruñido gutural al unísono, un trueno que hizo vibrar las losas bajo los pies de los chicos y que anunció la embestida inminente.
+
+—La puerta —dijo Harry en un susurro gélido, sin apartar la mirada de las tres fauces—. Abran la puerta despacio. Sin aspavientos.
+
+Lyra, haciendo acopio de una disciplina de acero que la salvó del colapso, deslizó el cerrojo hacia atrás con dedos firmes y empujó la madera hacia el pasillo.
+
+Los tres salieron hacia el corredor del tercer piso en un solo movimiento coordinado en el segundo exacto en que las mandíbulas de la cabeza izquierda se cerraban de golpe contra el aire a un palmo de la cara de Ron.
+
+Harry cerró la puerta de roble con un golpe seco, pasó el candado y se apoyó contra la madera mientras los aullidos enfurecidos de la bestia de tres cabezas retumbaban amortiguados a través del grosor de la piedra.
+
+Filch ya no estaba en el pasillo; el estruendo interior del monstruo debió de haberlo espantado hacia las plantas inferiores.
+
+Ron Weasley se desplomó de rodillas sobre las losas frías, respirando a bocanadas con la cara bañada en sudor frío.
+
+—¿Qué… qué demonios era eso? —gimió el pelirrojo—. ¿Qué clase de colegio tiene un monstruo de tres cabezas encerrado en un aula del tercer piso?
+
+Lyra Malfoy se apoyó contra la pared opuesta, alisándose los pliegues de su capa con manos que temblaban ligeramente a pesar de su esfuerzo por mantener el porte aristocrático. Levantó la vista hacia Harry, con los ojos grises llenos de una mezcla de shock y lucidez.
+
+—¿Viste lo que había en el suelo? —preguntó la muchacha en un susurro tenso.
+
+Harry asintió despacio, guardando la varita de acebo en la manga de su túnica.
+
+—Una trampilla de madera con cerrojo de tres puntos. No está guardando la habitación; está guardando lo que hay debajo.
+
+Lyra sostuvo la mirada del chico de Gryffindor en la penumbra del corredor. Por primera vez desde que se habían cruzado en Madame Malkin, no había desdén ni rivalidad de casas en sus facciones; había la complicidad tácita de dos mentes que acababan de descubrir que el castillo de Hogwarts escondía un secreto por el que alguien estaba dispuesto a alimentar a un monstruo enjaulado.
+
+—Dumbledore no tiene un centinela de esa escala para custodiar libros de texto, Potter —dijo Lyra en voz baja.
+
+—Lo sé —repuso Harry con una frialdad que heló el pasillo—. Y quienquiera que intente bajar por esa trampilla va a necesitar más que un encantamiento de apertura para no salir en pedazos.
+
+Sin decir una palabra más, se separaron en la bifurcación del descansillo: Lyra descendió hacia las mazmorras de las serpientes y Harry guio al tembloroso Weasley hacia las alturas de la torre, con el mapa de la trampilla del tercer piso grabado a fuego en su memoria como el siguiente objetivo a batir.
