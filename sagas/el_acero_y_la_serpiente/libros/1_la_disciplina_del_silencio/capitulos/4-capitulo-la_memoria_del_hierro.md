@@ -64,3 +64,4 @@ Harry no discutió. En menos de dos minutos, el hatillo estuvo atado con nudos m
 —¿Adónde vamos?
 
 —Hacia el norte —respondió Sirius, apagando la llama del candil con un soplido seco y cubriendo el sótano en una oscuridad repentina donde solo brillaban sus ojos grises—. A los páramos de Yorkshire. Allí mi familia tenía un pabellón de caza abandonado antes de que mi abuelo decidiera que todo lo que no oliera a Londres era plebeyo. Nadie mira en las ruinas de piedra vieja. Y allí, muchacho, vas a aprender a sostener una vara antes de que el mundo mágico intente ponerte de rodillas.
+

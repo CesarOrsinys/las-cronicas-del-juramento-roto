@@ -70,3 +70,4 @@ Harry apretó la rama de espino entre sus dedos. La madera le raspaba la piel de
 El prófugo de Azkaban sostuvo la mirada de su ahijado en la penumbra de la torre. Por primera vez, vio en aquellos ojos verdes no solo el recuerdo de Lily y James, sino una determinación propia, oscura y templada al fuego del abandono.
 
 —Nadie te pide que te escondas, cachorro —sentenció Sirius con voz grave—. Te pido que aprendas a morder en silencio antes de enseñar los colmillos.
+

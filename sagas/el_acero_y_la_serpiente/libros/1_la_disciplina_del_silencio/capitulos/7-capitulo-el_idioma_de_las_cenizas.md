@@ -1,0 +1,64 @@
+# CAPÍTULO 7
+## El idioma de las cenizas
+
+La lluvia de Yorkshire golpeaba las aspilleras de la torre con la insistencia de un martillo de zapatero. Dentro de Blackstone Tor, la humedad era un animal frío que se filtraba a través de las losas de piedra y empapaba las mantas raídas donde dormían.
+
+En el rincón más seco de la sala de armas, sobre un tablero de roble carcomido que servía de mesa, Sirius había desplegado un mapa desgarrado del Londres mágico y tres pergaminos amarillentos cubiertos de anotaciones con tinta desvaída.
+
+Al lado del mapa, iluminada por la llama temblorosa de una vela de sebo, descansaba una daga corta de empuñadura de plata oscurecida, grabada con el escudo heráldico de la Casa Black: dos galones partidos y tres estrellas de ocho puntas.
+
+Harry estaba sentado frente al tablero, con una pluma de ganso en la mano y una tira de pergamino en blanco ante él. No estaba practicando caligrafía; estaba trazando el organigrama del Ministerio de Magia según las explicaciones metódicas que Sirius le dictaba desde hacía dos horas.
+
+—El Wizengamot no es un tribunal de justicia, muchacho —dijo Sirius, caminando de un lado a otro detrás del chico con pasos silenciosos de felino—. Grábate eso en la cabeza antes de que el director te llene los oídos con discursos sobre la armonía y la verdad. El Wizengamot es un parlamento de acreedores. Cincuenta familias de sangre pura sentadas en bancos de ciruelo pulido, cobrándose favores de hace trescientos años y decidiendo quién va a Azkaban según cuánto oro haya depositado esa mañana en las arcas del ministro.
+
+Sirius se detuvo junto al hombro de Harry y señaló con el dedo índice una línea en el esquema.
+
+—Aquí. Departamento de Ejecución de la Ley Mágica. En los papeles parece una oficina de policía. En la práctica es el brazo armado de las familias que ganaron la última guerra. Barty Crouch lo convirtió en un tribunal de excepción permanente; los aurores no son caballeros con capa que defienden a los huérfanos: son ejecutores con licencia para disparar maleficios imperdonables si el sospechoso no tiene un apellido lo bastante rancio como para comprar un indulto.
+
+Harry trazó un círculo negro alrededor del nombre de Crouch.
+
+—¿Y los Malfoy? —preguntó Harry, recordando una conversación que Sirius había mantenido en voz baja la noche anterior mientras limpiaban la carne seca—. Dijiste que su nombre figuraba en todas partes.
+
+Una mueca de desprecio amargo tensó la mandíbula de Sirius.
+
+—Lucius Malfoy. Una serpiente albina con bastón de plata y el bolsillo lleno de galeones. Durante la guerra con Voldemort, Lucius era uno de los lugartenientes del círculo íntimo; vestía túnica negra con capucha de seda y lideraba las cacerías nocturnas contra los miembros de la Orden. Pero cuando el bastardo cayó en Godric's Hollow… cuando la maldición le rebotó en la frente a un crío de un año… ¿sabes qué hizo Lucius?
+
+Harry levantó la vista del pergamino.
+
+—Pagó.
+
+—Pagó hasta la última moneda de sus antepasados —afirmó Sirius con un chasquido de dientes—. Dijo que había actuado bajo la maldición *Imperius*. Dijo que estaba confuso, que había sido una víctima del terror, que su honor familiar había sido mancillado por una fuerza superior. Y el Wizengamot, con ministros que debían tres hipotecas a las empresas de los Malfoy, se tragó la mentira con lágrimas en los ojos. Hoy Lucius se pasea por el atrio del Ministerio cenando con el ministro Fudge y decidiendo los presupuestos de Hogwarts, mientras yo me pudro en los periódicos como un traidor sanguinario.
+
+Harry observó la tinta secándose sobre el pergamino. No sentía indignación moral; sentía la fría fascinación de quien comprende por fin las reglas ocultas de un juego amañado.
+
+—Entonces la ley no protege a nadie que no tenga poder para forzarla —dijo el chico con voz plana.
+
+—La ley es un arma, como una varita o un veneno en la copa —sentenció Sirius, apoyando las dos manos sobre el tablero y mirándolo fijamente a los ojos—. Y los que no aprenden a manejarla terminan en el fondo de una zanja. En Hogwarts te van a rodear los cachorros de esas mismas familias. La heredera de los Malfoy… la hija de Lucius… va a entrar en tu mismo curso este año. Su padre la ha educado desde la cuna para ser un halcón de presa: protocolo, veneno social, cálculo de alianzas y desprecio absoluto por cualquiera que no tenga seis generaciones de sangre pura en su árbol.
+
+Harry frunció levemente el ceño.
+
+—¿Una niña?
+
+—No cometas la imbecilidad de subestimar a alguien por su sexo o su edad, Harry —advirtió Sirius con una dureza tajante que le heló la nuca al muchacho—. Esa cría ha crecido en una mansión de Wiltshire donde los elfos domésticos son castigados con fuego y donde las conversaciones de sobremesa versan sobre cómo sobornar a los jefes de departamento. Tiene el orgullo de una reina y la frialdad de su madre, Narcissa. Si te cruzas en su camino y la tratas como a una colegiala de Surrey, te destrozará antes de que termine el primer trimestre.
+
+Harry asimiló la advertencia sin pestañear. Anotó el nombre de *Lyra Malfoy* en un lateral del pergamino, subrayándolo con un trazo fino y recto.
+
+—¿Y qué pasa si me busca para pelear?
+
+—No va a buscarte para pelear a golpes como tu primo Dudley —repuso Sirius con una risa corta y áspera—. Las serpientes de sangre pura no muerden en la calle; te aíslan en el aula, manipulan las notas de los profesores, te provocan en público para que pierdas los nervios y luego usan las normas del colegio para que te expulsen. Tu respuesta no puede ser la furia de un Gryffindor idiota. Tienes que ser más frío que ella. Tienes que leer cada una de sus jugadas antes de que abra la boca. Si ella mide el terreno con desprecio, tú debes medirla a ella con la paciencia de un verdugo.
+
+Harry dejó la pluma sobre el tablero. Miró sus propias manos: estaban sucias de hollín y raspadas por los entrenamientos en la piedra, pero no temblaban.
+
+—La mediré.
+
+Sirius se irguió despacio, frotándose las costillas con una mueca de dolor viejo. Caminó hacia la aspillera que daba al sur, donde la niebla comenzaba a desgarrarse revelando una línea grisácea en el horizonte.
+
+—Nos quedan tres días en esta torre —dijo Sirius, sin volverse—. El primero de agosto tenemos que estar en Londres. Comprar tus libros, conseguirte una túnica que no huela a muerto y meterte en una casa segura cerca de King's Cross. El cerco del Ministerio se va a cerrar en cuanto los periódicos publiquen la lista de matriculados en la escuela.
+
+Harry se puso de pie y comenzó a enrollar los pergaminos con movimientos precisos.
+
+—¿Y tú qué harás cuando yo suba al tren?
+
+Sirius se volvió despacio. Su silueta recortada contra la luz gris parecía la de un espectro tallado en pizarra, pero en sus ojos brillaba una resolución inquebrantable.
+
+—Seguiré siendo una sombra en las colinas, cachorro. Cazaré a la rata que vendió a tus padres. Y vigilaré que ninguno de los viejos bastardos de ese castillo se atreva a ponerte una mano encima sin pagar el precio en sangre.
