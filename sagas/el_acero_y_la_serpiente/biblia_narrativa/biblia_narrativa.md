@@ -2,8 +2,8 @@
 
 ## 1. Premisa y Visión General
 - **Título de la Saga:** *El Acero y la Serpiente*
-- **Libro 1:** *La Disciplina del Silencio* (Estructura expandida: 24 capítulos + Prólogo)
-- **Plataforma objetivo:** FanFiction.net (estilo limpio, prosa densa, inmersión sensorial, diálogos con subtexto y tensión sin ping-pong).
+- **Libro 1:** *La Disciplina del Silencio* (Gran Escala: 36 Capítulos + Prólogo)
+- **Plataforma objetivo:** FanFiction.net / Lector Editorial Atelier
 - **Inspiración y tono:** Canon estricto de los libros de J.K. Rowling tamizado por un prisma pragmático, oscuro y cerebral (Patrick Rothfuss en la prosa sensorial y rítmica; George R.R. Martin en la crudeza de la política de clanes y la fragilidad biológica ante la violencia mágica). Cero maniqueísmo infantil.
 
 ---
@@ -54,30 +54,53 @@
 
 ---
 
-## 4. Mapa de Adaptación — Libro 1: *La Disciplina del Silencio* (24 Capítulos + Prólogo)
+## 4. Mapa de Adaptación — Libro 1: *La Disciplina del Silencio* (36 Capítulos + Prólogo)
 
-0. **Prólogo: La sombra sobre Godric’s Hollow** — Duelo feroz en la noche del 31 de octubre de 1981. James y Sirius vs. Voldemort. La caída de los cimientos y el silencio tras la maldición.
-1. **El niño de la alacena** — Diez años de supervivencia en Privet Drive. La mente analítica de un muchacho que cuenta cada respiración y mide la hostilidad de su entorno.
-2. **El vidrio que se esfumó** — El incidente del zoológico. La tensión que quiebra la barrera y la mirada de la serpiente. El rescate de Canuto en el callejón de Surrey.
-3. **Las cartas de nadie** — Refugio en Rotherhithe. Sirius instruyendo a Harry sobre la magia y la verdad sobre James y Lily. La llegada de la carta de Hogwarts que quiebra el escondite.
-4. **La memoria del hierro** — Relato íntegro de la caída de Sirius: diez años en Azkaban, la naturaleza de los dementores, el odio frío como ancla y la fuga a nado en forma canina.
-5. **La senda de los brezos** — Huida al norte por vías férreas muggles. Llegada a la torre de Blackstone Tor en Yorkshire. Comienzo del adiestramiento marcial y el control del miedo.
-6. **El filo de la madera** — Instrucción de duelo sin varita: postura, equilibrio, lectura de trayectoria y reflejos. Harry forjando su disciplina corporal y mental.
-7. **El oro de las sombras** — Incursión encubierta en Londres a través del callejón Knockturn. La visita a Gringotts bajo falsa identidad y el manejo de los fondos familiares.
-8. **El mercader de caoba** — Encuentro clandestino en Ollivanders. La elección de la varita y la advertencia sobre el núcleo hermano.
-9. **El corte de la seda** — Primera colisión con Fem!Draco (Lyra Malfoy) en la sastrería de Madame Malkin. Dos depredadores midiendo estatus, frialdad y subtexto sin alzar la voz.
-10. **El andén de la bruma** — Despedida de Sirius en King's Cross. El abordaje del Expreso de Hogwarts y el mapeo táctico de los compartimentos.
-11. **El tablero del Expreso** — Harry observa las facciones en el tren. Rechaza la amistad fácil de Ron Weasley; segundo cruce medido con Fem!Draco y su séquito.
-12. **El juicio del paño** — La ceremonia del Sombrero Seleccionador. El debate interno de Harry con la reliquia milenaria. Asignación y lectura del claustro de profesores.
-13. **La primera vigilia** — La primera noche en el dormitorio. Harry no duerme: inicia el estudio sistemático en la biblioteca y la sala común desde la medianoche.
-14. **El cálculo de los calderos** — Primera clase de Pociones con Severus Snape en las mazmorras. Precisión quirúrgica contra la hostilidad del profesor. Fem!Draco toma nota.
-15. **La geometría del vuelo** — Clase de vuelo con la señora Hooch. El incidente del recordador visto como un problema balístico y de cálculo espacial.
-16. **La provocación del pasillo** — Desafío pactado a medianoche. Exploración nocturna del castillo no como travesura infantil, sino como cartografía de rutas de escape. Cruce con Fem!Draco.
-17. **La sangre en el lavabo** — La noche de Todos los Santos (Samhain). La incursión del troll en las mazmorras. Resolución fría y eficaz con uso del entorno sin aspavientos heroicos.
-18. **El equilibrio en la tormenta** — Primer partido de Quidditch. Boicot de la escoba analizado desde el aire; deducción de la fuente de la maldición desde las alturas.
-19. **El reflejo del poder** — Las vacaciones de invierno en un castillo vacío. El hallazgo del Espejo de Oesed: Harry no ve un hogar acogedor, ve el dominio sobre su propio destino y lo arrebatado.
-20. **La alquimia de Flamel** — Investigación sistemática en la sección restringida. Alianza táctica de estudio y desconfianza mutua con Fem!Draco en torno a la piedra filosofal.
-21. **El fuego en la ceniza** — La gestión logística de Norberto en la cabaña de Hagrid. La trampa del castigo nocturno como campo de prueba compartido con Fem!Draco.
-22. **La espesura de las raíces** — Internamiento en el Bosque Prohibido. La sangre plateada de unicornio, la aparición de la sombra encapuchada y la confirmación de la amenaza real.
-23. **El descenso por la piedra** — Avance por las cámaras subterráneas. Resolución analítica de cada trampa mediante lógica, contundencia y magia práctica.
-24. **El hombre de las dos caras** — Confrontación con Quirrell y la sombra de Voldemort ante el espejo. Escepticismo calculado ante el interrogatorio final de Dumbledore y pacto sellado con Fem!Draco antes del tren de regreso.
+### FASE I: LA FORJA EN LAS SOMBRAS (Capítulos 0 a 8)
+0. **Prólogo: La sombra sobre Godric’s Hollow** — Duelo en la noche de Samhain de 1981. Caída de James, colapso de los cimientos y arresto sumario de Sirius por Crouch.
+1. **El niño de la alacena** — Diez años de supervivencia en Privet Drive. Conteo de pasos, economía del dolor y control frío de los Dursley.
+2. **El vidrio que se esfumó** — El incidente del zoológico. Lenguaje pársel con la boa, amague de ataque contra Dudley y rescate de Canuto.
+3. **Las cartas de nadie** — Refugio en Rotherhithe. La revelación de la magia y la carta de Hogwarts que quiebra la clandestinidad.
+4. **La memoria del hierro** — Relato íntegro de Azkaban: los dementores, el odio frío como coraza y la fuga a nado en forma canina.
+5. **La senda de los brezos** — Huida al norte por trenes muggles. Llegada a la torre ancestral de Blackstone Tor en Yorkshire.
+6. **La doctrina de la vara** — Instrucción marcial sin varita: equilibrio, anulación del parpadeo instintivo y lectura de trayectorias.
+7. **El idioma de las cenizas** — Sirius instruye a Harry sobre la anatomía del Ministerio, el Wizengamot y la hipocresía de los linajes de sangre pura.
+8. **La prueba del reflejo** — Examen de combate físico en la torre antes de regresar al sur. Harry demuestra su frialdad ante el peligro simulado.
+
+### FASE II: EL MERCADO DE LOS BRUJOS (Capítulos 9 a 13)
+9. **El paso de las gárgolas** — Entrada clandestina a Londres por el callejón Knockturn con capas de ocultación y rostros cubiertos.
+10. **Las bóvedas de basalto** — Incursión en Gringotts. Manejo frío de los fondos de la Casa Potter sin levantar sospechas ante los duendes.
+11. **El secreto del tejo y el fénix** — Visita a Ollivanders a puerta cerrada. La elección de la varita de acebo y la advertencia sobre el núcleo hermano.
+12. **El pulso de la seda** — Sastrería de Madame Malkin. Primer choque dialéctico con Fem!Draco (Lyra Malfoy): medición de silencios y linaje.
+13. **La despedida en la bruma** — Últimas instrucciones de Sirius en King's Cross. El traspaso del reloj familiar y la orden de no mostrar los colmillos antes de tiempo.
+
+### FASE III: EL TABLERO DEL EXPRESO Y LA SELECCIÓN (Capítulos 14 a 18)
+14. **El andén nueve y tres cuartos** — Abordaje del Expreso de Hogwarts de incógnito. Inspección de rutas de escape en los vagones.
+15. **La geometría de los compartimentos** — Encuentro con Ron Weasley; Harry rechaza la charlatanería ruidosa. Segundo roce medido con Lyra Malfoy y su séquito.
+16. **La llegada al lago negro** — Cruce en barcas bajo la lluvia hacia el castillo de basalto. La perspectiva de Hogwarts como fortaleza antes que colegio.
+17. **El juicio del paño milenario** — El Sombrero Seleccionador. Debate mental riguroso entre la supervivencia de Slytherin y el filo de Ravenclaw/Gryffindor.
+18. **La primera vigilia** — La primera noche en el dormitorio. Harry no duerme: inicia el estudio sistemático en la sala común desde la medianoche.
+
+### FASE IV: EL CLAUSTRO DE PIEDRA Y LAS MAZMORRAS (Capítulos 19 a 24)
+19. **La tinta y el pergamino** — Primeras clases teóricas: Transfiguración con McGonagall y Encantamientos con Flitwick. Harry destaca por economía de movimientos.
+20. **El cálculo de los calderos** — Mazmorras con Severus Snape. Precisión milimétrica contra el escarnio público; Lyra Malfoy evalúa su aplomo.
+21. **La balística del aire** — Clase de vuelo con Madam Hooch. El incidente del recordador tratado como un problema de cálculo balístico e ingreso al equipo.
+22. **El reto de la medianoche** — Provocación calculada en el pasillo de los trofeos. No es una travesura infantil: es un reconocimiento táctico del castillo junto a Lyra Malfoy.
+23. **El cerrojo del tercer piso** — Huida de Filch y hallazgo del perro de tres cabezas (Fluffy). Harry analiza la trampilla y el mecanismo de guardia.
+24. **La sangre en el lavabo** — Samhain en Hogwarts. Incursión del troll en las mazmorras; resolución fría y eficaz usando la mampostería sin dramatismo heroico.
+
+### FASE V: EL INVIERNO Y EL CRISTAL DEL DESEO (Capítulos 25 a 30)
+25. **El vuelo sobre la escarcha** — Primer partido de Quidditch. Boicot de la escoba analizado desde el aire; deducción de la fuente del maleficio en la tribuna.
+26. **El castillo solitario** — Vacaciones de invierno con el colegio desierto. Harry explora la biblioteca restringida en busca de tratados alquímicos antiguos.
+27. **El cristal de Oesed** — Hallazgo del espejo milenario. Harry no ve un hogar familiar ingenuo: ve el dominio sobre su propio destino y lo arrebatado.
+28. **El ajedrez de las sombras** — Diálogo tenso con Albus Dumbledore junto al espejo. Harry finge sumisión mientras oculta su verdadera lectura del tablero.
+29. **La alquimia de Flamel** — Descifrando el enigma de Nicolas Flamel. Alianza de biblioteca y pacto tácito de información con Lyra Malfoy.
+30. **El fuego en la choza** — La incubación clandestina de Norberto en la cabaña de Hagrid. Harry diseña la logística para evacuar a la criatura sin delatar a su guardián.
+
+### FASE VI: LA CAÍDA DE LAS MÁSCARAS (Capítulos 31 a 36)
+31. **La trampa de la torre** — Entrega nocturna del dragón a los contactos de Charlie Weasley. Intercepción y castigo nocturno junto a Lyra Malfoy.
+32. **La espesura de las raíces** — Internamiento en el Bosque Prohibido. Rastreo de la sangre de unicornio y contacto con las manadas de centauros.
+33. **La sombra que bebe** — Encuentro con la entidad parasitaria en el claro del bosque. Peligro de muerte inminente compartido con Lyra Malfoy y rescate de Firenze.
+34. **El descenso por la piedra** — Las trampas bajo la trampilla: el Lazo del Diablo, las llaves aladas y el tablero de ajedrez gigante resueltos por contundencia y cálculo lógico.
+35. **El veneno y la llama** — El enigma de pociones de Snape y la entrada a la cámara final. Frialdad ante la prueba de fuego.
+36. **El rostro bajo el turbante** — Confrontación final con Quirrell y la sombra de Voldemort ante el espejo. Escepticismo ante el cierre de Dumbledore y pacto de invierno sellado con Lyra Malfoy en el andén de regreso.
