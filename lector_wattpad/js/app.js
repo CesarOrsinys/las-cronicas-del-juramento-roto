@@ -13,13 +13,21 @@ const state = {
     engine: 'neural', // 'neural' (Azure Edge Server) | 'local' (WebSpeech fallback)
     neuralVoices: [
       { id: 'es-ES-AlvaroNeural', name: '✨ Álvaro (España - Narrador Cálido)' },
-      { id: 'es-ES-RaquelNeural', name: '✨ Raquel (España - Narradora Expresiva)' },
+      { id: 'es-ES-ElviraNeural', name: '✨ Elvira (España - Serena y Literaria)' },
+      { id: 'es-AR-TomasNeural', name: '✨ Tomás (Argentina - Natural y Profundo)' },
+      { id: 'es-AR-ElenaNeural', name: '✨ Elena (Argentina - Expresiva)' },
+      { id: 'es-MX-JorgeNeural', name: '✨ Jorge (México - Barítono Cinemático)' },
       { id: 'es-MX-DaliaNeural', name: '✨ Dalia (México - Suave y Melódica)' },
-      { id: 'es-MX-JorgeNeural', name: '✨ Jorge (México - Profundo)' },
-      { id: 'es-CO-GonzaloNeural', name: '✨ Gonzalo (Colombia - Neutro)' },
-      { id: 'es-AR-TomasNeural', name: '✨ Tomás (Argentina - Natural)' }
+      { id: 'es-CO-GonzaloNeural', name: '✨ Gonzalo (Colombia - Neutro y Firme)' },
+      { id: 'es-CO-SalomeNeural', name: '✨ Salomé (Colombia - Clara y Fluida)' },
+      { id: 'es-CL-LorenzoNeural', name: '✨ Lorenzo (Chile - Moderado y Serio)' },
+      { id: 'es-CL-CatalinaNeural', name: '✨ Catalina (Chile - Pausada)' },
+      { id: 'es-PE-AlexNeural', name: '✨ Álex (Perú - Equilibrado)' },
+      { id: 'es-PE-CamilaNeural', name: '✨ Camila (Perú - Cálida)' },
+      { id: 'es-UY-MateoNeural', name: '✨ Mateo (Uruguay - Sereno)' },
+      { id: 'es-VE-SebastianNeural', name: '✨ Sebastián (Venezuela - Vigoroso)' }
     ],
-    selectedNeuralVoice: 'es-ES-AlvaroNeural',
+    selectedNeuralVoice: 'es-AR-TomasNeural',
     voices: [],
     selectedVoice: null,
     rate: 1.0,
@@ -505,8 +513,16 @@ function setupEventListeners() {
   }
   if (elTtsVoiceSelect) {
     elTtsVoiceSelect.addEventListener('change', (e) => {
-      const voiceURI = e.target.value;
-      state.tts.selectedVoice = state.tts.voices.find(v => v.voiceURI === voiceURI) || null;
+      const val = e.target.value;
+      localStorage.setItem('wattpad_tts_voice', val);
+      if (val.startsWith('neural:')) {
+        state.tts.engine = 'neural';
+        state.tts.selectedNeuralVoice = val.replace('neural:', '');
+      } else {
+        state.tts.engine = 'local';
+        const voiceURI = val.replace('local:', '');
+        state.tts.selectedVoice = state.tts.voices.find(v => v.voiceURI === voiceURI) || null;
+      }
       if (state.tts.isPlaying && !state.tts.isPaused) {
         speakParagraph(state.tts.currentParagraphIndex);
       }
@@ -562,10 +578,20 @@ function loadNeuralAndLocalVoices() {
     }
   }
 
-  // Por defecto: Álvaro Neural (Narrador literario de España)
-  elTtsVoiceSelect.value = 'neural:es-ES-AlvaroNeural';
-  state.tts.engine = 'neural';
-  state.tts.selectedNeuralVoice = 'es-ES-AlvaroNeural';
+  // Cargar voz guardada en localStorage o usar Tomás Neural por defecto
+  const savedVoice = localStorage.getItem('wattpad_tts_voice');
+  const defaultVoice = (savedVoice && elTtsVoiceSelect.querySelector(`option[value="${savedVoice}"]`)) 
+    ? savedVoice 
+    : 'neural:es-AR-TomasNeural';
+
+  elTtsVoiceSelect.value = defaultVoice;
+  if (defaultVoice.startsWith('neural:')) {
+    state.tts.engine = 'neural';
+    state.tts.selectedNeuralVoice = defaultVoice.replace('neural:', '');
+  } else {
+    state.tts.engine = 'local';
+    state.tts.selectedVoice = defaultVoice.replace('local:', '');
+  }
 }
 
 // Alternar reproducción / parada
