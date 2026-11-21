@@ -63,17 +63,15 @@ Vestía una túnica negra como la brea que apenas rozaba el suelo. Su piel era b
 
 —James Potter —dijo la figura con una voz sibilante y baja, carente de cualquier emoción humana—. Tan conmovedor empeñarse en jugar a las familias cuando el final ya estaba escrito.
 
-James no malgastó aire en responder. Con un latigazo seco de su brazo derecho, la mesa baja de roble y las dos butacas del salón se elevaron en el aire, transfigurándose en vuelo en enormes losas de granito macizo que se precipitaron contra el intruso como arietes de asedio.
+James no malgastó aire en responder. Con un latigazo seco de su brazo derecho, sin pronunciar una sola sílaba, la mesa baja de roble y las dos butacas del salón se elevaron en el aire, transfigurándose en vuelo en enormes losas de granito macizo que se precipitaron contra el intruso como arietes de asedio.
 
 Voldemort ni siquiera dio un paso atrás. Un leve chasquido de tejo bastó para desintegrar la primera losa en polvo mineral inofensivo; la segunda fue desviada contra el muro lateral, reventando el papel pintado y dejando al descubierto los ladrillos rojos.
 
-—*¡Confringo!* —rugió James desde el vano.
-
-El proyectil de fuego concentrado estalló a un palmo de la túnica oscura, neutralizado por un remolino invisible que absorbió el calor y lo devolvió convertido en una onda de choque gélida que arrojó a James contra el pasamanos de la escalera. El impacto le arrancó el aire de los pulmones, pero rodó de inmediato sobre el hombro izquierdo, evitando por una fracción de segundo un haz de luz verde esmeralda que carbonizó los tres primeros escalones con un chasquido seco.
+Con otro golpe de muñeca cortante y silencioso, James proyectó un estallido de fuego comprimido desde el vano. El proyectil estalló a un palmo de la túnica oscura, neutralizado por un remolino invisible que absorbió el calor y lo devolvió convertido en una onda de choque gélida que arrojó a James contra el pasamanos de la escalera. El impacto le arrancó el aire de los pulmones, pero rodó de inmediato sobre el hombro izquierdo, evitando por una fracción de segundo un haz de luz verde esmeralda que carbonizó los tres primeros escalones con un chasquido seco.
 
 *Avada Kedavra.*
 
-James sabía que los encantamientos de escudo eran papel mojado ante esa luz. Levantó la varita y arrancó de cuajo la barandilla de hierro de la escalera, doblándola en el aire mediante una transfiguración violenta para interponer una barrera metálica entre él y el pasillo.
+James sabía que los encantamientos de escudo eran papel mojado ante esa luz. Levantó la varita y arrancó de cuajo la barandilla de hierro de la escalera, doblándola en el aire mediante una transfiguración violenta y muda para interponer una barrera metálica entre él y el pasillo.
 
 El segundo rayo verde impactó de lleno contra el hierro. El metal no resistió la carga cinética del hechizo: explotó en una lluvia de esquirlas al rojo vivo que laceraron la mejilla y el hombro de James, arrojándolo sobre el suelo del vestíbulo.
 
@@ -91,21 +89,19 @@ El perro rodó por el suelo cubierto de cal y yeso, pero al incorporarse no hab�
 
 —¡James! —bramó Sirius Black, con la respiración entrecortada y la sangre brotándole de un corte profundo en la sien—. ¡Colagusano nos vendió! ¡La rata nos vendió!
 
-James escupió sangre en el entarimado y se alzó tambaleante, apoyando la espalda contra la pared para cuadrar la guardia junto a su hermano de juramento. Por un segundo, el pánico fue sustituido por la memoria muscular de siete años de duelos al límite.
+James escupió sangre en el entarimado y se alzó tambaleante, apoyando la espalda contra la pared para cuadrar la guardia junto a su hermano de juramento. No hubo gritos de hechizos ni consignas de duelo escolar; ambos combatían con la memoria muscular de siete años de duelos al límite, donde la magia se ejecutaba con la mente y el filo del movimiento.
 
-—¡Sincronizado! —gritó James.
+Se cruzaron en una pinza muda y feroz.
 
-—*¡Fulmen!* —rugió Sirius.
+La madera de Sirius cortó el aire de arriba abajo mientras James barría la suya a ras del suelo. En un mismo pulso silencioso, el entarimado bajo las botas de Voldemort se transformó instantáneamente en una superficie de hielo aceitoso al tiempo que un arco de descarga eléctrica púrpura y tres cuchillas de aire presurizado convergían desde dos ángulos distintos.
 
-—*¡Glisseo! ¡Diffindo!* —encadenó James.
+Fue una demostración de coordinación feroz, pura magia no verbal ejecutada con la desesperación de dos hombres acorralados.
 
-El suelo bajo las botas de Voldemort se transformó instantáneamente en una superficie de hielo aceitoso al tiempo que un arco de descarga eléctrica púrpura y tres cuchillas de aire presurizado convergían desde dos ángulos distintos.
-
-Fue una demostración de coordinación feroz. Sin embargo, la figura de Voldemort pareció licuarse en el aire antes de que el rayo lo alcanzara. Reapareció en el centro exacto del vestíbulo con un estampido sordo, envuelto en una espiral de fuego negro que barrió la estancia.
+Sin embargo, la figura de Voldemort pareció licuarse en el aire antes de que el rayo lo alcanzara. Reapareció en el centro exacto del vestíbulo con un estampido sordo, envuelto en una espiral de fuego negro que barrió la estancia.
 
 —*¡Gusanos!* —siseó la voz inhumana.
 
-La ola de fuego negro golpeó la barrera de hierro que Sirius intentó conjurar. El metal se derritió en un parpadeo, y la temperatura del vestíbulo subió hasta volverse asfixiante. Sirius fue lanzado contra la alacena bajo las escaleras; el mueble entero cedió bajo su peso, desplomando estantes y vigas secundarias sobre su torso y piernas con un crujido sordo de maderas quebradas.
+La ola de fuego negro golpeó la barrera de hierro que Sirius intentó conjurar sin palabras. El metal se derritió en un parpadeo, y la temperatura del vestíbulo subió hasta volverse asfixiante. Sirius fue lanzado contra la alacena bajo las escaleras; el mueble entero cedió bajo su peso, desplomando estantes y vigas secundarias sobre su torso y piernas con un crujido sordo de maderas quebradas.
 
 James intentó avanzar para interponerse entre el invasor y la escalera que conducía al cuarto de su hijo, pero su pierna izquierda falló: una esquirla de hierro fundido le atravesaba el muslo.
 
