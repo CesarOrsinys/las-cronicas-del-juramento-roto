@@ -68,3 +68,4 @@ Al final, como siempre ocurría cuando la mezquindad chocaba con la necesidad de
 —Sí, tío Vernon —respondió Harry, bajando la cabeza lo justo para que las sombras de sus pestañas ocultaran el brillo helado de sus ojos verdes.
 
 Por dentro, el niño de la alacena no sentía miedo. Sentía la certeza silenciosa de que las rejas de Privet Drive, por gruesas que parecieran, tenían grietas. Y él estaba aprendiendo a encontrar cada una de ellas.
+

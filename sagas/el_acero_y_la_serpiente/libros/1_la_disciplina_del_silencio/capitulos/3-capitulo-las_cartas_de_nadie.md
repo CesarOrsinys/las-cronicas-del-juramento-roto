@@ -79,3 +79,4 @@ Harry dobló el pergamino con cuidado, repasando las esquinas con la yema del pu
 Sirius contempló al niño durante un largo silencio. Por primera vez en diez años, una chispa de orgullo despiadado brilló en los ojos del fugitivo de Azkaban.
 
 —Mañana al amanecer —dijo Sirius, guardando la varita en la solapa de su abrigo—. Si vas a entrar por esa puerta el primero de septiembre, antes vas a aprender a no parpadear cuando alguien te apunte a los ojos.
+
