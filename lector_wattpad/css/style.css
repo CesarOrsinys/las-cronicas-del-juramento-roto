@@ -429,7 +429,7 @@ body {
 }
 
 /* ==========================================================================
-   Consola Flotante de Audio / TTS Neuronal (Responsive & Adaptive)
+   Consola Flotante de Audio / TTS Neuronal (Responsive & Ultra-Compact)
    ========================================================================== */
 .tts-panel {
   position: sticky;
@@ -439,10 +439,11 @@ body {
   border-bottom: 1px solid var(--border-color);
   backdrop-filter: blur(16px);
   -webkit-backdrop-filter: blur(16px);
-  padding: 0.6rem 1.5rem;
-  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.25);
+  padding: 0.35rem 1.25rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.22);
   animation: slideDown 0.3s cubic-bezier(0.16, 1, 0.3, 1);
   transition: all 0.25s ease;
+  min-height: 42px;
 }
 
 @keyframes slideDown {
@@ -456,19 +457,19 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  gap: 1rem;
-  flex-wrap: wrap;
+  gap: 0.75rem;
+  flex-wrap: nowrap;
 }
 
 .tts-status {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
-  font-size: 0.84rem;
+  gap: 0.5rem;
+  font-size: 0.8rem;
   font-weight: 500;
   color: var(--text-main);
   min-width: 0;
-  flex: 1 1 200px;
+  flex: 1 1 auto;
 }
 
 #ttsStatusText {
@@ -481,13 +482,13 @@ body {
 .tts-wave-anim {
   display: flex;
   align-items: center;
-  gap: 3px;
-  height: 16px;
+  gap: 2.5px;
+  height: 13px;
   flex-shrink: 0;
 }
 
 .tts-wave-anim span {
-  width: 3px;
+  width: 2.5px;
   height: 100%;
   background: var(--accent-gold);
   border-radius: 2px;
@@ -499,15 +500,15 @@ body {
 .tts-wave-anim span:nth-child(4) { animation-delay: 0.6s; }
 
 @keyframes wave {
-  0%, 100% { height: 4px; }
-  50% { height: 16px; }
+  0%, 100% { height: 3px; }
+  50% { height: 13px; }
 }
 
 .tts-actions {
   display: flex;
   align-items: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+  gap: 0.4rem;
+  flex-shrink: 0;
   justify-content: flex-end;
 }
 
@@ -515,14 +516,14 @@ body {
   background: var(--bg-elevated);
   border: 1px solid var(--border-color);
   color: var(--text-main);
-  width: 34px;
-  height: 34px;
-  border-radius: 8px;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   transition: all 0.2s ease;
   flex-shrink: 0;
 }
@@ -536,17 +537,17 @@ body {
 .tts-setting {
   display: flex;
   align-items: center;
-  gap: 0.35rem;
-  font-size: 0.78rem;
+  gap: 0.25rem;
+  font-size: 0.74rem;
   color: var(--text-muted);
 }
 
 .tts-setting label {
-  font-size: 0.72rem;
+  font-size: 0.68rem;
   font-weight: 600;
   color: var(--accent-gold-soft);
   text-transform: uppercase;
-  letter-spacing: 0.05em;
+  letter-spacing: 0.04em;
   flex-shrink: 0;
 }
 
@@ -555,16 +556,16 @@ body {
   color: var(--text-main);
   border: 1px solid var(--border-color);
   border-radius: 6px;
-  padding: 0.35rem 0.55rem;
-  font-size: 0.76rem;
+  padding: 0.25rem 0.45rem;
+  font-size: 0.74rem;
   font-family: var(--font-ui);
   cursor: pointer;
   outline: none;
-  max-width: 140px;
+  max-width: 125px;
 }
 
 .tts-setting.voice-setting select {
-  max-width: 170px;
+  max-width: 155px;
 }
 
 .tts-setting select:focus {
@@ -575,10 +576,10 @@ body {
   background: transparent;
   border: 1px solid transparent;
   color: var(--text-dim);
-  font-size: 0.95rem;
+  font-size: 0.88rem;
   cursor: pointer;
-  width: 30px;
-  height: 30px;
+  width: 26px;
+  height: 26px;
   border-radius: 6px;
   display: flex;
   align-items: center;
@@ -990,23 +991,26 @@ body.theme-light .story-body p.story-paragraph:hover {
     padding: 0.4rem 1.4rem 0.4rem 0.5rem;
   }
 
-  /* Adaptación de la Consola Flotante TTS en Móviles */
+  /* Adaptación Ultra-Compacta de la Consola Flotante TTS en Móviles */
   .tts-panel {
-    padding: 0.5rem 0.75rem;
-    position: sticky;
+    padding: 0.35rem 0.65rem;
+    min-height: auto;
   }
 
   .tts-panel-content {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 0.65rem;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.4rem 0.5rem;
   }
 
   .tts-status {
     width: 100%;
-    justify-content: space-between;
-    font-size: 0.8rem;
-    padding-bottom: 0.35rem;
+    flex: 1 1 100%;
+    justify-content: flex-start;
+    font-size: 0.76rem;
+    padding-bottom: 0.2rem;
     border-bottom: 1px solid rgba(255, 255, 255, 0.05);
   }
 
@@ -1018,18 +1022,20 @@ body.theme-light .story-body p.story-paragraph:hover {
   #ttsStatusText {
     flex: 1;
     text-align: left;
-    font-size: 0.78rem;
+    font-size: 0.74rem;
   }
 
   .tts-actions {
     width: 100%;
+    flex: 1 1 100%;
     justify-content: space-between;
-    gap: 0.4rem;
+    gap: 0.35rem;
   }
 
   .tts-sub-btn {
-    width: 32px;
-    height: 32px;
+    width: 28px;
+    height: 28px;
+    font-size: 0.82rem;
   }
 
   .tts-setting {
@@ -1039,8 +1045,8 @@ body.theme-light .story-body p.story-paragraph:hover {
   .tts-setting select {
     width: 100%;
     max-width: 100%;
-    padding: 0.35rem 0.4rem;
-    font-size: 0.72rem;
+    padding: 0.25rem 0.35rem;
+    font-size: 0.7rem;
   }
 
   .tts-setting.voice-setting {
@@ -1050,6 +1056,12 @@ body.theme-light .story-body p.story-paragraph:hover {
   .tts-setting.voice-setting select {
     max-width: 100%;
     width: 100%;
+  }
+
+  .tts-close-btn {
+    width: 24px;
+    height: 24px;
+    font-size: 0.8rem;
   }
 
   .reader-stage {
