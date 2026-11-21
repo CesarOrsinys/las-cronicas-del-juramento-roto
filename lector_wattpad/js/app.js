@@ -12,18 +12,19 @@ const state = {
     audioElement: new Audio(),
     engine: 'neural', // 'neural' (Azure Edge Server) | 'local' (WebSpeech fallback)
     neuralVoices: [
-      { id: 'es-ES-AlvaroNeural', name: '✨ Álvaro (España - Narrador Cálido)' },
-      { id: 'es-ES-ElviraNeural', name: '✨ Elvira (España - Serena y Literaria)' },
       { id: 'es-AR-TomasNeural', name: '✨ Tomás (Argentina - Natural y Profundo)' },
-      { id: 'es-AR-ElenaNeural', name: '✨ Elena (Argentina - Expresiva)' },
+      { id: 'es-US-AlonsoNeural:sage', name: '🧙‍♂️ Sabio Anciano (Voz Grave, Pausada y Solemne)', voiceId: 'es-US-AlonsoNeural', pitch: '-14Hz', rateFactor: 0.88 },
+      { id: 'es-ES-AlvaroNeural:elder', name: '📖 Cronista Mayor (Voz Madura y Reverente)', voiceId: 'es-ES-AlvaroNeural', pitch: '-10Hz', rateFactor: 0.90 },
+      { id: 'es-ES-AlvaroNeural', name: '✨ Álvaro (España - Narrador Clásico)' },
+      { id: 'es-ES-ElviraNeural', name: '✨ Elvira (España - Serena y Literaria)' },
       { id: 'es-MX-JorgeNeural', name: '✨ Jorge (México - Barítono Cinemático)' },
       { id: 'es-MX-DaliaNeural', name: '✨ Dalia (México - Suave y Melódica)' },
+      { id: 'es-AR-ElenaNeural', name: '✨ Elena (Argentina - Expresiva)' },
       { id: 'es-CO-GonzaloNeural', name: '✨ Gonzalo (Colombia - Neutro y Firme)' },
       { id: 'es-CO-SalomeNeural', name: '✨ Salomé (Colombia - Clara y Fluida)' },
-      { id: 'es-CL-LorenzoNeural', name: '✨ Lorenzo (Chile - Moderado y Serio)' },
+      { id: 'es-CL-LorenzoNeural', name: '✨ Lorenzo (Chile - Moderado)' },
       { id: 'es-CL-CatalinaNeural', name: '✨ Catalina (Chile - Pausada)' },
       { id: 'es-PE-AlexNeural', name: '✨ Álex (Perú - Equilibrado)' },
-      { id: 'es-PE-CamilaNeural', name: '✨ Camila (Perú - Cálida)' },
       { id: 'es-UY-MateoNeural', name: '✨ Mateo (Uruguay - Sereno)' },
       { id: 'es-VE-SebastianNeural', name: '✨ Sebastián (Venezuela - Vigoroso)' }
     ],
@@ -669,13 +670,28 @@ function speakParagraph(index) {
 }
 
 // Reproducción con Azure Neural TTS (Audio MP3 streaming del servidor)
-function speakWithNeuralServer(text, voiceId, index) {
+function speakWithNeuralServer(text, voiceParam, index) {
   state.tts.engine = 'neural';
   const audio = state.tts.audioElement;
 
+  // Buscar si la voz tiene afinación especial (ej. Sabio Anciano con pitch y rate adaptado)
+  const voiceCfg = state.tts.neuralVoices.find(v => v.id === voiceParam);
+  let voiceId = voiceParam;
+  let pitchParam = '';
+  let rateMultiplier = 1.0;
+
+  if (voiceCfg && voiceCfg.voiceId) {
+    voiceId = voiceCfg.voiceId;
+    if (voiceCfg.pitch) pitchParam = voiceCfg.pitch;
+    if (voiceCfg.rateFactor) rateMultiplier = voiceCfg.rateFactor;
+  }
+
   // Modulación de velocidad
-  const rateParam = state.tts.rate;
-  const url = `/api/tts?voice=${encodeURIComponent(voiceId)}&rate=${encodeURIComponent(rateParam)}&text=${encodeURIComponent(text)}`;
+  const effectiveRate = (state.tts.rate * rateMultiplier).toFixed(2);
+  let url = `/api/tts?voice=${encodeURIComponent(voiceId)}&rate=${encodeURIComponent(effectiveRate)}&text=${encodeURIComponent(text)}`;
+  if (pitchParam) {
+    url += `&pitch=${encodeURIComponent(pitchParam)}`;
+  }
 
   audio.src = url;
   audio.playbackRate = 1.0;

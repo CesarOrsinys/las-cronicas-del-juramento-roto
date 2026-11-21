@@ -11,8 +11,9 @@ module.exports = async (req, res) => {
   }
 
   const text = req.query.text || (req.body && req.body.text);
-  const voice = req.query.voice || (req.body && req.body.voice) || 'es-ES-AlvaroNeural';
+  const voice = req.query.voice || (req.body && req.body.voice) || 'es-AR-TomasNeural';
   const rate = req.query.rate || (req.body && req.body.rate) || '0%';
+  const pitch = req.query.pitch || (req.body && req.body.pitch);
 
   if (!text || text.trim().length === 0) {
     return res.status(400).json({ error: 'Parámetro text requerido' });
@@ -22,10 +23,13 @@ module.exports = async (req, res) => {
     const tts = new MsEdgeTTS();
     await tts.setMetadata(voice, OUTPUT_FORMAT.AUDIO_24KHZ_48KBITRATE_MONO_MP3);
 
-    // Ajustar opciones si se solicita velocidad
+    // Ajustar opciones de velocidad y tono/pitch
     const options = {};
     if (rate && rate !== '1' && rate !== '0%') {
       options.rate = rate.toString().includes('%') ? rate : `${Math.round((parseFloat(rate) - 1) * 100)}%`;
+    }
+    if (pitch && pitch !== '0' && pitch !== '0Hz') {
+      options.pitch = pitch.toString().includes('Hz') || pitch.toString().includes('%') ? pitch : `${pitch}Hz`;
     }
 
     const { audioStream } = tts.toStream(text, options);
