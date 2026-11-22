@@ -1,53 +1,86 @@
-﻿# CAPÍTULO 35: El fuego en la choza
+﻿# CAPÍTULO 35
+## El fuego en la choza
 
-A finales de marzo, el deshielo convirtió los caminos que descendían hacia el linde del Bosque Prohibido en torrenteras de barro negro. Fue en esos días cuando la imprudencia congénita de Rubeus Hagrid amenazó con dinamitar la frágil estabilidad del castillo.
+A finales de marzo y principios de abril, el deshielo de las cumbres de las Tierras Altas transformó los senderos que descendían hacia el linde del Bosque Prohibido en torrenteras de barro negro y grava suelta.
 
-Harry advirtió las anomalías en el comportamiento del guardabosques mucho antes que nadie: cortinas permanentemente corridas en pleno mediodía, un humo denso y azufrado brotando de la chimenea de la choza a pesar del calor primaveral, y visitas frecuentes a la biblioteca para consultar tratados clandestinos sobre reproducción de saurios mágicos.
+Fue durante esas semanas cuando la imprudencia congénita de Rubeus Hagrid amenazó con quebrar la frágil estabilidad del perímetro del colegio.
 
-Una tarde de lluvia torrencial, Harry descendió por los declives de hierba húmeda, envuelto en una capa impermeable. No iba acompañado. Hermione y Ron habían intentado sonsacar información al gigante días atrás con resultados desastrosos; Harry prefería las operaciones con un único operador en el terreno.
+Harry detectó las señales de alarma quince días antes de que nadie en el castillo se percatara de nada:
 
-Golpeó la gruesa puerta de roble con los nudillos en un ritmo específico.
+Primero: Hagrid comenzó a frecuentar la biblioteca a deshoras, arrastrando sus pesadas botas de cuero entre los anaqueles de la sección de zoología mágica avanzada, consultando con dedos tiznados volúmenes clandestinos como *Especies de dragones de las islas británicas y sus territorios de ultramar* y *De la cría de saurios al fuego vivo*.
+Segundo: a pesar de que la primavera avanzaba con temperaturas templadas que hacían florecer los ciruelos silvestres, de la chimenea de piedra de la choza del guardabosques brotaba día y noche un humo denso, viscoso y acre que olía a azufre quemado, brea vegetal y plumas chamuscadas.
+Tercero: las cortinas de arpillera de la cabaña permanecían selladas con clavos incluso al mediodía, y el ladrido de Fang sonaba apagado, como si el perro hubiera sido confinado al cobertizo trasero para no estorbar.
 
-La puerta se entreabrió apenas tres pulgadas, revelando la barba enmarañada y los ojos enrojecidos de Hagrid.
+Una tarde de jueves, tras la clase doble de Pociones en las mazmorras, Harry descendió por la colina hacia la cabaña envuelto en su capa impermeable. En el bolsillo llevaba un cuaderno de notas y una ampolla de esencia de belladona.
 
-—Harry... muchacho... no es buen momento, de verdad, tengo que atender unos asuntos privados...
+A cien pasos de la choza, una silueta elegante vestida con capa verde oscuro de lana peinada se recortó contra el muro de piedra seca que delimitaba el huerto de calabazas.
 
-—Apaga el fuego de turba o el humo terminará por atraer a los prefectos de Ravenclaw desde la torre oeste —dijo Harry en un tono llano, empujando la puerta con el hombro con una firmeza que sorprendió al semigigante.
+Lyra Malfoy.
 
-Al entrar, el calor en la choza era asfixiante. Sobre la lumbre del fogón, apoyado en una cuna de brasas al rojo vivo, descansaba un huevo negro como el carbón, del tamaño de una bala de cañón, cuya superficie escamosa vibraba con fracturas incandescentes.
+La heredera de las serpientes fingía recolectar bayas silvestres en un canasto de mimbre, pero sus ojos grises vigilaban la chimenea humeante con la frialdad de un halcón de caza.
 
-—Es un Ridgeback noruego —dijo Hagrid con lágrimas en los ojos, frotándose las manazas cubiertas de quemaduras—. Lo gané en una partida de cartas en la taberna de Cabeza de Puerco... a un tipo misterioso con capa y capucha.
+Harry se detuvo a tres pasos de ella, con las manos en los bolsillos.
 
-Harry examinó las brasas sin parpadear.
+—El viento del sur arrastra el hedor a fósforo hasta las mazmorras de Slytherin, Potter —dijo Lyra en un susurro cortante, sin mirarlo directamente—. Si yo lo he olido, Snape lo olerá antes del domingo. Y si el Ministerio descubre lo que el semigigante tiene metido en esa choza de madera, la comisión de control biológico clausurará los terrenos en cuarenta y ocho horas.
 
-—Un tipo misterioso que casualmente llevaba un huevo de una especie catalogada como peligro clase A en su faltriquera —repuso Harry con frialdad—. Y que casualmente te hizo preguntas sobre cómo calmar a una bestia de tres cabezas en el tercer piso mientras compartían hidromiel.
+—Hagrid es un sentimental que no distingue entre una mascota doméstica y un arma de asedio —respondió Harry con calma gélida—. ¿Cuánto sabes?
 
-Hagrid se quedó petrificado, abriendo la boca con una expresión de pánico infantil.
+—Lo suficiente —repuso ella, mirándolo de reojo con una mueca afilada—. Mi padre conoce los manifiestos de contrabando del puerto de Liverpool. Hubo una partida de cartas en Cabeza de Puerco hace tres semanas; un tipo con capa de viajero y capucha cerrada perdió un huevo de Ridgeback noruego frente a un borracho de ocho pies de altura.
 
-—¿Cómo... cómo sabes tú lo de...?
+—Un tipo con capucha que no jugaba por dinero —concluyó Harry—. Jugaba para extraer información sobre cómo dormir a la bestia de tres cabezas del tercer piso.
 
-—Porque nadie regala dragones por beneficencia, Hagrid. Te interrogaron. Y tú entregaste el procedimiento de contención de Fluffy a cambio de una cáscara con fuego dentro.
+Lyra asintió una sola vez, confirmando la deducción con un brillo de respeto en las pupilas.
 
-El huevo crujió violentamente. Un fragmento de corteza se desprendió con un chasquido agudo, y una pequeña criatura espinosa, con alas de cuero desgarrado y un hocico lleno de colmillos afilados, rodó sobre las cenizas soltando un chorro de chispas ardientes.
+—Encárgate de que esa criatura desaparezca de los terrenos antes de que mi padre use el informe para enviar a los aurores a registrar el colegio, Potter. Si el Ministerio interviene, la trampilla será sellada y la oportunidad de cobrar la pieza se perderá.
 
-—¡Es precioso! —gimió el gigante, extendiendo una mano para acariciarlo mientras la bestia le mordía un dedo hasta sacarle sangre negra—. Lo llamaré Norberto.
+—El dragón saldrá del castillo —dijo Harry con voz firme—. Ocúpate de mantener a tus mastines en las mazmorras y cierra la boca.
 
-Harry dio un paso atrás, evaluando la amenaza biológica y jurídica.
+Harry cruzó la cancela de madera y golpeó la puerta de la choza con tres golpes secos y rítmicos.
 
-—En tres semanas medirá seis pies y quemará los cobertizos de madera. Si Filch o el Ministerio lo descubren en los terrenos, tú terminarás en una celda de Azkaban junto a los criminales de guerra, y la atención se desviará exactamente hacia donde el infiltrado quiere.
+Tras un forcejeo metálico de cerrojos y cadenas, la puerta se entreabrió tres pulgadas. El rostro de Hagrid, bañado en un sudor copioso que le pegaba la barba a las mejillas y con los ojos enrojecidos por el humo, asomó en la penumbra.
 
-Hagrid comenzó a sollozar con fuerza sobre la mesa.
+—Harry... muchacho... no es buen momento, de verdad... tengo unos asuntos de granja muy delicados...
 
-—¿Qué voy a hacer, Harry? No puedo echarlo al bosque, los thestrals lo destrozarían...
+—Abre la puerta antes de que el humo termine de asfixiar al perro en el cobertizo —dijo Harry, empujando la hoja de roble con el hombro con una fuerza firme y seca que obligó al gigante a retroceder.
 
-—Tengo un plan logístico —cortó Harry, sacando un pedazo de pergamino de su bolsillo—. Ron mencionó semanas atrás que su hermano Charlie estudia dragones en una reserva en Rumania. Nos comunicaremos con él a través de una lechuza no rastreable. Sus compañeros pueden recibir al espécimen en lo alto de la Torre de Astronomía a medianoche de un sábado.
+Al cruzar el umbral, el calor en el interior era intolerable: el aire vibraba con un vaho sofocante de brasas de carbón y turba comprimida. Todas las ventanas estaban tapadas con mantas viejas, y en el centro de la estancia, sobre el fogón ardiente al rojo vivo, reposaba una olla de hierro colado dentro de la cual un huevo negro y rugoso, del tamaño de una bala de cañón de barco, crujía con fracturas incandescentes.
 
-Hagrid lo miró como si Harry fuera un general caído del cielo.
+—Está a punto de romper el cascarón —gimió Hagrid, retorciéndose las manazas cubiertas de vendajes quemados—. Lo llamaré Norberto... es una preciosidad, Harry, tienes que verlo...
 
-—¿Harías eso por mí, Harry? ¿Por Norberto?
+Un chasquido agudo resonó en la choza.
 
-—No lo hago por ti ni por el dragón —respondió Harry con la mirada fría—. Lo hago para evitar que una negligencia doméstica comprometa la seguridad de todo el perímetro antes de que sepamos quién pagó por esa información.
+La cáscara del huevo se partió en dos mitades con un estallido de chispas y ceniza. Sobre la mesa de madera rodó una criatura espinosa, negra como el carbón, con alas de murciélago desproporcionadas, un hocico puntiagudo lleno de colmillos de aguja y unos ojos anaranjados que desprendían un fulgor salvaje.
 
-Salió de la choza bajo la lluvia, sabiendo que la entrega nocturna en la torre sería una trampa inevitable.
+El animal estornudó con violencia, escupiendo un chorro de llamas azules que prendió fuego al borde del mantel de Hagrid.
 
+—¡Míralo! ¡Reconoce a su mamá! —sollozó el gigante con lágrimas de ternura resbalándole por la barba tiznada.
 
+Harry sacó su varita de acebo y, con un pulso de compresión de aire no verbal, sofocó el fuego del mantel en una milésima de segundo.
+
+—En diez días pesará cincuenta libras y vomitará fuego a tres varas de distancia —dijo Harry en un tono llano que cortó en seco el delirio del gigante—. En tres semanas derribará los tabiques de esta cabaña y quemará los abetos del bosque. Y entonces Lucius Malfoy no tendrá que inventar excusas para que el Wizengamot te envíe directo a una celda de Azkaban por tenencia ilícita de especies clase A.
+
+Hagrid se desplomó sobre un taburete que crujió bajo su tonelaje, llevándose las manos a la cabeza con un gemido infantil de desesperación.
+
+—¿Qué voy a hacer, Harry? ¡No puedo abandonarlo en el bosque, los thestrals y las acromántulas lo destrozarían vivo!... ¡No puedo dejar que se lo lleven los aurores!...
+
+—Tengo la logística resuelta —cortó Harry, sacando un pedazo de pergamino de su chaqueta—. Ron tiene un hermano mayor, Charlie, que trabaja en una reserva de cría e investigación de dragones en las montañas de Rumania. Nos comunicaremos con él a través de lechuzas silvestres no registradas. Sus compañeros de expedición recogerán la jaula a medianoche en la Torre de Astronomía el próximo sábado.
+
+Hagrid levantó la vista, contemplando al muchacho con una mezcla de gratitud abrumada y temor reverencial:
+
+—¿Harías eso por mí, Harry? ¿Organizarías todo eso?
+
+—No lo hago por ti ni por el dragón, Hagrid —respondió Harry, clavando sus ojos verdes en los del gigante con una severidad implacable—. Lo hago porque el hombre que te entregó ese huevo en Cabeza de Puerco pagó por un secreto. Dime exactamente qué le dijiste mientras bebían hidromiel.
+
+Hagrid tragó saliva despacio, con las manos temblorosas sobre las rodillas:
+
+—Él... él solo quería saber si yo sabía manejar animales grandes... le dije que después de Fluffy cualquier bicho es pan comido... y que a Fluffy le basta con que le toques un poco de música con una flauta o un arpa para que caiga dormido como un tronco...
+
+Hagrid se tapó la boca con las dos manos, con los ojos desorbitados por el horror de su propia confesión:
+
+—¡No debí decir eso! ¡Por Merlín, no debí decir eso!
+
+Harry guardó el pergamino en el bolsillo.
+
+—El infiltrado ya tiene la llave del corredor. Ahora solo queda preparar la jaula de Norberto y asegurar la torre para la evacuación.
+
+Harry salió de la choza bajo la lluvia de primavera, sabiendo que la entrega nocturna en lo alto de las almenas no sería un simple transporte de contrabando: sería el detonante que precipitaría el colapso final de las máscaras en Hogwarts.

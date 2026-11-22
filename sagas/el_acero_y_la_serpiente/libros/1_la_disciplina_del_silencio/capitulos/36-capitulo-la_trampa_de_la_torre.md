@@ -1,49 +1,80 @@
-﻿# CAPÍTULO 36: La trampa de la torre
+﻿# CAPÍTULO 36
+## La trampa de la torre
 
-La noche fijada para la evacuación del Ridgeback noruego, la niebla cubrió las torres de Hogwarts como una gasa fúnebre.
+La medianoche del sábado señalado para la evacuación del Ridgeback noruego trajo consigo una niebla espesa y helada que envolvía las agujas del castillo de Hogwarts como un sudario de gasa húmeda.
 
-En la Torre de Astronomía, el viento del norte silbaba entre las aspilleras de piedra con la fuerza de un látigo. Harry y Hermione habían transportado la jaula de madera reforzada —en cuyo interior Norberto dormitaba bajo los efectos de un filtro soporífero que Harry había destilado calculando la dosis con precisión farmacéutica— cubriéndose con una capa de camuflaje de lana oscura.
+A lo largo de la semana, el crecimiento de Norberto había superado los cálculos biológicos más pesimistas: medía más de cuatro pies de largo, sus alas membranosas tenían la fuerza para volcar mesas de roble macizo y sus colmillos goteaban un veneno verdoso que había dejado a Ron Weasley postrado en la enfermería con el brazo izquierdo hinchado como una vejiga tras una mordedura accidental durante la alimentación con brandy y sangre de pollo.
 
-En lo alto de la plataforma, cuatro jinetes sobre escobas de viaje descendieron en silencio desde la oscuridad del cielo. Eran los amigos de Charlie Weasley: hombres curtidos con arneses de cuero de dragón y hebillas de bronce.
+Harry y Hermione Granger transportaban la pesada jaula de madera reforzada —cuyas bisagras habían sido tratadas con grasa de ganso para anular cualquier chirrido— subiendo tramo a tramo por la estrecha escalera de caracol que conducía a la plataforma más alta de la Torre de Astronomía.
 
-—Todo en orden —susurró el líder del grupo al revisar los cerrojos de la jaula—. Charlie nos dio las coordenadas exactas. En dos días estará en la reserva de los Cárpatos sin que el Ministerio se entere de nada.
+Dentro de la jaula, la bestia dormitaba pesadamente bajo los efectos de un filtro soporífero que Harry había destilado con raíz de asfódelo y zumo de judía soporífera, calculando la dosificación exacta para mantener sedado al saurio durante noventa minutos sin causarle un colapso pulmonar.
 
-La transferencia tomó menos de noventa segundos. Las cuatro figuras volvieron a elevarse hacia las nubes, perdiéndose en la noche como halcones silenciosos.
+Ambos avanzaban cubiertos bajo la Capa de Invisibilidad de James Potter.
 
-Hermione soltó un suspiro de alivio desmedido, bajando los hombros con ingenuidad infantil.
+Al alcanzar la barandilla de piedra de la torre, el viento del norte soplaba con una violencia cortante que hacía crujir los telescopios de latón montados sobre sus trípodes de hierro.
 
-—Lo logramos, Harry... ¡estamos a salvo!
+Hermione apoyó la jaula en las losas de piedra, jadeando por el esfuerzo físico:
 
-—Silencio —ordenó Harry en un susurro cortante, con la varita de acebo ya en la mano—. El perímetro está comprometido.
+—No veo nada en el cielo, Harry... la niebla es demasiado cerrada... ¿y si los amigos de Charlie no encuentran la torre?
 
-No alcanzaron a descender el primer tramo de la escalera de caracol cuando una sombra se recortó contra el arco inferior. La luz de un encantamiento de revelación iluminó los escalones de golpe.
+—Los jinetes rumanos navegan mediante runas de orientación magnética en las empuñaduras de sus escobas —respondió Harry en un susurro sereno, manteniendo la varita de acebo en la mano derecha bajo el manto invisible—. Llegarán en dos minutos. Quédate pegada al contrafuerte norte y vigila el vano de la escalera.
 
-—¡Vaya, vaya, qué extraordinaria reunión bajo las estrellas! —retumbó la voz áspera y victoriosa de Argus Filch, escoltado por la silueta menuda de la profesora McGonagall, cuya túnica de franela y rulos en el pelo denotaban que había sido arrancada de la cama por una alarma premeditada.
+Apenas las palabras terminaron de pronunciarse, cuatro siluetas oscuras se desprendieron de las nubes bajas en planeo silencioso, aterrizando suavemente sobre el pavimento de la plataforma con la soltura de jinetes de élite.
 
-Pero detrás de la profesora de Transformaciones, apartada de la luz directa, otra figura observaba con frialdad calculadora.
+Eran hombres curtidos, vestidos con arneses de vuelo reforzados de cuero de dragón y guantes gruesos de escamas ignífugas.
+
+El líder del destacamento —un brujo de barba rubia y cicatriz en la sien izquierda— descendió de su escoba y examinó los sellos de la jaula con ojo profesional.
+
+—Jaula reforzada con cáñamo resinado y el espécimen perfectamente sedado —susurró el hombre con una sonrisa de aprobación—. Charlie nos advirtió que el muchacho de los Potter trabajaba con rigor militar, pero esto supera los estándares de la reserva de Cluj. En dos horas cruzaremos el canal de la Mancha a gran altura; nadie en el Ministerio sabrá jamás que este animal pisó suelo británico.
+
+La transferencia tomó menos de sesenta segundos. Engancharon las cinchas de la jaula al arnés doble de dos escobas de tiro pesado, se elevaron en un viraje sincronizado y desaparecieron entre los bancos de niebla como halcones nocturnos.
+
+Hermione dejó escapar un suspiro largo y tembloroso, bajando los hombros por primera vez en semanas:
+
+—Se acabó, Harry... lo logramos. Norberto está a salvo... y Hagrid no irá a Azkaban.
+
+—La misión de transporte ha terminado —repuso Harry con calma gélida—. La seguridad del perímetro, no. Baja la cabeza.
+
+No alcanzaron a descender el primer tramo de la escalera de caracol cuando un resplandor repentino de luz mágica estalló desde el arco inferior.
+
+—¡*Lumos Maxima*!
+
+Una esfera de luz blanca incandescente se elevó hacia la bóveda de la escalera, desnudando cada peldaño de piedra con una claridad cegadora.
+
+En el descansillo inferior aguardaba una comitiva que no dejaba margen a la retirada:
+
+Argus Filch, con el rostro desencajado por un triunfo cruel y su farol de aceite crujiendo en la mano izquierda; la profesora McGonagall, vestida con bata de franela escocesa y redecilla en el pelo, con los labios tan apretados que parecían una cicatriz de costura sobre su rostro lívido; y a su espalda, apartada de la luz directa pero con la mirada fija en el descansillo superior...
 
 Lyra Malfoy.
 
-La heredera de las serpientes sostenía una linterna de mano apagada, con los brazos cruzados y una expresión de triunfo intelectual en el rostro pálido. Había seguido los pasos de la lechuza o descifrado la salida nocturna; pero su ambición la había traicionado al subir a la torre para presenciar la caída de Potter en persona.
+La heredera de las serpientes sostenía una linterna sorda apagada, con los brazos cruzados y una expresión de cálculo tenso en los ojos grises. Había subido a la torre siguiendo los pasos de Granger o deduciendo el itinerario nocturno a través de los rumores de la enfermería; pero su propia audacia la había traicionado al colocarse en la línea de intercepción de los prefectos.
 
-—¡Cuatro alumnos fuera de la cama a las doce de la noche! —clamó McGonagall, con los labios tan apretados que parecían una cicatriz de costura—. Jamás en todos mis años de docencia había presenciado semejante desacato a las normas de seguridad. Cincuenta puntos menos para Gryffindor... por cada uno de ustedes.
+En el desconcierto del destello repentino de la esfera de luz, el borde de la Capa de Invisibilidad resbaló del hombro de Hermione, exponiendo a ambos muchachos ante los ojos de la jefa de casa.
 
-Hermione emitió un gemido estrangulado y se llevó las manos a la boca.
+—¡Profesor Filch! ¡Mire lo que tenemos aquí! —graznó el celador con una risotada asmática que resonó por el hueco de la torre—. ¡Cuatro alumnos fuera de los dormitorios a la una de la madrugada! ¡Una fiesta clandestina bajo las estrellas!
 
-—Y en cuanto a usted, señorita Malfoy —continuó la jefa de casa con tono inflexible—, no me importa que su intención fuera delatar a sus compañeros. Andar merodeando por las almenas a medianoche sin autorización es una infracción idéntica. Cincuenta puntos menos para Slytherin.
+—¡Silencio, señor Filch! —bramó McGonagall con una voz que temblaba de furia gélida—. Jamás... en todos mis años de docencia en esta institución... había presenciado semejante desacato colectivo a las normas de seguridad del colegio.
 
-La mandíbula de Lyra se tensó imperceptiblemente, pero no replicó ni suplicó. Mantuvo la cabeza alta, con los ojos clavados en Harry como dos puntas de acero templado.
+La mujer clavó sus ojos de acero en Harry y Hermione, y luego se volvió con una severidad aplastante hacia la niña rubia que permanecía en las sombras:
 
-—Y los cuatro cumplirán un castigo ejemplar —sentenció McGonagall con voz que no admitía apelación—. Mañana por la noche se presentarán ante el señor Filch a las once en punto en las puertas principales. El señor Hagrid tiene labores pendientes que requieren manos adicionales.
+—¡Cincuenta puntos menos para Gryffindor por cada uno de ustedes, señor Potter y señorita Granger!
 
-Cuando bajaban hacia los dormitorios bajo la custodia armada de Filch, Harry caminó al paso de Lyra en el pasillo sombrío.
+Hermione emitió un gemido estrangulado y se llevó las manos a la cara, al borde del colapso emocional.
 
-—Un movimiento torpe, Malfoy —murmuró Harry, sin mirarla directamente—. Un buen cazador nunca se sitúa en la línea de fuego para ver cómo cae la trampa.
+—Y en cuanto a usted, señorita Malfoy —continuó la jefa de casa con tono inflexible—, no me importa que su argumento fuera vigilar o delatar a sus compañeros de curso. Andar merodeando por las almenas a medianoche sin la autorización expresa de su jefe de casa es una falta idéntica. Cincuenta puntos menos para Slytherin.
 
-Lyra no parpadeó.
+La mandíbula de Lyra se tensó imperceptiblemente, pero no bajó la barbilla ni dejó escapar una sola súplica. Sostuvo la mirada de McGonagall con el orgullo glacial de su estirpe.
 
-—Los puntos de casa no me importan, Potter. Lo que me importa es que mañana entraremos al bosque. Y ahí dentro, tus pequeños trucos de pasillo no te servirán de nada.
+—Y los cuatro cumplirán un castigo ejemplar —sentenció la profesora de Transformaciones—. Mañana por la noche se presentarán ante el señor Filch a las once en punto en las puertas principales. El señor Hagrid tiene labores pendientes en el linde del bosque que requieren manos disciplinadas. Vuelvan a sus camas inmediatamente.
 
-—Tampoco tu apellido —replicó él, y el silencio de las piedras volvió a tragarse sus pasos.
+Cuando bajaban los peldaños de la torre escoltados a distancia prudencial por el celador, Harry caminó al compás de Lyra en el corredor sombrío del tercer piso.
 
+—Te advertí que vigilaras las esquinas, Malfoy —murmuró Harry en un susurro que no superó el sonido de sus botas contra la piedra—. La ambición de presenciar la caída del adversario es el error clásico de los principiantes.
 
+Lyra no parpadeó. Clavó sus ojos grises en él con una frialdad afilada como un diamante:
+
+—El dragón está fuera del castillo, Potter. Cumpliste tu parte operativa; yo pagué el precio de los puntos sin pestañear. Pero mañana entraremos en el Bosque Prohibido. Y los centauros y las bestias de la espesura no responden ante las deducciones de los libros ni ante las capas de invisibilidad.
+
+—Tampoco ante el oro de tu padre —replicó Harry.
+
+Se miraron una fracción de segundo antes de doblar hacia escaleras opuestas, sellando en la penumbra de las piedras el pacto tácito de que el verdadero castigo apenas estaba por comenzar.

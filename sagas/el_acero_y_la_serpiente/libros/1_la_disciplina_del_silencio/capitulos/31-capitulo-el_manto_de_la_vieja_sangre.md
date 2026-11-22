@@ -64,3 +64,4 @@ Dumbledore quería que Harry explorara el corredor prohibido. Quería ponerlo a 
 Harry ajustó el cierre de su baúl con un golpe seco de la mano enguantada.
 
 Si el anciano director creía que estaba guiando a un cordero hacia el matadero del tablero, descubriría muy pronto que el cordero traía colmillos de lobo forjados en las sombras.
+

@@ -1,33 +1,58 @@
-﻿# CAPÍTULO 32: El cristal de Oesed
+﻿# CAPÍTULO 32
+## El cristal de Oesed
 
-La presencia de Lyra Malfoy en la Sección Prohibida transformó la incursión en un juego de sombras cruzadas. Ninguno de los dos habló. Se estudiaron a diez pasos de distancia, ocultos entre los anaqueles de tomos de nigromancia, midiendo cada parpadeo y cada ángulo de cobertura. Cuando el eco distante de las pisadas de Filch resonó al final de la galería este, ambos se replegaron por rutas divergentes sin un solo roce de túnica contra madera.
+La escarcha sobre los ventanales del ala sur formaba helechos de hielo opaco que filtraban la luz lunar en un resplandor azulado y cadavérico. Eran las dos de la madrugada de la noche de Navidad. El castillo entero dormía bajo el silencio pesado de las fortalezas invernales: los cuadros roncaban en sus lienzos carcomidos, las armaduras crujían por la contracción térmica del metal y en la lejanía sólo el aullido del viento sobre las almenas competía con el rumor de la respiración de Harry.
 
-Harry se deslizó hacia los corredores en desuso del ala sur, guiado por la memoria espacial que había refinado durante semanas. Evitaba los cuadros parlantes pegándose a los zócalos de piedra donde las sombras eran más densas. En una galería abandonada del cuarto piso, donde el aire olía a hollín frío y las vigas crujían bajo el peso de la nieve acumulada en los tejados, descubrió una puerta entreabierta que no figuraba en sus patrullas habituales.
+Bajo la Capa de Invisibilidad que había pertenecido a su padre, Harry no existía para el mundo físico.
 
-Entró y cerró tras de sí.
+La tela ancestral no producía el menor roce contra el suelo; la luz no se curvaba de forma tosca a su alrededor, sino que lo borraba por completo del espectro óptico. Su mano enguantada sostenía la varita de acebo a la altura del pecho, mientras con la izquierda tanteaba los muros de piedra tosca de una galería en desuso del cuarto piso que no figuraba en las cartas habituales de los prefectos.
 
-La sala parecía un aula abandonada: pupitres desvencijados apilados en las esquinas, una pizarra rajada de lado a lado y un manto espeso de polvo que amortiguaba sus pasos. Pero en el centro, apoyado contra la pared de piedra tosca, se alzaba un objeto colosal que no pertenecía al despojo de la habitación.
+El rastro que seguía no era casual. Durante tres noches seguidas, aprovechando las horas muertas tras el toque de queda, Harry había observado una anomalía en las corrientes de aire del corredor: una variación de dos grados centígrados y un aroma tenue a aceite de mirra y barniz antiguo que emanaba de una puerta entreabierta al final del pasillo.
 
-Era un espejo que alcanzaba el techo, enmarcado en oro labrado con filigranas de motivos geométricos y descansando sobre dos pies de garra. Alrededor de la parte superior llevaba grabada una inscripción arcaica: *Erised stra ehru oyt ube cafru oyt on wohsi*.
+Se deslizó por el umbral sin tocar la madera y cerró con el pestillo interior.
 
-Harry se detuvo a seis pasos.
+La sala parecía un aula abandonada décadas atrás: pupitres desvencijados apilados contra los rincones como leña seca, una pizarra rajada de lado a lado por un maleficio antiguo y un manto espeso de polvo que amortiguaba sus pisadas.
 
-—Una trampa óptica o un encantamiento de proyección nemotécnica —murmuró para sí, sin levantar la voz por encima del susurro del viento exterior.
+Pero en el centro de la estancia, apoyado contra el sillar desnudo del muro norte, se alzaba un objeto colosal que no pertenecía al despojo de la habitación.
 
-No se aproximó impulsivamente. Extendió la varita de acebo en guardia baja, comprobando que no hubiera hilos de advertencia ni vibraciones de runas en el suelo. Cuando constató que el área estaba despejada, avanzó dos pasos y clavó la vista en la superficie azogada.
+Era un espejo que alcanzaba las vigas del techo, enmarcado en oro macizo labrado con filigranas de dragones marinos y zarcillos entrelazados, descansando sobre dos pies de garra de león de bronce fundido. Alrededor de la parte superior llevaba cincelada una inscripción arcaica en letras invertidas:
 
-El reflejo no le devolvió la sala vacía.
+*Erised stra ehru oyt ube cafru oyt on wohsi.*
 
-Tampoco vio lo que un muchacho ordinario de once años vería: un padre sonriente y una madre de cabellos rojizos arropándolo con mantas cálidas. La mente de Harry, templada en la hostilidad de Privet Drive y cincelada bajo el rigor de Sirius Black en los páramos de Yorkshire, no buscaba consuelo.
+Harry se detuvo a seis pasos exactos. Se retiró la capucha de invisibilidad con un movimiento fluido, dejando que la tela descansara sobre sus hombros.
 
-En el cristal, Harry se vio a sí mismo cinco o diez años mayor. Su estatura era imponente, la postura militar y serena, con una túnica de corte impecable bajo la cual se adivinaba una cota de malla mágica. A su diestra, Sirius Black permanecía erguido, libre de la palidez de Azkaban, sin cojera ni cicatrices de tortura ministerial, con la mirada clara de un mariscal de campo. En la siniestra del reflejo, figuras arrodilladas o desarmadas bajaban las cabezas: burócratas de levita, rostros enmascarados de mortífagos y las sombras de aquellos que habían intentado doblegarlo o usarlo como moneda de cambio. Sobre el cuello del Harry del espejo colgaba el relicario sellado de los Potter, entero y resplandeciente, y en su mano derecha la varita emitía un fulgor frío, señal de un dominio absoluto de la magia no verbal.
+—*«No muestro tu rostro sino el deseo de tu corazón»* —leyó Harry mentalmente, invirtiendo la frase con la destreza analítica que practicaba en los criptogramas de Sirius—. Un espejo de proyección nemotécnica de grado mayor. Un filtro para medir obsesiones.
 
-No era amor familiar lo que proyectaba el cristal. Era *orden*. Era *dominio*. La restitución de todo lo que la cobardía ajena y el engaño político le habían arrebatado a su linaje.
+No se aproximó de golpe. Extendió la varita de acebo en guardia baja, rozando el aire con un pulso de detección pasiva. No había hilos de alarma sonora, ni resortes mecánicos, ni runas de trampa física en las baldosas. El peligro del artefacto no era externo; era mental.
 
-—Muestras lo que el hambre exige, no lo que existe —dijo Harry en voz baja, con una frialdad clínica que congeló el aliento frente al vidrio.
+Harry avanzó dos pasos y clavó sus ojos verdes en la superficie azogada.
 
-El espejo intentaba atrapar la voluntad a través del anhelo más profundo del sujeto. Un artefacto peligroso, diseñado para encadenar a los débiles a una ilusión inmóvil mientras el mundo real los devoraba.
+Durante el primer segundo, el cristal le devolvió únicamente su propia figura: un muchacho menudo de once años, vestido con túnica oscura de viaje, el flequillo despeinado sobre una cicatriz pálida y la mirada inmóvil de quien ha crecido vigilando las esquinas.
 
-Harry dio un paso atrás, rompiendo el contacto visual sin titubear. Guardó la varita y retrocedió con la guardia en alto. Apreciaba la visión, pero sabía que ningún imperio se construye contemplando un espejismo dorado.
+Pero entonces, el cristal cobró una profundidad abismal, como agua clara en la que se disuelve la niebla.
 
+A su espalda en el reflejo no aparecieron sombras borrosas ni fantasmas melancólicos. Apareció una visión estructurada con la nitidez de un plano de batalla:
 
+En el centro del cristal, Harry se vio a sí mismo con veinte años cumplidos. Su estatura era imponente, la complexión atlética y la postura marcial, vistiendo una túnica negra de corte militar ceñida con un tahalí de cuero de dragón donde descansaba una espada corta de acero goblin. Bajo la tela se adivinaba una cota de malla mágica que brillaba con reflejos violáceos. En su mano derecha, la varita de acebo no titubeaba; emitía una pulsación constante de magia no verbal contenida, dominada con la serenidad de un maestro de armas.
+
+A su diestra, de pie y con la espalda recta, permanecía Sirius Black. No era el prófugo esquelético de rostro hundido que se ocultaba en las chozas húmedas de Yorkshire; era el Lord de la Casa Black en la plenitud de su orgullo, vestido con terciopelo gris marengo, sin rastro de cojera ni secuelas de la demencia de Azkaban, con los ojos claros de quien ha ajustado todas las cuentas del pasado.
+
+Y a los pies de ambos, arrodillados sobre un pavimento de mármol quebrado, yacían las figuras desarmadas de sus enemigos: los burócratas de levita del Ministerio con sus sellos rotos, las máscaras de plata astilladas de los mortífagos que habían financiado la matanza de Godric's Hollow y las sombras derrotadas de quienes habían intentado convertir al huérfano de los Potter en un peón sacrificable. Sobre el cuello del Harry adulto colgaba el relicario familiar intacto, y a su lado, ocupando un estrado secundario pero con la misma frialdad en la mirada, una mujer de cabellos platinados y túnica esmeralda sostenía un pergamino con el sello de los linajes antiguos: Lyra Malfoy, no como sierva ni como trofeo, sino como aliada de un pacto inquebrantable de gobierno y sangre.
+
+No era amor familiar blando lo que proyectaba el espejo. No era el llanto nostálgico por los padres muertos.
+
+Era *orden*. Era *victoria*. La restitución absoluta de todo lo que la cobardía ajena, la traición de Peter Pettigrew y la conveniencia política del Wizengamot le habían arrebatado a su casa.
+
+Un calor extraño y peligroso subió por el pecho de Harry, tentándolo a dar un paso más hacia el marco dorado, a extender la mano y tocar el vidrio para fundirse en la imagen de ese triunfo absoluto donde ya no había alacenas oscuras ni frío en los huesos.
+
+Harry apretó la mandíbula hasta sentir el chasquido de los molares.
+
+El dolor seco en las encías actuó como un latigazo de lucidez.
+
+—El deseo no es un plan operativo —dijo Harry en voz alta, y el sonido de su propia voz, baja y áspera, rompió el encanto hipnótico de la sala—. Muestras el destino que mi sangre exige, pero ocultas el precio del camino. Eres solo un pedazo de vidrio azogado diseñado para volver locos a los hombres débiles que prefieren soñar con la corona antes que empuñar el acero.
+
+Harry dio un paso atrás sin apartar los ojos de su propio reflejo victorioso.
+
+Respiró hondo, bajó los párpados un segundo para purgar la imagen de su retina y se calzó de nuevo la capucha de la Capa de Invisibilidad. Su cuerpo se disolvió en el aire de la habitación, dejando únicamente el polvo flotando bajo los rayos de la luna.
+
+Retrocedió hacia la puerta con la guardia en alto. Apreciaba lo que el espejo le había revelado: ahora sabía con precisión quirúrgica cuál era su verdadero objetivo; pero sabía también que ningún reino se conquista contemplando un espejismo en un aula abandonada.

@@ -44,3 +44,4 @@ La lechuza del Ministerio era una distracción táctica de manual: la misma téc
 Dumbledore estaba a cientos de millas de distancia sobre los cielos del sur. El tercer piso estaba desprotegido.
 
 Y el hombre del turbante púrpura no esperaría a la mañana siguiente para descender a las profundidades.
+

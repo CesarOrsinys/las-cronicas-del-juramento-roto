@@ -42,3 +42,4 @@ Sus miradas se cruzaron a través del vapor de las calderas de abono. No hubo pa
 La heredera de las serpientes también había olido la mentira del turbante.
 
 Para el resto de Hogwarts, Quirrell era un bufón asustadizo y ridículo. Para Harry y Lyra, el profesor de Defensa era un blanco bajo sospecha: una cerradura sellada cuyo interior ocultaba una amenaza que el castillo aún no estaba preparado para nombrar.
+
