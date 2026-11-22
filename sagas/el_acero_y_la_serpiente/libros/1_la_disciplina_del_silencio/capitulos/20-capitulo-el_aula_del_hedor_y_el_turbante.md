@@ -21,7 +21,7 @@ Quirrell se volvió hacia la pizarra para escribir una fórmula elemental de pro
 
 Harry no miró las letras temblorosas de tiza blanca. Miró la nuca del profesor.
 
-Bajo los pliegues pesados del turbante púrpura se desprendía algo más que el olor a ajo rancio. Había un rastro secundario, casi imperceptible para un olfato no entrenado: ceniza volcánica fría, podredumbre orgánica y el olor acre a ozono que dejan las descargas eléctricas de alto voltaje. Era el mismo regusto ferroso que Harry había olido en los fragmentos de la casa destruida de Godric's Hollow cuando Sirius le narraba el duelo de Samhain.
+Bajo los pliegues pesados del turbante púrpura se desprendía algo más que el olor a ajo rancio. Había un rastro secundario, casi imperceptible para un olfato no entrenado: ceniza volcánica fría, podredumbre orgánica y el olor acre a ozono que dejan las descargas mágicas de alto voltaje. Era el hedor inconfundible de la magia corrupta que devora la carne viva desde adentro, tal como Sirius le había descrito en las lecciones de combate oscuro en Yorkshire al explicarle cómo se pudre el cuerpo de un mago que hospeda parásitos astrales.
 
 *«Un maestro de Defensa que no sostiene la mirada»*, pensó Harry, midiendo la postura del docente.
 
