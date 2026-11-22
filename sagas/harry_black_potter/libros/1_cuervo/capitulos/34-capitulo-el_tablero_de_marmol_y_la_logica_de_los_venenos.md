@@ -1,0 +1,238 @@
+# Capítulo 34: El tablero de mármol y la lógica de los venenos
+
+La pesada puerta de roble labrado se cerró tras ellos con un chasquido metálico y rotundo que resonó por las bóvedas subterráneas como el cierre de un sarcófago. El umbral que acababan de cruzar los depositó al borde de una inmensidad oscura y fría, donde el aire olía a polvo de cantera, a cal apagada y al magnetismo estático que antecede a las tormentas eléctricas en los páramos.
+
+Harry alzó la punta de su varita. Una esfera de luz blanca y pura, contenida y sin deslumbrar, iluminó el espacio inmediato.
+
+El suelo bajo sus botas no era de baldosas irregulares ni de roca viva: era una explanada colosal de mármol pulido, dividida en sesenta y cuatro cuadrados colosales alternados entre el negro azabache más profundo y el blanco níveo más reluciente. Cada casilla medía al menos dos metros y medio de lado, extendiéndose a lo largo de una sala gigantesca cuyas paredes se perdían en las penumbras de los extremos. Al otro lado del abismo ajedrezado, a casi cien metros de distancia, se vislumbraba un segundo arco de piedra con una puerta de hierro macizo que conducía hacia las profundidades del castillo.
+
+Pero el camino no estaba despejado.
+
+Plantadas sobre las casillas negras más cercanas a ellos, de espaldas a los recién llegados, se alzaban dieciséis figuras monumentales talladas en piedra negra y obsidiana pulida. Eran estatuas colosales, de más de tres metros de altura, esculpidas con un nivel de detalle sobrecogedor y marcial: peones con cotas de malla y alabardas pesadas, corceles de guerra encabritados con ojos vacíos de granito, torres almenadas que parecían baluartes inexpugnables, y en el centro, un rey y una reina con coronas puntiagudas cuyos rostros tallados carecían de facciones humanas, exhibiendo en su lugar una máscara de piedra lisa, implacable y severa.
+
+Y frente a ellas, en el extremo opuesto del tablero, alineadas con una simetría militar aterradora sobre las casillas blancas, aguardaba un ejército idéntico de estatuas de mármol albino resplandeciente, inmóviles como centinelas funerarios.
+
+—Por las barbas de Merlín —susurró Ron, deteniéndose en seco con los ojos muy abiertos y la mandíbula caída por el asombro—. Es… es un tablero de ajedrez mágico gigantesco.
+
+—La prueba de la profesora McGonagall —dedujo Hermione de inmediato, recorriendo las líneas del pavimento con mirada rápida y analítica—. Transformación y animación elemental de piedra viva a gran escala. No podemos simplemente cruzar caminando por los bordes; fíjense en los flancos de la sala: no hay pasarelas ni espacio libre entre el borde del tablero y el abismo de las paredes.
+
+Harry avanzó un paso hacia el borde de la primera casilla negra. En cuanto la punta de su bota rozó la línea de separación del mármol, las dos figuras negras más próximas —dos peones de piedra con pesadas armaduras de granito— cruzaron sus alabardas con un estruendo metálico que hizo temblar el pavimento, cerrándoles el paso con una firmeza absoluta.
+
+—¿Tenemos que jugar para pasar? —preguntó Hermione con un hilo de voz angustiada.
+
+—No sólo jugar —respondió Ron, cuya expresión había cambiado por completo: la vacilación y el temor que lo acompañaban en los pasillos oscuros se desvanecieron, reemplazados por una concentración lúcida, calculadora y experta que iluminó sus rasgos pecosos—. Es ajedrez mágico clásico, Hermione. Las reglas son idénticas a las de los torneos de gran maestro. No nos dejarán cruzar al otro lado a menos que juguemos la partida y derrotemos al bando blanco siguiendo la legalidad del tablero. Y si perdemos… las piezas de ajedrez mágico no se limitan a retirarse; destruyen físicamente a las piezas capturadas.
+
+Harry observó a Ron con atención metódica. Había visto al pelirrojo jugar docenas de partidas en la sala común de Gryffindor y en las mesas del patio durante las tardes de primavera; Ron no era un estudiante brillante en encantamientos teóricos ni en historia de la magia, pero sobre un tablero de sesenta y cuatro casillas poseía una intuición táctica, una visión geométrica y una comprensión de las líneas de ataque que rayaban en la genialidad estratégica.
+
+—Tú eres el comandante aquí, Ron —sentenció Harry con tono firme y sereno, depositando toda su confianza en el talento natural de su amigo—. Ni Hermione ni yo tenemos tu nivel de juego. Tú conoces las aperturas, los sacrificios de posición y el valor de cada flanco. Dinos qué tenemos que hacer.
+
+Ron tragó saliva, sintiendo el peso inmenso de la responsabilidad sobre sus hombros, pero asintió con una determinación férrea que enderezó su postura:
+
+—De acuerdo. Si vamos a jugar, tenemos que sustituir a tres de las piezas negras que faltan o ocupar el lugar de piezas existentes para que el tablero nos reconozca como parte del ejército activo. Miren bien la fila trasera: falta un alfil negro en el flanco de dama, falta un caballo negro en el flanco de rey, y uno de los peones centrales parece dañado.
+
+Ron se acercó al alfil negro de la izquierda y le habló con voz clara y autoritaria:
+
+—Queremos participar en la partida para cruzar la sala. ¿Cómo tomamos posiciones?
+
+El alfil de piedra inclinó su cabeza encapuchada en un gesto de asentimiento mudo y, con un crujido sordo de piedra sobre mármol, descendió del tablero y se retiró hacia la penumbra del lateral, dejando su casilla negra vacía. Un caballo de granito negro y uno de los peones hicieron lo mismo a continuación, abriendo tres huecos exactos en la formación defensiva.
+
+—Hermione —indicó Ron señalando la casilla del alfil vacante—, toma la posición del alfil en el flanco de dama. Mantente en las diagonales oscuras; tu función será controlar las líneas largas y cubrir las retiradas. No avances a menos que yo te lo ordene expresamente.
+
+Hermione asintió con el rostro pálido pero firme, colocándose en el centro exacto del cuadrado de mármol negro.
+
+—Harry —continuó Ron, mirando a su amigo con una seriedad que revelaba la gravedad de la situación—, tú toma la casilla del alfil de rey o el caballo. No… espera. El rey blanco siempre busca la presión sobre la casilla del alfil. Toma la posición del alfil de las casillas claras o el peón central. Si ocupas el lugar de una pieza menor de apoyo, podré mantenerte fuera de las líneas de fuego directo durante el intercambio de piezas pesadas.
+
+—Tomaré la posición del alfil negro de rey —dijo Harry, subiendo a la casilla correspondiente con paso elástico y equilibrado—. Y tú, Ron, ¿dónde vas a colocarte?
+
+—Yo ocuparé el caballo negro de flanco de rey —respondió Ron, subiendo con agilidad a la casilla vacía—. En el ajedrez, el caballo es la única pieza capaz de saltar sobre las demás, cambiar el ritmo de la partida y maniobrar en posiciones cerradas. Desde aquí tendré la perspectiva completa del tablero y podré dirigir el ataque.
+
+En cuanto los tres niños estuvieron colocados en sus respectivas casillas, un crujido monumental sacudió la sala subterránea. Al otro lado del abismo de mármol, el ejército blanco cobró vida con una coordinación aterradora. Las armaduras de mármol níveo rechinaron al unísono, los caballos blancos piafaron con cascos de piedra maciza y el rey blanco desenfundó una espada colosal de mármol que reflejó la luz como un espejo helado.
+
+Un peón blanco avanzó dos casillas al frente con pasos pesados que hicieron vibrar el suelo. La partida había comenzado.
+
+—Defensa siciliana —murmuró Ron, con los ojos entrecerrados mientras analizaba la estructura de peones rival—. Intentan controlar el centro geométrico con piezas menores para forzar una ruptura rápida en el flanco de dama. No vamos a permitirlo. ¡Peón negro a dama cuatro!
+
+El peón negro correspondiente avanzó con determinación sorda, clavando su alabarda en el pavimento al ocupar su nueva posición.
+
+Durante los siguientes quince minutos, la sala subterránea se convirtió en un campo de batalla de tensión asfixiante, donde cada orden de Ron era seguida por el movimiento majestuoso, pesado y letal de las figuras colosales. Harry observaba con admiración táctica cómo su amigo desentrañaba las intenciones del ejército blanco con una lucidez implacable: Ron no se apresuraba, no se dejaba tentar por capturas engañosas de material y mantenía a Harry y a Hermione constantemente resguardados tras barreras sólidas de peones y torres de obsidiana.
+
+Sin embargo, la violencia física de la prueba se hizo evidente en la primera captura.
+
+Un caballo blanco saltó hacia adelante con una violencia brutal, interceptando a uno de los peones negros de la vanguardia. La figura de mármol blanco descargó su maza de guerra con un golpe demoledor sobre la cabeza de la estatua negra: la piedra de obsidiana estalló en una lluvia ensordecedora de esquirlas afiladas y escombros humeantes, y los restos del peón derribado fueron arrastrados sin piedad fuera del tablero por las figuras blancas.
+
+Hermione emitió un ahogado gemido de horror, protegiéndose el rostro con la manga de la túnica ante el impacto de las piedras quebradas.
+
+—¡Mantengan la calma! —gritó Ron con voz tronante que dominó el estruendo de la sala—. ¡No se desconcentren! ¡Era un peón necesario para abrir la diagonal de la torre! ¡Torre negra, avanza tres casillas y captura el caballo blanco!
+
+La torre negra rodó hacia adelante como un ariete de guerra implacable, embistiendo al caballo blanco con la fuerza de una avalancha de roca y pulverizándolo en un millar de fragmentos de mármol que cayeron sobre el suelo con un estrépito colosal.
+
+La partida continuó con una intensidad despiadada. El tablero se fue vaciando progresivamente de figuras menores. El suelo quedó sembrado de cráteres, hendiduras y montañas de escombros de granito blanco y negro. Pero a pesar de las bajas sufridas por su ejército, la estrategia de Ron comenzaba a encerrar al rey blanco en una red geométrica inexorable.
+
+Harry permanecía en su casilla, con la varita lista y la oclumancia levantada, vigilando las líneas de visión y respirando al compás de los movimientos. Sentía una profunda compasión y un respeto ilimitado por el coraje de Ron: aquel niño pelirrojo, tantas veces eclipsado por sus hermanos mayores y subestimado por sus compañeros, estaba demostrando una grandeza de espíritu, una capacidad de mando y un temple que rivalizaban con los más experimentados capitanes de guerra.
+
+De pronto, tras un avance magistral de la reina negra, Ron se quedó completamente inmóvil sobre su casilla.
+
+Sus ojos azules barrieron el tablero una, dos, tres veces, analizando las coordenadas de las piezas restantes. Una palidez mortal comenzó a extenderse por sus mejillas pecosas, borrando el rubor de la batalla. Sus labios se apretaron en una línea delgada y trágica.
+
+—Ron… ¿qué ocurre? —preguntó Hermione con un temblor de angustia en la voz desde su casilla diagonal—. ¿Podemos ganar?
+
+—Sí… podemos ganar —respondió Ron con un hilillo de voz que apenas lograba sobreponerse al zumbido del aire—. La partida está ganada en cuatro movimientos. Pero hay un precio.
+
+Harry comprendió de inmediato la geometría del tablero antes incluso de que Ron lo explicara. Sus ojos recorrieron la posición de la reina blanca, la casilla central donde se encontraba Ron sobre su caballo negro y la diagonal despejada que conducía directamente al rey blanco:
+
+—No lo hagas, Ron —dijo Harry con voz firme y apremiante—. Hay otra forma. Podemos forzar las tablas o buscar una maniobra de alfil para desviar a la reina.
+
+—No hay otra forma, Harry —respondió Ron, volviéndose hacia él con una mirada cargada de una madurez dolorosa, serena y profundamente heroica—. Si muevo el caballo a la casilla del flanco de rey, la reina blanca estará obligada a capturarme para evitar el jaque mate inmediato. En cuanto ella me derribe y abandone su posición central, tú podrás avanzar dos casillas en diagonal hacia la casilla blanca del rey, Harry. Tú darás el jaque mate definitivo y la partida habrá terminado. La puerta quedará abierta para que continúes.
+
+—¡Ron, no! —gritó Hermione con lágrimas brillando en sus ojos—. ¡Esa reina te va a destrozar como hizo con la torre! ¡Es piedra maciza! ¡No puedes permitir que te golpee!
+
+—¿Acaso no lo entienden? —exclamó Ron con una vehemencia apasionada y limpia que estremeció los corazones de sus dos amigos—. ¡No se trata de mí! ¡Se trata de la Piedra Filosofal! ¡Se trata de Quirrell o Snape tratando de resucitar a Quien-Ustedes-Saben! Si no detenemos al ladrón esta noche, no habrá colegio al que regresar, ni familia a la que proteger, ni futuro para ninguno de nosotros. Harry tiene que seguir adelante; él es quien sabe cómo enfrentarse a la oscuridad. Yo sólo soy el jugador de ajedrez que debe hacer el sacrificio para que el rey caiga.
+
+—Ron… —comenzó Harry, sintiendo un nudo espeso de emoción humana apretándole la garganta, pero reconociendo al mismo tiempo la grandeza inquebrantable del acto de su amigo—. No voy a dejar que te mate esa estatua. En cuanto la reina se mueva hacia ti, lanzaré un encantamiento amortiguador bajo tus pies. Salta en el último segundo. No intentes resistir el impacto de frente; déjate llevar por la inercia hacia los laterales.
+
+Ron esbozó una sonrisa pálida y valiente, asintiendo con la cabeza:
+
+—Haré lo que pueda, Harry. Pero no te muevas de tu casilla hasta que el jaque mate sea legal o las reglas del tablero nos aplastarán a los tres.
+
+Ron inhaló una profunda bocanada de aire, enderezó la espalda y gritó con voz clara y resonante que retumbó contra las bóvedas de mármol:
+
+—¡Caballo negro a rey cuatro! ¡Jaque!
+
+El caballo de granito negro saltó hacia adelante con un crujido sordo, aterrizando pesadamente sobre la casilla marcada en el centro del tablero.
+
+La reacción del ejército rival fue instantánea y despiadada. La reina blanca giró sobre su base de mármol con la frialdad implacable de una máquina de matar. Levantó su pesada maza de piedra con ambas manos y avanzó con zancadas gigantescas hacia la casilla de Ron.
+
+Harry no apartó la vista ni una décima de segundo. Deslizó su varita con una precisión no verbal milimétrica y, en la fracción de segundo previa al choque, apuntó hacia el suelo bajo las botas de su amigo, imbuyendo las baldosas con un encantamiento elástico de absorción de choque cinético: *«Arresto Spongify»*, proyectó con toda la fuerza de su voluntad mental.
+
+La colosal maza de mármol blanco descargó su golpe demoledor sobre el caballo negro.
+
+El estrépito fue atronador: el lomo de granito de la montura estalló en mil fragmentos con la violencia de una detonación. Ron fue despedido por el impacto a varios metros de altura en el aire; pero el encantamiento amortiguador de Harry amortiguó la violencia terminal del golpe, convirtiendo lo que habría sido una fractura letal en una caída dura y rodante sobre los escombros laterales. El cuerpo del muchacho pelirrojo rodó sobre el pavimento y quedó tendido e inmóvil junto al borde del tablero, inconsciente pero respirando con un pulso regular.
+
+Hermione soltó un grito desgarrador, pero Harry contuvo a la niña con una orden tajante y lúcida:
+
+—¡Quédate en tu casilla, Hermione! ¡Un solo paso más y la partida se anula!
+
+Harry avanzó con paso firme y solemne a través del mármol ensangrentado de esquirlas. Cruzó dos casillas en diagonal hacia la izquierda, colocándose exactamente frente al rey blanco, cuya espada permanecía inmóvil en el aire.
+
+Harry clavó sus ojos esmeralda en el rostro sin facciones de la figura colosal y pronunció con voz helada y definitiva:
+
+—Jaque mate.
+
+El rey blanco inclinó lentamente la cabeza en un gesto de sumisión ceremonial. Soltó su corona de mármol, que cayó sobre el pavimento haciéndose pedazos a los pies de Harry, y la espada se desmoronó convertida en polvo inerte. Todas las figuras blancas restantes envainaron sus armas y se retiraron hacia las sombras de las paredes.
+
+Al fondo de la sala, los cerrojos de la pesada puerta de hierro se descorrieron solos con un chasquido suave y la hoja se abrió de par en par, revelando el umbral hacia el siguiente desafío.
+
+Hermione corrió de inmediato hacia el cuerpo de Ron, arrodillándose sobre los escombros de piedra con el rostro bañado en lágrimas de alivio angustiado. Le tomó el pulso en el cuello y examinó sus extremidades con rapidez:
+
+—Está vivo… está respirando bien, Harry. Sólo está conmocionado por el golpe y tiene una contusión en el hombro, pero vivirá. Merlín bendito, vivirá gracias a tu hechizo de amortiguación.
+
+—Quédate con él, Hermione —dijo Harry, acercándose a ellos y arrodillándose brevemente para comprobar que Ron no presentaba hemorragias internas visibles—. No podemos moverlo sin una camilla mágica. Asegura la puerta de regreso hacia la cámara de las llaves aladas. Si algo sale mal adelante, toma la capa de invisibilidad y llévate a Ron hacia las mazmorras para buscar a la señora Pomfrey o a McGonagall.
+
+—No voy a dejarte ir solo, Harry —protestó Hermione con voz temblorosa pero con una mirada de terquedad inquebrantable—. El siguiente obstáculo podría ser letal. ¡No sabes qué hay tras esa puerta!
+
+—Lo sé, Hermione. Pero Ron necesita atención médica y alguien tiene que vigilar nuestra única ruta de escape. Yo soy el que debe cruzar esa puerta. Es mi responsabilidad y es mi batalla.
+
+Hermione apretó los labios, conteniendo las lágrimas mientras contemplaba la madurez serena y la calma implacable de Harry:
+
+—Eres un gran mago, Harry Potter. Nunca lo dudes. No sólo por los hechizos ni por la fama de los libros… sino por tu corazón y tu mente. Ten mucho cuidado, por favor.
+
+—Siempre lo tengo —respondió Harry con una leve inclinación de cabeza.
+
+Dejó la Capa de Invisibilidad sobre las piernas de Ron para mantenerlo abrigado y protegido de las miradas indiscretas, se ajustó la varita en la muñeca derecha y cruzó el umbral de hierro hacia el túnel siguiente.
+
+Apenas dio unos pasos por el pasillo descendente, un hedor espantoso, penetrante y nauseabundo golpeó su olfato con la violencia de un puñetazo físico. Era una mezcla pútrida de calcetines sucios fermentados durante años, carne cruda en descomposición y sudor rancio de basurero. Harry se llevó la manga de la túnica a la nariz, conteniendo una arcada involuntaria mientras levantaba la guardia mágica.
+
+Al final del túnel se abría una cámara circular iluminada por antorchas de fuego azul. Tendido en el centro exacto del suelo, con las extremidades retorcidas en un ángulo grotesco y un chichón monumental del tamaño de un melón maduro en su frente verdosa y arrugada, yacía un trol de las montañas descomunal, de más de cuatro metros de envergadura.
+
+La bestia estaba profundamente inconsciente, emitiendo ronquidos burbujeantes que hacían temblar las antorchas de las paredes. Un garrote colosal de madera de roble yacía partido en dos mitades limpias a su lado, con los bordes quemados por una descarga mágica de alta temperatura.
+
+—La prueba del profesor Quirrell —murmuró Harry para sus adentros, examinando el cuerpo de la criatura sin acercarse demasiado—. Quirrell es el especialista en Defensa Contra las Artes Oscuras y tiene afinidad demostrada con los troles. Se deshizo de su propio guardián con una facilidad pasmosa; una descarga perforante directa al cráneo para no perder tiempo.
+
+Harry rodeó con cautela el cuerpo de la fiera, esquivando los charcos de baba viscosa que goteaban de sus mandíbulas abiertas, y empujó la pesada puerta de hierro que se alzaba en el muro posterior.
+
+En cuanto sus botas cruzaron el umbral, una llamarada de fuego mágico estalló a sus espaldas con un rugido ensordecedor, sellando la puerta de entrada con una cortina impenetrable de llamas púrpuras incandescentes. Casi al mismo instante, en el extremo opuesto de la sala, ante el arco que conducía hacia la cámara final, otra cortina colosal de fuego negro como el azabache brotó del suelo de piedra, bloqueando por completo la salida hacia adelante.
+
+Harry estaba atrapado en el centro de una estancia circular iluminada por los reflejos fantasmagóricos del fuego púrpura y el fuego negro.
+
+En el centro exacto de la sala se alzaba una mesa alargada de madera de roble oscuro. Sobre ella, alineadas en una hilera perfecta de menor a mayor tamaño, descansaban siete botellas de vidrio de formas y tonalidades diversas: redondas, alargadas, con cuellos estilizados o tapones de cera sellada. Y junto a la hilera de frascos, descansaba un pergamino amarillento cubierto por una caligrafía puntiaguda, elegante y pulcra que Harry reconoció al instante como la letra del profesor Severus Snape.
+
+Harry se acercó a la mesa con paso sosegado, tomó el pergamino entre sus dedos enguantados y leyó las líneas escritas con tinta negra indeleble:
+
+*«El peligro yace ante ti, mientras la seguridad descansa detrás.*  
+*Dos de nosotros te ayudarán, cualquiera que prefieras tomar.*  
+*Uno de los siete te permitirá avanzar a través de las llamas,*  
+*otro transportará al que beba de regreso por donde vino.*  
+*Dos de nosotros contienen sólo vino de ortiga inocente,*  
+*tres son mortales venenos, aguardando pacientemente en la fila.*  
+*Escoge, si deseas hallar lo que buscas con premura;*  
+*para ayudarte en la elección, te damos estas cuatro pistas de cordura:*  
+
+*Primera: por muy disimulado que el veneno esté colocado,*  
+*siempre a la izquierda de un vino de ortiga lo habrás hallado.*  
+*Segunda: diferentes son los que se ubican en cada extremo,*  
+*pero si quieres avanzar, ninguno de ellos es el supremo.*  
+*Tercera: como ves claramente, todos son de distinto tamaño,*  
+*ni el enano ni el gigante albergan muerte en su castaño.*  
+*Cuarta: el segundo a la izquierda y el segundo a la derecha*  
+*gemelos son en sabor, aunque a primera vista no se sospecha.»*
+
+Harry dejó el pergamino sobre la mesa y una leve sonrisa de satisfacción intelectual iluminó su semblante cansado.
+
+—No es magia —murmuró en voz baja, sintiendo el calor del fuego negro acariciar su mejilla—. Es lógica pura. Un enigma hermético de deducción analítica. El profesor Snape sabe perfectamente que la inmensa mayoría de los grandes magos del mundo mágico carecen por completo de sentido común y razonamiento deductivo: se apoyan en la fuerza bruta de sus varitas y en encantamientos complicados, pero ante un problema de lógica elemental quedan atrapados para siempre en la trampa.
+
+Harry sacó una pluma de su bolsillo y comenzó a descomponer las cuatro premisas del acertijo sobre el margen del pergamino con la disciplina metódica que practicaba en la torre de Ravenclaw.
+
+Había siete botellas alineadas del uno al siete de izquierda a derecha.  
+Tres eran venenos mortales.  
+Dos eran vino de ortiga inocente.  
+Una permitía retroceder a través de las llamas púrpuras.  
+Una permitía avanzar a través del fuego negro.
+
+*«Pista segunda: diferentes son los que se ubican en cada extremo, pero si quieres avanzar, ninguno de ellos es el supremo»*. Eso descartaba de inmediato la botella 1 y la botella 7 para avanzar hacia adelante. Además, al ser diferentes entre sí, una de ellas no podía ser veneno si la otra lo era, o una era vino y la otra retirada.
+
+*«Pista cuarta: el segundo a la izquierda (botella 2) y el segundo a la derecha (botella 6) son gemelos en sabor»*. Como sólo había dos botellas de vino de ortiga en todo el conjunto, la botella 2 y la botella 6 tenían que ser obligatoriamente el vino de ortiga.
+
+*«Pista primera: siempre a la izquierda de un vino de ortiga se halla un veneno mortal»*. Como las botellas 2 y 6 eran vino, las botellas situadas inmediatamente a su izquierda (la botella 1 y la botella 5) debían ser, sin lugar a dudas, venenos mortales.
+
+Ya estaban identificadas cuatro botellas con absoluta certeza:  
+Botella 1: Veneno mortal.  
+Botella 2: Vino de ortiga.  
+Botella 5: Veneno mortal.  
+Botella 6: Vino de ortiga.
+
+Quedaban por clasificar las botellas 3, 4 y 7. Una de ellas era el tercer veneno mortal, otra era la poción para retroceder, y la última era la poción para avanzar a través del fuego negro.
+
+Harry examinó los tamaños físicos de los recipientes sobre la mesa. La botella 3 era diminuta, apenas más grande que un dedal de sastre: era el enano de la fila. La botella 4 era un frasco panzudo y colosal que duplicaba en volumen a todas las demás: el gigante de la hilera.
+
+*«Pista tercera: ni el enano ni el gigante albergan muerte en su castaño»*. Eso significaba que ni la botella 3 ni la botella 4 podían contener veneno. Por eliminación matemática forzada, la botella 7 —el extremo derecho— tenía que ser obligatoriamente el tercer veneno mortal.
+
+Las piezas del rompecabezas encajaron con la precisión de un reloj astronómico:  
+Botella 1: Veneno mortal.  
+Botella 2: Vino de ortiga.  
+Botella 3 (el enano): Poción.  
+Botella 4 (el gigante): Poción.  
+Botella 5: Veneno mortal.  
+Botella 6: Vino de ortiga.  
+Botella 7: Veneno mortal.
+
+Sólo restaba determinar cuál entre la botella 3 (el enano) y la botella 4 (el gigante) permitía avanzar hacia adelante y cuál permitía retroceder hacia la seguridad.
+
+Harry releyó la segunda pista: *«Diferentes son los que se ubican en cada extremo, pero si quieres avanzar, ninguno de ellos es el supremo»*. La botella 1 era veneno y la botella 7 era veneno… pero los extremos eran diferentes en función; la botella 4 era la poción de regreso más voluminosa, diseñada para que pudieran beber de ella varias personas si necesitaban evacuar a heridos. Y la botella 3, el frasco diminuto, apenas contenía líquido suficiente para un solo trago humano: la dosis exacta que Snape reservaba para el único individuo con el temple y la mente suficientes para enfrentar el desenlace final.
+
+Harry tomó la botella 3 entre sus dedos. La alzó contra la luz de las llamas púrpuras. El líquido en su interior era transparente y denso como el mercurio, pero irradiaba una frialdad ártica que entumecía el cristal a través de los guantes de cuero.
+
+Examinó el volumen restante con mirada aguda: el nivel del líquido había descendido casi a la mitad. Alguien había bebido un trago generoso de esa misma poción minutos antes para cruzar hacia la cámara final.
+
+—Quirrell o Snape ya están al otro lado —dijo Harry en voz baja, sintiendo el latido regular de su corazón latiendo con fuerza serena en su pecho.
+
+No había espacio para la duda ni para el retroceso. Sus amigos estaban a salvo en la retaguardia, Sirius permanecía alerta en el espejo de dos caras, y las defensas del castillo habían sido franqueadas una tras otra mediante la inteligencia, la disciplina y el coraje colectivo.
+
+Harry destapó el frasco diminuto con un leve giro de pulgar. Se llevó el borde de vidrio a los labios e ingirió el último sorbo del líquido glacial de un solo trago firme.
+
+La sensación fue sobrecogedora y fulgurante: era como tragar un fragmento puro de hielo polar que se expandió de inmediato a través de su esófago, cubriendo su piel, sus músculos y sus ropas con una capa invisible de frío absoluto que neutralizaba por completo la radiación térmica del ambiente.
+
+Harry dejó la botella vacía sobre la mesa de madera, respiró hondo con la mente sellada tras sus murallas oclumánticas, y avanzó con paso firme y resuelto directamente hacia el muro de llamas negras como la noche.
+
+El fuego azabache lo envolvió por completo sin quemarlo ni chamuscar un solo hilo de su túnica; sólo sintió una caricia gélida y refrescante resbalar sobre su cuerpo mientras cruzaba el umbral hacia el abismo final.
+
+Un segundo después, el fuego negro quedó a su espalda. Harry Potter emergió en la última cámara subterránea del castillo de Hogwarts, donde la verdad, la sombra y el destino definitivo lo aguardaban en el centro del silencio sepulcral.

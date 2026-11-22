@@ -1,0 +1,130 @@
+# CAPÍTULO 28
+## El huevo de hierro y el fuego en la cabaña
+
+El mes de febrero trajo consigo una tregua engañosa y pantanosa en el clima extremo de las Tierras Altas escocesas. El hielo milenario que cubría los caminos comenzó a fundirse en un barro negro, denso y pegajoso que salpicaba las botas de los estudiantes en sus largos desplazamientos hacia los invernaderos de Herbología, y una llovizna constante, fría y grisácea envolvía las copas desnudas del Bosque Prohibido en una bruma perpetua que olía a corteza empapada, musgo podrido y turba húmeda. El invierno se resistía a morir del todo, pero el aire cargado de humedad anticipaba las tormentas de la primavera inminente.
+
+A pesar de que el misterio de Nicolas Flamel y la naturaleza exacta de la Piedra Filosofal habían quedado teóricamente desentrañados tras el hallazgo en el cromo de Albus Dumbledore y los libros de la biblioteca, una nueva preocupación, sumamente insólita, insensata y peligrosa para la seguridad colectiva, comenzó a manifestarse en los terrenos exteriores del castillo de Hogwarts.
+
+Rubeus Hagrid se comportaba de una manera extraordinariamente extraña, errática y sospechosa desde comienzos de mes. El semigigante apenas se dejaba ver por el Gran Comedor durante las horas de las comidas oficiales; cuando subía al vestíbulo de piedra para entregar leña de abedul a los conserjes o devolver herramientas de forja a Argus Filch, evitaba a toda costa el contacto visual con los profesores del claustro, miraba nerviosamente por encima del hombro a cada paso y se escabullía hacia su cabaña con pasos precipitados y pesados, cerrando la pesada puerta de madera con doble tranca de hierro a plena luz del mediodía.
+
+Una tarde de jueves, tras una sesión agotadora y tensa de Pociones en las mazmorras donde Severus Snape les había hecho destilar bilis de armadillo y jugo de mandrágora bajo una estricta supervisión que rozaba el acoso disciplinario, Harry Potter, Ron Weasley y Hermione Granger se encontraron por casualidad con Hagrid en la sección de botánica aplicada de la biblioteca escolar. El guardabosques intentaba ocultar con torpeza un grueso volumen encuadernado en cuero detrás de su inmenso abrigo de piel de topo, moviéndose entre las estanterías de roble con una timidez culpable y ridícula que resultaba sumamente cómica en un hombre de su descomunal corpulencia física.
+
+—Hagrid —lo llamó Harry en voz baja, aproximándose con paso tranquilo y elástico mientras Ron y Hermione se colocaban a sus costados para no llamar la atención de la señora Pince—. ¿Qué estás buscando exactamente en la biblioteca a estas horas de la tarde? Creí que tenías que reparar las cercas de madera de los huertos de calabazas antes de que cayera la noche sobre los valles.
+
+El semigigante dio un respingo tan violento que hizo temblar una hilera completa de manuales de Herbología antigua. Sus ojos negros y brillantes parpadearon con un pánico infantil y desmesurado, y escondió las manazas a la espalda con una torpeza mayúscula que derribó una pluma de ganso al suelo:
+
+—¡Harry! ¡Muchachos! No… nada, absolutamente nada de importancia escolar. Solo estaba echando un vistazo rápido… ya saben, simple curiosidad de viejo guardabosques solitario. Vengan a tomar una buena taza de té luego a la cabaña si tienen un rato libre antes de la cena, pero… pero les pido por favor que no hagan el menor ruido al llegar a la puerta, ¿de acuerdo? Y no le digan a ningún profesor que me han visto por aquí consultando textos.
+
+Hagrid se alejó apresuradamente hacia la salida de la biblioteca con zancadas colosales y precipitadas, dejando tras de sí un intenso y penetrante olor a resina de pino silvestre, tierra mojada y humo denso de leña.
+
+Hermione entrecerró los ojos castaños con una suspicacia afilada, se acercó a la balda de madera donde el gigante había estado hojeando con disimulo y examinó los títulos de los pesados volúmenes que ocupaban el estante:
+
+—*Especies de dragones autóctonos de Gran Bretaña e Irlanda* —leyó la niña en un susurro cargado de alarma e incredulidad—. *De la cría de dragones para placer, ornamento y provecho económico*… y *Tratado fundamental sobre la incubación térmica de huevos de fuego*. ¡Por todos los santos del cielo! ¡Rubeus Hagrid está buscando información técnica sobre cómo criar y hacer nacer dragones dentro del colegio!
+
+—Los dragones están formalmente clasificados como bestias de peligro extremo y su posesión privada es ilegal desde la Convención de Brujos de 1709 —señaló Harry de inmediato con su habitual precisión jurídica y analítica—. La cría clandestina de dragones en cautiverio dentro de zonas pobladas está severamente penada con el destierro perpetuo o el encarcelamiento directo en la prisión de Azkaban por el Departamento de Regulación y Control de Criaturas Mágicas del Ministerio. Si Hagrid está intentando incubar un espécimen vivo de clasificación cinco dentro de los terrenos de Hogwarts, pondrá en peligro inminente la vida de todos los alumnos de la escuela y Albus Dumbledore no tendrá base legal alguna para defenderlo si los aurores ministeriales intervienen en el recinto.
+
+—Tenemos que bajar a su cabaña ahora mismo antes de que cometa una locura irreversible —urgió Ron con el rostro desencajado, empujando a ambos hacia la salida de la biblioteca.
+
+A las cinco de la tarde, protegidos por la penumbra del crepúsculo invernal y por la niebla espesa y helada que ascendía desde las orillas pedregosas del Lago Negro, los tres muchachos descendieron por los senderos enfangados que bajaban serpenteando hacia la cabaña del guardabosques.
+
+Al llegar frente a la rústica construcción de madera de alerce y piedra de río, notaron de inmediato varias anomalías alarmantes: todas las ventanas estaban herméticamente selladas con gruesos postigos de roble atrancados con barras de hierro por dentro, y las cortinas de arpillera gruesa impedían cualquier visión del interior desde los cristales. A pesar de que la temperatura exterior rondaba apenas los cuatro grados sobre cero y soplaba un viento húmedo, una columna densa, negra, pestilente y sofocante de humo acre ascendía con fuerza por la chimenea de piedra, llenando el aire de los huertos con un olor inconfundible a azufre quemado, carbón mineral de forja y brea hirviendo.
+
+Harry llamó a la puerta con tres golpes rítmicos, secos y firmes con los nudillos sobre el roble.
+
+—¿Quién está ahí fuera? —preguntó la voz áspera, ronca y cargada de desconfianza de Hagrid desde el interior de la vivienda.
+
+—Somos nosotros, Hagrid. Harry Potter, Ron Weasley y Hermione Granger —respondió Harry en un susurro claro que apenas cruzó la rendija.
+
+La pesada puerta se abrió apenas unas pulgadas, dejando escapar una bocanada colosal de calor abrasador, sofocante y asfixiante que golpeó los rostros de los muchachos como si hubieran asomado la cabeza directamente al interior de un horno de fundición de acero. Hagrid miró con rapidez febril hacia ambos lados del sendero para cerciorarse de que no hubiera curiosos ni profesores en las inmediaciones y los hizo pasar con un tirón enérgico del brazo, cerrando la puerta y encajando la pesada tranca de hierro de inmediato.
+
+El interior de la cabaña era un auténtico infierno irrespirable y sofocante.
+
+En la gran chimenea de piedra abierta ardía una pira descomunal y monstruosa de leños gruesos de roble y carbón de piedra que rugía con llamas de un blanco azulado cegador, elevando la temperatura de la estancia hasta extremos que hacían sudar copiosamente a los muchachos a través de sus ropas de lana en cuestión de segundos. Fang, el enorme perro gran danés negro, se encontraba echado en el rincón más alejado y sombrío de la habitación, gimiendo lastimeramente y jadeando con la lengua fuera sobre un lecho de sacos de arpillera empapados en agua fría para no abrasarse con el calor ambiental.
+
+Pero lo más impresionante, perturbador y extraordinario de la escena no era el fuego de la chimenea.
+
+En el centro exacto de la parrilla de hierro fundido, descansando directamente sobre el lecho ardiente de las brasas vivas incandescentes, reposaba un huevo colosal, del tamaño de una sandía madura, cubierto por una corteza metálica, rugosa y escamosa de un color negro azabache brillante con vetas doradas que emitían un resplandor ígneo y latente bajo el calor abrasador.
+
+—Hagrid… —dijo Hermione con la voz entrecortada por el calor insoportable y el asombro atónito, abanicándose desesperadamente la cara con el cuello de su túnica—. ¿De dónde demonios has sacado semejante monstruosidad? ¿Tienes la menor noción del peligro mortal en el que te estás metiendo a ti mismo y a todo el colegio?
+
+El semigigante se inclinó sobre el borde de la chimenea con una sonrisa radiante, ingenua y conmovedora que transformaba su rostro ancho y barbudo en el de un niño fascinado ante un milagro de la naturaleza:
+
+—Lo gané anoche en una partida de cartas clandestina en la taberna de Cabeza de Puerco, allá abajo en el pueblo de Hogsmeade —confesó Hagrid en un susurro cargado de orgullo paternal y ternura desmedida—. Estuve jugando a las cartas durante horas con un forastero misterioso que llevaba una capa negra con capucha calada hasta las cejas y que no quiso mostrar el rostro en ningún momento de la velada. Parecía un comerciante extranjero de criaturas exóticas del continente. Nos tomamos unas cuantas jarras generosas de hidromiel añejo de Madama Rosmerta y nos pusimos a apostar fuerte sobre la mesa. Hacia la medianoche, el hombre sacó este huevo envuelto en un saco de lona gruesa y me dijo que se lo jugaría contra mi bolsa de galeones. Dijo que tenía que estar absolutamente seguro de que caía en manos de alguien con los conocimientos y la fuerza necesarios para cuidar de una criatura de esta envergadura… y yo le respondí que después de haber domado y educado a un perro de tres cabezas como Fluffy, un simple dragón no me daría el menor problema de disciplina.
+
+Harry clavó sus pupilas verdes en las facciones sonrientes y rubicundas de Hagrid. La compuerta de plomo de su mente oclumántica procesó las palabras del guardabosques con una alarma gélida, lúcida y demoledora que le heló la sangre en las venas:
+
+Un forastero encapuchado que ocultaba meticulosamente su rostro en una taberna de contrabandistas.
+
+Un desconocido que apostaba casualmente un huevo de dragón ilegal de inmenso valor económico.
+
+Un tahúr que interrogaba con astucia al guardián de los terrenos de Hogwarts sobre cómo manejar a una bestia de tres cabezas…
+
+—Hagrid —intervino Harry con una voz baja, templada, tranquila pero cortante y afilada como un bisturí de plata—. Ese hombre de la capa con capucha que te entregó el huevo… ¿te hizo preguntas específicas sobre el colegio? ¿Te preguntó qué clase de bestias custodiabas en los terrenos y cómo las controlabas?
+
+Hagrid frunció el ceño con una ligera confusión, rascándose la maraña enredada de su barba espesa mientras intentaba despejar la niebla alcohólica de la noche anterior:
+
+—Bueno… sí, supongo que sí me preguntó un par de cosas. Quería saber si yo tenía verdadera experiencia en el trato con bestias carnívoras de clasificación cinco del Ministerio. Me preguntó con insistencia si no resultaba demasiado peligroso y difícil mantener tranquilo y dominado a un perro gigante de tres cabezas como Fluffy… y yo le respondí con total franqueza que no había nada más sencillo en este mundo si se conocía el truco secreto: basta con tocarle una melodía suave, rítmica y tranquila con una flauta de madera o un arpa mágica para que la bestia caiga profundamente dormida como un cachorro de leche en menos de diez segundos de música.
+
+El silencio que cayó de golpe sobre la cabaña fue tan denso, asfixiante y aterrador que el crujido de las brasas incandescentes de la chimenea sonó como detonaciones de pólvora en la habitación.
+
+Harry Potter, Hermione Granger y Ron Weasley intercambiaron una mirada de puro espanto mudo y revelación catastrófica.
+
+El forastero encapuchado de la taberna de Cabeza de Puerco no era un simple contrabandista ambulante de huevos mágicos.
+
+Era el ladrón de la Piedra Filosofal.
+
+Había adquirido un huevo de dragón en el mercado negro europeo con el único y deliberado propósito de emborrachar a Hagrid en un rincón oscuro de Hogsmeade, tentar su debilidad infantil e insensata por las bestias peligrosas y arrancarle con engaños el único secreto que protegía la entrada del corredor prohibido del tercer piso: el método exacto para neutralizar y dormir al perro Fluffy mediante la ejecución de una melodía musical.
+
+La trampilla de la cámara 713 estaba formalmente desguarnecida de su defensa principal.
+
+Y antes de que Harry pudiera explicarle a Hagrid la magnitud de la catástrofe que acababa de desatar con su indiscreción, un crujido agudo, metálico, seco y rotundo resonó en el interior de las llamas vivas de la chimenea.
+
+*¡CRAC!*
+
+Una fisura profunda, luminosa y humeante se abrió en la corteza azabache del huevo de dragón.
+
+—¡Está naciendo la criatura! —gritó Hagrid con un fervor casi religioso, cayendo de rodillas sobre el suelo de tablas sin importarle en lo más mínimo que el calor sofocante le chamuscara los pelos de las cejas—. ¡Miren todos con atención! ¡Está rompiendo la cáscara de hierro en este mismo instante!
+
+El huevo rodó pesadamente sobre las brasas ardientes. La grieta se ensanchó con varios chasquidos secos y metálicos hasta que la parte superior de la corteza saltó en pedazos humeantes, dejando al descubierto una criatura pequeña, arrugada, escamosa, húmeda y grotesca que cayó pesadamente sobre la losa de piedra de la chimenea.
+
+No era una criatura hermosa según ningún estándar humano. Tenía el tamaño aproximado de un gato grande, pero con dos alas membranosas, espinosas y puntiagudas que parecían las de un murciélago gigantesco descolorido; su cuerpo era flaco, huesudo y alargado, cubierto de escamas de un tono negro verdoso brillante como el carbón mojado; tenía un hocico ancho, aplastado y puntiagudo provisto de dos orificios nasales grandes por los que salían pequeñas volutas de humo grisáceo y olor a azufre, y un par de ojos anaranjados, saltones, malévolos y brillantes que miraban a su alrededor con una ferocidad depredadora primordial.
+
+El pequeño dragón estornudó con violencia súbita, expulsando una lluvia de chispas ardientes que prendieron fuego de inmediato a un trozo de corteza de abedul en la repisa de madera. Hagrid apagó la llama de un manotazo entusiasta con una sonrisa de absoluta adoración en su rostro tiznado:
+
+—¡Es un auténtico Ridgeback noruego! —exclamó el semigigante con lágrimas de emoción pura resbalando por sus mejillas tiznadas de hollín—. Miren sus crestas dorsales afiladas como navajas… ¡Es la criatura más hermosa que ha visto este bosque! Hola, pequeño mío… ven con tu madre… te llamarás Norberto a partir de hoy.
+
+La pequeña bestia soltó un chillido metálico y estridente, arqueó el lomo espinoso y lanzó un mordisco salvaje y rápido hacia la manaza de Hagrid, clavando sus colmillos afilados como agujas de acero en la yema del pulgar del semigigante. Una gota de sangre oscura brotó de la piel encallecida; pero Hagrid sonrió con una ternura enternecedora como si hubiera recibido una caricia filial:
+
+—¡Miren qué carácter tan despierto y decidido tiene! ¡Ya reconoce a su madre nada más nacer!
+
+—Hagrid, esto es una auténtica demencia que terminará en tragedia —intervino Hermione con la voz temblorosa por una mezcla de angustia moral y calor asfixiante—. Los Ridgeback noruegos crecen a razón de casi un metro por semana durante sus primeros dos meses de vida. En menos de quince días no cabrá físicamente dentro de esta cabaña de madera; comenzará a escupir llamaradas de fuego de verdad que incendiarán las vigas de alerce, quemará los huertos de calabazas y la lona antes de que termine el mes. ¡Las columnas de humo negro se verán con total claridad desde las torres más altas del colegio! Si la profesora McGonagall o los inspectores del Ministerio de Magia descubren que tienes un dragón carnívoro de clase cinco oculto junto al Bosque Prohibido, te despojarán de las llaves de los terrenos y te enviarán encadenado directamente a Azkaban sin juicio previo en el Wizengamot.
+
+—No puedo abandonarlo a su suerte en la espesura del bosque, Hermione —suplicó Hagrid con la voz completamente quebrada por el dolor visceral ante la perspectiva de perder a su cría recién nacida—. Es demasiado pequeño y frágil para cazar ciervos o jabalíes por su cuenta… Se moriría de hambre y frío, o lo despedazarían las manadas de acromántulas o los centauros en los senderos profundos. Solo necesito tenerlo aquí a cubierto hasta que crezca un poco más y aprenda a volar…
+
+Harry se mantuvo en un silencio calculador durante varios segundos, observando con detenimiento analítico a la pequeña fiera alada que devoraba con avidez un plato de carne cruda y brandy que Hagrid le ofrecía con una cuchara sopera de hierro. Su mente procesó las ramificaciones de la crisis:
+
+Tener un dragón creciendo dentro de una cabaña de madera en los terrenos escolares era una bomba de relojería que amenazaba con estallar en cualquier momento. Pero el verdadero peligro inminente para el destino de Hogwarts no era la criatura en sí misma; era el hecho incontrovertible de que el enemigo encapuchado ya poseía el secreto de la música para dormir a Fluffy. La partida por la Piedra Filosofal había entrado de lleno en su fase de asalto definitivo.
+
+—Hagrid tiene razón en un punto fundamental: no puede simplemente soltar a este animal en el Bosque Prohibido para que muera —dijo Harry con una voz firme, pausada, clara y serena, atrayendo la mirada aliviada del gigante y la expresión atónita de Hermione—. Pero Hermione tiene toda la razón en que Norberto no puede permanecer en esta cabaña de madera ni un solo día más de lo estrictamente indispensable para organizar su partida. Necesitamos una solución definitiva, profesional, segura y legal fuera de las fronteras de Gran Bretaña.
+
+Ron Weasley dio un salto en su asiento de mimbre con los ojos chispeantes por una idea brillante y oportuna:
+
+—¡Mi hermano Charlie! —exclamó el pelirrojo golpeándose la frente con la palma de la mano—. ¡Charlie está trabajando en el santuario internacional de investigación y preservación de dragones en los montes de Rumania! Pasa el día entero cuidando, alimentando y estudiando ejemplares salvajes de todas las razas de Europa. Si le enviamos una lechuza urgente esta misma noche explicándole la situación con la máxima discreción y usando un código seguro, Charlie podrá coordinar con un grupo de amigos suyos de la reserva para venir en escobas a recoger a Norberto en un punto acordado del colegio y trasladarlo a Rumania sin que nadie en el Ministerio se entere del asunto.
+
+El rostro de Hagrid se debatió entre la tristeza desgarradora de tener que desprenderse de la criatura que acababa de ver nacer y el inmenso alivio de saber que el animal estaría cuidado por expertos en un hábitat natural adecuado:
+
+—¿Creen… creen de verdad que Charlie Weasley cuidará bien de mi pequeño Norberto? ¿No lo encerrarán en una jaula estrecha de hierro para exhibirlo como una fiera de feria?
+
+—Charlie ama a los dragones más que a su propia vida, Hagrid —le aseguró Ron con una vehemencia sincera y convincente—. Norberto estará completamente en libertad en los grandes valles de los Cárpatos junto a otros ejemplares de su misma especie, comiendo carne fresca y volando sobre las montañas. Es la única salida sensata y digna para salvar la vida del dragón y para evitar que tú termines en una celda de Azkaban.
+
+Hagrid soltó un suspiro descomunal y tembloroso, secándose las lágrimas de los ojos con la manga tiznada de su abrigo de piel de topo, y asintió pesadamente con la cabeza gacha:
+
+—Está bien… le escribiré a Charlie esta misma noche. Pero prométanme con la mano sobre el corazón que vendrán a ayudarme a alimentarlo y a vigilarlo hasta que sus amigos vengan a recogerlo.
+
+—Te lo prometemos, Hagrid —respondió Harry con solemnidad.
+
+Salieron de la cabaña con la respiración entrecortada por el calor sofocante, sintiendo el aire húmedo y fresco del anochecer como una auténtica bendición que les despejó los pulmones tras aquel encierro abrasador. Pero mientras subían la colina pedregosa hacia las luces cálidas del Gran Comedor a través de la llovizna invernal, los pensamientos de Harry no estaban ocupados por las alas escamosas de Norberto.
+
+Su mente repasaba con frialdad implacable la figura del forastero encapuchado de la taberna de Cabeza de Puerco: el hombre que había pagado el precio de un huevo de dragón de fuego en la penumbra a cambio de una simple y letal melodía musical para neutralizar a una bestia de tres cabezas.
+
+La trampilla secreta del tercer piso ya no guardaba misterios para el agresor. Y la cuenta regresiva para el asalto final a la Piedra Filosofal acababa de iniciarse sobre el tablero de Hogwarts.

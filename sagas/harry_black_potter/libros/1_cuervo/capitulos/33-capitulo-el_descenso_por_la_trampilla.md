@@ -1,0 +1,205 @@
+# Capítulo 33: El descenso por la trampilla y el lazo del diablo
+
+Las campanas del reloj central de Hogwarts resonaron a través de los muros de granito con un tañido sordo, espaciado y solemne que marcaba las once de la noche. El eco metálico se dispersó por los pasillos desiertos como un lamento ancestral, fundiéndose con los susurros del viento que azotaba los ventanales de la torre este. En la sala común de Ravenclaw, los últimos fuegos de la chimenea se habían reducido a un lecho de ascuas carmesíes que proyectaban sombras temblorosas sobre los lomos encuadernados en cuero de la biblioteca circular.
+
+Harry Potter se puso en pie con una lentitud meticulosa, cuidando de no rozar la madera del suelo con las suelas de sus botas de piel tratada. Había permanecido sentado en su sillón favorito junto al mirador durante dos horas completas, con la respiración sincronizada a un ritmo pausado y profundo, consolidando sus murallas oclumánticas piso por piso, viga por viga, como le había enseñado Sirius en las gélidas madrugadas de Yorkshire. En su mente no había espacio para la prisa ni para la vacilación febril que solía entorpecer el juicio de los muchachos de su edad; sólo existía un mapa topográfico exacto del corredor prohibido del tercer piso, una secuencia calculada de contingencias defensivas y el peso tangible de su equipo esencial.
+
+Bajo la túnica oscura de viaje llevaba la flauta de madera tallada a mano que Hagrid le había regalado por Navidad, sujeta a la pechera mediante una tira elástica de cuero para impedir que golpeara contra sus costillas al caminar. En el bolsillo interior izquierdo descansaba el espejo de dos caras, tibio contra su pecho, la promesa latente de que Sirius Black permanecía despierto al otro lado de la distancia terrenal. En su muñeca derecha, el mecanismo retráctil de piel de dragón mantenía la varita de acebo y pluma de fénix perfectamente orientada hacia la palma, lista para deslizarse a la velocidad de una fracción de segundo ante el menor impulso muscular involuntario. Y sobre su brazo izquierdo doblado, fluida como agua de plata líquida e invisible al tacto torpe, descansaba la Capa de Invisibilidad que había pertenecido a James Potter.
+
+Harry deslizó la tela encantada sobre su cabeza. El mundo exterior adquirió esa tenue tonalidad cristalina y amortiguada que caracterizaba la visión a través del tejido de la Muerte. Abrió la aldaba de bronce en forma de águila sin emitir el más leve crujido, respondiendo mentalmente al enigma nocturno de la puerta («¿Qué es lo que no tiene peso pero puede hundir el barco más grande?», «Una vía de agua», razonó en silencio antes de girar la manivela), y se deslizó por las escaleras de caracol hacia la penumbra del vestíbulo inferior.
+
+El castillo de Hogwarts dormía un sueño inquieto. Cada recodo del corredor era un desfiladero de sombras donde los cuadros roncaban pesadamente en sus marcos dorados o cuchicheaban entre sueños sobre las lejanas guerras de los siglos pasados. Harry avanzó con pasos felinos, pegándose al zócalo de piedra donde las losas estaban más firmemente asentadas y no crujían bajo el peso del cuerpo. Al doblar la esquina que conducía hacia el pie de la gran escalera de mármol, una sombra delgada y erguida se recortó contra la luz de una antorcha distante.
+
+Hermione Granger estaba de pie junto a la base de la estatua de un guerrero medieval con armadura oxidada, con los brazos cruzados con tanta fuerza que sus nudillos aparecían blanquecinos. A su lado, apoyado contra el pedestal con la mandíbula apretada y una expresión de tensión visceral grabada en sus pecas, Ron Weasley sostenía su vieja varita con la madera apuntando hacia el suelo.
+
+Harry se acercó a menos de medio metro de ellos antes de levantar una esquina de la capa y revelar su rostro en la penumbra.
+
+—No hagan ruido —susurró Harry con un tono tan bajo y modulado que las palabras parecieron flotar sin alterar el aire—. La señora Norris pasó patrullando por la galería de trofeos hace apenas diez minutos; Filch debe de estar rondando cerca del descansillo del segundo piso.
+
+—Por Merlín, Harry, casi me provocas un colapso cardíaco —masculló Ron entre dientes, respirando entrecortadamente mientras se apretaba la pechera de su jersey raído—. Creí que eras la sombra de Snape flotando por el corredor con su capa de murciélago.
+
+—El profesor Snape está vigilando las entradas exteriores de las mazmorras o tratando de interceptar a Quirrell si sospecha tanto como nosotros —intervino Hermione con un hilillo de voz temblorosa pero analítica, acomodándose la correa de su bolso de cuero al hombro—. Harry tiene razón. El toque de queda se decretó hace una hora entera. Si nos atrapan aquí, McGonagall no dudará ni un segundo en cumplir su amenaza de expulsión. Nos enviará de vuelta a casa en el primer tren de la mañana sin esperar siquiera a las notas finales.
+
+—Nadie nos va a atrapar si mantenemos la formación cerrada y el silencio absoluto —respondió Harry con calma imperturbable—. Entren bajo la capa. Ron, tú en el centro porque eres el más alto; Hermione a mi izquierda. Coordine sus pasos con los míos. Un talón a la vez, sin arrastrar las suelas sobre el polvo del suelo.
+
+Los tres niños se apretujaron bajo la amplitud ondulante del tejido invisible. La capa cubría con holgura sus tres figuras siempre que caminaran con el compás medido y la espalda ligeramente curvada. Harry tomó la delantera, guiando al grupo a través de los descansillos angostos, esquivando con precisión milimétrica el peldaño falso de la escalera circular que solía hundirse y atrapar el tobillo de los alumnos desprevenidos, hasta alcanzar el corredor clausurado del tercer piso.
+
+La atmósfera en aquel pasillo era densa, sofocante y cargada de un frío antinatural que calaba los huesos. El aire olía a moho vetusto, a polvo sellado durante décadas y a una emanación rancia y animal que evocaba la guarida subterránea de un depredador descomunal. Al final de la galería, la pesada puerta de roble macizo con herrajes de hierro forjado permanecía entreabierta apenas un par de centímetros.
+
+Harry se detuvo en seco, extendiendo el brazo izquierdo para frenar el avance de Ron y Hermione.
+
+—Alguien ya está adentro —susurró Harry, señalando el intersticio oscuro de la puerta—. La cerradura mágica ha sido reventada. No hay rastros de violencia física en la madera, lo que significa que usaron un encantamiento desilusionador y una descarga de apertura no verbal de alto calibre.
+
+—¿Crees que… que Snape o Quirrell ya están abajo? —preguntó Ron, tragando saliva con un sonido audible en el silencio del corredor.
+
+—Lo sabremos en cuanto miremos por la rendija —dijo Harry con serenidad—. Si el perro está despierto y furioso, el intruso aún no ha bajado o ha sido devorado en el umbral. Pero si hay música…
+
+Harry se deslizó con suavidad milimétrica fuera de la capa, dejando que Ron y Hermione permanecieran ocultos bajo la protección del manto. Se aproximó a la puerta con la espalda pegada a los sillares de piedra, asomó un solo ojo a través del vano y observó el interior de la cámara circular.
+
+La visión era sobrecogedora y espeluznante. Ocupando la totalidad del espacio de piedra entre el suelo y las bóvedas góticas del techo, yacía una criatura de proporciones monstruosas: un perro de tres cabezas titánicas, cubierto de un pelaje negro y cerdoso salpicado de cicatrices profundas. Sus tres hocicos colosales, equipados con colmillos tan largos y afilados como dagas de trinchera, descansaban pesadamente sobre las patas delanteras, emitiendo ronquidos ensordecedores que hacían vibrar los goznes de la puerta y levantaban ráfagas de aliento cálido con olor a carne descompuesta. A los pies de la bestia, un arpa dorada de filigrana encantada vibraba sola en el aire, tocando una melodía lenta, hipnótica y monocorde que mantenía los seis ojos del monstruo cerrados en un letargo profundo.
+
+—El arpa sigue tocando —murmuró Harry volviéndose hacia las sombras donde aguardaban sus compañeros—. El intruso ya ha cruzado la trampilla. Dejó el instrumento encantado para mantener dormida a la bestia mientras descendía, pero la magia del encantamiento rítmico está empezando a flaquear. Las cuerdas vibran con menor intensidad cada cuatro compases.
+
+Hermione asomó la cabeza fuera de la capa, observando con fascinación aterrada los mecanismos del arpa mágica:
+
+—Tiene razón, Harry. Es un encantamiento de repetición armónica simple. En cuanto la energía residual de la varita del lanzador se agote, el arpa se detendrá y el perro despertará en una fracción de segundo.
+
+—Por eso traje la flauta de Hagrid —respondió Harry, extrayendo el pequeño instrumento de madera de su jubón—. Hagrid me dijo que cualquier melodía suave, rítmica y continua mantendrá a Fluffy en un trance profundo. Yo tocaré la melodía sin interrumpir el aire. Ron, tú te encargarás de levantar la anilla de hierro de la trampilla que está justo debajo de la pata trasera izquierda del animal. Hermione, tú comprobarás la profundidad del pozo y bajarás primero para asegurar el punto de caída.
+
+—¿Yo primero? —balbuceó la niña, palideciendo ligeramente pero cuadrando los hombros con determinación académica—. De acuerdo. Si hay un encantamiento de amortiguación o un foso con púas, podré lanzar un *Arresto Momentum* o un *Lumos* antes de que toquen el suelo.
+
+—Exacto —asintió Harry con gravedad—. Ron, si la bestia se agita, no grites ni salgas corriendo; apártate hacia la pared con la varita lista. ¿Listos los dos?
+
+Ambos asintieron con rostros tensos. Harry colocó la boquilla de madera de peral contra sus labios e inhaló una bocanada de aire profundo por la nariz, activando la disciplina de fuelle pulmonar que Sirius le había enseñado a practicar mientras corrían por las laderas ventosas de Yorkshire.
+
+Comenzó a soplar. De la flauta brotó una melodía rústica, dulce y envolvente, una tonada sencilla de los pastores del norte que fluía con una cadencia hipnótica y sosegada. En ese mismo instante, con un chasquido casi imperceptible, la última cuerda del arpa dorada cesó de vibrar y el instrumento cayó inerte sobre las baldosas. Una de las cabezas del mastín abrió un ojo inyectado en sangre, arrugando la trufa negra en un gruñido gutural que amenazaba con convertirse en un rugido atronador; pero la tonada de Harry envolvió de inmediato los tres pares de orejas caídas. El perro emitió un bufido pesado, las mandíbulas se aflojaron derramando hilos de saliva espesa sobre la piedra, y la bestia volvió a derrumbarse en un sueño comatoso, roncando con la potencia de un fuelle de fragua.
+
+Harry no apartó los ojos de las tres cabezas mientras mantenía el flujo continuo de aire a través del instrumento. Hizo una señal tajante con los dedos de la mano izquierda hacia Ron.
+
+El pelirrojo avanzó de puntillas con una cautela infinita. Se deslizó por debajo del costado monumental del perro, conteniendo el aliento ante el hedor fétido de la fiera, y aferró la gruesa anilla de bronce fijada a la trampilla de roble. Tiró hacia arriba con todas sus fuerzas. El hierro rechinó con un gemido sordo, pero la trampilla cedió, revelando una abertura cuadrada de oscuridad impenetrable de la que ascendía una corriente de aire húmedo, vegetal y gélido.
+
+—No se ve el fondo —susurró Hermione, arrodillándose junto al borde del brocal con la varita encendida mediante un hilo casi invisible de luz—. Parece un abismo vertical de más de diez metros. Pero no hay pinchos ni rocas afiladas; el aire huele a hojas podridas y a musgo espeso.
+
+—Baja ya, Hermione —urgió Ron con el sudor resbalando por sus sienes mientras sostenía la pesada trampilla abierta—. El brazo se me está acalambrando y este bicho pesa como un hipogrifo cebado.
+
+Hermione respiró hondo, se sentó en el borde del brocal de madera, balanceó las piernas sobre el vacío insondable y se dejó caer sin emitir un solo grito de pánico.
+
+Pasaron dos segundos de silencio absoluto que parecieron dos horas en la tensión agónica de la cámara. Luego, desde la profundidad del pozo subterráneo, llegó un sonido blando y amortiguado, similar a un saco de grano cayendo sobre un montón de mantillo vegetal:
+
+—¡Estoy bien! —la voz de Hermione subió resonando contra las paredes tubulares del foso, amortiguada por la distancia—. ¡El fondo está cubierto por una especie de alfombra vegetal gigantesca! ¡Es una planta extremadamente suave y mullida que amortigua la caída por completo! ¡Pueden saltar sin peligro!
+
+Ron miró a Harry, quien continuaba soplando la flauta sin alterar el compás de la melodía rústica, sosteniendo las notas con una precisión pulmonar impecable.
+
+—¡Baja tú, Ron! —indicó Harry mediante un gesto seco de la cabeza hacia el hueco.
+
+Ron no se lo hizo repetir dos veces. Soltó la trampilla con cuidado para que no se cerrara de golpe sobre el brocal, se colgó del reborde de piedra con las dos manos y soltó los dedos, precipitándose en la oscuridad vertical. Un segundo después, otro golpe sordo y amortiguado confirmó que había aterrizado sobre el lecho vegetal junto a Hermione.
+
+Harry dio dos pasos hacia atrás sin dejar de soplar la flauta ni un solo compás. Las tres cabezas de Fluffy roncaban al unísono con un balanceo pesado de sus lomos cerdosos. Harry calculó la parábola de su propio salto: no podía tocar la flauta en el aire y la bestia tardaría al menos cuatro segundos en salir de su letargo profundo tras el cese de la música.
+
+Inhaló una última bocanada gigantesca de aire, deslizó la flauta dentro de su jubón mediante un movimiento seco y saltó de inmediato hacia el centro geométrico de la trampilla, flexionando las rodillas en el vacío mientras la oscuridad total lo envolvía como un manto frío.
+
+El descenso fue una ráfaga de aire húmedo que le azotó la cara durante una fracción de segundo. Luego, su cuerpo impactó contra una superficie extraordinariamente densa, suave y elástica que cedió bajo su peso como una red de lianas entrelazadas, frenando el impacto de la inercia con una suavidad asombrosa.
+
+—¿Estás entero, Harry? —preguntó la voz de Ron a su lado en la penumbra asfixiante.
+
+—Intacto —respondió Harry, poniéndose en pie de inmediato sobre la superficie oscilante—. Varitas listas. No sabemos qué tipo de organismo es este.
+
+La cámara subterránea estaba sumida en una penumbra casi absoluta, rota únicamente por la débil claridad que descendía desde la trampilla abierta en lo alto. El suelo no era de piedra ni de tierra firme: era una masa viviente y colosal de tallos gruesos, zarcillos oscuros y hojas carnosas de color verde negruzco que se extendían por todas direcciones, cubriendo las paredes de la fosa hasta una altura de cuatro metros.
+
+De pronto, Harry sintió una presión viscosa y serpenteante alrededor de su tobillo derecho.
+
+Bajó la vista con los ojos bien abiertos. Uno de los zarcillos más gruesos de la planta se había enroscado con la lentitud inexorable de una boa constrictor sobre su bota de piel, trepando hacia su pantorrilla con una firmeza muscular alarmante. A su lado, Ron profirió un grito ahogado de terror cuando tres zarcillos del grosor de cuerdas de navío le atenazaron los muslos y el torso, tirando de él hacia abajo con violencia salvaje.
+
+—¡Por las barbas de Merlín! —aulló Ron, forcejeando con desesperación ciega mientras las lianas se apretaban con furia redoblada alrededor de sus costillas—. ¡Esta porquería está viva! ¡Me está atando las piernas! ¡Hermione, Harry, ayúdenme, me está arrastrando hacia las raíces!
+
+—¡Ron, no te muevas! —gritó Hermione con una mezcla de pánico académico y urgencia médica, intentando mantener la calma mientras varios zarcillos comenzaban a reptar sobre sus propios antebrazos—. ¡Cuanto más luches y más fuerza hagas contra ella, más rápido y con mayor fuerza se apretará alrededor de tus órganos! ¡Sé lo que es esto! ¡La profesora Sprout nos lo explicó en Herbología el mes pasado! ¡Es el Lazo del Diablo!
+
+—¡Me importa un bledo cómo se llame en latín! —bramó Ron, cuya cara empezaba a adquirir un tono violáceo por la asfixia implacable de las ramas—. ¡No puedo respirar, Hermione! ¡Quémala o haz algo antes de que me rompa las costillas!
+
+Harry no perdió un solo segundo en forcejeos inútiles. La voz de Sirius en la cabaña de Yorkshire resonó en su mente con la claridad de una campana de bronce: *«En una emboscada mágica o natural, el pánico es el veneno que mata antes que el hechizo. Si luchas contra la física de la trampa sin comprender su naturaleza, te derrotas a ti mismo. Respira, analiza la debilidad del elemento y golpea con precisión quirúrgica»*.
+
+Harry forzó a cada músculo de su cuerpo a relajarse por completo. Dejó caer los brazos a los costados, aflojó las rodillas y respiró con lentitud pausada. De inmediato, los zarcillos que rodeaban sus piernas detuvieron su avance estrangulador, aflojando ligeramente la tensión de sus espirales al no detectar resistencia física activa.
+
+—Hermione tiene razón, Ron —dijo Harry con voz extraordinariamente calmada, modulando el tono para transmitir serenidad al muchacho aterrado—. Es una criatura de sombra y humedad que busca presas mediante la tensión cinética. Si te relajas, la planta pierde el estímulo de captura. Pero para liberarte a ti necesitamos calor y luz intensa. Hermione, la debilidad del Lazo del Diablo es el sol.
+
+—¡El sol, por supuesto! —exclamó Hermione, rebuscando frenéticamente en su memoria enciclopédica mientras intentaba mover su brazo derecho atrapado—. *«Al Lazo del Diablo la luz lo marchita, el calor del fuego su fuerza debilita»*... ¡Pero no hay madera seca aquí abajo para encender una fogata! ¡No hay leña!
+
+—¡¿Te has vuelto completamente loca?! —chilló Ron con los ojos desorbitados por la agonía mientras una liana le rodeaba el cuello—. ¡¿Acaso eres una bruja o qué?! ¡Usa la varita mágica!
+
+—¡Cierto! ¡Cielos, qué estupidez! —gritó Hermione, recuperando el control de su intelecto prodigioso.
+
+Apuntó su varita de vid hacia el nudo central de raíces carnosas que atenazaba el pecho de Ron, concentró su núcleo mágico en la fórmula de transmutación lumínica y pronunció con voz vibrante:
+
+—¡*Lumos Solem*!
+
+Un haz cegador de luz dorada, brillante y abrasadora brotó de la punta de la varita de Hermione como si un fragmento puro del sol del mediodía hubiera descendido a las profundidades de la mazmorra. El resplandor estalló contra los tallos oscuros con un silbido agudo y chirriante. Las hojas carnosas comenzaron a humear y retorcerse de dolor vegetal ante la radiación térmica concentrada. Con un estremecimiento convulsivo y un gemido siseante que resonó en la bóveda subterránea, las lianas soltaron a Ron en el acto, retrayéndose hacia las grietas oscuras del suelo como serpientes aterrorizadas por el fuego.
+
+Harry, aprovechando la dispersión de la planta, apuntó su propia varita hacia los zarcillos que aún cubrían la salida del corredor y ejecutó un corte térmico no verbal con un movimiento fluido de muñeca. Un arco de chispas incandescentes trazó una línea limpia a través de las raíces restantes, despejando un pasaje seco sobre las losas de granito que conducían hacia el siguiente umbral.
+
+Ron cayó de rodillas sobre las piedras frías, tosiendo con violencia y jadeando para llenar de aire limpio sus pulmones doloridos mientras se frotaba el cuello enrojecido por las marcas de los zarcillos.
+
+—Gracias a Merlín que prestas atención en la clase de Sprout, Hermione —jadeó Ron con la voz ronca pero cargada de una gratitud inmensa—. Y gracias por hacerme entrar en razón, Harry. Si no es por ustedes dos, esa maldita lechuga gigante me convierte en abono para calderos antes de medianoche.
+
+—El profesor Quirrell o Snape cruzaron este obstáculo hace al menos quince minutos usando probablemente una llamarada de fuego elemental —analizó Harry, señalando varias ramas chamuscadas que yacían marchitas en las esquinas del arco de piedra—. El Lazo del Diablo era la prueba diseñada por la profesora Sprout. Una defensa biológica pasiva destinada a retrasar o asfixiar a ladrones inexpertos que no dominan los encantamientos lumínicos de tercer curso.
+
+—Eso significa que cada profesor del colegio aportó una sala de protección acorde con su especialidad académica —dedujo Hermione con los ojos chispeantes de perspicacia lógica, acomodándose la túnica chamuscada—. Sprout puso la planta en la caída. El profesor Flitwick debe haber encantado la siguiente cámara con algún sortilegio de encantamientos complejos; la profesora McGonagall habrá usado transformaciones avanzadas; y Snape… Snape habrá preparado alguna trampa de pociones o venenos herméticos.
+
+—Y el intruso los ha ido resolviendo uno tras otro con una rapidez asombrosa —sentenció Harry, avanzando con la varita en alto hacia el corredor abovedado que se abría frente a ellos—. Mantengan la guardia en alto. Escuchen con atención.
+
+A medida que avanzaban por el estrecho túnel de piedra caliza, un zumbido agudo, constante y vibrante comenzó a filtrarse por el aire húmedo. No era el murmullo del viento ni el eco de pasos humanos: sonaba como el aleteo frenético de cientos de miles de pájaros diminutos batiendo sus alas al unísono contra una bóveda metálica, acompañado por el repiqueteo metálico y cristalino de innumerables piezas de bronce chocando en el aire.
+
+El túnel desembocó de pronto en una cámara colosal, iluminada por una claridad plateada y mágica que brotaba de las alturas. El techo abovedado se elevaba a más de quince metros de altura, sostenido por arcos ojivales de piedra labrada. Y suspendidas en el aire, revoloteando en torbellinos frenéticos que trazaban elipses y espirales complejas a través de la sala entera, volaban miles de pequeñas criaturas brillantes con alas de libélula irisadas que emitían destellos dorados y plateados al cruzar los haces de luz.
+
+Al fondo de la cámara se alzaba una pesada puerta de roble macizo con una cerradura colosal de hierro fundido, impenetrable y sellada con goznes reforzados.
+
+—¿Son… son pájaros? —preguntó Ron, cubriéndose la cabeza por instinto ante la nube centelleante que surcaba el techo con un batir ensordecedor.
+
+—No son pájaros —dijo Harry, entornando los ojos verdes tras los cristales de sus gafas redondas mientras analizaba las trayectorias de las criaturas con la mirada calculadora de un buscador—. Tienen alas membranosas de insecto, pero sus cuerpos son de metal labrado. Son llaves. Llaves aladas encantadas con sortilegios de vuelo y evasión balística. El profesor Flitwick debe haberlas animado con una matriz de encantamientos cinéticos de alta velocidad.
+
+Hermione avanzó cautelosamente hacia la pesada puerta del fondo, sacó su varita y apuntó con pulso firme hacia la cerradura de hierro:
+
+—*¡Alohomora!* —pronunció con voz clara y autoritaria.
+
+La varita emitió un chasquido sordo, pero el pestillo no se movió ni un milímetro. La cerradura permaneció tan inmóvil y sellada como una roca de granito bajo la marea.
+
+—No funciona —dijo la niña con frustración evidente—. Está protegida contra contrahechizos de apertura básica. Requiere su propia llave física; una llave antigua, pesada y de forja tradicional que encaje con la geometría exacta de este ojo de cerradura medieval.
+
+—Y esa llave está ahí arriba, volando entre miles de señuelos idénticos —añadió Ron, señalando el techo con desaliento—. ¿Cómo se supone que vamos a atrapar una sola llave entre esa bandada enfurecida?
+
+Harry no respondió de inmediato. Sus ojos recorrieron las paredes de la estancia con atención metódica hasta detenerse en un rincón sombrío situado junto a la entrada. Apoyadas contra la pared de piedra, descansaban tres escobas viejas de madera de fresno, con las cerdas de abedul ligeramente desgastadas pero con los encantamientos de levitación todavía activos y zumbando tenuemente bajo el barniz.
+
+—Las escobas están aquí por una razón —sentenció Harry, caminando hacia ellas y examinando el equilibrio de la madera—. El profesor Flitwick diseñó esta prueba para medir la destreza aérea, la velocidad de reacción y la puntería bajo presión. Quienquiera que haya pasado antes que nosotros usó una de estas escobas para interceptar la llave correcta.
+
+Harry tomó la escoba central, sintiendo la vibración familiar de la madera en sus palmas. Durante sus entrenamientos clandestinos en los páramos de Yorkshire con Sirius, había aprendido que una escoba no era un simple vehículo deportivo de carreras; era una extensión del centro de gravedad del cuerpo, una herramienta balística donde la aceleración angular y la anticipación espacial determinaban la supervivencia en un vuelo a baja altura.
+
+—Ron, Hermione, quédense en el suelo cubriendo la retaguardia —ordenó Harry, montando la escoba con un movimiento ágil y seguro—. Si todas las llaves se vuelven agresivas cuando intente capturar la correcta, usen encantamientos escudo para protegerse.
+
+—Ten mucho cuidado, Harry —dijo Hermione con preocupación sincera—. Esas alas de metal tienen bordes afilados como cuchillas de barbero. Si caen en picado sobre ti en masa, podrían cortarte la piel.
+
+Harry asintió con una leve inclinación de cabeza, apretó las rodillas contra el fuste de fresno y pateó el suelo de piedra con una fuerza controlada.
+
+La escoba se elevó en el aire como una saeta impulsada por un arco de caza. Harry sintió el viento frío azotar su rostro y desordenar su cabello negro azabache, despejando la cicatriz en forma de rayo sobre su frente. El zumbido de las miles de llaves aladas se convirtió en un rugido metálico ensordecedor a medida que ascendía hacia el centro de la bóveda.
+
+Harry no persiguió a ciegas la primera llave dorada que cruzó su campo visual. Se mantuvo en un vuelo estacionario a ocho metros de altura, respirando con calma rítmica mientras aplicaba los principios de observación periférica que practicaba en sus sesiones de lectura rápida en la biblioteca de Ravenclaw. Dividió el espacio aéreo de la cámara en cuatro cuadrantes imaginarios, buscando la anomalía cinemática que diferenciaba a la llave auténtica de los señuelos encantados.
+
+La cerradura de la puerta era de hierro pesado, con una pátina verdosa y herrajes antiguos de gran tamaño. Por lo tanto, la llave correspondiente no podía ser pequeña ni de latón brillante moderno. Tenía que ser una pieza grande de plata envejecida o hierro forjado.
+
+Y entonces la vio.
+
+Cruzando el cuadrante superior derecho cerca de las molduras del techo, una llave grande de plata oscura, con dientes toscos y alas anchas de plumas de estaño, volaba con una trayectoria errática y desbalanceada. Sus alas no batían con la simetría perfecta de los señuelos dorados: el ala izquierda estaba doblada y magullada, como si alguien la hubiera atrapado con violencia salvaje minutos antes y la hubiera forzado bruscamente en la cerradura antes de soltarla de nuevo al aire.
+
+—¡La tengo! —gritó Harry hacia el suelo, señalando la criatura plateada—. ¡Es la llave de plata grande con las alas magulladas! ¡El intruso ya la usó para pasar y la dañó al sacarla del ojo de la cerradura!
+
+Harry inclinó el cuerpo hacia adelante, pegando el pecho contra la madera de la escoba para reducir la resistencia del aire, y aceleró en una trayectoria de intercepción oblicua.
+
+La llave plateada detectó la amenaza de inmediato. Con un quiebro brusco y antinatural, giró en un ángulo de noventa grados y se lanzó en picado hacia las cornisas de la pared norte.
+
+Harry no intentó seguirla en su giro cerrado. Sabía que una escoba de entrenamiento pesada no podía competir en radio de giro contra un proyectil alado diminuto; debía forzarla hacia un callejón sin salida balístico. Ajustó la inclinación del fuste, cortó la diagonal hacia la esquina noreste de la cámara y se interpuso entre la llave y el espacio abierto de la bóveda, obligándola a encajonarse contra el ángulo recto formado por los sillares de piedra.
+
+La llave intentó elevarse en un rizo desesperado para escapar por encima de su cabeza.
+
+Harry no soltó el control de la escoba para extender la mano como haría un buscador novato arriesgando un desbalance letal. Con la mano derecha sujetando firmemente la madera, deslizó su varita de acebo con la mano izquierda y, sin pronunciar una sola sílaba en el aire, ejecutó una microdescarga de repulsión cinética no verbal:
+
+Un chasquido invisible de presión mágica golpeó el ala dañada de la llave plateada en el ápice de su parábola, desestabilizando su vuelo y haciéndola rebotar contra la superficie lisa de la piedra. Antes de que la criatura pudiera recuperar la sustentación, Harry estiró los dedos de la mano izquierda y cerró la palma enguantada con una precisión implacable alrededor del cuerpo metálico de la llave.
+
+Las alas de metal vibraron con furia salvaje contra su piel, pero Harry apretó el puño con firmeza inquebrantable, asegurando la presa sin dañarla más.
+
+Viró la escoba en una suave espiral descendente y aterrizó limpiamente sobre las losas de piedra junto a Ron y Hermione, con la respiración apenas agitada por el esfuerzo y una concentración de acero templado brillando en sus ojos esmeralda.
+
+—Atrapada —dijo Harry con serenidad, mostrando la llave de plata forcejeando entre sus dedos—. La cerradura nos espera.
+
+Ron contempló la llave con una mezcla de admiración desbordada y asombro genuino:
+
+—Por Merlín, Harry… volaste como si fueras un jugador profesional de la liga nacional. ¡Ese quiebro contra la pared fue una genialidad táctica absoluta!
+
+—El mérito es de Sirius; me hizo perseguir saetas de madera encantadas por los barrancos de Yorkshire durante horas enteras —respondió Harry con una leve sonrisa que apenas curvó sus labios—. Vamos. No nos queda tiempo que perder.
+
+Caminaron rápidamente hacia la pesada puerta de roble. Harry introdujo la llave de plata en la ranura tosca del ojo de la cerradura. El mecanismo encajó con una precisión matemática. Giró la llave hacia la derecha; un chasquido pesado, profundo y metálico resonó en el interior del marco de granito, liberando los goznes oxidados.
+
+Harry empujó la madera maciza con la palma de la mano.
+
+La puerta se abrió lentamente hacia el interior con un gemido grave, revelando un umbral sumido en una oscuridad impenetrable y sepulcral. Desde el interior no llegaba ningún sonido de aleteo ni humedad vegetal; sólo un silencio pesado, tenso y helado que olía a mármol frío, a polvo milenario y al presagio inminente de una contienda que pondría a prueba la inteligencia, el valor y la lealtad de los tres amigos en las profundidades del castillo de Hogwarts.
+
+Harry alzó la varita encendida, dio el primer paso al frente a través del umbral de piedra y murmuró con voz queda pero inquebrantable:
+
+—La siguiente prueba nos espera. Estén listos para lo que sea.

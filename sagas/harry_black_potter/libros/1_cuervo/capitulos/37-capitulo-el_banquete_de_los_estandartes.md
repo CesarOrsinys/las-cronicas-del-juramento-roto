@@ -1,0 +1,182 @@
+# Capítulo 37: El banquete de los estandartes
+
+El Gran Comedor de Hogwarts resplandecía con una magnificencia abrumadora en la última noche del año escolar.
+
+Las cuatro largas mesas de las casas estudiantiles estaban cubiertas por manteles de hilo blanco inmaculado, sobre los cuales centelleaban copas de cristal pulido, platos de plata maciza y candelabros dorados cuyas velas flotaban serenamente en el aire templado del verano. El techo mágico, reflejando el firmamento exterior de las Tierras Altas de Escocia, exhibía un azul cobalto sin una sola nube, salpicado de estrellas relucientes que titilaban con una calma infinita.
+
+Sin embargo, el ambiente en el salón estaba dominado por una tonalidad inequívoca: el verde esmeralda y la plata brillante de la casa Slytherin.
+
+Colgando de las majestuosas vigas de roble del techo y cubriendo los muros centenarios de piedra tras la mesa de los profesores, ondeaban inmensos estandartes de seda esmeralda con una serpiente plateada bordada en relieve. Slytherin había ganado la Copa de las Casas durante siete años consecutivos, y la tabla de puntuación situada en el testero norte mostraba a la casa de Salazar a la cabeza de la clasificación con cuatrocientos setenta y dos puntos, seguida muy de cerca por Ravenclaw con cuatrocientos veintiséis puntos, Gryffindor con trescientos doce y Hufflepuff en cuarta posición con trescientos cincuenta y dos.
+
+En la mesa de las serpientes, los aplausos satisfechos y las risas contenidas de los alumnos de verde resonaban con el orgullo aristocrático de una dinastía invicta.
+
+Antes de descender al Gran Comedor para el banquete de clausura, la tarde en la torre de Ravenclaw transcurrió con esa pesadez plácida y melancólica que suele acompañar a las despedidas de fin de curso.
+
+El sol de junio se derramaba en franjas doradas a través de los amplios ventanales ojivales, iluminando el polvo en suspensión que flotaba sobre los pupitres de caoba y las estanterías circulares de la biblioteca común. Los baúles de madera de fresno y tejo permanecían abiertos sobre las alfombras azules, devorando capas de franela, pergaminos arrugados, tinteros de peltre semivacíos y montañas de libros de texto cuyos cantos comenzaban a deshilacharse tras nueve meses de estudio intensivo.
+
+Harry Potter empacaba sus pertenencias con la precisión metódica de un relojero. En el compartimento inferior de su baúl, protegido por un encantamiento de sellado hermético que no emitía rastro mágico detectable, colocó sus tres tesoros más valiosos: la Capa de Invisibilidad envuelta en un lienzo de lino crudo, el diario encuadernado en cuero negro donde anotaba sus deducciones sobre la alquimia hermética de Nicolas Flamel y las defensas del castillo, y el espejo gemelo de dos caras que mantenía su lazo indestructible con Sirius Black.
+
+Terry Boot se dejó caer en el sillón vecino con un suspiro de agotamiento placentero, contemplando el cielo brillante de Escocia:
+
+—Todavía me cuesta asimilar que el año haya terminado, Harry. Parece que fue ayer cuando cruzamos el lago negro bajo la lluvia y la aldaba de bronce nos preguntó sobre el fuego y el viento. Ha sido un curso demencial. Y las notas de los exámenes saldrán publicadas mañana por la mañana en el tablón del vestíbulo.
+
+—El profesor Flitwick me adelantó discretamente que la media de Ravenclaw en Encantamientos es la más alta en quince años —comentó Michael Corner, acomodando su telescopio de latón dentro de una funda de terciopelo acolchado—. Dicen que tú lograste una puntuación casi perfecta en la prueba práctica del sortilegio de levitación y el contrahechizo de bloqueo. Flitwick estaba radiante en la sala de profesores.
+
+Harry sonrió con serenidad mientras cerraba los cierres de bronce de su baúl con un chasquido limpio:
+
+—Flitwick es un maestro excepcional. No sólo enseña la mecánica del movimiento de la varita; te obliga a comprender la resonancia armónica del hechizo. Si no entiendes por qué la magia reacciona ante la entonación y el centro de gravedad, un encantamiento es sólo un truco barato que falla en cuanto te tiembla el pulso.
+
+—Hablando del profesor Flitwick —intervino Anthony Goldstein desde la puerta del dormitorio—, te está buscando en su despacho de la séptima planta, Harry. Me pidió que te avisara antes de que tocaran las campanas del banquete.
+
+Harry asintió, se ajustó la túnica escolar con un gesto instintivo y salió de la sala común. Subió el tramo final de las escaleras de caracol hasta la pequeña puerta de roble que conducía al despacho del jefe de la casa Ravenclaw.
+
+Al llamar con los nudillos, la voz aguda y cordial de Filius Flitwick resonó desde el interior:
+
+—¡Adelante, adelante, señor Potter!
+
+El diminuto profesor de Encantamientos estaba de pie sobre una pila considerable de tomos encuadernados en piel de becerro, ordenando con gran presteza una hilera de frascos de tinta plateada en los estantes superiores de su abarrotada biblioteca personal. Al ver entrar a Harry, Flitwick bajó de un salto ágil y le dedicó una reverencia risueña, con los ojos chispeantes tras sus gafas redondeadas:
+
+—Ah, Harry. Me alegra inmensamente verte con un aspecto tan saludable y despejado. La señora Pomfrey es una mujer temible cuando se trata de custodiar a sus pacientes, pero debo admitir que sus cataplasmas y pociones reconstituyentes hacen milagros con la carne fatigada. Toma asiento, por favor.
+
+Harry tomó asiento en una silla de respaldo alto tapizada en terciopelo añil:
+
+—Muchas gracias por recibirme, profesor. Quería agradecerle personalmente todo lo que me ha enseñado durante este curso. Sus clases han sido una brújula fundamental para mí.
+
+Flitwick juntó las yemas de sus pequeños dedos, contemplando al muchacho con una admiración sincera y un respeto pedagógico profundo:
+
+—El mérito es enteramente tuyo, muchacho. Pocas veces en mis largos años de docencia he presenciado una disciplina tan rigurosa, un control del pulso tan impecable y una comprensión tan intuitiva de la teoría del encantamiento dinámico en un alumno de primer año. Tu habilidad para ejecutar transformaciones cinéticas y estabilizaciones sin apenas recurrir a la declamación verbal forzada revela una mente excepcionalmente estructurada.
+
+El profesor hizo una pausa breve, bajando la voz con una seriedad cómplice que matizó su entusiasmo habitual:
+
+—Sé muy bien que han circulado historias descabelladas por los corredores en estos últimos días sobre lo acontecido en los niveles subterráneos de la escuela. Albus Dumbledore nos ha pedido discreción absoluta a todos los miembros del claustro, pero yo sé reconocer las señales de un intelecto despierto. Sé que las llaves aladas que protegían la tercera cámara requerían algo más que velocidad ciega: requerían una lectura geométrica del aire y una precisión balística que muy pocos magos adultos habrían podido ejecutar con una escoba de entrenamiento escolar. Como jefe de la casa Ravenclaw, no podría sentirme más honrado y orgulloso de tenerte entre nuestras filas, Harry. Has demostrado que la verdadera sabiduría no reside en el aislamiento estéril entre las páginas de un libro, sino en la capacidad de aplicar el conocimiento con templanza moral cuando las sombras amenazan con devorar la tranquilidad de los inocentes.
+
+—Sólo hice lo que era necesario para evitar una catástrofe que nos habría alcanzado a todos, profesor —respondió Harry con una sobria humildad que conmovió al pequeño maestro.
+
+—Y eso, muchacho mío, es precisamente la diferencia entre la soberbia de la ambición y la nobleza del entendimiento —sentenció Flitwick con una sonrisa ancha—. Ahora baja al Gran Comedor y disfruta de la velada. Te has ganado el derecho a compartir el pan con tus compañeros sin el peso de las batallas sobre tus hombros.
+
+
+Harry Potter entró al comedor vistiendo su túnica limpia de Ravenclaw, con los adornos de seda azul y bronce perfectamente planchados. Apenas sus botas cruzaron el umbral de las puertas de roble, un murmullo repentino, denso y arrollador se propagó a través de las cuatro mesas como un reguero de pólvora sobre hierba seca. Cientos de cabezas se giraron al unísono hacia él; alumnos de todos los cursos se pusieron de pie sobre los bancos para verlo pasar, señalando la tenue cicatriz rosada sobre su frente y cuchicheando con una fascinación febril.
+
+Los rumores sobre lo ocurrido en el tercer piso se habían multiplicado de forma disparatada durante los últimos dos días: algunos decían que Harry había luchado cuerpo a cuerpo contra un ejército de licántropos en las mazmorras; otros aseguraban que había conjurado un dragón de fuego elemental para incinerar al intruso; y los más cautos sostenían que Dumbledore y él habían desarticulado una conspiración internacional para derrocar al Ministerio de Magia.
+
+Harry ignoró la conmoción con la compostura sosegada que se había convertido en su marca distintiva. No aceleró el paso ni bajó la cabeza; avanzó con la espalda erguida, la mirada serena y una leve inclinación respetuosa hacia los profesores que aguardaban en la mesa principal.
+
+Al pasar junto a la mesa de Slytherin, una figura esbelta de cabello negro azabache recogido en una trenza impecable levantó la vista de su plato de porcelana.
+
+Lyra Malfoy lo contempló fijamente con sus ojos grises como el hielo del invierno. No había burla en sus facciones aristocráticas ni el desdén insolente que solían exhibir sus compañeros de casa; había una curiosidad afilada, un respeto silencioso y una evaluación táctica que medía cada milímetro de la postura del muchacho.
+
+Harry se detuvo un segundo frente a su asiento, sosteniendo la mirada de la heredera de la Casa Malfoy con una tranquilidad imperturbable.
+
+—Pareces sorprendentemente entero para ser alguien que supuestamente bajó a los infiernos del colegio, Potter —dijo Lyra con su tono suave, modulado y frío, en el que se apreciaba el entrenamiento riguroso de la nobleza mágica—. La mitad de los alumnos de mi sala común aseguraban que habías perdido un brazo en el proceso.
+
+—Los rumores en este castillo suelen sufrir una notable hipertrofia dramática, Malfoy —respondió Harry con una leve curvatura irónica en la comisura de sus labios—. Afortunadamente para mí, mis extremidades siguen en su posición anatómica correcta y las pruebas no requerían desmembramientos innecesarios.
+
+Lyra enarcó una ceja delgada con elegante perspicacia:
+
+—El profesor Quirrell renunció a su cátedra de forma abrupta antes de que terminaran las notas finales. Y Severus camina por los pasillos con una expresión aún más agria de lo habitual. No eres un Gryffindor impulsivo que busca la gloria en el fango, Potter; eres un cuervo metódico. Me pregunto qué era lo que realmente estaba escondido tras esa trampilla del tercer piso para que decidieras mancharte las manos.
+
+—A veces, Malfoy, la preservación del orden requiere que alguien examine los engranajes rotos antes de que la maquinaria entera salte por los aires —dijo Harry con serenidad—. Y en ocasiones, los peones son más útiles que los alfiles cuando el rey está ausente.
+
+Los ojos grises de Lyra brillaron con una chispa de inteligencia compartida. Asintió levemente con la cabeza, un gesto casi imperceptible pero cargado de un reconocimiento explícito:
+
+—Una respuesta diplomática impecable. Disfruta de la plata y el verde esta noche, Potter; me temo que Ravenclaw tendrá que esperar al menos otro año para ver sus colores en el techo.
+
+—El tablero siempre cambia de posición con la siguiente partida, Malfoy —concluyó Harry con una reverencia cortés antes de continuar su camino.
+
+Harry se sentó en la mesa de Ravenclaw junto a Terry Boot, Michael Corner y Padma Patil, quienes lo recibieron con una salva de palmadas en la espalda, sonrisas radiantes y una docena de preguntas atropelladas que Harry desvió con modestia sosegada, limitándose a confirmar que las pruebas habían sido neutralizadas y que el colegio estaba completamente a salvo de cualquier amenaza exterior. Al otro lado del pasillo central, en la mesa de Gryffindor, Ron Weasley y Hermione Granger le dedicaron sendas sonrisas de complicidad absoluta: Ron levantó su copa de zumo de calabaza en un brindis mudo con su mano vendada, y Hermione le devolvió una mirada luminosa de alivio y triunfo fraternal.
+
+De pronto, un tintineo cristalino y musical cortó las conversaciones del salón.
+
+El profesor Dumbledore se había puesto en pie en el centro de la mesa principal, golpeando suavemente su copa de plata con una cuchara dorada. El Gran Comedor se sumió en un silencio instantáneo y expectante.
+
+—¡Otro año escolar ha llegado a su fin! —dijo Dumbledore con voz vibrante y alegre, extendiendo los brazos con benevolencia paternal—. Y antes de que nos lancemos sobre este magnífico banquete que los elfos domésticos han preparado con tanto esmero, debo aburriros con la tradicional entrega de la Copa de las Casas.
+
+El director paseó su mirada azul sobre las cuatro mesas repletas de estudiantes:
+
+—Las puntuaciones finales del curso se encuentran en un estado sumamente reñido. En cuarto lugar, con trescientos doce puntos, se encuentra la casa Gryffindor. En tercer lugar, con trescientos cincuenta y dos puntos, se encuentra la casa Hufflepuff. En segundo lugar, con cuatrocientos veintiséis puntos, se halla la casa Ravenclaw. Y en primer lugar, con cuatrocientos setenta y dos puntos, se corona una vez más la casa Slytherin.
+
+Una ovación ensordecedora estalló de inmediato en la mesa de las serpientes. Draco Malfoy golpeaba la mesa con las palmas de las manos con una sonrisa de arrogancia triunfal, mientras Pansy Parkinson y Theodore Nott aplaudían con entusiasmo desbordado. Incluso el profesor Snape, sentado a la izquierda de la profesora McGonagall, esbozó una tenue sonrisa torcida de satisfacción institucional.
+
+Dumbledore esperó pacientemente a que los vítores remitieran y levantó una mano con serenidad:
+
+—Sí, sí… una magnífica actuación por parte de la casa Slytherin, sin duda alguna. Sin embargo, los acontecimientos recientes que han tenido lugar en los confines más profundos de este colegio deben ser tenidos en cuenta en el cómputo final del honor escolar. El coraje no sólo se demuestra en el campo deportivo ni en la resolución impecable de un examen académico; a veces, la valentía y la inteligencia suprema se revelan cuando todo parece perdido en la oscuridad más absoluta.
+
+El salón entero contuvo la respiración. En la mesa de Slytherin, las sonrisas comenzaron a desdibujarse lentamente bajo una sombra repentina de inquietud.
+
+Dumbledore consultó un pergamino pequeño que extrajo de la manga de su túnica:
+
+—En primer lugar… al señor Ronald Weasley.
+
+Ron enrojeció hasta la raíz de su cabello cobrizo, encogiéndose en su asiento mientras toda la mesa de Gryffindor lo miraba con asombro.
+
+—Por dirigir con una maestría táctica inigualable y una lucidez de gran maestro la mejor partida de ajedrez mágico que este castillo haya presenciado en más de un siglo… y por demostrar el valor supremo de anteponer la seguridad de sus compañeros a su propia integridad física… otorgo a la casa Gryffindor cincuenta puntos.
+
+Los vítores de Gryffindor hicieron retumbar las paredes de piedra. Percy Weasley gritaba a pleno pulmón: «¡Es mi hermano! ¡Mi hermano menor derrotó al ajedrez gigante de McGonagall!», mientras los gemelos Fred y George vitoreaban sobre los bancos con cánticos ruidosos.
+
+Dumbledore alzó la voz de nuevo con una sonrisa que iluminaba sus ojos centelleantes:
+
+—En segundo lugar… a la señorita Hermione Granger.
+
+Hermione escondió el rostro entre las manos, temblando de emoción pura mientras sus mejillas se cubrían de lágrimas de felicidad contenida.
+
+—Por el uso brillante de la lógica fría, la perspicacia científica y el conocimiento botánico avanzado en momentos de peligro mortal donde la fuerza bruta habría fracasado miserablemente… otorgo a la casa Gryffindor cincuenta puntos.
+
+Los aplausos volvieron a sacudir la nave del comedor. Gryffindor había alcanzado los cuatrocientos doce puntos, escalando de golpe a la tercera posición y colocándose a tiro de piedra de los puestos de cabeza.
+
+Dumbledore miró entonces directamente hacia la mesa azul y bronce, clavando sus ojos en Harry Potter:
+
+—En tercer lugar… al señor Harry Potter.
+
+El silencio que cayó sobre la sala fue tan denso que se habría podido escuchar el parpadeo de una polilla contra los cristales.
+
+—Por una serenidad mental inquebrantable ante el abismo, por un dominio extraordinario de la magia elemental no verbal y por la templanza moral necesaria para rechazar las tentaciones más oscuras y preservar la paz de nuestro mundo… otorgo a la casa Ravenclaw sesenta puntos.
+
+La mesa de Ravenclaw estalló en un rugido ensordecedor de júbilo colectivo. Terry Boot, Michael Corner y Anthony Goldstein se pusieron en pie de un salto, vitoreando el nombre de Harry mientras agitaban sus servilletas en el aire. Con aquellos sesenta puntos añadidos a su casillero, Ravenclaw sumaba un total exacto de cuatrocientos ochenta y seis puntos, superando por catorce puntos a los cuatrocientos setenta y dos de Slytherin.
+
+En la mesa verde, los rostros eran máscaras de incredulidad y estupefacción amarga. Draco Malfoy contemplaba el marcador con los ojos desorbitados de rabia, con la mandíbula apretada con tanta fuerza que sus nudillos se tornaron blancos sobre la mesa. Lyra Malfoy, por el contrario, mantuvo una compostura aristocrática impecable: cruzó las manos sobre su regazo y miró a Harry a través del pasillo con una inclinación de cabeza lenta, fría y reflexiva, aceptando el resultado con la dignidad severa de quien reconoce un golpe táctico magistral.
+
+—Y finalmente… —prosiguió Dumbledore, haciendo una pausa teatral mientras una sonrisa cómplice se dibujaba en sus labios blancos—, hay muchos tipos de valentía en este mundo. Se requiere un gran coraje para enfrentarse a los enemigos jurados de la magia… pero se requiere un coraje infinitamente mayor para mantenerse firme en los principios de la prudencia y la verdad ante las burlas ajenas. Por lo tanto, otorgo a la casa Gryffindor diez puntos adicionales al señor Neville Longbottom.
+
+Neville, pálido y atónito en el extremo de la mesa roja, fue sepultado de inmediato bajo una avalancha humana de abrazos y palmadas por parte de sus compañeros de casa.
+
+Dumbledore batió las palmas una sola vez en el aire.
+
+En una fracción de segundo, una ráfaga de magia deslumbrante recorrió el techo abovedado del Gran Comedor. Los inmensos estandartes de seda verde esmeralda con la serpiente plateada se ondularon como olas marinas y transmutaron su tejido ante los ojos atónitos de los presentes: la seda se tiñó del azul medianoche más puro y profundo, los bordados se transformaron en un majestuoso bronce pulido, y un águila colosal con las alas desplegadas emergió en el centro de los paños imperiales, coronando las paredes de Hogwarts con los emblemas eternos de la casa Ravenclaw.
+
+La mesa de Ravenclaw se convirtió en un manicomio de alegría desbordada. Alumnos de primero a séptimo curso se abrazaban llorando de felicidad, mientras los prefectos y el profesor Flitwick saltaban sobre sus asientos celebrando la ruptura de la racha de siete años consecutivos de dominio de Slytherin. Los estudiantes de Gryffindor y Hufflepuff se sumaron con entusiasmo a los aplausos, complacidos de ver cómo la Copa de las Casas cambiaba de manos hacia una casa que representaba la sabiduría, el rigor intelectual y la sensatez.
+
+El banquete que siguió fue un despliegue culinario deslumbrante: bandejas de ternera asada con salsa de romero, patatas doradas a la mantequilla, guisantes frescos con menta, budines de frutas del bosque y fuentes inagotables de tartas de melaza que satisficieron los apetitos de los muchachos tras semanas de exámenes y tensiones subterráneas.
+
+Harry disfrutó de la comida con un apetito tranquilo y agradecido, saboreando cada bocado sin dejarse deslumbrar por la adulación de sus compañeros de torre. En su interior, el triunfo escolar era una satisfacción agradable, pero no nublaba su comprensión del cuadro mayor: Voldemort seguía existiendo como una sombra errante en los bosques del continente; Quirrell no era más que el primer heraldo de una guerra inevitable que regresaría en los años venideros; y su propia seguridad seguía dependiendo de la discreción, el entrenamiento riguroso y la lealtad inquebrantable de los pocos aliados que conocían la verdad sobre su vida.
+
+Cuando el banquete concluyó y los alumnos comenzaron a desfilar hacia sus respectivas salas comunes para recoger sus pertenencias antes del viaje de regreso a Londres, Harry se detuvo brevemente en el vestíbulo principal.
+
+A través de las puertas de roble abiertas, la brisa nocturna de junio traía el aroma a hierba fresca, a pino silvestre y a la libertad inmensa de los páramos del norte.
+
+Harry tocó suavemente el forro interior de su chaqueta, sintiendo el calor sólido del espejo de dos caras contra sus costillas. El año escolar en Hogwarts había concluido con una victoria absoluta; el cuervo había defendido su nido y aprendido los secretos del castillo; pero su verdadero hogar no estaba en las torres de piedra de Escocia, sino en una pequeña cabaña de piedra perdida entre las colinas de Yorkshire, donde un perro negro y noble esperaba el regreso de su cachorro para continuar el camino hacia la verdad.
+
+Tras el banquete, la ascensión hacia la torre de Ravenclaw fue un desfile triunfal de júbilo y cánticos estudiantiles.
+
+Los alumnos mayores de sexto y séptimo año portaban en andas a los más pequeños a través de las escaleras móviles, coreando himnos antiguos del colegio y ondeando bufandas de seda azul sobre los descansillos de piedra. En los descansillos, los fantasmas del castillo se sumaban al alborozo general: la Dama Gris flotaba en lo alto de la galería de los vientos con una serenidad etérea, contemplando la algarabía de su casa con una leve curvatura de complacencia en sus labios pálidos.
+
+Al llegar a la puerta de la sala común, la aldaba de bronce en forma de águila formuló su enigma final del año:
+
+—*¿Qué tesoro se hace más grande cuanto más se comparte con los demás, y se marchita si se encierra en una celda de hierro?*
+
+Harry, rodeado por sus compañeros que guardaban un silencio respetuoso para dejarle el honor de la respuesta, dio un paso al frente y respondió con voz clara y pausada:
+
+—El conocimiento.
+
+La aldaba inclinó la cabeza con un chasquido suave de metal pulido:
+
+—Bien razonado, cuervo de Ravenclaw. Pasa a tu morada.
+
+La sala común se llenó de música suave, tazas de chocolate humeante traídas discretamente por los elfos domésticos y partidas amistosas de ajedrez mágico en las que Terry Boot y Michael Corner intentaban en vano descifrar los esquemas tácticos que Harry analizaba con una sonrisa enigmática.
+
+A medianoche, cuando el silencio volvió a adueñarse de la torre y los muchachos durmieron el sueño profundo que precede a los viajes largos, Harry permaneció despierto junto al alféizar de la ventana circular de su dormitorio.
+
+Abrió el postigo de madera y dejó que la brisa fría de las cumbres escocesas refrescara su rostro. En el horizonte oscuro, más allá de los contornos sombríos del Bosque Prohibido y del lago negro donde el calamar gigante dormitaba en las profundidades, se extendía la inmensidad del mundo exterior: un mundo complejo, peligroso y lleno de secretos antiguos que apenas comenzaba a descifrar.
+
+El primer año había llegado a su fin. Las pruebas habían sido superadas, las intrigas de la Piedra habían sido sofocadas y sus lazos de lealtad con Ron, Hermione y su propia casa se habían forjado en el crisol de la adversidad. Pero en el corazón de Harry, la mirada gris de Lyra Malfoy, la advertencia sombría de Voldemort en la caverna y la soledad clandestina de Sirius en los páramos marcaban el inicio de una contienda mucho más profunda.
+
+El cuervo había probado sus alas; y el invierno del regreso comenzaba a desplegar su vuelo hacia el hogar.
