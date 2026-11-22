@@ -151,7 +151,7 @@ Mientras comían, Ron le explicó el funcionamiento de los cromos coleccionables
 Harry leyó el texto tres veces seguidas con una concentración absoluta, memorizando cada nombre y cada fecha antes de guardar el cromo en su bolsillo interior:
 
 *Nicolás Flamel. Alquimia.*
-*La pieza que faltaba para conectar el paquete de la cámara setecientos trece.*
+*Un maestro de los secretos herméticos vinculado directamente a Dumbledore.*
 
 Estaban terminando el último pastel de caldero cuando la puerta del compartimento volvió a abrirse bruscamente, interrumpiendo la conversación.
 
