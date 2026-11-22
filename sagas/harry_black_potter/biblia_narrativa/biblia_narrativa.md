@@ -14,7 +14,7 @@
 ### 2. PUNTO DE QUIEBRE Y LÍNEA TEMPORAL
 * **Octubre de 1981 (Samhain):** Caída de los Potter en Godric's Hollow. Sirius Black llega durante el asedio y combate junto a James, pero es emboscado y aplastado por el derrumbe de la alacena. Barty Crouch Sr. lo encarcela sin juicio en Azkaban. Harry es llevado por Hagrid a casa de los Dursley por orden directa de Dumbledore.
 * **1989 (Tras 8 años en Azkaban):** Sirius Black, manteniendo su cordura gracias a su inocencia y su forma animaga (el gran perro negro), logra burlar a los dementores desnutrido y exhausto, nadando por las aguas heladas del Mar del Norte hasta la costa británica.
-* **El Rescate:** Sirius rastrea el rastro de la sangre de Lily y localiza a Harry en Privet Drive cuando Harry tiene casi 9 años (o tras el incidente de la serpiente, en vísperas de su crecimiento). Sirius saca a Harry de la alacena bajo las escaleras.
+* **El Rescate:** Sirius rastrea el rastro de la sangre de Lily y localiza a Harry en Privet Drive cuando Harry tiene 9 años recién cumplidos tras 8 años de cautiverio con sus tíos. Sirius saca a Harry de la alacena bajo las escaleras.
 * **La Instrucción Clandestina (1989 - 1991):** Durante casi dos años, Harry no es criado como una víctima sumisa de los Dursley ni como un peón confiado de Dumbledore. Sirius le enseña:
   1. *Oclumancia y Disciplina Mental:* Cerrar la mente ante la intrusión ajena y ordenar los recuerdos como un archivo.
   2. *Comprensión Estructural de la Magia:* La magia no es agitar un palo y decir palabras en latín falso; es intención, física oculta, transfiguración molecular y balance de poder.

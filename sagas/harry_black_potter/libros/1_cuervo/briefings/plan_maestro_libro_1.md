@@ -20,7 +20,7 @@
 * **CAPÍTULO 0: Prólogo - La sombra sobre Godric’s Hollow** *(3.779 palabras - Completado)*
   - La noche de Samhain de 1981. El asalto de Voldemort. La resistencia desesperada de James y Sirius. La caída de los Potter y el arresto ilegal de Sirius por Barty Crouch Sr. directo a Azkaban.
 * **CAPÍTULO 1: El niño de la alacena** *(5.088 palabras - Completado)*
-  - La vida opresiva en Privet Drive durante 9 años. La cocina, la alacena, la tiranía de Vernon y Petunia. El acoso sistemático de Dudley y su pandilla. El brutal ataque en el jardín con el bastón y la aparición repentina de Sirius Black. Neutralización de los Dursley y rescate de Harry.
+  - La vida opresiva en Privet Drive durante 8 años. La cocina, la alacena, la tiranía de Vernon y Petunia. El acoso sistemático de Dudley y su pandilla. El brutal ataque en el jardín con el bastón y la aparición repentina de Sirius Black. Neutralización de los Dursley y rescate de Harry.
 * **CAPÍTULO 2: El invierno de la roca**
   - *Perspectiva de Sirius:* Desde el momento en que es arrastrado encadenado con supresores mágicos a la celda de Azkaban. Los ocho años de resistencia mental: los dementores, la pérdida del calor humano, y cómo su inocencia («No soy culpable; la rata sigue viva») no era un recuerdo feliz que pudieran devorarle, sino una obsesión lúcida. Su transformación en el perro negro desnutrido para eludir la percepción emocional de los guardias. La fuga a través de los barrotes, la travesía a nado en las aguas heladas del Mar del Norte, la llegada exhausta a la costa, la obtención de una varita en un alijo antiguo de los Black y el rastreo meticuloso hasta dar con Little Whinging.
 * **CAPÍTULO 3: El refugio de los páramos**
