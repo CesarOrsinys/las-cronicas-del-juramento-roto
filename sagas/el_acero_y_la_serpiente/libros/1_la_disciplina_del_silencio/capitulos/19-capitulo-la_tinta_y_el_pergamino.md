@@ -1,6 +1,5 @@
-# CAPÍTULO 19
+﻿# CAPÍTULO 19
 ## La tinta y el pergamino
-
 El aula de Transfiguración del primer piso olía a tiza molida, a madera de castaño barnizada y al frío limpio que entraba por los altos ventanales de arco ojival.
 
 A las ocho en punto de la mañana, los alumnos de primer año de Gryffindor y Hufflepuff ocupaban los pupitres de dos en dos, hablando en susurros y sacando tinteros de peltre, rollos de pergamino y plumas de lechuza.
@@ -75,3 +74,4 @@ La profesora McGonagall tragó saliva despacio. En aquel muchacho menudo no hab�
 Mientras el aula estallaba en murmullos excitados y Weasley miraba su cerilla rota con cara de funeral, Harry abrió su cuaderno y anotó la fórmula de compresión con trazo fino.
 
 No le interesaban los diez puntos. Le interesaba comprobar que las lecciones de los páramos funcionaban contra la materia real del castillo.
+

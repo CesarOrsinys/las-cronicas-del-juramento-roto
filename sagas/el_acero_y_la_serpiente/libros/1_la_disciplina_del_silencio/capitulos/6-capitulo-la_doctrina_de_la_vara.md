@@ -1,6 +1,5 @@
-# CAPÍTULO 6
+﻿# CAPÍTULO 6
 ## La doctrina de la vara
-
 El viento de los páramos de Yorkshire no descansaba nunca. Se colaba por las troneras vacías de Blackstone Tor con un aullido sordo y áspero, trayendo consigo el olor a brezo mojado, a turba ácida y al frío cortante que bajaba de las cumbres.
 
 En el centro de la sala de armas, el suelo estaba cubierto de losas partidas y polvo calcáreo.
@@ -82,4 +81,5 @@ Harry dejó el cuenco vacío en el suelo y se puso en pie, aferrando la rama de 
 Sirius sonrió. Fue una sonrisa terrible, desprovista de ternura, pero cargada de una devoción salvaje.
 
 —Entonces ponte en guardia, cachorro. La pausa ha terminado.
+
 

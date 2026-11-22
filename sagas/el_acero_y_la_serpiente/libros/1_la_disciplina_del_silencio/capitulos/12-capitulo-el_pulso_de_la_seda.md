@@ -1,6 +1,5 @@
-# CAPÍTULO 12
+﻿# CAPÍTULO 12
 ## El pulso de la seda
-
 La sastrería de *Madame Malkin: Túnicas para Todas las Ocasiones* olía a paño húmedo, a lavanda seca, a alfileres de latón y al vapor denso de tres planchas de hierro que trabajaban sin descanso en la trastienda.
 
 A través del escaparate de cristal biselado se veían maniquíes de madera vestidos con túnicas de terciopelo carmesí, capas de viaje con forros de piel de tejón y uniformes escolares negros colgados en percheros de bronce pulido.
@@ -80,4 +79,5 @@ La vio cruzar la puerta de la sastrería, donde un hombre alto de cabello platin
 Harry pagó sus tres túnicas con seis galeones de oro contados al milímetro y recogió sus paquetes.
 
 Al salir a la lluvia del Callejón Diagon, donde Sirius lo esperaba entre las sombras de los boticarios, Harry no sentía fatiga ni temor. Sentía la certeza de que el juego había comenzado antes de subir al tren; y la heredera de los Malfoy era exactamente el tipo de adversario para el que había sido forjado en los riscos de Yorkshire.
+
 

@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 42
 ## El veneno y la llama
-
 Al cruzar el arco tras el tablero de ajedrez destrozado, un hedor sofocante a carroña podrida, orina de fiera y sangre fresca inundó el pasaje de piedra caliza.
 
 ### Cuarta Defensa: La Cámara del Troll (Quirinus Quirrell)
@@ -77,4 +76,5 @@ Harry se quedó completamente solo frente a la pared de fuego negro.
 Destapó el frasco diminuto. El aroma era a hielo triturado, menta silvestre y hierro frío. Vertió las tres gotas sobre su lengua: una sensación de congelación absoluta le bajó por la garganta, extendiéndose por sus venas como una armadura de escarcha que adormeció su piel y su respiración.
 
 Apretó los dientes, dio tres zancadas firmes hacia adelante y atravesó la cortina de llamas negras.
+
 

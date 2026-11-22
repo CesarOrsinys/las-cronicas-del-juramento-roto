@@ -1,5 +1,5 @@
-﻿# CAPÍTULO 38: La espesura de las raíces
-
+﻿# CAPÍTULO 38
+## La espesura de las raíces
 A las once de la noche, el aire en la cancela exterior de Hogwarts tenía el sabor férreo del invierno tardío. Argus Filch los escoltó hasta el borde de los terrenos con un farol de aceite que chirriaba con cada paso.
 
 —Ahí los tienen —gruñó el conserje a Hagrid, que aguardaba junto a un pino centenario con una ballesta colgada del hombro y su sabueso Fang temblando a sus pies—. Cuatro mocosos listos para aprender lo que cuesta quebrar las reglas. Me gustaría que volvieran los viejos métodos... colgados de los pulgares en las mazmorras...
@@ -51,6 +51,7 @@ Antes de que Harry pudiera exigir precisiones tácticas, los dos centauros diero
 —No son supersticiosos —dijo Harry, señalando el suelo—. El rastro de sangre acaba de doblar hacia la hondonada. Y el perro acaba de sentarse a temblar.
 
 En el fondo de la cañada, un resplandor plateado destellaba entre los matorrales muertos.
+
 
 
 

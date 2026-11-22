@@ -1,5 +1,5 @@
-﻿# CAPÍTULO 31: El castillo solitario
-
+﻿# CAPÍTULO 31
+## El castillo solitario
 La escarcha descendió sobre los valles de las Tierras Altas como una sábana de cal viva. Para la tercera semana de diciembre, el Gran Comedor se había vaciado casi por completo de las voces estridentes de los estudiantes que partían hacia Londres en el Expreso de Hogwarts. En las largas mesas de roble, apenas un puñado de comensales se congregaba en torno a los fuegos monumentales: algunos huérfanos de casas menores, los profesores con sus túnicas de lana pesada, y Harry Potter, sentado en el extremo norte del banco de Gryffindor, masticando con metódica parsimonia pan negro y arenque ahumado.
 
 A sesenta pies de distancia, en la mesa de las serpientes verdes, una única figura ocupaba la cabecera. Lyra Malfoy no había regresado a la mansión de Wiltshire. Permanecía sentada con la espalda rígidamente erguida, un chal de terciopelo esmeralda sobre los hombros, cortando la fruta de su plato con la frialdad de quien ejecuta una autopsia. Sus miradas se cruzaron a través del aire gélido del salón sólo una fracción de segundo: un cálculo de distancias, un reconocimiento silencioso de que ambos preferían las piedras heladas del castillo a los compromisos sociales del sur.
@@ -31,6 +31,7 @@ Por la rendija entre dos estanterías, una luz temblorosa se acercaba. No era el
 La silueta que sostenía el fanal avanzaba sin el menor crujido de suela. El cabello platino recogido en una trenza precisa y el perfil afilado bajo la sombra de la capucha eran inconfundibles.
 
 Lyra Malfoy también estaba cazando.
+
 
 
 

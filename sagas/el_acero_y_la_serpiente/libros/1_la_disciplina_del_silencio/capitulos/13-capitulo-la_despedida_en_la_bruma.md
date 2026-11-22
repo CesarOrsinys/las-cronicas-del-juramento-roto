@@ -1,6 +1,5 @@
-# CAPÍTULO 13
+﻿# CAPÍTULO 13
 ## La despedida en la bruma
-
 El humo blanco de las locomotoras de vapor llenaba la bóveda de hierro y cristal de King's Cross con un vaho caliente que olía a azufre, a carbón mineral quemado y a grasa de engranajes.
 
 A las diez y media de la mañana del primero de septiembre, la estación era un hormiguero de trabajadores con prisa, familias muggles arrastrando carritos de maletas y comerciantes que pregonaban los periódicos matutinos. Entre los andenes nueve y diez, apoyado contra la pared divisoria de ladrillo rojo, un hombre de abrigo oscuro y bufanda hasta las orejas contemplaba el paso de los viajeros con ojos entrecerrados.
@@ -46,3 +45,4 @@ El aire se enfrió durante una fracción de segundo, la luz cambió de tonalidad
 El andén nueve y tres cuartos.
 
 Harry no miró hacia atrás para ver la barrera. Ajustó el agarre de su carrito y se adentró en la multitud, con el reloj de plata en el bolsillo y la varita de acebo pegada a las costillas.
+

@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 28
 ## La sangre en el lavabo
-
 La noche del treinta y uno de octubre —la vigilia de Samhain— el Gran Comedor de Hogwarts estaba decorado con mil murciélagos vivos que revoloteaban bajo el cielo encantado y cientos de calabazas colosales talladas con rostros de muecas grotescas que albergaban velas de grasa ardiendo en su interior.
 
 El banquete de otoño estaba en su apogeo. En las cuatro mesas, los estudiantes devoraban pasteles de calabaza, budines de ciruela y perniles de ciervo asado en medio de risas, brindis de sidra caliente y bromas entre casas.
@@ -102,5 +101,6 @@ Hermione levantó la vista desde el fango, temblando de frío y de shock, mirand
 La niña asintió despacio, tragándose las lágrimas con un esfuerzo supremo de dignidad, y tomó la mano que Harry le tendió para incorporarse sobre los azulejos rotos.
 
 En el umbral destrozado, los pasos precipitados de tres pares de botas anunciaron la llegada del claustro; pero Harry ya había bajado la varita y se había colocado con las manos a la vista, con la mente fría y la coartada trazada antes de que la primera túnica cruzara el marco de la puerta.
+
 
 

@@ -1,4 +1,4 @@
-# PRÓLOGO
+﻿# PRÓLOGO
 ## La sombra sobre Godric’s Hollow
 
 Afuera, la vigilia de Samhain se apagaba con la apacible rutina de cualquier pueblo inglés al terminar octubre. Aunque los muggles de la comarca lo llamaban Halloween y llenaban las aceras de niños disfrazados corriendo hacia la iglesia entre risas y farolillos de calabaza, para quienes conocían la antigua magia la noche tenía otro peso: el velo entre los mundos se volvía fino como un suspiro y el aire olía a tierra labrada, a leña de manzano ardiendo en los hogares y al relente helado que baja de las colinas. Godric's Hollow parecía exactamente lo que siempre había sido en la superficie: una aldea tranquila, tibia y ajena al terror.
@@ -156,4 +156,5 @@ Crouch no mostró la menor vacilación. Reconoció los rasgos aristocráticos de
 Sirius sintió el frío del metal encantado cerrándose alrededor de sus muñecas ensangrentadas antes de que la inconsciencia lo arrastrara hacia el fondo del pozo.
 
 Esa noche, mientras los magos de toda Gran Bretaña alzaban sus copas en secreto brindando por el Niño que Vivió, una celda de piedra mojada en lo alto de Azkaban se cerraba para siempre sobre el único hombre que conocía la verdad.
+
 

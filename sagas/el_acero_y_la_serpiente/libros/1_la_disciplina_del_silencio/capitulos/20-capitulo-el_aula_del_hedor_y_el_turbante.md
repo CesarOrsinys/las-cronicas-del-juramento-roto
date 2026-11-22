@@ -1,6 +1,5 @@
-# CAPÍTULO 20
+﻿# CAPÍTULO 20
 ## El aula del hedor y el turbante
-
 El aula de Defensa Contra las Artes Oscuras estaba situada en el tercer piso del ala oriental, pero su presencia se anunciaba treinta varas antes de alcanzar la arcada de entrada: una pestilencia densa, pegajosa y sofocante a ajo crudo macerado en vinagre que impregnaba las cortinas de terciopelo y las piedras de los muros.
 
 Los alumnos entraban tapándose la nariz con las mangas de las túnicas o resoplando entre risitas nerviosas.
@@ -56,3 +55,4 @@ Había observado el movimiento milimétrico del brazo de Quirrell cuando el hech
 *«Un mago que gasta tanta energía en parecer un idiota inofensivo está ocultando algo muy peligroso»*, pensó Harry, anotando en su cuaderno la posición del pie de apoyo de Quirrell durante el giro.
 
 Cuando la campana del mediodía marcó el final de la clase, los estudiantes salieron en tropel huyendo del olor fétido. Harry recogió sus útiles con calma, siendo el último en cruzar la puerta. Al salir al corredor, lanzó una última mirada hacia el estrado: Quirrell ya no recogía ajos del suelo; permanecía erguido tras su mesa, inmóvil en la penumbra, contemplando la puerta vacía con dos ojos oscuros, fríos e impenetrables que no tenían el menor rastro de miedo.
+

@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 41
 ## El descenso por la piedra
-
 A principios de junio, tras la última semana de exámenes teóricos, el calor sofocante del verano escocés sumergió a Hogwarts en un sopor denso y pegajoso. Pero en los corredores del tercer piso, la tensión había alcanzado el punto exacto de fractura.
 
 La partida repentina de Albus Dumbledore hacia Londres —convocado mediante una lechuza urgente con el sello lacrado en cera roja del Ministerio que Harry había identificado en la biblioteca como una burda distracción operativa— dejó la entrada al corredor prohibido sin el único escudo disuasorio del castillo.
@@ -104,4 +103,5 @@ El rey enemigo arrojó su espada al suelo con un estruendo metálico que hizo te
 Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
 Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre, sangre fresca y vinagre amargo.
+
 

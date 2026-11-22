@@ -1,6 +1,5 @@
-# CAPÍTULO 18
+﻿# CAPÍTULO 18
 ## La primera vigilia
-
 El dormitorio circular de primer año en la Torre de Gryffindor olía a madera encerada, a lana roja limpia y al fuego agonizante que chisporroteaba en la chimenea de hierro forjado.
 
 Eran las doce y media de la noche.
@@ -106,3 +105,4 @@ Harry miró a Hermione una última vez. La niña seguía inmóvil junto a la mes
 Sin decir una palabra más, Harry subió los peldaños de caracol hacia el dormitorio con pasos firmes y silenciosos.
 
 Hermione Granger se quedó sola en la sala común en penumbra, mirando la ventana donde la pluma de ganso descansaba inmóvil sobre la mesa, con la extraña y perturbadora sensación de que aquel muchacho de ojos verdes no había venido a Hogwarts a ser un estudiante, sino a prepararse para una guerra que nadie más podía ver.
+

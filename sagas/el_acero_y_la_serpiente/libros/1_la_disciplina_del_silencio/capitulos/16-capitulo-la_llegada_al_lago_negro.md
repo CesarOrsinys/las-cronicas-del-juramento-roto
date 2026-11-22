@@ -1,6 +1,5 @@
-# CAPÍTULO 16
+﻿# CAPÍTULO 16
 ## La llegada al lago negro
-
 La noche cayó sobre las Tierras Altas de Escocia con una rapidez de telón de teatro. Fuera de las ventanillas del Expreso, las colinas cultivadas habían dejado paso a montañas escarpadas, bosques de abetos negros que parecían no tener fin y torrentes de agua blanca que bramaban entre las gargantas de piedra.
 
 El tren comenzó a frenar con un chirrido prolongado de zapatas metálicas hasta detenerse junto a un andén diminuto y oscuro alumbrado por faroles de tormenta.
@@ -66,3 +65,4 @@ Minerva McGonagall.
 —Gracias, Hagrid. Yo me encargaré de ellos desde aquí.
 
 La mujer dio media vuelta y encabezó la marcha por el suelo de losas de granito. Harry ajustó el cuello de su túnica negra y avanzó en la vanguardia del grupo, con los ojos alerta y la mente tan fría como el agua del lago que acababan de cruzar.
+

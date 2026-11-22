@@ -1,6 +1,5 @@
-# CAPÍTULO 17
+﻿# CAPÍTULO 17
 ## El juicio del paño milenario
-
 Las dobles puertas de roble del Gran Comedor se abrieron de par en par, dando paso a una caverna de luz y piedra que desafiaba cualquier arquitectura terrenal.
 
 Cuatro mesas descomunales, alineadas a lo largo del salón bajo los estandartes heráldicos de Gryffindor, Ravenclaw, Hufflepuff y Slytherin, congregaban a centenares de estudiantes cuyos murmullos se apagaron al unísono cuando la fila de alumnos de primer año cruzó el umbral. Por encima de sus cabezas, miles de velas flotaban en un aire tibio que olía a cera de abejas y especias de otoño; más arriba aún, el techo encantado reproducía la noche exterior: un cielo de terciopelo negro salpicado de estrellas heladas y jirones de niebla escocesa.
@@ -114,3 +113,4 @@ Algunos estudiantes rieron creyendo que era otra broma excéntrica del director,
 Harry no apartó la vista del sitial dorado. Un anuncio público tan tajante era la forma más eficaz de plantar una semilla de curiosidad en setecientos muchachos; pero para Harry, el tercer piso era solo una zona vedada del mapa que no convenía pisar hasta tener razones de peso.
 
 La selección había terminado; pero para el muchacho de la cicatriz, la verdadera guerra comenzaba al apagarse las velas.
+

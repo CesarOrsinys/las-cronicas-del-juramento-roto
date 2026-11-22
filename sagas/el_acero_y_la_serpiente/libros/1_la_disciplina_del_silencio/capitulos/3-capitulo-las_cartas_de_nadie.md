@@ -1,6 +1,5 @@
-# CAPÍTULO 3
+﻿# CAPÍTULO 3
 ## Las cartas de nadie
-
 El refugio no tenía alfombras ni papeles pintados en las paredes. Era el sótano de una antigua nave de curtidos abandonada cerca de los muelles de Rotherhithe, a orillas del Támesis, donde el agua del río golpeaba los pilotes de madera podrida con un chapoteo sucio y constante. Olía a salitre, a humedad vieja y a ceniza de carbón apagada hacía años.
 
 Sobre una mesa de carpintero improvisada descansaba un candil de latón con una llama quieta, encendida sin cerillas.
@@ -79,4 +78,5 @@ Harry dobló el pergamino con cuidado, repasando las esquinas con la yema del pu
 Sirius contempló al niño durante un largo silencio. Por primera vez en diez años, una chispa de orgullo despiadado brilló en los ojos del fugitivo de Azkaban.
 
 —Mañana al amanecer —dijo Sirius, guardando la varita en la solapa de su abrigo—. Si vas a entrar por esa puerta el primero de septiembre, antes vas a aprender a no parpadear cuando alguien te apunte a los ojos.
+
 

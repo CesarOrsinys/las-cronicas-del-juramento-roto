@@ -1,6 +1,5 @@
-# CAPÍTULO 15
+﻿# CAPÍTULO 15
 ## La geometría de los compartimentos
-
 El paisaje urbano de Londres quedó atrás en menos de media hora, sustituido por prados verdes salpicados de vacas lecheras, setos de espino y pequeñas aldeas campesinas donde los tejados de pizarra brillaban bajo un sol pálido de septiembre.
 
 Dentro del compartimento, Harry había abierto su ejemplar de *Fuerzas Oscuras: Guía para la Autoprotección* de Quentin Trimble sobre las rodillas. No leía de corrido como quien disfruta de una novela de aventuras; repasaba con un lápiz de mina dura los diagramas de dispersión de los encantamientos de escudo, anotando en el margen las variables de distancia y masa que Sirius le había enseñado a calcular en Yorkshire.
@@ -88,3 +87,4 @@ Ron soltó el aire de golpe, desplomándose sobre el asiento como si acabara de 
 —Guarda tus historias para quien le interesen, Weasley —cortó Harry, volviendo a abrir su libro sobre las rodillas—. Y si vas a quedarte en este compartimento, hazlo en silencio. Tengo cuatro capítulos de teoría defensiva que terminar antes de llegar al colegio.
 
 Ron parpadeó desorientado, miró la puerta cerrada y luego al chico de ojos verdes que ya trazaba otra línea recta en el margen del pergamino. Comprendió en ese instante que aquel Harry Potter no se parecía a ninguno de los héroes de los cuentos que su madre le leía por las noches en la Madriguera.
+

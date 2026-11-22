@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 40
 ## El cerco de las sospechas
-
 A finales de mayo y principios de junio, el calor sofocante del verano escocés transformó las aulas de Hogwarts en hornos de piedra caliza. Los ventanales ojivales se abrían de par en par para dejar entrar un aire caliente que olía a heno seco, pino silvestre y flor de saúco, pero que no aliviaba la tensión asfixiante de la temporada de exámenes finales.
 
 Para la mayoría de los estudiantes de primer año, las semanas previas a los exámenes eran una agonía de nervios desbocados: Hermione Granger repetía en voz alta los siete factores de las leyes de Gamp en los pasillos hasta perder la voz; Ron Weasley maldecía sobre pergaminos manchados de tinta intentando recordar la fecha exacta de la rebelión de los duendes de 1612, y Neville Longbottom sufría ataques de insomnio creyendo que convertiría accidentalmente al profesor Flitwick en un sapo durante la prueba práctica de Encantamientos.
@@ -44,5 +43,6 @@ La lechuza del Ministerio era una distracción táctica de manual: la misma téc
 Dumbledore estaba a cientos de millas de distancia sobre los cielos del sur. El tercer piso estaba desprotegido.
 
 Y el hombre del turbante púrpura no esperaría a la mañana siguiente para descender a las profundidades.
+
 
 

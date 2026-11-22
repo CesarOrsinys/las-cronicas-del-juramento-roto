@@ -1,6 +1,5 @@
-# CAPÍTULO 21
+﻿# CAPÍTULO 21
 ## La raíz y el fango
-
 La tarde de los jueves pertenecía a los invernaderos de Herbología, situados en la falda sur de la colina del castillo, más allá del huerto de calabazas de Hagrid.
 
 Una llovizna fina y persistente azotaba las cubiertas de cristal curvado cuando los alumnos de Gryffindor y Slytherin cruzaron los senderos empedrados. El contraste térmico entre el viento cortante de las Tierras Altas y el interior del Invernadero Uno era brutal: una atmósfera densa, saturada de vapor vegetal caliente, olor a tierra abonada con estiércol de dragón y el perfume dulzón y penetrante de decenas de especies de flores carnívoras en letargo.
@@ -48,3 +47,5 @@ Lyra sostuvo su mirada a través de las ramas verdes. Durante dos segundos no hu
 La campana de las cinco de la tarde resonó en el patio exterior, anunciando el fin de la sesión.
 
 Mientras los alumnos se despojaban de los guantes y salían en fila hacia el aire frío de la tarde, Harry limpió su herramienta con un paño de lona y la guardó en su sitio. Al salir al camino empedrado, miró hacia las torres del castillo que se recortaban contra un cielo de nubes bajas: la disciplina del silencio se construía lección a lección, y cada paso en el castillo dejaba más claro quiénes serían peones y quiénes sabrían disputar el tablero.
+
+

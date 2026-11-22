@@ -1,6 +1,5 @@
-# CAPÍTULO 10
+﻿# CAPÍTULO 10
 ## Las bóvedas de basalto
-
 El vestíbulo principal de Gringotts era una catedral de mármol blanco y silencio burocrático. Cerca de un centenar de duendes permanecían sentados tras mostradores corridos de caoba pulida de diez pies de altura, pesando monedas de oro en balanzas de latón fino, examinando gemas preciosas a través de monoculos de cristal ahumado y anotando cifras en libros mayores con cubiertas de piel de cordero.
 
 El aire olía a metal frío, a cera de sellar y a la humedad milenaria que subía desde los abismos de la tierra.
@@ -68,3 +67,4 @@ Harry rozó la placa con la yema del pulgar.
 Salieron de la bóveda y la puerta de hierro negro se cerró de nuevo con un estampido seco que resonó por los abismos de Gringotts.
 
 Al volver a subir al vagoncito para emprender el regreso hacia la superficie, Harry no miraba las monedas en su bolsa. Miraba hacia la oscuridad que quedaba atrás, consciente de que ahora poseía los medios financieros para sostener una guerra prolongada sin deberle explicaciones a nadie.
+

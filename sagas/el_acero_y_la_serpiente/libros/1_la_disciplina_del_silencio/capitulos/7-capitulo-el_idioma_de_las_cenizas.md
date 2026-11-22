@@ -1,6 +1,5 @@
-# CAPÍTULO 7
+﻿# CAPÍTULO 7
 ## El idioma de las cenizas
-
 La lluvia de Yorkshire golpeaba las aspilleras de la torre con la insistencia de un martillo de zapatero. Dentro de Blackstone Tor, la humedad era un animal frío que se filtraba a través de las losas de piedra y empapaba las mantas raídas donde dormían.
 
 En el rincón más seco de la sala de armas, sobre un tablero de roble carcomido que servía de mesa, Sirius había desplegado un mapa desgarrado del Londres mágico y tres pergaminos amarillentos cubiertos de anotaciones con tinta desvaída.
@@ -62,4 +61,5 @@ Harry se puso de pie y comenzó a enrollar los pergaminos con movimientos precis
 Sirius se volvió despacio. Su silueta recortada contra la luz gris parecía la de un espectro tallado en pizarra, pero en sus ojos brillaba una resolución inquebrantable.
 
 —Seguiré siendo una sombra en las colinas, cachorro. Cazaré a la rata que vendió a tus padres. Y vigilaré que ninguno de los viejos bastardos de ese castillo se atreva a ponerte una mano encima sin pagar el precio en sangre.
+
 

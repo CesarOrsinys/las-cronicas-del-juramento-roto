@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 22
 ## El cálculo de los calderos
-
 Las mazmorras de Hogwarts estaban excavadas bajo el lecho de roca del lago negro. El aire allí abajo era diez grados más frío que en el resto del castillo, húmedo y cargado de un olor penetrante a azufre quemado, a vinagre de estramonio y a vísceras de animales conservadas en alcohol de quemar dentro de grandes frascos de vidrio que se alineaban en las paredes de piedra caliza.
 
 A las dos de la tarde del viernes, los alumnos de primer año de Gryffindor y Slytherin ocupaban los bancos de trabajo de piedra de dos en dos, separados por el pasillo central como dos batallones en tregua forzada.
@@ -74,5 +73,6 @@ Snape pasó junto a la mesa de Harry. Examinó el color de la poción con el ce�
 Harry tomó una muestra de su preparado en un vial de cristal transparente, lo selló con cera roja y anotó su nombre en la etiqueta con tinta indeleble.
 
 La primera prueba con el jefe de la Casa de Slytherin había sido superada; pero Harry sabía que aquel hombre no descansaría hasta encontrar la rendija por donde clavar su aguijón.
+
 
 

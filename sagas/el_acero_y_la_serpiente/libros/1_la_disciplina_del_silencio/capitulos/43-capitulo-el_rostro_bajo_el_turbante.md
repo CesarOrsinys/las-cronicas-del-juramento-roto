@@ -1,5 +1,5 @@
-﻿# CAPÍTULO 43: El rostro bajo el turbante
-
+﻿# CAPÍTULO 43
+## El rostro bajo el turbante
 El frío de la poción se desvaneció apenas Harry pisó las losas de la última cámara.
 
 No había fuego, ni monstruos, ni mazmorras húmedas. Era una estancia circular de piedra desnuda, iluminada por la luz espectral de antorchas empotradas en las paredes. Y en el centro, proyectando un reflejo dorado sobre el suelo polvoriento, se alzaba el Espejo de Oesed.
@@ -167,6 +167,7 @@ Harry cruzó la barrera mágica hacia el mundo de los no mágicos. En la calle e
 Sirius Black sonrió de medio lado al ver salir al muchacho ileso, con la cabeza alta y la varita oculta bajo la manga.
 
 El primer año había concluido. La disciplina del silencio había forjado sus cimientos; ahora comenzaba la verdadera guerra.
+
 
 
 

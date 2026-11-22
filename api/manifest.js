@@ -53,10 +53,25 @@ module.exports = (req, res) => {
             let title = '';
             try {
               const text = fs.readFileSync(filePath, 'utf-8');
-              const lines = text.split('\n');
-              const firstHeading = lines.find(l => /^#{1,3}\s+(Capítulo|Prólogo|PRÓLOGO|Epílogo)/i.test(l)) || lines.find(l => /^#+\s+/.test(l));
-              if (firstHeading) {
-                title = firstHeading.replace(/^#+\s*/, '').trim();
+              const lines = text.split('\n').map(l => l.trim()).filter(Boolean);
+              
+              const h1 = lines.find(l => /^#\s+/.test(l));
+              const h2 = lines.find(l => /^##\s+/.test(l));
+              
+              if (h1 && h2) {
+                const main = h1.replace(/^#\s*/, '').trim();
+                const sub = h2.replace(/^##\s*/, '').trim();
+                if (/^(CAPÍTULO|Capítulo)\s+\d+$/i.test(main)) {
+                  title = `${main}: ${sub}`;
+                } else if (/^PRÓLOGO/i.test(main)) {
+                  title = `Prólogo: ${sub}`;
+                } else if (/^EPÍLOGO/i.test(main)) {
+                  title = `Epílogo: ${sub}`;
+                } else {
+                  title = `${main}: ${sub}`;
+                }
+              } else if (h1) {
+                title = h1.replace(/^#+\s*/, '').trim();
               }
             } catch (e) {}
 

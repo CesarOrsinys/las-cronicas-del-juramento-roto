@@ -1,6 +1,5 @@
-# CAPÍTULO 11
+﻿# CAPÍTULO 11
 ## El secreto del tejo y el fénix
-
 La lluvia de la tarde había limpiado el polvo de los adoquines del Callejón Diagon, dejando sobre el pavimento un brillo de espejo negro donde se reflejaban las luces de los faroles de gas.
 
 Al final de la calle principal, encajada entre una tienda de calderos de cobre y una botica de hierbas desecadas, la fachada de madera oscura de *Ollivanders: Fabricantes de Excelentes Varitas desde el 382 a.C.* parecía a punto de derrumbarse por el peso de los siglos. Las letras doradas sobre el dintel estaban casi borradas por el salitre y en el escaparate polvoriento solo descansaba una única varita sobre un cojín de terciopelo violeta descolorido.
@@ -94,4 +93,5 @@ Harry sacó siete galeones de oro de su bolsa de cuero y los depositó sobre el 
 —La grandeza depende de quién defina el final de la historia, señor Ollivander —dijo Harry, guardando la varita de acebo en el bolsillo interior de su abrigo, pegada al pecho—. Gracias por su tiempo.
 
 Se dio la vuelta y cruzó la puerta hacia la lluvia del Callejón Diagon, dejando al anciano artesano solo en la penumbra de su tienda, contemplando el rastro de calor dorado que aún flotaba sobre el mostrador.
+
 

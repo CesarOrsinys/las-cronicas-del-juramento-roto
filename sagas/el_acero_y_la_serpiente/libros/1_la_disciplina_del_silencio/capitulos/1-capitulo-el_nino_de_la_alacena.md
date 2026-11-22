@@ -1,6 +1,5 @@
-# CAPÍTULO 1
+﻿# CAPÍTULO 1
 ## El niño de la alacena
-
 La oscuridad bajo la escalera de Privet Drive número cuatro no era una sombra informe, sino un territorio con medidas exactas: siete pies de largo por cuatro de ancho en su parte más alta, menguando en una pendiente de tablones de pino hasta morir en el ángulo polvoriento donde se guardaban los cubos de fregar.
 
 Harry Potter conocía cada nudo de esa madera.
@@ -68,4 +67,5 @@ Al final, como siempre ocurría cuando la mezquindad chocaba con la necesidad de
 —Sí, tío Vernon —respondió Harry, bajando la cabeza lo justo para que las sombras de sus pestañas ocultaran el brillo helado de sus ojos verdes.
 
 Por dentro, el niño de la alacena no sentía miedo. Sentía la certeza silenciosa de que las rejas de Privet Drive, por gruesas que parecieran, tenían grietas. Y él estaba aprendiendo a encontrar cada una de ellas.
+
 

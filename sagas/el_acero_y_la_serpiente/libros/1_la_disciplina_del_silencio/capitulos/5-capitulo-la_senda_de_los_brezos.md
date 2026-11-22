@@ -1,6 +1,5 @@
-# CAPÍTULO 5
+﻿# CAPÍTULO 5
 ## La senda de los brezos
-
 El tren de cercanías hacia Leeds olía a vapor rancio, a humo de tabaco negro y a la humedad de los abrigos de los obreros que regresaban de las factorías del sur. En el vagón de tercera clase, arrinconados en el compartimento más cercano al fuelle de los vagones, nadie prestaba atención al hombre silencioso de barba crecida y abrigo abotonado hasta la nuez, ni al muchacho menudo que miraba el paisaje por la ventanilla con el hatillo apretado entre los tobillos.
 
 Para los muggles, eran un peón viudo y su hijo buscando faena en las cuencas mineras. Para el Ministerio de Magia, eran dos fantasmas que se desplazaban por las arterias de hierro ordinario sin dejar un solo rastro en las redes de polvos flu ni en las chimeneas vigiladas.
@@ -70,4 +69,5 @@ Harry apretó la rama de espino entre sus dedos. La madera le raspaba la piel de
 El prófugo de Azkaban sostuvo la mirada de su ahijado en la penumbra de la torre. Por primera vez, vio en aquellos ojos verdes no solo el recuerdo de Lily y James, sino una determinación propia, oscura y templada al fuego del abandono.
 
 —Nadie te pide que te escondas, cachorro —sentenció Sirius con voz grave—. Te pido que aprendas a morder en silencio antes de enseñar los colmillos.
+
 

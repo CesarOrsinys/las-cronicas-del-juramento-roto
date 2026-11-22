@@ -1,6 +1,5 @@
-# CAPÍTULO 4
+﻿# CAPÍTULO 4
 ## La memoria del hierro
-
 El agua del Támesis golpeaba los maderos del muelle de Rotherhithe con el compás monótono de un péndulo roto. Dentro del sótano de la curtiduría, el frío se pegaba a las paredes de ladrillo en una capa de salitre brillante.
 
 Sirius Black no dormía. Estaba sentado en el suelo, con la espalda apoyada contra el pilar central y las rodillas recogidas contra el pecho, pasando el pulgar por la superficie irregular de su varita de fresno oscuro. No era su varita original —aquella se había quedado en el suelo calcinado de Godric's Hollow la noche en que el mundo se quebró—, sino una pieza robada a un contrabandista en los muelles de Dover, tosca pero obediente a la sangre.
@@ -64,4 +63,5 @@ Harry no discutió. En menos de dos minutos, el hatillo estuvo atado con nudos m
 —¿Adónde vamos?
 
 —Hacia el norte —respondió Sirius, apagando la llama del candil con un soplido seco y cubriendo el sótano en una oscuridad repentina donde solo brillaban sus ojos grises—. A los páramos de Yorkshire. Allí mi familia tenía un pabellón de caza abandonado antes de que mi abuelo decidiera que todo lo que no oliera a Londres era plebeyo. Nadie mira en las ruinas de piedra vieja. Y allí, muchacho, vas a aprender a sostener una vara antes de que el mundo mágico intente ponerte de rodillas.
+
 

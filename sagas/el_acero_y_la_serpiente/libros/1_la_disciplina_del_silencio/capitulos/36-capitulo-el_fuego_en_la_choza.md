@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 36
 ## El fuego en la choza
-
 A finales de marzo y principios de abril, el deshielo de las cumbres de las Tierras Altas transformó los senderos que descendían hacia el linde del Bosque Prohibido en torrenteras de barro negro y grava suelta.
 
 Fue durante esas semanas cuando la imprudencia congénita de Rubeus Hagrid amenazó con quebrar la frágil estabilidad del perímetro del colegio.
@@ -84,4 +83,5 @@ Harry guardó el pergamino en el bolsillo.
 —El infiltrado ya tiene la llave del corredor. Ahora solo queda preparar la jaula de Norberto y asegurar la torre para la evacuación.
 
 Harry salió de la choza bajo la lluvia de primavera, sabiendo que la entrega nocturna en lo alto de las almenas no sería un simple transporte de contrabando: sería el detonante que precipitaría el colapso final de las máscaras en Hogwarts.
+
 

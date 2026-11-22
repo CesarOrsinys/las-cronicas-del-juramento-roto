@@ -1,6 +1,5 @@
-# CAPÍTULO 2
+﻿# CAPÍTULO 2
 ## El vidrio que se esfumó
-
 El aire dentro de la casa de reptiles del zoológico de Londres era denso, tibio y olía a corteza de pino humedecida, a tierra vegetal en descomposición y a agua estancada. La luz natural apenas se filtraba a través de las claraboyas opacas del techo, sustituida por el resplandor verdoso y artificial de los tubos fluorescentes instalados en el interior de cada terrario.
 
 A lo largo del pasillo enmoquetado, las familias se agolpaban contra las barandillas metálicas, señalando con dedos pringosos de helado a las criaturas inmóviles tras los paneles de cristal reforzado.
@@ -104,4 +103,5 @@ Con un movimiento seco de la cabeza hacia el exterior del parque, el animal lanz
 *Corre.*
 
 Harry no se lo pensó dos veces. Esquivó a su tío por la izquierda y salió disparado tras el perro negro hacia el laberinto de setos y callejones que rodeaban Regent's Park.
+
 

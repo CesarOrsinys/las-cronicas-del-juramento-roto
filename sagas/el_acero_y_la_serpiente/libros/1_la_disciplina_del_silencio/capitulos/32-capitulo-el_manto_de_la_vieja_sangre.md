@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 32
 ## El manto de la vieja sangre
-
 La mañana del veinticinco de diciembre amaneció con un silencio mineral sobre las torres de Hogwarts. Una capa de nieve virgen de dos pies de espesor cubría los patios interiores, los jardines de calabazas de Hagrid y el lago negro, cuya superficie congelada parecía un espejo de acero pulido bajo un cielo de pizarra gris.
 
 En el dormitorio de primer año de Gryffindor, el fuego de la chimenea crujía arrojando chispas rojas contra la rejilla de hierro.
@@ -64,5 +63,6 @@ Dumbledore quería que Harry explorara el corredor prohibido. Quería ponerlo a 
 Harry ajustó el cierre de su baúl con un golpe seco de la mano enguantada.
 
 Si el anciano director creía que estaba guiando a un cordero hacia el matadero del tablero, descubriría muy pronto que el cordero traía colmillos de lobo forjados en las sombras.
+
 
 

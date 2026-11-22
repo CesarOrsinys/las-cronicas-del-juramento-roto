@@ -1,6 +1,5 @@
 ﻿# CAPÍTULO 25
 ## La provocación del pasillo
-
 La tarde posterior a la clase de vuelo y a la designación de Harry como buscador de Gryffindor trajo un respiro de lluvia mansa sobre los terrenos del castillo.
 
 Aprovechando las dos horas libres antes de la cena, Harry descendió por la colina hacia el linde del Bosque Prohibido. En el bolsillo llevaba una nota garabateada con tinta morada y letra inclinada que había llegado esa mañana con una lechuza común: *«Querido Harry, sé que estás muy ocupado, pero me gustaría mucho que vinieras a tomar una taza de té conmigo el viernes por la tarde. Quiero saber cómo te va todo. Hagrid.»*
@@ -124,5 +123,6 @@ Lyra lo miró a los ojos en la penumbra. Durante una fracción de segundo, la es
 Los tres se deslizaron tras la lana pesada del tapiz en el mismo instante en que la puerta de roble de la sala de trofeos se abría de par en par con un gemido estridente y la luz amarilla del farol de Filch barría las vitrinas de plata vacías.
 
 El examen de medianoche no había tenido un vencedor sobre los escaques del colegio; pero en la sombra de las piedras milenarias, la heredera de los Malfoy y el heredero de los Potter acababan de comprobar que ninguno de los dos era una pieza dócil en el tablero de Albus Dumbledore.
+
 
 

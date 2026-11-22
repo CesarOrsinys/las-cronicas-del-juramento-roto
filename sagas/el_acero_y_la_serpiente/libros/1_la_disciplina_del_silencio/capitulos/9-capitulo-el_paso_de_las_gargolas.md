@@ -1,6 +1,5 @@
-# CAPÍTULO 9
+﻿# CAPÍTULO 9
 ## El paso de las gárgolas
-
 Londres bajo la lluvia de agosto olía a carbón mineral mojado, a asfalto recalentado y al vapor denso que emanaba de las alcantarillas de Charing Cross Road. Entre la masa informe de transeúntes muggles con paraguas negros apresurándose hacia las estaciones de metro, dos figuras encapuchadas avanzaban pegadas a las fachadas comerciales sin llamar la atención de nadie.
 
 Llevaban abrigos de lona pesada con los cuellos levantados y bufandas oscuras que les cubrían la mandíbula y la nariz contra el relente de la tarde.
@@ -56,4 +55,5 @@ Harry asintió con una inclinación mínima de la cabeza. Apretó la llave de hi
 *Entra, forastero, pero ten cuidado con lo que te espera en el pecado de la codicia...*
 
 Harry cruzó el umbral sin dudar. La codicia era para los débiles; él había venido a buscar las herramientas para no volver a ser jamás una víctima.
+
 

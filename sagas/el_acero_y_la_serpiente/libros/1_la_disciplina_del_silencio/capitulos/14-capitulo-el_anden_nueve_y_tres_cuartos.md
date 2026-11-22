@@ -1,6 +1,5 @@
-# CAPÍTULO 14
+﻿# CAPÍTULO 14
 ## El andén nueve y tres cuartos
-
 El andén olía a carbón ardiente, a plumas húmedas de lechuza y al perfume pesado de las familias aristocráticas que despedían a sus hijos bajo los arcos de hierro forjado.
 
 A lo largo de las vías, el Expreso de Hogwarts refulgía con su pintura escarlata lavada por la lluvia matinal, arrojando nubes de vapor denso que borraban los rostros de la multitud. Los gatos maullaban entre las piernas de los viajeros, los sapos croaban dentro de cajas de cartón con agujeros y en lo alto de los carros las jaulas de aves rapaces sacudían las rejas con aleteos secos.
@@ -32,3 +31,4 @@ Las puertas comenzaron a cerrarse de golpe a lo largo de todo el convoy. El tren
 Harry sintió la aceleración rítmica del viaje en el estómago.
 
 Metió la mano derecha en el bolsillo de la chaqueta y acarició la madera lisa del acebo. El viaje hacia el norte había comenzado; y en ese tren nadie sabía que el muchacho de la cicatriz no venía a ser salvado por nadie.
+
