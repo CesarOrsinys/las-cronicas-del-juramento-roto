@@ -57,68 +57,70 @@ Las armaduras medievales alineadas a lo largo de los muros proyectaban sombras a
 
 Harry avanzaba pegado a la pared norte, pisando con el borde exterior de las botas para anular el eco de sus pasos. Llevaba la varita de acebo en la mano derecha, baja pero lista para trazar el arco de guardia, y el reloj de bolsillo de Charlus Potter guardado en la pechera.
 
-A tres pasos de él, caminando con la torpeza pesada de quien no sabe moverse en la oscuridad, Ron Weasley tropezaba cada dos metros con la caída de su propia túnica.
+A tres pasos de él, caminando con la torpeza pesada de quien no sabe moverse en la oscuridad, Ron Weasley tropezaba cada dos metros con la caída de su propia túnica. Había descubierto la salida de Harry en el dormitorio y lo había seguido a trompicones, aterrado ante la idea de que Harry fuera emboscado por los de Slytherin.
 
-—Malfoy no va a venir —susurró Ron entre dientes, con la voz rota por el miedo—. Te ha tendido una trampa, Harry. Es una serpiente; le habrá dicho a Filch que estaríamos aquí para que nos expulsen a los dos.
+—Malfoy te ha tendido una trampa, Harry —susurró Ron entre dientes, con la voz rota por el miedo—. Es una serpiente; le habrá dicho a Filch que estaríamos aquí para que nos expulsen a los dos.
 
-—Si no viene, habremos cartografiado tres corredores secundarios y dos salidas de escape que no figuran en las cartas de los alumnos —respondió Harry en un susurro gélido, sin detener la marcha—. Y si viene, aprenderá lo que cuesta lanzar un reto a medianoche tras lo ocurrido en el campo de vuelo. Cierra la boca y vigila el vano del fondo.
+—Malfoy no vino a buscar puntos escolares —respondió Harry en un susurro gélido, sin detener la marcha—. Si quisiera una expulsión, le habría bastado con dejar una nota anónima sobre el escritorio de Snape. Ha venido a evaluar el calibre de mi varita. Cierra la boca y quédate pegado a la pared exterior si no quieres estar en la línea de fuego.
 
 Al cruzar la arcada que daba a la galería de los escudos, una figura esbelta emergió de la sombra de una armadura de placas.
-
-No era Filch ni la gata del celador.
 
 Lyra Malfoy estaba sola.
 
 No traía a Crabbe ni a Goyle. Vestía una túnica de duelo de seda negra ceñida al talle con un cinturón de cuero flexible, el pelo rubio platinado recogido en una trenza tirante que le despejaba la nuca y su varita de espino y pelo de unicornio sostenida con una soltura impecable a la altura del codo derecho.
 
-Sus ojos grises brillaron en la penumbra con una frialdad satisfecha al ver aparecer al chico de Gryffindor.
+Sus ojos grises brillaron en la penumbra con una fijeza analítica desprovista de emociones superfluas.
 
-—Pensé que tu caída en picado de ayer te habría dejado secuelas en las muñecas, Potter —dijo la muchacha con su cadencia arrastrada, dando dos pasos al frente para colocarse a cinco varas de distancia sobre el mármol—. O que tu compañero pelirrojo te convencería de quedarte llorando bajo la cama.
+—Has venido con lastre, Potter —dijo la muchacha con su cadencia arrastrada, señalando con un movimiento mínimo de la barbilla a Weasley, que temblaba junto al zócalo.
 
-—Los que lloran bajo la cama suelen necesitar testigos para sentirse valientes, Malfoy —repuso Harry, adelantando el pie izquierdo y bajando el centro de gravedad en la posición exacta de Blackstone Tor—. Y veo que tú has preferido dejar a tus dos mastines en las mazmorras.
+—El lastre aprende observando o se retira —repuso Harry, adelantando el pie izquierdo y bajando el centro de gravedad en la posición exacta de Blackstone Tor—. Y veo que tú cumpliste tu palabra: sin testigos de casa.
 
-Lyra enarcó una ceja fina.
+—Crabbe y Goyle son instrumentos de peso, no analistas —replicó Lyra, dando dos pasos medidos para colocarse a cinco varas exactas de distancia sobre el mármol—. Mi padre me enseñó que la información es el recurso más caro en política. Durante diez años, el mundo mágico creyó que el heredero de los Potter crecía como un niño mimado entre comodidades muggles. Pero en el andén te negaste a darme la mano; en Pociones trabajas con la frialdad de un boticario de guerra, y en Transfiguración reescribes la materia en silencio. Dumbledore te exhibe como su trofeo de luz, pero no hueles a luz, Potter. Hueles a hierro templado bajo secreto.
 
-—Crabbe y Goyle no tienen cerebro para entender lo que significa un pulso de linajes. Esto es entre tú y yo, muchacho del silencio. Varitas en alto. A la de tres.
+—Hablas demasiado para quien citó una medición a medianoche, Malfoy —dijo Harry con calma gélida—. ¿Qué buscas saber?
 
-Ron dio un paso atrás, con la varita rota temblando entre sus dedos:
+—Quiero ver si tu técnica es doctrinaria o si es mero instinto ciego —respondió ella, alzando la varita de espino con la guardia francesa estilizada—. Tres intercambios defensivos. Sin encantamientos de daño terminal; sólo desarme, desvío cinético e impacto percusivo. Si eres un fraude, lo sabré en el primer choque.
 
-—Harry, esto es una locura…
+—Tres intercambios —aceptó Harry, recogiendo la varita de acebo pegada a sus costillas, con la punta dirigida a la garganta de la muchacha—. Comienza.
 
-—Cállate, Weasley —ordenó Harry sin apartar los ojos de su adversaria.
+Lyra no gritó ni adoptó ademanes teatrales. Sus hombros apenas se tensaron una milésima de segundo antes de que su muñeca trazara una elipse cerrada y precisa. De la madera de espino brotó un destello escarlata concentrado: un encantamiento de desarme lanzado a velocidad de competición, dirigido con precisión quirúrgica a los dedos de la mano derecha de Harry.
 
-Ambos levantaron las maderas al unísono.
+Harry no intentó bloquear la trayectoria con un escudo ancho.
 
-Lyra adoptó la postura clásica de los duelistas de la corte francesa: perfil estilizado, brazo derecho extendido en línea recta y la punta de su varita trazando un círculo diminuto en el aire para enfocar la energía.
+Con un giro milimétrico del acebo, desvió el haz luminoso con un ángulo de reflexión de cuarenta y cinco grados: el rayo rebotó contra el peto de hierro de una armadura medieval, arrancando una lluvia de chispas mudas sin emitir estruendo. Casi en el mismo movimiento de retorno, Harry liberó una pulsación de presión cinética invisible hacia el pie de apoyo de Lyra.
 
-Harry no imitó la pose cortesana. Mantuvo la varita de acebo recogida cerca de las costillas, con la punta ligeramente inclinada hacia arriba para proteger la línea media del pecho y los ojos verdes fijos en el hombro de la niña, donde el primer movimiento del tendón delataría la trayectoria del hechizo antes de que la madera se moviera.
+La muchacha leyó el vector de la perturbación del aire. En lugar de saltar hacia atrás, rotó sobre el talón derecho en una finta de esgrima impecable, dejando pasar la onda expansiva a dos pulgadas de su falda y contraatacando con un arco bajo de fuego azul frío que buscaba inmovilizar los tobillos de Harry contra el mármol.
 
-—Uno —contó Lyra en un susurro.
+Harry clavó el talón y absorbió la llama en una compresión súbita de aire frío, extinguiéndola en el suelo.
 
-—Dos —dijo Harry.
+Estaban a cuatro varas. Las varitas apuntaban directamente al pecho del contrario, suspendidas en un equilibrio milimétrico donde ninguno de los dos cedía un ápice de terreno ni pestañeaba.
 
-Antes de que el tres pudiera rozar los labios de ninguno de los dos, un sonido agudo y chirriante desgarró el silencio del pasillo exterior: el maullido metálico y quejumbroso de la *Señora Norris*, seguido por el arrastrar de pies pesados sobre las losas de piedra.
+En los ojos grises de Lyra ya no había duda: había una certeza temible.
 
-—*Huelo a sangre joven, tesoro mío… huelo a intrusos en la sala de trofeos…*
+—No fuiste educado por muggles —susurró ella, y por primera vez un matiz de asombro contenido matizó su voz—. Esa economía de movimiento es doctrina marcial pura. Mi padre decía que los Potter eran duelistas de choque frontal... esto es otra cosa. Esto es contención militar.
+
+—Las conjeturas sobre mi pasado te costarán caras si las usas como moneda de cambio —respondió Harry en el mismo tono bajo.
+
+Antes de que pudieran iniciar el tercer intercambio pactado, un sonido agudo y chirriante desgarró el silencio del corredor exterior: el maullido metálico y quejumbroso de la *Señora Norris*, seguido por el arrastrar de pies pesados sobre las losas de piedra.
+
+—*Huelo a piel caliente, tesoro mío… huelo a intrusos en la galería de los escudos…*
 
 La voz cascada y rencorosa de Argus Filch resonó a menos de treinta varas del arco de entrada.
 
-Ron Weasley soltó un jadeo de pánico ciego y tiró de la manga de Harry:
+Ron Weasley soltó un jadeo de pánico ciego y se llevó las manos a la cabeza:
 
-—¡Es Filch! ¡Nos ha pillado! ¡Nos van a expulsar!
+—¡Filch! ¡Nos va a pillar! ¡Nos expulsarán a todos!
 
-Lyra bajó la varita de golpe, con el rostro ensombrecido por una maldición muda.
+Lyra bajó la varita con un movimiento rápido, pero su semblante no perdió la compostura aristocrática.
 
-—Maldito celador sarnoso —masculló la muchacha, mirando hacia la única puerta trasera del recinto.
+—La puerta trasera da al corredor de armaduras viejas —dijo ella en un susurro rápido—. Está sellada por fuera con cerrojo de guardia desde las diez.
 
-Harry no perdió medio segundo en lamentarse ni en mirar hacia la entrada por donde se acercaba el farol del celador. Tomó a Lyra del brazo con un agarre de hierro —la niña soltó un respingo de sorpresa ante el contacto físico imprevisto— y tiró de ella hacia la sombra del contrafuerte oriental.
+—La puerta trasera es una ratonera —cortó Harry, tomándola del brazo con una presión firme y serena que la hizo mirar hacia él—. Y si salimos a la galería este nos toparemos con la gata en el ángulo ciego. Hay un conducto de ventilación tras el tapiz de la batalla de Ottery. Conduce al entresuelo del piso inferior.
 
-—La puerta trasera está bloqueada por fuera durante las rondas nocturnas —susurró Harry con una calma helada que obligó a los dos a guardar silencio—. Si corréis hacia la galería principal, os toparéis de frente con la gata. Hay una trampilla de ventilación tras el tapiz de la batalla de Ottery. Por ahí.
-
-Lyra lo miró a los ojos en la penumbra. Durante una fracción de segundo, el orgullo aristocrático de la Casa Malfoy luchó contra el instinto puro de supervivencia; la lógica implacable del chico se impuso sin réplica.
+Lyra lo miró a los ojos en la penumbra. Durante una fracción de segundo, la estratega de Slytherin procesó la orden: no era la bravata de un colegial asustado, era una evacuación táctica ejecutada con sangre fría.
 
 —Muévete, Weasley —siseó Lyra, siguiendo a Harry sin vacilar.
 
-Los tres se deslizaron tras el tapiz de lana podrida en el mismo instante en que la puerta principal de la sala de trofeos se abría de par en par con un chirrido estridente y la luz amarilla del farol de Filch barría las vitrinas de plata vacías.
+Los tres se deslizaron tras la lana pesada del tapiz en el mismo instante en que la puerta de roble de la sala de trofeos se abría de par en par con un gemido estridente y la luz amarilla del farol de Filch barría las vitrinas de plata vacías.
 
-El duelo de medianoche no había tenido un ganador en los pergaminos; pero en las sombras de los muros de piedra, el pacto silencioso entre el muchacho de la cicatriz y la heredera de las serpientes acababa de dar su primer paso hacia lo irreversible.
+El examen de medianoche no había tenido un vencedor sobre los escaques del colegio; pero en la sombra de las piedras milenarias, la heredera de los Malfoy y el heredero de los Potter acababan de comprobar que ninguno de los dos era una pieza dócil en el tablero de Albus Dumbledore.
