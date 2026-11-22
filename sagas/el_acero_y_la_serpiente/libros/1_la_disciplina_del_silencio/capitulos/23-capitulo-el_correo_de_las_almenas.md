@@ -19,9 +19,14 @@ Harry no utilizaba el servicio postal público del Gran Comedor. En la mesa de G
 
 Extrajo la tira de pergamino.
 
-El texto no contenía nombres, ni fechas, ni apelativos familiares. Estaba redactado en un código numérico y transposicional que Sirius le había enseñado en las noches de vela en Blackstone Tor, basado en las coordenadas de la vieja flota mercante de Bristol:
+El mensaje era sobrio, breve y redactado bajo una clave mercantil ordinaria, semejante al balance de cuentas de un almacén de paños del norte. Si una lechuza era interceptada por el Ministerio o por los sensores del director, el texto no contenía nada sospechoso:
 
-*«El halcón ocupa la torre. El perro de tres ojos custodia el sótano. El profesor del turbante sangra por la nuca; su debilidad es una fachada. Mantengo el perímetro y la guardia baja. —C.»*
+*«Septiembre, semana tres. El inventario avanza según el registro previsto. El almacén central se mantiene cerrado y bajo inventario estricto de las autoridades. Las herramientas responden sin novedad en los talleres prácticos. Mantengo la disciplina acordada. —H.»*
+
+Para Sirius, en cambio, cada término tenía un significado preciso:
+«El inventario según el registro» confirmaba que Harry estaba asentado en Gryffindor sin levantar alarmas; «el almacén central cerrado» aludía a la advertencia pública de Dumbledore en el banquete sobre el corredor prohibido del tercer piso; y «las herramientas responden» confirmaba que su práctica no verbal seguía afinándose a diario sin llamar la atención de los profesores.
+
+Ni menciones a personas, ni sospechas gratuitas, ni detalles de cosas que aún no habían sido investigadas. La primera regla de la correspondencia clandestina es no regalar información al enemigo en caso de pérdida.
 
 Harry frotó el pergamino con una mezcla de jugo de cebolla y ceniza de tejo: las letras se desvanecieron al instante en la fibra del papel, dejando la hoja aparentemente en blanco y limpia como una vitela sin usar. Sólo el calor directo de una llama de chimenea combinada con un toque de varita en frecuencia exacta revelaría el mensaje.
 
