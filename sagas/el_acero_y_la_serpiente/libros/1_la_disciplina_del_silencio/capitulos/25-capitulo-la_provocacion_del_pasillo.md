@@ -82,25 +82,33 @@ Sus ojos grises brillaron en la penumbra con una fijeza analítica desprovista d
 
 —Tres intercambios —aceptó Harry, recogiendo la varita de acebo pegada a sus costillas, con la punta dirigida a la garganta de la muchacha—. Comienza.
 
-Lyra no gritó ni adoptó ademanes teatrales. Sus hombros apenas se tensaron una milésima de segundo antes de que su muñeca trazara una elipse cerrada y precisa. De la madera de espino brotó un destello escarlata concentrado: un encantamiento de desarme lanzado a velocidad de competición, dirigido con precisión quirúrgica a los dedos de la mano derecha de Harry.
+Lyra se cuadró de perfil con la elegancia pulida de los manuales de la corte. Su muñeca trazó un semicírculo cerrado y preciso, y de sus labios brotó la fórmula en un susurro cortante y rápido:
 
-Harry no intentó bloquear la trayectoria con un escudo ancho.
+—*¡Expelliarmus!*
 
-Con un giro milimétrico del acebo, desvió el haz luminoso con un ángulo de reflexión de cuarenta y cinco grados: el rayo rebotó contra el peto de hierro de una armadura medieval, arrancando una lluvia de chispas mudas sin emitir estruendo. Casi en el mismo movimiento de retorno, Harry liberó una pulsación de presión cinética invisible hacia el pie de apoyo de Lyra.
+De la madera de espino salió disparado un rayo escarlata concentrado, dirigido a la muñeca de Harry.
 
-La muchacha leyó el vector de la perturbación del aire. En lugar de saltar hacia atrás, rotó sobre el talón derecho en una finta de esgrima impecable, dejando pasar la onda expansiva a dos pulgadas de su falda y contraatacando con un arco bajo de fuego azul frío que buscaba inmovilizar los tobillos de Harry contra el mármol.
+Harry no pronunció una sola palabra ni intentó levantar un escudo aparatoso. Con un giro mínimo de su varita de acebo, desvió el haz luminoso con un ángulo de reflexión de cuarenta y cinco grados: el hechizo rebotó contra el peto de hierro de una armadura medieval, arrancando una lluvia de chispas mudas sin hacer ruido. Casi en el mismo movimiento de retorno, Harry liberó una pulsación de aire comprimido invisible hacia el pie de apoyo de Lyra.
 
-Harry clavó el talón y absorbió la llama en una compresión súbita de aire frío, extinguiéndola en el suelo.
+La muchacha leyó la perturbación del aire. En lugar de retroceder, rotó sobre el talón derecho en una finta de esgrima impecable, dejando pasar la ráfaga a dos pulgadas de su falda. Al recuperar el eje, extendió la varita de espino y moduló el siguiente conjuro entre dientes con perfecta dicción:
 
-Estaban a cuatro varas. Las varitas apuntaban directamente al pecho del contrario, suspendidas en un equilibrio milimétrico donde ninguno de los dos cedía un ápice de terreno ni pestañeaba.
+—*¡Glisseo!*
 
-En los ojos grises de Lyra ya no había duda: había una certeza temible.
+El pavimento bajo los pies de Harry se transformó al instante en una superficie resbaladiza como hielo ártico recién pulido, buscando desestabilizar su centro de gravedad.
 
-—No fuiste educado por muggles —susurró ella, y por primera vez un matiz de asombro contenido matizó su voz—. Esa economía de movimiento es doctrina marcial pura. Mi padre decía que los Potter eran duelistas de choque frontal... esto es otra cosa. Esto es contención militar.
+Harry no resbaló. Flexionó los tobillos, repartió el peso con la solidez aprendida en los riscos pedregosos de Yorkshire y, con un toque seco no verbal sobre el suelo, restituyó la fricción de la piedra antes de que el hielo cediera.
 
-—Las conjeturas sobre mi pasado te costarán caras si las usas como moneda de cambio —respondió Harry en el mismo tono bajo.
+Estaban a cuatro varas. Las maderas se cruzaban en el aire en un silencio tenso.
 
-Antes de que pudieran iniciar el tercer intercambio pactado, un sonido agudo y chirriante desgarró el silencio del corredor exterior: el maullido metálico y quejumbroso de la *Señora Norris*, seguido por el arrastrar de pies pesados sobre las losas de piedra.
+En los ojos grises de Lyra brilló un asombro genuino que no logró disimular tras su fachada aristocrática:
+
+—Dos intercambios... y no has abierto la boca ni una sola vez —susurró la muchacha, mirándolo con un escrutinio feroz—. Los magos de primer año ni siquiera comprenden la teoría no verbal. Esa velocidad de desvío es instrucción de guerra pura. ¿Quién te adiestró, Potter? Porque los muggles no enseñan a neutralizar un maleficio en silencio.
+
+—En una pelea real —respondió Harry en voz baja, sin bajar la guardia—, el que avisa con la voz lo que va a lanzar le regala medio segundo de ventaja al rival. Tu técnica es limpia, Malfoy; pero si dependes de pronunciar cada encantamiento, cualquier tirador rápido te romperá la muñeca antes de que termines la segunda sílaba.
+
+La mandíbula de Lyra se tensó ante la lección táctica.
+
+Antes de que pudiera formular el tercer hechizo pactado, un sonido agudo y chirriante desgarró el silencio del corredor exterior: el maullido metálico y quejumbroso de la *Señora Norris*, seguido por el arrastrar de pies pesados sobre las losas de piedra.
 
 —*Huelo a piel caliente, tesoro mío… huelo a intrusos en la galería de los escudos…*
 
