@@ -98,9 +98,10 @@ Lyra sostuvo la mirada del chico de Gryffindor en la penumbra del corredor. Por 
 
 —Dumbledore no tiene un centinela de esa escala para custodiar libros de texto, Potter —dijo Lyra en voz baja.
 
-—Lo sé —repuso Harry con una frialdad que heló el pasillo—. Y quienquiera que intente bajar por esa trampilla va a necesitar más que un encantamiento de apertura para no salir en pedazos.
+—Lo sé —repuso Harry con tono seco y seguro—. Y quienquiera que intente bajar por esa trampilla va a necesitar más que un encantamiento de apertura para no salir en pedazos.
 
 Sin decir una palabra más, se separaron en la bifurcación del descansillo: Lyra descendió hacia las mazmorras de las serpientes y Harry guio al tembloroso Weasley hacia las alturas de la torre, con el mapa de la trampilla del tercer piso grabado a fuego en su memoria como el siguiente objetivo a batir.
+
 
 
 

@@ -68,7 +68,7 @@ Ron observaba la escena con la respiración contenida, esperando que el gran hé
 
 Harry no golpeó. No escupió.
 
-Se puso en pie despacio, manteniendo las manos a la vista, y miró la mano extendida de Lyra durante tres segundos que parecieron eternos en el silencio del compartimento. Luego levantó la vista y sostuvo la mirada gris de la niña con una frialdad glacial que no concedía un solo palmo de ventaja.
+Se puso en pie despacio, manteniendo las manos a la vista, y miró la mano extendida de Lyra durante tres segundos que parecieron eternos en el silencio del compartimento. Luego levantó la vista y sostuvo la mirada gris de la niña con una serenidad distante que no concedía un solo palmo de ventaja.
 
 —Sé reconocer la calaña por mí mismo, señorita Malfoy —respondió Harry, y su voz no tembló—. Y prefiero evaluar las alianzas por el filo de las acciones, no por la arrogancia de los apellidos.
 
@@ -87,4 +87,5 @@ Ron soltó el aire de golpe, desplomándose sobre el asiento como si acabara de 
 —Guarda tus historias para quien le interesen, Weasley —cortó Harry, volviendo a abrir su libro sobre las rodillas—. Y si vas a quedarte en este compartimento, hazlo en silencio. Tengo cuatro capítulos de teoría defensiva que terminar antes de llegar al colegio.
 
 Ron parpadeó desorientado, miró la puerta cerrada y luego al chico de ojos verdes que ya trazaba otra línea recta en el margen del pergamino. Comprendió en ese instante que aquel Harry Potter no se parecía a ninguno de los héroes de los cuentos que su madre le leía por las noches en la Madriguera.
+
 

@@ -32,7 +32,7 @@ Lyra soltó una risa seca, desprovista de humor, mientras sus ojos grises escane
 
 —Snape. Pura lógica formal deductiva. Muchos de los grandes magos del Wizengamot son incapaces de resolver un problema que no dependa de mover la varita y gritar en latín; se consumirían aquí intentando quebrar el fuego con encantamientos de agua hasta morir calcinados.
 
-La heredera de las serpientes comenzó a clasificar las siete botellas con dedos enguantados, murmurando para sí con una frialdad matemática:
+La heredera de las serpientes comenzó a clasificar las siete botellas con dedos enguantados, murmurando para sí con calma:
 
 —Siete botellas... tres venenos mortales... dos de vino de ortiga inocuo... una para retroceder a través de la llama púrpura y una para avanzar a través de la llama negra.
 —La regla primera descarta los extremos —continuó ella con precisión quirúrgica—. El veneno siempre se oculta a la izquierda del vino de ortiga... la botella más pequeña del centro es la clave de avance. Contiene la poción que permite atravesar el fuego negro sin que se queme un solo cabello.
@@ -76,5 +76,6 @@ Harry se quedó completamente solo frente a la pared de fuego negro.
 Destapó el frasco diminuto. El aroma era a hielo triturado, menta silvestre y hierro frío. Vertió las tres gotas sobre su lengua: una sensación de congelación absoluta le bajó por la garganta, extendiéndose por sus venas como una armadura de escarcha que adormeció su piel y su respiración.
 
 Apretó los dientes, dio tres zancadas firmes hacia adelante y atravesó la cortina de llamas negras.
+
 
 

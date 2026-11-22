@@ -58,7 +58,7 @@ Petunia soltó un pequeño grito ahogado y se llevó las manos a la boca.
 
 —¡Cállate! —escupió Vernon, dándole un golpe a la mesa que hizo tintinear los cubiertos de plata—. ¡Ni una sola palabra más de tus malditas excusas! ¿Dónde vamos a meterlo? No podemos llevarlo al zoológico con Dudley y Piers Polkiss. La sola presencia de este mocoso estropea cualquier fotografía decente.
 
-Harry permaneció inmóvil junto a la encimera. No había suplica en su mirada, ni ansiedad por ir a ver animales enjaulados, ni temor ante la perspectiva de quedarse encerrado en la oscuridad. Había una frialdad matemática: observaba la duda en el rostro de sus tíos, midiendo las opciones que manejaban en sus cabezas estrechas. Sabía que dejarlo en el coche en pleno julio atraería la atención de los vecinos; dejarlo con la vecina del número dos era exponerse a que alguien hiciera preguntas sobre su ropa raquítica; y pagar a una niñera era un gasto que Vernon jamás autorizaría.
+Harry permaneció inmóvil junto a la encimera. No había suplica en su mirada, ni ansiedad por ir a ver animales enjaulados, ni temor ante la perspectiva de quedarse encerrado en la oscuridad. Había una lucidez tranquila: observaba la duda en el rostro de sus tíos, midiendo las opciones que manejaban en sus cabezas estrechas. Sabía que dejarlo en el coche en pleno julio atraería la atención de los vecinos; dejarlo con la vecina del número dos era exponerse a que alguien hiciera preguntas sobre su ropa raquítica; y pagar a una niñera era un gasto que Vernon jamás autorizaría.
 
 Al final, como siempre ocurría cuando la mezquindad chocaba con la necesidad de guardar las apariencias, Vernon arrugó el periódico y lo lanzó sobre la mesa con desprecio.
 
@@ -67,5 +67,6 @@ Al final, como siempre ocurría cuando la mezquindad chocaba con la necesidad de
 —Sí, tío Vernon —respondió Harry, bajando la cabeza lo justo para que las sombras de sus pestañas ocultaran el brillo helado de sus ojos verdes.
 
 Por dentro, el niño de la alacena no sentía miedo. Sentía la certeza silenciosa de que las rejas de Privet Drive, por gruesas que parecieran, tenían grietas. Y él estaba aprendiendo a encontrar cada una de ellas.
+
 
 

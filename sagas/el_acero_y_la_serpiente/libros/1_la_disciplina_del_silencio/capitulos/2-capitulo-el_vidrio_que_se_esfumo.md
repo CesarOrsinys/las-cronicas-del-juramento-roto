@@ -48,7 +48,7 @@ Harry no retrocedió. Sus pupilas verdes se dilataron con una mezcla de fascinac
 
 La boa señaló con el morro hacia un cartel de latón clavado en la base del terrario: *Boa Constrictor, Brasil. Ejemplar criado en cautividad en el Zoo de Londres.*
 
-—Nunca has estado allí —dedujo Harry con frialdad—. Nunca has visto el bosque.
+—Nunca has estado allí —dedujo Harry con calma—. Nunca has visto el bosque.
 
 *«Jamás...»*, siseó la bestia, frotando su mandíbula contra la esquina inferior del vidrio.
 
@@ -103,5 +103,6 @@ Con un movimiento seco de la cabeza hacia el exterior del parque, el animal lanz
 *Corre.*
 
 Harry no se lo pensó dos veces. Esquivó a su tío por la izquierda y salió disparado tras el perro negro hacia el laberinto de setos y callejones que rodeaban Regent's Park.
+
 
 

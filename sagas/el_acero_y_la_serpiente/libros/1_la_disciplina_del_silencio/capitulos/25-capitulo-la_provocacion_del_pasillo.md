@@ -76,7 +76,7 @@ Sus ojos grises brillaron en la penumbra con una fijeza analítica desprovista d
 
 —Crabbe y Goyle son instrumentos de peso, no analistas —replicó Lyra, dando dos pasos medidos para colocarse a cinco varas exactas de distancia sobre el mármol—. Mi padre me enseñó que la información es el recurso más caro en política. Durante diez años, el mundo mágico creyó que el heredero de los Potter crecía como un niño mimado entre comodidades muggles. Pero en el andén te negaste a darme la mano; en Pociones trabajas con la frialdad de un boticario de guerra, y en Transfiguración reescribes la materia en silencio. Dumbledore te exhibe como su trofeo de luz, pero no hueles a luz, Potter. Hueles a hierro templado bajo secreto.
 
-—Hablas demasiado para quien citó una medición a medianoche, Malfoy —dijo Harry con calma gélida—. ¿Qué buscas saber?
+—Hablas demasiado para quien citó una medición a medianoche, Malfoy —dijo Harry con calma—. ¿Qué buscas saber?
 
 —Quiero ver si tu técnica es doctrinaria o si es mero instinto ciego —respondió ella, alzando la varita de espino con la guardia francesa estilizada—. Tres intercambios defensivos. Sin encantamientos de daño terminal; sólo desarme, desvío cinético e impacto percusivo. Si eres un fraude, lo sabré en el primer choque.
 
@@ -124,13 +124,14 @@ Lyra bajó la varita con un movimiento rápido, pero su semblante no perdió la 
 
 —La puerta trasera es una ratonera —cortó Harry, tomándola del brazo con una presión firme y serena que la hizo mirar hacia él—. Y si salimos a la galería este nos toparemos con la gata en el ángulo ciego. Hay un conducto de ventilación tras el tapiz de la batalla de Ottery. Conduce al entresuelo del piso inferior.
 
-Lyra lo miró a los ojos en la penumbra. Durante una fracción de segundo, la estratega de Slytherin procesó la orden: no era la bravata de un colegial asustado, era una evacuación táctica ejecutada con sangre fría.
+Lyra lo miró a los ojos en la penumbra. Durante una fracción de segundo, la estratega de Slytherin procesó la orden: no era la bravata de un colegial asustado, era una evacuación táctica ejecutada con serenidad.
 
 —Muévete, Weasley —siseó Lyra, siguiendo a Harry sin vacilar.
 
 Los tres se deslizaron tras la lana pesada del tapiz en el mismo instante en que la puerta de roble de la sala de trofeos se abría de par en par con un gemido estridente y la luz amarilla del farol de Filch barría las vitrinas de plata vacías.
 
 El examen de medianoche no había tenido un vencedor sobre los escaques del colegio; pero en la sombra de las piedras milenarias, la heredera de los Malfoy y el heredero de los Potter acababan de comprobar que ninguno de los dos era una pieza dócil en el tablero de Albus Dumbledore.
+
 
 
 

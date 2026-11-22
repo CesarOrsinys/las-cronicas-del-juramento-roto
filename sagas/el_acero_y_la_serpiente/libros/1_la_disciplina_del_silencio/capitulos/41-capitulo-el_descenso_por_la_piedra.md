@@ -64,7 +64,7 @@ A un costado, dos escobas de carreras escolares descansaban apoyadas contra la p
 
 Harry alzó la vista y barrió la nube zumbante con la mirada analítica que utilizaba en el campo de vuelo. En menos de cinco segundos identificó el blanco: una llave grande de bronce deslustrado, cuyas plumas plumbeas estaban dobladas en un ángulo de cuarenta y cinco grados por el forcejeo de Quirrell.
 
-—No vamos a perder diez minutos persiguiéndola en círculos por el aire —dijo Harry con frialdad—. Es una trampa de fatiga para agotar los reflejos del intruso antes del asalto final.
+—No vamos a perder diez minutos persiguiéndola en círculos por el aire —dijo Harry con serenidad—. Es una trampa de fatiga para agotar los reflejos del intruso antes del asalto final.
 
 Elevó la varita de acebo apuntando directamente al centro de gravedad del enjambre.
 
@@ -88,7 +88,7 @@ Las piezas negras del bando opuesto tenían los ojos vacíos de obsidiana y cort
 
 —Tenemos que jugar como piezas —dijo Lyra, dando un paso adelante y evaluando la formación enemiga con la arrogancia nata de una estratega de linaje—. Las defensas de McGonagall son inflexibles. Se basan en el sacrificio de peones para abrir líneas para la dama. Yo tomaré el puesto del alfil de las sombras; tú toma el caballo.
 
-—No voy a jugar bajo las reglas deportivas de la profesora —replicó Harry con una frialdad que congeló a la muchacha—. Esto no es un torneo del club de ajedrez. Es un corredor de asalto militar.
+—No voy a jugar bajo las reglas deportivas de la profesora —replicó Harry con una calma tajante—. Esto no es un torneo del club de ajedrez. Es un corredor de asalto militar.
 
 Harry desenfundó la navaja de Sirius con la izquierda y sostuvo la varita con la derecha.
 
@@ -103,5 +103,6 @@ El rey enemigo arrojó su espada al suelo con un estruendo metálico que hizo te
 Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
 Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre, sangre fresca y vinagre amargo.
+
 
 

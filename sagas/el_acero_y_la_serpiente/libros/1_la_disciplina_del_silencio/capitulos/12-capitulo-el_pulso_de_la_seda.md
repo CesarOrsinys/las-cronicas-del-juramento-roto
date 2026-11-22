@@ -42,7 +42,7 @@ La niña recorrió con la mirada la chaqueta de lona gastada que descansaba sobr
 
 Harry no sonrió ante la arrogancia de la frase. Mantuvo la vista al frente, observando cómo la modista le marcaba la línea del hombro.
 
-—Tener una escoba de carreras antes de saber si sabes volar es una forma costosa de partirte el cuello en la primera clase —repuso Harry con una frialdad matemática que cortó el aire de la tienda como una navaja de afeitar.
+—Tener una escoba de carreras antes de saber si sabes volar es una forma costosa de partirte el cuello en la primera clase —repuso Harry con un tono medido y tranquilo que desarmó de la tienda como una navaja de afeitar.
 
 La niña se volvió bruscamente hacia él.
 
@@ -79,5 +79,6 @@ La vio cruzar la puerta de la sastrería, donde un hombre alto de cabello platin
 Harry pagó sus tres túnicas con seis galeones de oro contados al milímetro y recogió sus paquetes.
 
 Al salir a la lluvia del Callejón Diagon, donde Sirius lo esperaba entre las sombras de los boticarios, Harry no sentía fatiga ni temor. Sentía la certeza de que el juego había comenzado antes de subir al tren; y la heredera de los Malfoy era exactamente el tipo de adversario para el que había sido forjado en los riscos de Yorkshire.
+
 
 

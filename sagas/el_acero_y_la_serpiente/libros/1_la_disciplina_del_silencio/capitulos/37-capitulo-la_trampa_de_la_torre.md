@@ -32,7 +32,7 @@ Hermione dejó escapar un suspiro largo y tembloroso, bajando los hombros por pr
 
 —Se acabó, Harry... lo logramos. Norberto está a salvo... y Hagrid no irá a Azkaban.
 
-—La misión de transporte ha terminado —repuso Harry con calma gélida—. La seguridad del perímetro, no. Baja la cabeza.
+—La misión de transporte ha terminado —repuso Harry con calma—. La seguridad del perímetro, no. Baja la cabeza.
 
 No alcanzaron a descender el primer tramo de la escalera de caracol cuando un resplandor repentino de luz mágica estalló desde el arco inferior.
 
@@ -77,5 +77,6 @@ Lyra no parpadeó. Clavó sus ojos grises en él con una frialdad afilada como u
 —Tampoco ante el oro de tu padre —replicó Harry.
 
 Se miraron una fracción de segundo antes de doblar hacia escaleras opuestas, sellando en la penumbra de las piedras el pacto tácito de que el verdadero castigo apenas estaba por comenzar.
+
 
 

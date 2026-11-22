@@ -22,7 +22,7 @@ Quirrell parpadeó con un destello de sorpresa genuina.
 
 Harry no respondió al insulto. No permitió que la ira enturbiara su juicio balístico. Clavó la vista en el turbante del profesor, donde un olor a carroña quemada se hacía cada vez más insoportable.
 
-—El espejo no te entrega la piedra —dijo Harry con calma gélida—. Llevas horas frente a él y no puedes tocarla.
+—El espejo no te entrega la piedra —dijo Harry con calma—. Llevas horas frente a él y no puedes tocarla.
 
 Quirrell maldijo entre dientes y se volvió hacia el cristal, golpeando el marco dorado con la palma de la mano.
 
@@ -68,7 +68,7 @@ Harry bajó la mirada una fracción de segundo. Al esquivar el primer ataque y p
 
 —*¡No seas estúpido!* —siseó Voldemort—. *Únete a mí... o terminarás como tus padres... rogando por clemencia antes del final...*
 
-—Mi padre murió de pie combatiendo en Godric's Hollow —respondió Harry con una frialdad que congeló el aire de la cámara—. Y jamás te rogó nada.
+—Mi padre murió de pie combatiendo en Godric's Hollow —respondió Harry con voz firme y clara—. Y jamás te rogó nada.
 
 —*¡Mátalo!* —chilló la cabeza.
 
@@ -167,6 +167,7 @@ Harry cruzó la barrera mágica hacia el mundo de los no mágicos. En la calle e
 Sirius Black sonrió de medio lado al ver salir al muchacho ileso, con la cabeza alta y la varita oculta bajo la manga.
 
 El primer año había concluido. La disciplina del silencio había forjado sus cimientos; ahora comenzaba la verdadera guerra.
+
 
 
 

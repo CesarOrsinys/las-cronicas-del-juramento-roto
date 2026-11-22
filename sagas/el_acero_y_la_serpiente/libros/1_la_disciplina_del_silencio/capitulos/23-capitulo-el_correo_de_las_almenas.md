@@ -43,7 +43,7 @@ Se detuvieron a cuatro pasos de distancia. El silencio de las piedras era absolu
 
 —Madrugas demasiado para ser un cachorro de león, Potter —dijo ella con su cadencia arrastrada, barriendo con los ojos la manga izquierda de Harry, donde dos plumones blancos de Hedwig aún delataban su paso por las alturas.
 
-—El aire de la mañana despeja la cabeza mejor que las intrigas de la sala común, Malfoy —respondió Harry con calma gélida—. Y veo que las lechuzas de Wiltshire también vuelan antes de que el director abra el comedor.
+—El aire de la mañana despeja la cabeza mejor que las intrigas de la sala común, Malfoy —respondió Harry con calma—. Y veo que las lechuzas de Wiltshire también vuelan antes de que el director abra el comedor.
 
 Lyra esbozó una sonrisa que no llegó a sus ojos grises.
 
@@ -58,6 +58,7 @@ Harry sostuvo su mirada sin pestañear una sola vez.
 —Los escombros se limpian, Malfoy. Y los que los provocaron terminan pagando la factura con intereses.
 
 La heredera de Slytherin no replicó. Inclinó la cabeza un milímetro en señal de reconocimiento sombrío y continuó su marcha hacia las mazmorras, dejando a Harry con la certeza de que el tablero de ajedrez no sólo se jugaba en Hogwarts: se jugaba en cada carta que cruzaba los cielos de Gran Bretaña.
+
 
 
 

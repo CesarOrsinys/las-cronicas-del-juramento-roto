@@ -22,7 +22,7 @@ Harry se detuvo a tres pasos de ella, con las manos en los bolsillos.
 
 —El viento del sur arrastra el hedor a fósforo hasta las mazmorras de Slytherin, Potter —dijo Lyra en un susurro cortante, sin mirarlo directamente—. Si yo lo he olido, Snape lo olerá antes del domingo. Y si el Ministerio descubre lo que el semigigante tiene metido en esa choza de madera, la comisión de control biológico clausurará los terrenos en cuarenta y ocho horas.
 
-—Hagrid es un sentimental que no distingue entre una mascota doméstica y un arma de asedio —respondió Harry con calma gélida—. ¿Cuánto sabes?
+—Hagrid es un sentimental que no distingue entre una mascota doméstica y un arma de asedio —respondió Harry con calma—. ¿Cuánto sabes?
 
 —Lo suficiente —repuso ella, mirándolo de reojo con una mueca afilada—. Mi padre conoce los manifiestos de contrabando del puerto de Liverpool. Hubo una partida de cartas en Cabeza de Puerco hace tres semanas; un tipo con capa de viajero y capucha cerrada perdió un huevo de Ridgeback noruego frente a un borracho de ocho pies de altura.
 
@@ -83,5 +83,6 @@ Harry guardó el pergamino en el bolsillo.
 —El infiltrado ya tiene la llave del corredor. Ahora solo queda preparar la jaula de Norberto y asegurar la torre para la evacuación.
 
 Harry salió de la choza bajo la lluvia de primavera, sabiendo que la entrega nocturna en lo alto de las almenas no sería un simple transporte de contrabando: sería el detonante que precipitaría el colapso final de las máscaras en Hogwarts.
+
 
 
