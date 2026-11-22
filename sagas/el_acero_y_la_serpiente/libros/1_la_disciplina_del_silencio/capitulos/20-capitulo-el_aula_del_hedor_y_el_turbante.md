@@ -11,7 +11,7 @@ Harry se sentó en el extremo del banco junto al ventanal norte, con la espalda 
 
 Sus ojos verdes, fríos y atentos, escanearon la estancia.
 
-En las paredes colgaban diagramas viejos de criaturas de pantano y bocetos desteñidos de maldiciones menores. Pero la atención de Harry se detuvo en la figura que temblaba tras la mesa de despacho.
+En las paredes colgaban diagramas descoloridos de criaturas de pantano y bocetos desteñidos de maldiciones menores. Pero la atención de Harry se detuvo en la figura que temblaba tras la mesa de despacho.
 
 El profesor Quirrell vestía una túnica de viaje de lana gastada y un voluminoso turbante de seda púrpura que parecía desproporcionado para su cabeza menuda. Sus manos —huesudas y pálidas— temblaban con un espasmo continuo mientras ordenaba legajos de pergamino sobre el tablero.
 
@@ -27,14 +27,32 @@ Primero: cuando Quirrell fingió tropezar junto a la tarima, no cayó de forma t
 Segundo: sus ojos, en los segundos en que no miraban al suelo, no tenían el extravío de un cobarde asustado, sino la mirada rápida de quien revisa las salidas de una habitación.
 Tercero: el uso del ajo en semejante cantidad resultaba tan exagerado y cómico que parecía una caricatura deliberada, una cortina de humo para que nadie se tomara en serio al hombre que la llevaba.
 
-*«Un maestro que finge ser un idiota para que nadie le preste atención»*, concluyó Harry con frialdad.
+Quirrell se giró hacia la clase, frotándose las manos húmedas contra la pechera de su túnica.
 
-A mitad de la mañana, la clase se trasladó a los invernaderos de Herbología, en los límites de los terrenos exteriores.
+—L-la mejor defensa frente a un... m-maleficio de zancadilla o de... p-picadura es el arco... d-defensivo menor —dijo Quirrell, levantando una varita de aliso pálido con dedos temblorosos—. S-se traza una elipse en sentido... h-horario y se dice: *¡Contramaleficium!* ¿Q-quién quiere probar conmigo?
 
-Allí, bajo el cristal empañado y el calor húmedo donde la profesora Sprout —una bruja bajita y jovial con sombrero lleno de parches de tierra— explicaba las propiedades del *Díctamo blanco*, Harry coincidió nuevamente con los de Slytherin.
+Ron Weasley se agachó tras el hombro de Seamus para no ser elegido, mientras Hermione Granger levantaba la mano tan alto que su codo casi golpeaba el tintero del pupitre.
 
-Lyra Malfoy trabajaba en el mesón opuesto podando brotes de ortiga con tijeras de bronce, llevando guantes de cuero de dragón verde oscuro.
+—A ver... e-el señor... F-finnigan —llamó Quirrell, ignorando la mano de Hermione.
 
-Sus miradas se cruzaron a través del vapor de las calderas de abono. No hubo palabras; pero Lyra miró de soslayo hacia las almenas del tercer piso, donde ondeaban las ristras de ajo de Quirrell, y torció la boca con un desdén silencioso.
+Seamus se levantó con paso vacilante y se colocó en el centro del aula.
 
-La heredera de las serpientes tampoco se tragaba el papel de bufón del profesor de Defensa.
+—L-lánzame un encantamiento suave de cosquillas, señor Finnigan... y-yo demostraré cómo desviar la... t-trayectoria.
+
+Seamus alzó la varita con gesto inseguro:
+
+—*¡Rictusempra!*
+
+Un chorro débil de luz plateada brotó de la punta de Seamus. Quirrell dio un salto ridículo hacia un lado, soltó un chillido ahogado y agitó su varita con un molinete tan desmañado que el haz rebotó en una armadura decorativa y fue a estrellarse contra la cortina de la ventana, haciendo caer una ristra de ajos que rodaron por el suelo ante las carcajadas ruidosas de toda la clase.
+
+—¡V-vaya! —balbuceó el profesor, arrodillándose apresuradamente para recoger los ajos con las mejillas encendidas—. A-a veces la... r-resistencia del aire interfiere con el... á-ángulo de escape. T-tomen notas del manual, página quince... s-sigan leyendo en silencio.
+
+Los alumnos abrieron sus libros entre murmullos de burla. Para Finnigan, Weasley e incluso Granger, la demostración probaba que el profesor de Defensa era un pobre hombre cobarde e incompetente que apenas sabía sostener su propia madera.
+
+Harry, sin embargo, no sonrió ni abrió el manual.
+
+Había observado el movimiento milimétrico del brazo de Quirrell cuando el hechizo de Seamus venía de frente: el maestro no había fallado el desvío por torpeza; había cambiado deliberadamente la trayectoria en el último tercio de segundo para que el impacto diera en la cortina y provocara la risa de los muchachos. Había fingido el pánico con la precisión de un actor consumado.
+
+*«Un mago que gasta tanta energía en parecer un idiota inofensivo está ocultando algo muy peligroso»*, pensó Harry, anotando en su cuaderno la posición del pie de apoyo de Quirrell durante el giro.
+
+Cuando la campana del mediodía marcó el final de la clase, los estudiantes salieron en tropel huyendo del olor fétido. Harry recogió sus útiles con calma, siendo el último en cruzar la puerta. Al salir al corredor, lanzó una última mirada hacia el estrado: Quirrell ya no recogía ajos del suelo; permanecía erguido tras su mesa, inmóvil en la penumbra, contemplando la puerta vacía con dos ojos oscuros, fríos e impenetrables que no tenían el menor rastro de miedo.

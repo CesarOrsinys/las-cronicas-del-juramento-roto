@@ -1,4 +1,4 @@
-# CAPÍTULO 22
+﻿# CAPÍTULO 23
 ## El correo de las almenas
 
 La lechucería de Hogwarts ocupaba la parte superior de la torre oeste, una cámara circular de piedra tosca abierta a los cuatro vientos donde cientos de aves de todos los tamaños y plumajes descansaban sobre perchas de madera carcomida por el guano y el frío de las alturas.
@@ -54,4 +54,5 @@ Harry sostuvo su mirada sin pestañear una sola vez.
 —Los escombros se limpian, Malfoy. Y los que los provocaron terminan pagando la factura con intereses.
 
 La heredera de Slytherin no replicó. Inclinó la cabeza un milímetro en señal de reconocimiento sombrío y continuó su marcha hacia las mazmorras, dejando a Harry con la certeza de que el tablero de ajedrez no sólo se jugaba en Hogwarts: se jugaba en cada carta que cruzaba los cielos de Gran Bretaña.
+
 

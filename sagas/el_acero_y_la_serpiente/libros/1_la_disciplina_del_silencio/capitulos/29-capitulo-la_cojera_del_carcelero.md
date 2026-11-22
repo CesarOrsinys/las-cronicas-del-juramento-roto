@@ -1,4 +1,4 @@
-# CAPÍTULO 28
+﻿# CAPÍTULO 29
 ## La cojera del carcelero
 
 La madrugada posterior al incidente del troll en los lavabos dejó un manto de silencio ceniciento sobre la torre de Gryffindor.
@@ -62,4 +62,5 @@ En la sombra del contrafuerte, Harry memorizó cada detalle de la escena.
 El tablero quedaba desnudado ante sus ojos: Snape no era el ladrón, sino el carcelero que había acudido a frenar la intrusión de la noche anterior y había pagado el precio en carne viva contra las fauces de Fluffy. Y Quirrell, el bufón tartamudo del colegio, era el infiltrado operativo que movía los hilos tras la máscara.
 
 Harry ajustó la empuñadura de su varita de acebo bajo la manga. El primer partido de Quidditch contra Slytherin estaba fijado para el próximo sábado; y en un estadio abierto a cientos de pies sobre el suelo, las líneas de tiro estarían completamente despejadas.
+
 

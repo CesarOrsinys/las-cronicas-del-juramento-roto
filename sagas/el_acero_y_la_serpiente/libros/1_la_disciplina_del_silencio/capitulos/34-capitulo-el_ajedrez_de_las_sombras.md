@@ -1,4 +1,4 @@
-# CAPÍTULO 33
+﻿# CAPÍTULO 34
 ## El ajedrez de las sombras
 
 La noche siguiente, a la una de la madrugada, Harry regresó al aula desierta del cuarto piso.
@@ -64,3 +64,4 @@ Dumbledore no lo había encontrado por casualidad; había estado montando guardi
 El anciano creía tener el control de todas las piezas sobre el tablero.
 
 Lo que Dumbledore ignoraba era que Harry Potter ya había descifrado la jugada; y cuando la trampa final se cerrara, el muchacho no jugaría como un peón sacrificable, sino como el verdugo que cobraría cada deuda acumulada.
+

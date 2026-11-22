@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 25
+﻿# CAPÍTULO 26
 ## El cerrojo del tercer piso
 
 El pasadizo estrecho tras el tapiz de la batalla de Ottery olía a polvo acumulado durante siglos, a telarañas resecas y al excremento fósil de los murciélagos de piedra que anidaban en las cornisas.
@@ -102,4 +102,5 @@ Lyra sostuvo la mirada del chico de Gryffindor en la penumbra del corredor. Por 
 —Lo sé —repuso Harry con una frialdad que heló el pasillo—. Y quienquiera que intente bajar por esa trampilla va a necesitar más que un encantamiento de apertura para no salir en pedazos.
 
 Sin decir una palabra más, se separaron en la bifurcación del descansillo: Lyra descendió hacia las mazmorras de las serpientes y Harry guio al tembloroso Weasley hacia las alturas de la torre, con el mapa de la trampilla del tercer piso grabado a fuego en su memoria como el siguiente objetivo a batir.
+
 

@@ -1,4 +1,4 @@
-# CAPÍTULO 36
+﻿# CAPÍTULO 37
 ## La trampa de la torre
 
 La medianoche del sábado señalado para la evacuación del Ridgeback noruego trajo consigo una niebla espesa y helada que envolvía las agujas del castillo de Hogwarts como un sudario de gasa húmeda.
@@ -78,3 +78,4 @@ Lyra no parpadeó. Clavó sus ojos grises en él con una frialdad afilada como u
 —Tampoco ante el oro de tu padre —replicó Harry.
 
 Se miraron una fracción de segundo antes de doblar hacia escaleras opuestas, sellando en la penumbra de las piedras el pacto tácito de que el verdadero castigo apenas estaba por comenzar.
+

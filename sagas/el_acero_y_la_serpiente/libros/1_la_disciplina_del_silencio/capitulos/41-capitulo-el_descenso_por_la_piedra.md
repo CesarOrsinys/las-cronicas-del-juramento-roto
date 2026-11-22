@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 40
+﻿# CAPÍTULO 41
 ## El descenso por la piedra
 
 A principios de junio, tras la última semana de exámenes teóricos, el calor sofocante del verano escocés sumergió a Hogwarts en un sopor denso y pegajoso. Pero en los corredores del tercer piso, la tensión había alcanzado el punto exacto de fractura.
@@ -104,3 +104,4 @@ El rey enemigo arrojó su espada al suelo con un estruendo metálico que hizo te
 Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
 Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre, sangre fresca y vinagre amargo.
+

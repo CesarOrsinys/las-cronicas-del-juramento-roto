@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 34: La alquimia de Flamel
+﻿# CAPÍTULO 35: La alquimia de Flamel
 
 El regreso de los alumnos tras las vacaciones de invierno trajo consigo el hedor a leña húmeda, las discusiones domésticas en los pasillos y una capa de nieve apelmazada en las almenas. Para Harry, el retorno de la masa de estudiantes significaba el fin de las incursiones solitarias a medianoche, pero también abría una nueva fase: la confrontación con el misterio de la trampilla antes de que el invierno diera paso a la primavera.
 
@@ -49,5 +49,6 @@ Lyra retiró las manos y se puso de pie con gracia letal.
 —Nunca esperé otra cosa, Malfoy.
 
 La heredera de las serpientes se dio media vuelta y desapareció entre los estantes de pergaminos antiguos, dejando sobre la mesa la certeza de que la tormenta en Hogwarts no tardaría en desatarse.
+
 
 

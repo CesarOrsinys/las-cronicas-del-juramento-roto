@@ -1,4 +1,4 @@
-# CAPÍTULO 26
+﻿# CAPÍTULO 27
 ## La lágrima en el lavabo
 
 La última semana de octubre trajo consigo vientos gélidos que arrancaron las últimas hojas doradas del linde del bosque y cubrieron los ventanales del Gran Comedor con escarcha espesa. En los corredores de Hogwarts, el ambiente comenzaba a calentarse con los preparativos para la fiesta de Samhain: calabazas colosales cultivadas por Hagrid que descansaban a los lados de las puertas, murciélagos vivos que revoloteaban bajo las vigas y un menú ceremonial de pasteles de calabaza y sidra especiada que los elfos domésticos afinaban en las cocinas subterráneas.
@@ -58,4 +58,5 @@ El profesor Quirrell irrumpió en la sala a la carrera, con el turbante púrpura
 El hombre se tambaleó dos pasos hacia atrás y se desplomó de bruces sobre las losas de piedra en un desmayo teatral.
 
 El caos estalló en el Gran Comedor.
+
 

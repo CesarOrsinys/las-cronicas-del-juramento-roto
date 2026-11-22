@@ -1,4 +1,4 @@
-# CAPÍTULO 32
+﻿# CAPÍTULO 33
 ## El cristal de Oesed
 
 La escarcha sobre los ventanales del ala sur formaba helechos de hielo opaco que filtraban la luz lunar en un resplandor azulado y cadavérico. Eran las dos de la madrugada de la noche de Navidad. El castillo entero dormía bajo el silencio pesado de las fortalezas invernales: los cuadros roncaban en sus lienzos carcomidos, las armaduras crujían por la contracción térmica del metal y en la lejanía sólo el aullido del viento sobre las almenas competía con el rumor de la respiración de Harry.
@@ -56,3 +56,4 @@ Harry dio un paso atrás sin apartar los ojos de su propio reflejo victorioso.
 Respiró hondo, bajó los párpados un segundo para purgar la imagen de su retina y se calzó de nuevo la capucha de la Capa de Invisibilidad. Su cuerpo se disolvió en el aire de la habitación, dejando únicamente el polvo flotando bajo los rayos de la luna.
 
 Retrocedió hacia la puerta con la guardia en alto. Apreciaba lo que el espejo le había revelado: ahora sabía con precisión quirúrgica cuál era su verdadero objetivo; pero sabía también que ningún reino se conquista contemplando un espejismo en un aula abandonada.
+
