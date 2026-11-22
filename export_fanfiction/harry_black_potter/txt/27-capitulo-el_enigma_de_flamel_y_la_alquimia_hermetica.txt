@@ -73,7 +73,7 @@ Hermione dejó caer el pesado tomo sobre la mesa con un golpe sordo, pasando las
 
 El silencio que cayó sobre la mesa de la biblioteca fue absoluto, denso, solemne y cargado de una trascendencia histórica formidable que les heló la sangre.
 
-Las piezas dispersas del rompecabezas que Harry había comenzado a reunir desde el día de la visita a la cámara 713 de Gringotts quedaban definitivamente soldadas en una estructura lógica, deductiva y geométrica perfecta ante sus ojos:
+Las piezas dispersas del rompecabezas que Harry había comenzado a reunir desde que Hagrid dejó escapar la confidencia sobre el allanamiento de Gringotts quedaban definitivamente soldadas en una estructura lógica, deductiva y geométrica perfecta ante sus ojos:
 
 Nicolas Flamel, anciano, venerable y plenamente consciente de que su preciada creación estaba siendo codiciada por fuerzas oscuras y despiadadas que operaban en las sombras del continente europeo, había confiado la custodia de la Piedra Filosofal a su viejo amigo, confidente y colega de investigaciones Albus Dumbledore. El director de Hogwarts la había retirado personalmente del banco de los duendes el treinta y uno de julio —el mismo día en que los asaltantes intentaron saquear la cámara vacía— para trasladarla al único lugar de Gran Bretaña capaz de rivalizar en seguridad mágica con las bóvedas subterráneas de Gringotts: el colegio Hogwarts de Magia y Hechicería.
 

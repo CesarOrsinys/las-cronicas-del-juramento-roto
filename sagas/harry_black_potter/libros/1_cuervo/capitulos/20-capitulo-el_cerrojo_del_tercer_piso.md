@@ -87,9 +87,7 @@ Allí estaba el verdadero secreto.
 
 Directamente debajo del pecho macizo y de las patas delanteras del perro de tres cabezas, apenas visible entre la penumbra y los charcos de saliva ácida, se encontraba el marco de hierro forjado de una trampilla cuadrada de madera oscura empotrada en las losas de piedra. Tenía una anilla de bronce macizo en uno de sus extremos, cerrada con un candado de dimensiones monumentales y protegida de forma inexpugnable por la mole viva y durmiente del monstruo.
 
-El paquete de Gringotts.
-
-La reliquia misteriosa de la cámara 713 que los magos oscuros habían intentado saquear el 31 de julio no estaba guardada en un armario del tercer piso; estaba resguardada en las profundidades subterráneas del castillo, y el perro de tres cabezas de Hagrid era el primer cerrojo vivo que custodiaba el descenso hacia las cámaras secretas de Hogwarts.
+El misterio del tercer piso no era una simple reliquia expuesta al polvo de una habitación alta. Lo que fuera que Dumbledore custodiaba en el castillo con tanto celo estaba enterrado en las profundidades subterráneas bajo la roca viva, y el gigantesco mastín de tres cabezas era solo el primer cerrojo vivo destinado a despedazar a cualquiera que intentara alcanzar la trampilla de descenso.
 
 En ese instante, una corriente de aire helado se filtró por la claraboya superior, haciendo que una de las tres cabezas del monstruo —la cabeza situada a la izquierda— soltara un bufido sordo, abriera lentamente un ojo sanguinolento y comenzara a mover las orejas puntiagudas con inquietud repentina.
 
