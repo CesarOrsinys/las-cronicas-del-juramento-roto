@@ -88,11 +88,11 @@ El sombrero soltó una risita seca, cargada de una admiración que no intentaba 
 
 La presencia del artefacto recorrió las galerías de su mente con la ligereza de una pluma de ganso:
 
-—*Mucho valor… oh, sí, un valor inmenso y una fibra de león que no dudaría en plantarse frente a la muerte para cumplir un deber jurado. Tu padre James habría querido verte en Gryffindor; la sangre de los Potter late con fuerza en tus arterias. Y tampoco falta ambición ni astucia… tienes el instinto de autopreservación de una serpiente que sabe medir el veneno de sus enemigos antes de morder. Slytherin te abriría las puertas hacia una grandeza monumental, muchacho; tienes la madera para gobernar esa casa con mano de hierro.*
+—*Mucho valor… oh, sí, un valor inmenso y una fibra de león que no dudaría en plantarse frente a la muerte si la necesidad lo exigiese. Tu padre James poseía ese fuego indomable; late con fuerza en tus arterias. Y tampoco falta ambición ni astucia… tienes el instinto de autopreservación de una serpiente que sabe medir el veneno de sus adversarios antes de mover una sola pieza. Slytherin te abriría las puertas hacia una influencia monumental; tienes la madera para gobernar esa casa con pulso firme.*
 
-Harry proyectó un pensamiento frío, nítido y categórico hacia la voz:
+Harry no necesitó vacilar. Sus ojos se entrecerraron en la oscuridad tibia de la tela mientras su mente desarmaba las opciones con una lucidez analítica, quirúrgica y fría:
 
-*«Slytherin es un nido de familias comprometidas por deudas de guerra donde cada noche exigiría vigilar la espalda contra rencores heredados. Y Gryffindor es una tribuna ruidosa donde el director espera que actúe como un soldado prescindible para su causa moral. No busco la gloria de las sobremesas ni la nobleza cortesana del estatus puro.»*
+*«Cuatro casas, cuatro matrices de presión. Gryffindor es un escaparate de imprudencia donde el heroísmo ruidoso ciega el juicio y donde Dumbledore espera moldear a un peón combatiente para su guerra moral. Slytherin es un avispero de aristócratas vigilándose mutuamente, hipotecados por lealtades de sangre y deudas oscuras que solo entorpecerían mi avance. Hufflepuff ofrece lealtad y trabajo honorable, pero su complacencia comunitaria frena la agudeza del filo. Solo queda una opción tácticamente impecable: la torre del águila. Aislamiento intelectual, distancia de las intrigas de poder, acceso irrestricto al saber sin ataduras morales y el silencio necesario para pensar sin que nadie me imponga un libreto ajeno.»*
 
 El sombrero pareció estremecerse sobre sus cabellos con un deleite intelectual profundo:
 
