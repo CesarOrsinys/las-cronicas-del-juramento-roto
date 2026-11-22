@@ -103,4 +103,14 @@ Dumbledore no era ningún loco inofensivo; era un soberano que dominaba el arte 
 
 Harry desvió la mirada hacia el banquete. Se sirvió una porción moderada de carne magra y dos piezas de pan duro, masticando con la parsimonia de un centinela que no se distrae con el festín.
 
+Al terminar los postres, cuando las fuentes doradas quedaron limpias como espejos, el director volvió a levantarse para las advertencias reglamentarias del curso:
+
+—Solo unas pocas palabras más, ahora que todos estamos alimentados y descansados —anunció Dumbledore con voz serena—. Los alumnos de primer año deben saber que el Bosque Prohibido que rodea los terrenos está estrictamente vedado para todos los estudiantes. El señor Filch me ha pedido además que les recuerde que el uso de magia en los pasillos entre clase y clase está prohibido. Y por último, este año, el pasillo del tercer piso del ala derecha está clausurado para todos aquellos que no deseen sufrir una muerte sumamente dolorosa.
+
+Algunos estudiantes rieron creyendo que era otra broma excéntrica del director, pero Percy Weasley frunció el ceño en la mesa de Gryffindor:
+
+—Es raro... normalmente explica los motivos. Si lo ha dicho en serio, debe haber algo peligroso ahí guardado.
+
+Harry no apartó la vista del sitial dorado. Un anuncio público tan tajante era la forma más eficaz de plantar una semilla de curiosidad en setecientos muchachos; pero para Harry, el tercer piso era solo una zona vedada del mapa que no convenía pisar hasta tener razones de peso.
+
 La selección había terminado; pero para el muchacho de la cicatriz, la verdadera guerra comenzaba al apagarse las velas.

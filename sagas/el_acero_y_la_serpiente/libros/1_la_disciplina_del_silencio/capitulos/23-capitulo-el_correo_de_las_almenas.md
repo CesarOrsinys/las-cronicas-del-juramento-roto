@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 23
+# CAPÍTULO 23
 ## El correo de las almenas
 
 La lechucería de Hogwarts ocupaba la parte superior de la torre oeste, una cámara circular de piedra tosca abierta a los cuatro vientos donde cientos de aves de todos los tamaños y plumajes descansaban sobre perchas de madera carcomida por el guano y el frío de las alturas.
@@ -21,12 +21,12 @@ Extrajo la tira de pergamino.
 
 El mensaje era sobrio, breve y redactado bajo una clave mercantil ordinaria, semejante al balance de cuentas de un almacén de paños del norte. Si una lechuza era interceptada por el Ministerio o por los sensores del director, el texto no contenía nada sospechoso:
 
-*«Septiembre, semana tres. El inventario avanza según el registro previsto. El almacén central se mantiene cerrado y bajo inventario estricto de las autoridades. Las herramientas responden sin novedad en los talleres prácticos. Mantengo la disciplina acordada. —H.»*
+*«Septiembre, semana tres. El inventario avanza según el registro previsto. Las herramientas responden sin novedad en los talleres prácticos. Mantengo la disciplina acordada. —H.»*
 
-Para Sirius, en cambio, cada término tenía un significado preciso:
-«El inventario según el registro» confirmaba que Harry estaba asentado en Gryffindor sin levantar alarmas; «el almacén central cerrado» aludía a la advertencia pública de Dumbledore en el banquete sobre el corredor prohibido del tercer piso; y «las herramientas responden» confirmaba que su práctica no verbal seguía afinándose a diario sin llamar la atención de los profesores.
+Para Sirius, cada término tenía un significado preciso:
+«El inventario según el registro» confirmaba que Harry estaba asentado en Gryffindor sin levantar alarmas entre sus compañeros; y «las herramientas responden» confirmaba que su práctica no verbal continuaba afinándose a diario sin llamar la atención de los profesores.
 
-Ni menciones a personas, ni sospechas gratuitas, ni detalles de cosas que aún no habían sido investigadas. La primera regla de la correspondencia clandestina es no regalar información al enemigo en caso de pérdida.
+Ni menciones a personas, ni sospechas gratuitas, ni detalles innecesarios. La primera regla de la correspondencia clandestina es no regalar información en caso de extravío.
 
 Harry frotó el pergamino con una mezcla de jugo de cebolla y ceniza de tejo: las letras se desvanecieron al instante en la fibra del papel, dejando la hoja aparentemente en blanco y limpia como una vitela sin usar. Sólo el calor directo de una llama de chimenea combinada con un toque de varita en frecuencia exacta revelaría el mensaje.
 
