@@ -161,7 +161,7 @@ Un muchacho de cara redonda y ojos llorosos asomó la cabeza con expresión desc
 
 —Perdón… ¿no habréis visto un sapo por aquí? Lo he vuelto a perder.
 
-—No hemos visto ningún sapo, Neville —respondió Harry con calma, reconociendo al chico que había visto despidiéndose de su abuela en el andén—. Los anfibios buscan la humedad y la oscuridad; si se ha escapado del compartimento, lo más probable es que esté cerca de los baños del final del pasillo, donde gotean las tuberías del depósito.
+—No hemos visto ningún sapo por aquí —respondió Harry con un tono sereno y cortés, observando al muchacho afligido—. Los anfibios buscan instintivamente la humedad y la penumbra; si se ha escapado por el pasillo, lo más probable es que se haya refugiado cerca de los lavabos del final del convoy, donde gotean las tuberías del depósito de agua.
 
 Antes de que Neville pudiera agradecer el consejo, una niña que ya llevaba puesta la túnica negra de trabajo de Hogwarts apareció detrás de él en el pasillo, mirando el interior del compartimento con una autoridad severa e implacable.
 
