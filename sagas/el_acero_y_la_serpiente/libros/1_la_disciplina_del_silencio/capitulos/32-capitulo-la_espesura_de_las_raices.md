@@ -51,3 +51,4 @@ Antes de que Harry pudiera exigir precisiones tácticas, los dos centauros diero
 —No son supersticiosos —dijo Harry, señalando el suelo—. El rastro de sangre acaba de doblar hacia la hondonada. Y el perro acaba de sentarse a temblar.
 
 En el fondo de la cañada, un resplandor plateado destellaba entre los matorrales muertos.
+

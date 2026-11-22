@@ -35,3 +35,4 @@ Dumbledore asintió despacio, pero la agudeza de su escrutinio no menguó ni un 
 En los corredores fríos, Harry apretó la mandíbula. Dumbledore no lo había encontrado por casualidad; había estado esperando. El espejo era una pieza de examen, una sonda psicológica para medir las defensas del muchacho. Y lo que más inquietaba a Harry era el destino de ese objeto: si iba a ser trasladado a un "nuevo hogar", ese hogar no era otro que la cámara sellada bajo la trampilla custodiada por la bestia de tres cabezas.
 
 El director estaba montando un escenario. Y Harry no tenía la menor intención de actuar según el libreto de la corte de Dumbledore.
+

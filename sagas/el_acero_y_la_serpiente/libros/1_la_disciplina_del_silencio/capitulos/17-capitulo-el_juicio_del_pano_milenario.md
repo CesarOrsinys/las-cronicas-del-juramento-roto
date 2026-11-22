@@ -1,48 +1,41 @@
 # CAPÍTULO 17
 ## El juicio del paño milenario
 
-El Gran Comedor de Hogwarts era una catedral de luz dorada, piedra pulida y solemnidad medieval.
+Las dobles puertas de roble del Gran Comedor se abrieron de par en par, dando paso a una caverna de luz y piedra que desafiaba cualquier arquitectura terrenal.
 
-Cuatro mesas larguísimas de madera de roble macizo se extendían a lo largo de la sala, ocupadas por cientos de estudiantes de cursos superiores cuyas túnicas negras llevaban los escudos de las cuatro casas tradicionales. Sobre las cabezas de la concurrencia, miles de velas encendidas flotaban en el aire suspendidas sobre el vacío, iluminando un techo abovedado que no era de piedra: reflejaba un cielo nocturno aterciopelado, sembrado de estrellas frías y nubes de tormenta que pasaban en silencio por arte de un encantamiento milenario.
+Cuatro mesas descomunales, alineadas a lo largo del salón bajo los estandartes heráldicos de Gryffindor, Ravenclaw, Hufflepuff y Slytherin, congregaban a centenares de estudiantes cuyos murmullos se apagaron al unísono cuando la fila de alumnos de primer año cruzó el umbral. Por encima de sus cabezas, miles de velas flotaban en un aire tibio que olía a cera de abejas y especias de otoño; más arriba aún, el techo encantado reproducía la noche exterior: un cielo de terciopelo negro salpicado de estrellas heladas y jirones de niebla escocesa.
 
-Al fondo de la nave, sobre una tarima elevada, se alzaba la mesa del claustro de profesores.
+Harry avanzó en el centro de la columna, con la barbilla nivelada y la mirada fija al frente. No miraba las velas ni las caras boquiabiertas de los colegiales mayores; calculaba las dimensiones del recinto: ochenta pasos de fondo, cuatro salidas laterales de servicio además del portal principal y una tarima elevada al fondo donde los profesores ocupaban una mesa corrida presidida por un sitial de oro labrado.
 
-En el centro exacto de la presidencia, sentado en una cátedra de oro con respaldo labrado, Albus Dumbledore contemplaba el avance de los nuevos alumnos. Tenía la barba plateada recogida bajo el cinturón de su túnica azul noche bordada de constelaciones y sus ojos azules, protegidos tras gafas de media luna, brillaban con esa lucidez benévola y calculadora que Harry había aprendido a temer en los relatos de Sirius.
+En el centro del estrado, frente a la mesa de los maestros, descansaba un taburete de cuatro patas de madera tosca. Sobre el asiento reposaba un sombrero puntiagudo de mago: un paño mugriento, lleno de parches, rozaduras y remiendos de hilo descolorido, que parecía haber dormido en un desván durante siglos.
 
-A la izquierda del director, un hombre de cabello negro y grasiento que caía en cortinas lacias sobre un rostro pálido y cetrino no miraba al grupo: tenía la vista clavada en Harry Potter.
+La profesora McGonagall se colocó junto al taburete sosteniendo un rollo largo de pergamino en la mano izquierda.
 
-Severus Snape.
+Antes de que pudiera leer el primer nombre, el sombrero se retorció. Una rasgadura ancha cerca del ala se abrió como una boca y el paño comenzó a cantar con una voz áspera y vibrante que resonó contra las piedras de las ojivas. La tonada ensalzaba las virtudes fundacionales del colegio: la osadía de Gryffindor, la paciencia leal de Hufflepuff, la mente despierta de Ravenclaw y la astucia implacable de los hijos de Slytherin.
 
-Los ojos del profesor de Pociones eran pozos de rencor antiguo, fríos como la pez y cargados de un odio que no parecía pertenecer al presente, sino a una herida abierta diez años atrás en Godric's Hollow. Harry sostuvo la mirada del profesor durante dos latidos sin parpadear, midiendo la hostilidad del hombre como un dato táctico antes de desviar la vista hacia el centro de la tarima.
+Cuando la última estrofa se extinguió entre los aplausos disciplinados de las cuatro mesas, la profesora carraspeó y desplegó el rollo.
 
-Frente a la mesa de los profesores, sobre un taburete de cuatro patas de madera desnuda, descansaba un sombrero puntiagudo de brujo.
+—Cuando pronuncie su nombre, se adelantarán, tomarán asiento en el taburete y se colocarán el sombrero —anunció la mujer con voz que cortaba el aire—. Abbott, Hannah.
 
-Estaba viejo, desgarrado en las costuras, remendado con hilo de cáñamo y cubierto de una capa de polvo que parecía anterior a la fundación del reino.
+Una niña de trenzas rubias subió con pasos tímidos; el sombrero tardó apenas diez segundos en dictaminar: «¡HUFFLEPUFF!».
 
-La profesora McGonagall se colocó junto al taburete con un rollo largo de pergamino en la mano izquierda.
+La lista avanzó con regularidad burocrática: Bones, Susan a Hufflepuff; Boot, Terry a Ravenclaw; Brocklehurst, Mandy a Ravenclaw; Brown, Lavender a Gryffindor.
 
-—Cuando pronuncie vuestro nombre, os acercaréis, os sentaréis en el taburete y os pondréis el sombrero para ser seleccionados —anunció la mujer con voz metálica y clara que cortó el murmullo de las cuatro mesas.
-
-La selección comenzó con ritmo burocrático.
-
-—¡Abbott, Hannah! —fue asignada a Hufflepuff tras cuatro segundos de duda.
-—¡Bones, Susan! —marchó a la misma mesa entre aplausos ordenados.
-
-Cuando la profesora carraspeó y leyó con voz firme el siguiente apellido noble, el silencio en el comedor se volvió absoluto:
+Cuando la profesora leyó con voz firme el siguiente apellido noble, el silencio en el comedor se volvió absoluto:
 
 —¡Malfoy, Lyra!
 
-La niña rubia no vaciló. Subió los tres peldaños de la tarima con un paso soberbio, la barbilla alzada y las manos cruzadas sobre el vientre con una serenidad perfecta. Se sentó en el taburete y el sombrero apenas rozó un mechón de su pelo platinado cuando el paño cobró vida, abriendo una rasgadura cerca del ala como una boca desdentada que bramó hacia las bóvedas:
+La niña rubia no vaciló. Subió los tres peldaños de la tarima con un paso soberbio, la barbilla alzada y las manos cruzadas sobre el vientre con una serenidad perfecta. Se sentó en el taburete y el sombrero apenas rozó un mechón de su pelo platinado cuando el paño cobró vida, abriendo la rasgadura para bramar hacia las bóvedas:
 
 —¡SLYTHERIN!
 
 La mesa de la derecha estalló en vítores y aplausos secos. Lyra bajó del estrado sin sonreír, con la misma frialdad aristocrática con que había subido, y ocupó su lugar en el banco de honor junto a los alumnos de cursos superiores, clavando sus ojos grises en la fila de los que aún esperaban turno.
 
-La lista continuó avanzando hasta que McGonagall tomó una pequeña bocanada de aire y leyó el nombre que todo el castillo aguardaba desde hacía una década:
+La lista continuó hasta que McGonagall tomó una pequeña bocanada de aire y leyó el nombre que todo el castillo aguardaba desde hacía una década:
 
 —¡Potter, Harry!
 
-El murmullo que recorrió el Gran Comedor fue como el siseo de una hoguera sobre la que cae un caldero de agua fría. Cientos de cabezas se inclinaron hacia adelante en las cuatro mesas; los prefectos se pusieron de pie y en la mesa presidencial Dumbledore entrelazó sus dedos largos sobre el mantel, inclinándose ligeramente hacia adelante con una atención microscópica.
+El murmullo que recorrió el Gran Comedor fue como el siseo de una hoguera sobre la que cae un caldero de agua fría. Cientos de cabezas se inclinaron hacia adelante en las cuatro mesas; los prefectos se pusieron de pie y en la mesa presidencial Albus Dumbledore entrelazó sus dedos largos sobre el mantel, inclinándose ligeramente hacia adelante con una atención microscópica.
 
 *«¿Ha dicho Potter?»*  
 *«¿El Harry Potter?»*  
@@ -86,10 +79,28 @@ Harry se quitó el sombrero con movimientos medidos y se lo entregó a la profes
 
 Bajó de la tarima sin una sola sonrisa en el rostro. Cruzó el espacio hacia la mesa escarlata y dorada y se sentó en el extremo más alejado del alboroto, con la espalda pegada a un contrafuerte de piedra que le garantizaba una visión total de las puertas de salida y de la mesa presidencial.
 
-Al otro lado del comedor, en la mesa de las serpientes, Lyra Malfoy sostenía una copa de cristal fino entre los dedos enguantados.
+Al otro lado del comedor, en la mesa de las serpientes, Lyra Malfoy sostenía una copa de cristal fino entre los dedos enguantados. No aplaudía. Se limitaba a mirarlo a través del bosque de velas flotantes con una fijeza gélida, alzando la copa apenas un milímetro en un brindis silencioso que reconocía que el adversario había elegido su trinchera.
 
-No aplaudía. No gritaba insultos como los demás alumnos de su casa. Se limitaba a mirarlo a través del bosque de velas flotantes con una fijeza gélida, alzando la copa apenas un milímetro en un brindis silencioso que reconocía que el adversario había elegido su trinchera.
+La ceremonia concluyó con Zabini, Blaise siendo asignado a Slytherin. La profesora McGonagall enrolló el pergamino, retiró el taburete y ocupó su asiento a la derecha de la presidencia.
 
-Harry desvió la mirada hacia el banquete que acababa de materializarse sobre los platos dorados: carnes asadas, pasteles de riñones y patatas humeantes. Se sirvió una porción moderada de carne magra y dos piezas de pan duro, comiendo con la parsimonia de un centinela que no se distrae con el festín.
+Entonces, Albus Dumbledore se puso en pie.
+
+El murmullo en las cuatro mesas cesó de golpe, como si una campana de vacío hubiera caído sobre el salón. El anciano director extendió los brazos abiertos con una sonrisa radiante, como si nada en el mundo pudiera complacerle más que ver a todos aquellos niños congregados frente a él. La túnica de seda violeta bordada con constelaciones de plata ondeó sobre la tarima, y sus ojos azules barrieron la multitud tras los cristales de media luna, deteniéndose una fracción de segundo sobre el rostro inmóvil de Harry.
+
+—¡Bienvenidos! —dijo Dumbledore, y su voz no necesitó elevarse para llenar cada rincón de la bóveda gótica—. ¡Bienvenidos a un nuevo curso en Hogwarts! Antes de dar comienzo a nuestro banquete, quiero deciros unas pocas palabras. Y son estas: ¡Papanatas! ¡Llorones! ¡Baratijas! ¡Pellizco! ¡Muchas gracias!
+
+El director volvió a sentarse con una reverencia jovial.
+
+Los estudiantes rompieron a aplaudir y reír con algarabía desinhibida.
+
+—¿Está… un poco loco? —preguntó Percy Weasley a media voz, enderezándose la insignia de prefecto en el pecho.
+
+Harry no rió ni aplaudió. Sus pupilas verdes siguieron los movimientos del director mientras sobre las fuentes de oro aparecían por ensalmo carnes asadas, chuletas de cordero y cuencos humeantes de patatas.
+
+Para un muchacho ordinario, las cuatro palabras de Dumbledore eran la excentricidad risueña de un anciano bondadoso. Para Harry, instruido en la lectura de frentes y discursos bajo la tutela implacable de Sirius Black, eran una declaración de cinismo político de primer orden: cuatro categorías de desprecio con las que los gobernantes catalogan a las masas —los tontos que se dejan llevar, los débiles que se quejan sin actuar, los vanidosos que se compran con baratijas y el pellizco de castigo para los que se desvían de la fila—.
+
+Dumbledore no era ningún loco inofensivo; era un soberano que dominaba el arte de parecer payaso para que nadie le exigiera cuentas de su poder.
+
+Harry desvió la mirada hacia el banquete. Se sirvió una porción moderada de carne magra y dos piezas de pan duro, masticando con la parsimonia de un centinela que no se distrae con el festín.
 
 La selección había terminado; pero para el muchacho de la cicatriz, la verdadera guerra comenzaba al apagarse las velas.

@@ -49,3 +49,4 @@ Hagrid lo miró como si Harry fuera un general caído del cielo.
 —No lo hago por ti ni por el dragón —respondió Harry con la mirada fría—. Lo hago para evitar que una negligencia doméstica comprometa la seguridad de todo el perímetro antes de que sepamos quién pagó por esa información.
 
 Salió de la choza bajo la lluvia, sabiendo que la entrega nocturna en la torre sería una trampa inevitable.
+

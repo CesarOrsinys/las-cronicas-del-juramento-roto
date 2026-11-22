@@ -46,6 +46,8 @@ Lyra Malfoy se agachó sobre la hierba y recogió un objeto pequeño de cristal 
 
 —Dámelo, Malfoy —dijo Harry con voz llana, dando un paso al frente fuera de la fila.
 
+No era una bravata infantil ni compasión por Longbottom. Días atrás, en el dormitorio, Harry había visto a Neville sacar esa esfera de su baúl; no era un juguete ordinario de bromas. Era un artefacto de vidrio soplado con runas nemotécnicas de la Casa Longbottom, capaz de registrar trazas de magia mental, amnesias inducidas y encantamientos desmemorizadores. En manos de los Malfoy, un artefacto familiar de un linaje rival era un arma de extorsión política; en manos de Harry, una pieza para desentrañar qué clase de secretos le habían borrado a Longbottom sobre la caída de sus padres a manos de los mortífagos. Además, dejar que la heredera de Slytherin pisoteara la autoridad en el campo sin respuesta quebraría la posición táctica que Harry venía construyendo frente a los dos bandos.
+
 Lyra se volvió despacio hacia él. En sus ojos grises brilló esa chispa de orgullo aristocrático que no toleraba que nadie le diera órdenes en público. Montó en su escoba con un movimiento fluido y soberbio, pateó el césped con fuerza elástica y se elevó veinte pies en el aire, flotando sobre las cabezas de los alumnos con una soltura impecable que dejaba en evidencia sus años de entrenamiento privado en Wiltshire.
 
 —Ven a buscarlo tú mismo, Potter —dijo ella desde lo alto, haciendo girar la esfera de cristal en el aire con una mano—. A menos que tu disciplina de los páramos solo sirva para la teoría en los libros.
@@ -56,7 +58,7 @@ Ron Weasley intentó sujetar el brazo de Harry:
 
 Harry apartó el brazo de Ron con un movimiento seco, sin mirarlo.
 
-No montó en la escoba por despecho infantil ni por el heroísmo barato de recuperar el juguete de un compañero. Montó porque vio en el desafío de Lyra Malfoy una ecuación balística pura: altura de seis varas, viento del norte a quince nudos y una trayectoria de caída parabólica calculable en el espacio abierto.
+Vio en el desafío de Lyra Malfoy una ecuación balística pura: altura de seis varas, viento del norte a quince nudos y una trayectoria de caída parabólica calculable en el espacio abierto.
 
 Harry montó en la *Cometa*, flexionó las rodillas e impulsó los talones contra el suelo.
 
@@ -98,4 +100,12 @@ La profesora McGonagall avanzaba por el camino de grava a paso de carga, con el 
 
 —¡Jamás… en todos mis años en Hogwarts… jamás había visto una temeridad semejante! —jadeó la mujer, clavando sus ojos en el muchacho—. ¡Venga conmigo, Potter! ¡Inmediatamente!
 
-Harry no ofreció excusas. Dejó la escoba vieja en el suelo, miró a Lyra Malfoy a los ojos durante un segundo que selló el desafío entre ambos y siguió a la jefa de casa hacia el interior del castillo con la cabeza alta y el paso tranquilo de quien sabe que cada riesgo calculado tiene su propio precio.
+Al pasar junto a Lyra, la heredera Malfoy lo miró con una sonrisa torcida y susurró a su paso:
+
+—Esta noche en la sala de trofeos, Potter. A medianoche. Veremos si eres tan rápido con la madera en el suelo como en el aire... o si te escondes tras la falda de tu jefa de casa.
+
+Harry no ofreció excusas ni respondió al veneno de la niña. Dejó la escoba vieja en el suelo y siguió a McGonagall hacia el interior del castillo con la cabeza alta y el paso tranquilo de quien sabe que cada riesgo calculado tiene su propio precio.
+
+En lugar de una expulsión formal, la jefa de casa lo condujo hasta un aula del segundo piso donde Oliver Wood, el capitán del equipo de Gryffindor, examinaba diagramas tácticos de vuelo. Tras una evaluación técnica de su maniobra en el aire, McGonagall cerró el trato: Harry sería el nuevo buscador oficial de la casa, una posición insólita para un alumno de primer año que le garantizaba no sólo acceso libre a los terrenos fuera de horario, sino una coartada de entrenamiento perfecta para sus incursiones nocturnas.
+
+El pacto para el duelo de medianoche estaba sellado; y la noche no tardaría en caer sobre las torres.

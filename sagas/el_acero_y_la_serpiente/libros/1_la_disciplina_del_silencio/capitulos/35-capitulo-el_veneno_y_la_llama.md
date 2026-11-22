@@ -63,3 +63,4 @@ Harry se quedó solo frente a la pared de fuego negro.
 Destapó el frasco diminuto. El aroma era a hielo triturado y menta silvestre. Vertió el líquido sobre su lengua: una sensación de frío absoluto le bajó por la garganta, extendiéndose por sus venas como una armadura de escarcha que adormeció su piel.
 
 Apretó los dientes, dio tres zancadas firmes hacia adelante y atravesó la cortina de llamas negras.
+

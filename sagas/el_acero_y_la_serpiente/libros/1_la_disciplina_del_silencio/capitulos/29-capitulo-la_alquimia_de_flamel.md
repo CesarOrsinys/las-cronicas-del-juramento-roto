@@ -49,3 +49,4 @@ Lyra retiró las manos y se puso de pie con gracia letal.
 —Nunca esperé otra cosa, Malfoy.
 
 La heredera de las serpientes se dio media vuelta y desapareció entre los estantes de pergaminos antiguos, dejando sobre la mesa la certeza de que la tormenta en Hogwarts no tardaría en desatarse.
+

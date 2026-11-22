@@ -45,3 +45,4 @@ Lyra no parpadeó.
 —Los puntos de casa no me importan, Potter. Lo que me importa es que mañana entraremos al bosque. Y ahí dentro, tus pequeños trucos de pasillo no te servirán de nada.
 
 —Tampoco tu apellido —replicó él, y el silencio de las piedras volvió a tragarse sus pasos.
+

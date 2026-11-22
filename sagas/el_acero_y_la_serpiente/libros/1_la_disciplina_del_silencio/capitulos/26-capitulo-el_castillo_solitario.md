@@ -31,3 +31,4 @@ Por la rendija entre dos estanterías, una luz temblorosa se acercaba. No era el
 La silueta que sostenía el fanal avanzaba sin el menor crujido de suela. El cabello platino recogido en una trenza precisa y el perfil afilado bajo la sombra de la capucha eran inconfundibles.
 
 Lyra Malfoy también estaba cazando.
+

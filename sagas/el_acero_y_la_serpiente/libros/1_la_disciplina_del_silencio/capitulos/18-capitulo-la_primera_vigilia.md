@@ -49,34 +49,52 @@ Un chasquido tenue resonó en la penumbra tras él.
 
 Harry no dio un salto ni gritó. Con la velocidad del reflejo que Sirius le había grabado a base de golpes en Blackstone Tor, giró sobre los talones manteniendo el centro de gravedad bajo y apuntó con la punta del acebo hacia la sombra del arco de la escalera de las chicas.
 
-En el vano de la puerta, vestida con una bata de franela oscura y zapatillas de lana, una muchacha de cabello castaño espeso y revuelto lo observaba con ojos muy abiertos.
+Una silueta delgada, vestida con bata de franela azul y pantuflas de fieltro, se recortó contra la pared.
 
-Hermione Granger.
+Hermione Granger se quedó petrificada a cuatro pasos de distancia, con un ejemplar pesado de *Teoría de la Transformación Teórica* apretado contra el pecho y los ojos castaños muy abiertos, fijos en la punta inmóvil de la varita que apuntaba al centro de su esternón.
 
-La niña sostenía un tomo descomunal de *Historia de la Magia* contra el pecho y tenía la boca entreabierta por el asombro.
+—¿Quién eres y qué buscas? —preguntó Harry en un susurro que no superó el zumbido de la leña en el fogón.
 
-—Estabas haciendo levitación no verbal —susurró la muchacha con una voz que oscilaba entre la indignación académica y la fascinación pura—. Eso no se enseña hasta el cuarto o quinto curso. Los textos de primer año dicen claramente que la pronunciación clara es indispensable para no provocar accidentes de transfiguración inversa.
+Hermione tragó saliva con dificultad. Había bajado a la sala común pensando que encontraría a algún alumno desvelado llorando por la lejanía del hogar; se topó con un depredador en guardia que no parpadeaba.
 
-Harry no bajó la varita de inmediato. Sus ojos verdes escanearon la postura de la niña, comprobando que sus manos estaban vacías y que no había nadie más bajando los peldaños a su espalda.
+—Yo… no podía dormir —dijo la niña, y su voz tembló ligeramente antes de intentar recobrar su habitual tono de suficiencia—. Estaba repasando el capítulo tres… y te vi. Levantaste la pluma.
 
-Luego deslizó la madera de acebo dentro de la manga con un movimiento seco.
+—La física responde a la concentración, no al espectáculo —respondió Harry, bajando la varita tres pulgadas pero manteniéndola lista para subir en un tercio de segundo—. Vuelve a la cama, Granger. Los pasillos no son seguros para los curiosos que caminan sin mirar las esquinas.
 
-—Los textos de primer año están escritos para evitar que cuarenta niños torpes se prendan fuego a las pestañas en la primera semana —respondió Harry con voz llana y fría, volviendo a sentarse frente a su cuaderno—. La pronunciación es una muleta pedagógica, no una ley natural.
+Hermione frunció el ceño con orgullo herido, dando medio paso al frente:
 
-Hermione avanzó dos pasos hacia la mesa, con el ceño fruncido y los labios apretados en una línea de obstinación intelectual.
+—¡Sé cuidarme sola, Potter! Y tú no dijiste el conjuro. *Wingardium Leviosa*. La pronunciación correcta es *Gar-dium*, no *Levio-sah*. Lo leí en tres manuales distintos en el tren. Si no dices las palabras, la magia se desestabiliza…
 
-—El profesor Flitwick es un maestro de duelos reconocido internacionalmente; no creo que enseñe «muletas pedagógicas» si no fueran estrictamente necesarias para la formación reglada.
+—Las palabras son muletas para los que no saben sostener su propia mente —cortó Harry con una frialdad glacial—. En un callejón oscuro, el que grita el nombre de su arma antes de disparar es el que termina con una zanja en el pecho. Si quieres vivir de la teoría de los libros, hazlo en silencio.
 
-—Tu profesor Flitwick tiene que asegurarse de que ningún alumno muera bajo su supervisión para que el consejo escolar no le cierre el departamento —repuso Harry sin levantar la vista de sus anotaciones—. Yo tengo que asegurarme de no depender de mi voz si alguien me corta el aire o me ataca desde la espalda. Son objetivos distintos, Granger.
+Hermione se quedó muda, mirándolo como si acabara de ver a un soldado adulto atrapado en el cuerpo de un colegial de once años.
 
-La niña parpadeó, desconcertada por la frialdad de la respuesta. Se quedó de pie junto a la mesa durante un momento de silencio pesado, observando los esquemas balísticos y las ecuaciones de masa que Harry había trazado en el pergamino negro.
+Antes de que pudiera replicar, una masa de aire gélido inundó la sala común. La temperatura cayó en picado cinco grados en un segundo, haciendo que el aliento de ambos formara nubecillas blancas en la penumbra.
 
-—¿No vas a dormir? —preguntó ella en un susurro más bajo—. Las clases de Transfiguración empiezan a las ocho de la mañana. Si llegas tarde, McGonagall te restará puntos antes de que empiece el curso.
+A través de la pared de piedra maciza, deslizándose con una lentitud espectral, emergió una figura translúcida de color blanco plateado. Llevaba gorguera de lechuguilla al cuello, jubón acuchillado del siglo XVI y unas calzas desgarradas. Su cabeza oscilaba peligrosamente sobre el hombro izquierdo, sujeta únicamente por una pulgada de tendón y piel apergaminada.
 
-Harry cerró su cuaderno de cuero con un chasquido sordo y apagó la vela de sebo aplastando la mecha entre las yemas de sus dedos índice y pulgar, sin pestañear por el calor de la cera ardiente.
+Sir Nicholas de Mimsy-Porpington, el fantasma de Gryffindor.
 
-—El sueño es una necesidad biológica que se puede administrar en cuatro horas si el cuerpo está entrenado —dijo Harry, poniéndose en pie y recogiendo sus cosas—. Los puntos de una copa escolar solo le importan a los que necesitan que un profesor les dé una palmada en la espalda para sentirse seguros.
+—Vaya, vaya… qué tertulia tan académica a horas tan intempestivas —dijo el espectro con voz hueca y aristocrática, flotando a seis pulgadas sobre el suelo de losas—. Dos cachorros de león vigilando la torre mientras el resto de la manada sueña con ranas de chocolate.
 
-Cruzó por delante de la niña sin volver a mirarla y subió los peldaños de caracol hacia el dormitorio de los muchachos con pasos firmes y silenciosos.
+Hermione soltó un respingo y dio un paso atrás, pero Harry no retrocedió un milímetro. Clavó sus ojos verdes en la masa ectoplasmática del noble decapitado, memorizando la densidad del espectro y la distorsión térmica que producía en el ambiente.
 
-Hermione Granger se quedó sola en la sala común en penumbra, mirando la ventana donde la pluma de ganso descansaba inmóvil sobre la mesa, con la extraña y perturbadora sensación de que aquel muchacho de ojos verdes no había venido a Hogwarts a ser un estudiante, sino a prepararse para una guerra que nadie más podía ver.
+—Sir Nicholas —dijo Harry con una cortesía fría y mesurada—. No sabía que las patrullas fantasmales incluyeran la inspección de salas comunes a la una de la madrugada.
+
+El fantasma se detuvo en el aire, mesándose la perilla translúcida con dedos huesudos. En sus ojos sin vida brilló una chispa de curiosidad centenaria.
+
+—Las piedras de este castillo tienen memoria, joven Potter —repuso Sir Nicholas, inclinando su cuello casi cercenado hacia un lado con una reverencia teatral—. Y los que hemos muerto aquí sabemos distinguir el peso de los pasos. Tu padre caminaba por esta misma sala con el paso ruidoso de los conquistadores; tú caminas con el silencio de los ajusticiadores.
+
+—Mi padre murió confiando en palabras vacías —respondió Harry, y el tono de su voz heló el aire más que el frío del fantasma—. Yo prefiero confiar en la distancia y en el filo. ¿Siguen los celadores en la galería oeste?
+
+Sir Nicholas soltó una risotada vaporosa que sonó como hojas secas arrastradas por el viento.
+
+—Filch está en las mazmorras buscando un gato imaginario, y el Barón Sanguinario flota sobre las almenas del este rezumando rencor y cadenas. Los caminos están despejados, si es eso lo que preocupa a tu mente conspiradora. Pero ten cuidado, muchacho: en este castillo, los muros oyen más de lo que callan.
+
+El fantasma atravesó el contrafuerte de piedra del balcón y se perdió en la noche estrellada, dejando tras de sí un rastro de escarcha sobre los ventanales.
+
+Harry apagó la vela pequeña entre el pulgar y el índice, guardó el cuaderno en el bolsillo interior y miró a Hermione, que seguía paralizada junto a la escalera con los ojos fijos en el rastro de hielo.
+
+—Has oído al espectro —dijo Harry en voz baja, subiendo el primer peldaño hacia el dormitorio de los chicos—. Vuelve a tu cama, Granger. La noche pertenece a los que saben cazar en silencio.
+
+Hermione no respondió. Dio media vuelta y subió a la carrera la escalera de caracol, mientras Harry se perdía en la oscuridad de su vigilia.

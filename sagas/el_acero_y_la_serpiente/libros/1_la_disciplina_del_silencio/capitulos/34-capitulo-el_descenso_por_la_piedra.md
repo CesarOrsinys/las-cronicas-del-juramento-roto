@@ -79,3 +79,4 @@ Cuando la reina blanca amagó con abalanzarse sobre la casilla de Lyra para dest
 El rey enemigo arrojó su espada al suelo con un estruendo metálico. Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
 Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre y vinagre amargo.
+
