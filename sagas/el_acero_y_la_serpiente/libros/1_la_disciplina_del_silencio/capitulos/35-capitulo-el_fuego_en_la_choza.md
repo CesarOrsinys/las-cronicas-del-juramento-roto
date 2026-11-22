@@ -1,4 +1,4 @@
-# Capítulo 30: El fuego en la choza
+﻿# CAPÍTULO 35: El fuego en la choza
 
 A finales de marzo, el deshielo convirtió los caminos que descendían hacia el linde del Bosque Prohibido en torrenteras de barro negro. Fue en esos días cuando la imprudencia congénita de Rubeus Hagrid amenazó con dinamitar la frágil estabilidad del castillo.
 
@@ -49,4 +49,5 @@ Hagrid lo miró como si Harry fuera un general caído del cielo.
 —No lo hago por ti ni por el dragón —respondió Harry con la mirada fría—. Lo hago para evitar que una negligencia doméstica comprometa la seguridad de todo el perímetro antes de que sepamos quién pagó por esa información.
 
 Salió de la choza bajo la lluvia, sabiendo que la entrega nocturna en la torre sería una trampa inevitable.
+
 

@@ -1,4 +1,4 @@
-# CAPÍTULO 21
+﻿# CAPÍTULO 23
 ## La balística del aire
 
 A las tres y media de la tarde de un jueves despejado, los campos de hierba que descendían desde el castillo de Hogwarts hacia el linde del Bosque Prohibido estaban azotados por un viento seco y frío que doblaba las puntas de los abetos centenarios.
@@ -109,3 +109,4 @@ Harry no respondió con palabras ni alteró su paso. Mantuvo la vista al frente 
 En lugar de una expulsión formal, la jefa de casa lo condujo hasta un aula del segundo piso donde Oliver Wood examinaba diagramas tácticos de vuelo. Tras una evaluación técnica de su maniobra en el aire, McGonagall cerró el trato: Harry sería el nuevo buscador oficial de la casa, una posición insólita para un alumno de primer año que le garantizaba no sólo acceso libre a los terrenos fuera de horario, sino una coartada de entrenamiento perfecta para sus incursiones nocturnas.
 
 Harry aceptó con una reverencia mínima. El puesto de buscador le daba libertad de movimientos; pero su mente ya estaba computando las variables de la sala de trofeos y la propuesta de la muchacha de las serpientes.
+

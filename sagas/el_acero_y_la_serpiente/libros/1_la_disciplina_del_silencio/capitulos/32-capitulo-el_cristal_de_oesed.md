@@ -1,4 +1,4 @@
-# Capítulo 27: El cristal de Oesed
+﻿# CAPÍTULO 32: El cristal de Oesed
 
 La presencia de Lyra Malfoy en la Sección Prohibida transformó la incursión en un juego de sombras cruzadas. Ninguno de los dos habló. Se estudiaron a diez pasos de distancia, ocultos entre los anaqueles de tomos de nigromancia, midiendo cada parpadeo y cada ángulo de cobertura. Cuando el eco distante de las pisadas de Filch resonó al final de la galería este, ambos se replegaron por rutas divergentes sin un solo roce de túnica contra madera.
 
@@ -29,4 +29,5 @@ No era amor familiar lo que proyectaba el cristal. Era *orden*. Era *dominio*. L
 El espejo intentaba atrapar la voluntad a través del anhelo más profundo del sujeto. Un artefacto peligroso, diseñado para encadenar a los débiles a una ilusión inmóvil mientras el mundo real los devoraba.
 
 Harry dio un paso atrás, rompiendo el contacto visual sin titubear. Guardó la varita y retrocedió con la guardia en alto. Apreciaba la visión, pero sabía que ningún imperio se construye contemplando un espejismo dorado.
+
 

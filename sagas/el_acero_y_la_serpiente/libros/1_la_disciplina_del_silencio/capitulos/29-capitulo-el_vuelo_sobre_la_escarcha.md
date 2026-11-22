@@ -1,4 +1,4 @@
-# CAPÍTULO 25
+﻿# CAPÍTULO 29
 ## El vuelo sobre la escarcha
 
 El segundo sábado de noviembre amaneció con un cielo de zinc y un viento polar que bajaba de las cumbres de las Tierras Altas arrastrando los primeros copos de aguanieve sobre el estadio de Quidditch.
@@ -72,3 +72,4 @@ Harry no sonrió ante el triunfo deportivo.
 Con la bola dorada apretada en el puño cerrado, miró hacia la tribuna donde Snape se apagaba el fuego de la túnica con cara de furia asesina y Quirrell se ajustaba el turbante morado con dedos temblorosos.
 
 El Quidditch era solo un juego para entretener a la masa; pero en las alturas del estadio, Harry acababa de confirmar que en ese castillo había alguien que no dudaría en arrojarlo al vacío a setenta pies de altura para silenciar a la Casa Potter.
+

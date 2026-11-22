@@ -1,4 +1,4 @@
-# Capítulo 26: El castillo solitario
+﻿# CAPÍTULO 30: El castillo solitario
 
 La escarcha descendió sobre los valles de las Tierras Altas como una sábana de cal viva. Para la tercera semana de diciembre, el Gran Comedor se había vaciado casi por completo de las voces estridentes de los estudiantes que partían hacia Londres en el Expreso de Hogwarts. En las largas mesas de roble, apenas un puñado de comensales se congregaba en torno a los fuegos monumentales: algunos huérfanos de casas menores, los profesores con sus túnicas de lana pesada, y Harry Potter, sentado en el extremo norte del banco de Gryffindor, masticando con metódica parsimonia pan negro y arenque ahumado.
 
@@ -31,4 +31,5 @@ Por la rendija entre dos estanterías, una luz temblorosa se acercaba. No era el
 La silueta que sostenía el fanal avanzaba sin el menor crujido de suela. El cabello platino recogido en una trenza precisa y el perfil afilado bajo la sombra de la capucha eran inconfundibles.
 
 Lyra Malfoy también estaba cazando.
+
 

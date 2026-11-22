@@ -1,4 +1,4 @@
-# Capítulo 33: La sombra que bebe
+﻿# CAPÍTULO 38: La sombra que bebe
 
 El claro en el fondo de la hondonada estaba sumergido en una quietud antinatural. No soplaba el viento, no se escuchaba el chillido de las lechuzas ni el crujido de los insectos bajo la hojarasca; era el silencio espeso que precede al impacto de una descarga de artillería.
 
@@ -81,4 +81,5 @@ Sus ojos ya no tenían el desprecio de las primeras semanas en el expreso. Habí
 Harry se ajustó el abrigo sin mirarla.
 
 —En una pelea real, Malfoy, el que grita primero es el que termina en el suelo. Aprende a cerrar la boca si quieres sobrevivir a lo que viene.
+
 

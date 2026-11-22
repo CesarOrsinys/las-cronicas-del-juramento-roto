@@ -1,4 +1,4 @@
-# Capítulo 34: El descenso por la piedra
+﻿# CAPÍTULO 40: El descenso por la piedra
 
 A principios de junio, tras la última semana de exámenes teóricos, el castillo de Hogwarts quedó sumergido en un sopor caluroso y denso. Pero en los corredores del tercer piso, la tensión había alcanzado el punto de ruptura.
 
@@ -79,4 +79,5 @@ Cuando la reina blanca amagó con abalanzarse sobre la casilla de Lyra para dest
 El rey enemigo arrojó su espada al suelo con un estruendo metálico. Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
 Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre y vinagre amargo.
+
 

@@ -1,4 +1,4 @@
-# Capítulo 32: La espesura de las raíces
+﻿# CAPÍTULO 37: La espesura de las raíces
 
 A las once de la noche, el aire en la cancela exterior de Hogwarts tenía el sabor férreo del invierno tardío. Argus Filch los escoltó hasta el borde de los terrenos con un farol de aceite que chirriaba con cada paso.
 
@@ -51,4 +51,5 @@ Antes de que Harry pudiera exigir precisiones tácticas, los dos centauros diero
 —No son supersticiosos —dijo Harry, señalando el suelo—. El rastro de sangre acaba de doblar hacia la hondonada. Y el perro acaba de sentarse a temblar.
 
 En el fondo de la cañada, un resplandor plateado destellaba entre los matorrales muertos.
+
 

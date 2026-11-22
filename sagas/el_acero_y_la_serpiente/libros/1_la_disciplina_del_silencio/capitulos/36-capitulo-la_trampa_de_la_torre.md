@@ -1,4 +1,4 @@
-# Capítulo 31: La trampa de la torre
+﻿# CAPÍTULO 36: La trampa de la torre
 
 La noche fijada para la evacuación del Ridgeback noruego, la niebla cubrió las torres de Hogwarts como una gasa fúnebre.
 
@@ -45,4 +45,5 @@ Lyra no parpadeó.
 —Los puntos de casa no me importan, Potter. Lo que me importa es que mañana entraremos al bosque. Y ahí dentro, tus pequeños trucos de pasillo no te servirán de nada.
 
 —Tampoco tu apellido —replicó él, y el silencio de las piedras volvió a tragarse sus pasos.
+
 
