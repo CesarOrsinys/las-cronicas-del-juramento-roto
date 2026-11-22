@@ -1,0 +1,120 @@
+# CAPÍTULO 13
+## El aula del hedor y la sospecha
+
+El primer viernes de septiembre amaneció con una niebla densa, fría y plomiza que borraba por completo los límites entre las aguas del Lago Negro y los riscos de granito sobre los que descansaban los cimientos occidentales del castillo. Desde las altas ventanas ojivales del dormitorio de los muchachos en la Torre de Ravenclaw, el paisaje exterior parecía un grabado al aguafuerte donde los abetos del Bosque Prohibido se desvanecían como sombras chinescas bajo una llovizna persistente que azotaba los cristales emplomados con un susurro constante.
+
+En la torre, la rutina de los primeros días de curso se había asentado con una disciplina serena, productiva y desprovista de los histerismos y tropiezos que solían caracterizar a los recién llegados. A diferencia de las historias de caos que circulaban por los pasillos sobre los dormitorios de Gryffindor —donde los alumnos de primer año solían perderse en los descansillos móviles y llegar con veinte minutos de retraso a las clases de Historia de la Magia con el profesor Binns, con las corbatas mal anudadas y los pergaminos arrugados—, los novatos de la casa del águila descendían puntualmente en grupo a las siete y media, guiados por Penélope Clearwater y Robert Hilliard.
+
+Harry había dedicado las tardes posteriores a sus clases teóricas de Transformaciones y Encantamientos a una tarea metódica que Sirius le había encomendado antes de pisar el andén de King's Cross: el levantamiento cartográfico del terreno. En un cuaderno de cuero encerado que guardaba celosamente bajo la almohada, Harry había trazado con tinta negra y regla de latón un mapa a escala de los niveles intermedios del castillo: las tres escaleras fijas que conectaban el ala oeste con la biblioteca central, los pasadizos de servicio que corrían detrás de los tapices de la galería de retratos flamencos, los puntos ciegos donde las armaduras medievales proyectaban sombras densas y las dos salidas de emergencia que desembocaban directamente en los invernaderos exteriores de la profesora Sprout.
+
+Durante el desayuno en el Gran Comedor, el ambiente entre las cuatro mesas era un hervidero de impresiones cruzadas tras la primera semana de contacto con el cuerpo docente. En la mesa de Gryffindor, Ron Weasley se quejaba en voz alta y con la boca llena de arenques ahumados sobre los tres rollos de pergamino sobre la teoría de la transfiguración molecular que la profesora McGonagall les había asignado la tarde anterior, mientras Hermione Granger repasaba sus propios apuntes con una concentración tan feroz que apenas probaba su taza de té con leche, subrayando con tinta roja cada referencia bibliográfica y murmurando las leyes de Gamp sobre las excepciones a la creación material.
+
+A tres mesas de distancia, en las bancadas de Slytherin, Lyra Malfoy desayunaba con la parsimonia aristocrática que la caracterizaba, acompañada por Daphne Greengrass y Pansy Parkinson. Sus ojos grises se cruzaron con los de Harry a través del pasillo central mientras el muchacho doblaba su servilleta de lino blanco tras terminar su ración de avena y fruta seca; la niña alzó levemente su taza de porcelana en un saludo silencioso, medido y enigmático que reconocía la compostura de ambos antes de volver a su conversación con las hijas de la nobleza oscura. Había entre ellos una tensión elegante, una distancia respetuosa que eludía las niñerías de los pasillos pero mantenía la guardia en alto.
+
+Sin embargo, a las nueve en punto de aquella mañana de viernes, el horario oficial marcaba la primera sesión doble de Defensa Contra las Artes Oscuras en el aula número tres del tercer piso.
+
+El corredor que conducía al aula olía a ajo machacado desde veinte metros antes de cruzar el dintel de piedra.
+
+Era un hedor espeso, aceitoso, penetrante y sofocante que parecía adherirse a la lana virgen de las túnicas escolares y que obligaba a los estudiantes a respirar superficialmente por la boca para evitar el ardor en la garganta. A ambos lados de la puerta de madera oscura colgaban manojos resecos de cabezas de ajo atadas con cordel de cáñamo alquitranado, y el alféizar de las tres ventanas ojivales estaba cubierto por una capa delgada de polvo blanco que los alumnos comentaban entre susurros temerosos que correspondía a sal marina bendecida según los antiguos ritos de protección balcánicos contra los no-muertos.
+
+Harry cruzó el umbral junto a Terry Boot y Anthony Goldstein, tomando asiento en la segunda fila de pupitres de roble macizo. La clase era compartida con los alumnos de la Casa Hufflepuff; Susan Bones, Hannah Abbott y Justin Finch-Fletchley se sentaron dos mesas más atrás, abanicándose el rostro con los rollos de pergamino con muecas evidentes de náusea y desagrado mientras abrían sus tinteros de peltre.
+
+En la cabecera del aula, detrás de una mesa desordenada repleta de frascos de cristal con especímenes disecados de escarabajos de pantano, colmillos de serpiente marina y pequeños murciélagos en alcohol, se alzaba el profesor Quirinus Quirrell.
+
+Vestía una túnica de paño negro con ribetes gastados en los codos y, sobre la cabeza, el voluminoso turbante de seda púrpura que desprendía la mayor parte del hedor vegetal que saturaba el ambiente. Su semblante era pálido como la tiza húmeda, sus manos temblaban con una vibración rítmica y constante, y sus ojos acuosos y vidriosos evitaban fijarse durante más de medio segundo consecutivo en los rostros de los muchachos congregados, vagando constantemente entre las vigas del techo y el borde de sus propios papeles.
+
+—B-buenos días a t-todos —comenzó Quirrell con una voz aflautada, vacilante y estrangulada por un tartamudeo penoso que parecía exigirle un esfuerzo pulmonar agotador para pronunciar cada consonante—. B-bienvenidos a D-defensa Contra las A-artes O-oscuras. Como s-sabrán por sus l-libros de texto… este a-año nos c-centraremos en las f-fuerzas menores del m-mundo salvaje… g-gárgolas de piedra, m-maldiciones de dedos y c-criaturas de pantano.
+
+El profesor se giró hacia la gran pizarra de pizarra negra para escribir la lista de capítulos obligatorios de *Las Fuerzas Oscuras. Una guía para la autoprotección* de Quentin Trimble.
+
+Harry observó la espalda del hombre con una concentración quirúrgica, apoyando la barbilla sobre los nudillos de su mano derecha.
+
+En la superficie, Quirrell ofrecía la imagen perfecta de un académico brillante pero quebrado psicológicamente por el miedo tras su año sabático en Europa del Este: los hombros encogidos hacia adentro como si temiese un golpe inminente en cualquier segundo, los dedos temblorosos que apenas lograban sujetar el trozo de tiza blanca sin romperlo y la voz rota por un titubeo constante que desesperaba la paciencia de los alumnos más atentos. Los muchachos de Hufflepuff ya habían comenzado a sonreír con condescendencia en la retaguardia, intercambiando notas garabateadas y miradas divertidas ante la manifiesta cobardía del maestro que debía enseñarles a combatir el peligro exterior.
+
+Pero Harry no miraba las manos; miraba el centro de gravedad del cuerpo.
+
+Bajo la túnica holgada y los pliegues de tela oscura, la columna vertebral de Quirrell no estaba encorvada por la debilidad muscular ni por la atrofia del miedo: estaba rígida, tensa y alineada con la precisión mecánica de un duelista profesional de esgrima mágica. Sus pies sobre el entarimado descansaban en un ángulo de cuarenta y cinco grados exactos, la postura geométrica de combate que Sirius le había enseñado en los páramos de Ilkley para pivotar sobre los talones y lanzar un contrahechizo en menos de una fracción de segundo sin perder el equilibrio corporal.
+
+Y entonces ocurrió de nuevo.
+
+En el instante exacto en que Quirrell terminó de escribir en la pizarra y se giró lentamente hacia la clase, de modo que la parte posterior de su turbante púrpura quedó alineada en línea recta con el pupitre de la segunda fila, la cicatriz en la frente de Harry ardió con una ferocidad ardiente, sorda y profunda.
+
+No fue un pinchazo superficial en la piel; fue como si una aguja de metal incandescente hubiese sido hundida directamente detrás del hueso frontal de su cráneo, alcanzando la masa cerebral. Una oleada de frío glacial, denso como el nitrógeno líquido, le recorrió la espina dorsal hasta la rabadilla, acompañada por un siseo tenue, distante, gutural y espectral que resonó en el fondo más recóndito de su conciencia:
+
+*«Potter… sangre de Potter…»*
+
+Harry apretó los dientes con una fuerza que le hizo crujir las mandíbulas, pero no apartó la vista, ni pestañeó, ni se llevó la mano a la frente para delatar la molestia física. Mantuvo la espalda apoyada con firmeza contra el respaldo del banco de roble, respiró despacio y rítmicamente por la nariz, y reforzó la compuerta de plomo de su archivo mental en la biblioteca de piedra seca, dejando que la marea helada de la Oclumancia cubriera el dolor hasta reducirlo a un simple registro fisiológico que no interfería con su capacidad de raciocinio.
+
+—P-profesor Quirrell —alzó la voz Seamus Finnigan desde la tercera fila, con la curiosidad ingenua y descarada típica de los recién llegados al mundo mágico—. ¿Es verdad lo que dicen en los pasillos de que ese turbante se lo regaló un príncipe africano por haberlo librado de un zombi en mitad del desierto?
+
+Un murmullo de expectación contenida recorrió los pupitres de ambas casas. Varios alumnos de Hufflepuff se inclinaron hacia adelante sobre sus mesas, esperando escuchar la narración emocionante de una escaramuza heroica en tierras lejanas.
+
+El rostro de Quirrell se congestionó en una tonalidad rosácea poco natural, y su tic espasmódico en el párpado izquierdo se aceleró con una violencia visible que le deformó la expresión durante dos segundos completos:
+
+—B-bueno… e-eso es u-una historia m-muy larga, c-compleja y t-técnica —balbuceó el profesor, jugando con los extremos deshilachados de su chalina de lana con dedos crispados—. N-no creo que s-sea a-apropiado entrar en d-detalles escabrosos en una clase de p-primer año… los z-zombis son criaturas m-muy desagradables, peligrosas y h-huelen peor que el a-ajo de los mercados. A-abran sus l-libros en la p-página siete, por favor… el c-capítulo sobre los duendecillos de Cornualles y las trampas de pantano.
+
+La respuesta evasiva provocó risitas sofocadas y codazos cómplices entre los estudiantes de Hufflepuff, que dieron por sentado que la historia del príncipe africano no era más que una invención ridícula urdida por el profesor para disimular su propia inseguridad crónica ante el alumnado.
+
+Harry, sin embargo, no sonrió ni una sola vez.
+
+Tomó su pluma de ganso, mojó la punta en el tintero de porcelana y anotó tres observaciones metódicas en su cuaderno personal con su caligrafía compacta y cifrada:
+
+*1. El tartamudeo no es neurológico: desaparece durante las pausas de respiración profunda y se acentúa de manera teatral cuando se le formulan preguntas sobre su indumentaria o su anatomía.*
+*2. La postura corporal es de guardia cerrada de duelo continental; no existe debilidad motora en las extremidades inferiores.*
+*3. La resonancia dolorosa de la cicatriz no es de origen óptico: se intensifica exclusivamente cuando la parte posterior del turbante se orienta en un ángulo directo hacia mi cráneo.*
+
+El profesor intentó organizar una lectura compartida del texto de Trimble. Pidió a Justin Finch-Fletchley que leyera las líneas sobre las defensas pasivas contra los gorros rojos, pero cada vez que el muchacho tropezaba con un término técnico en latín medieval, Quirrell saltaba en su silla como si hubiese escuchado el disparo de una escopeta de caza en mitad del aula.
+
+—P-perdón… e-es solo que… e-esas criaturas son m-muy traicioneras en la oscuridad de las minas —se disculpó el profesor, secándose la frente brillante de sudor frío con un pañuelo de seda arrugado.
+
+Terry Boot se inclinó hacia Harry y le susurró por debajo del pupitre con tono mordaz y divertido:
+
+—Si alguna vez nos ataca una gárgola de piedra en los jardines, me temo que tendremos que defendernos tirándole el libro de texto a la cabeza; el profesor Quirrell se desmayará antes de terminar de sacar la varita de la manga de la túnica.
+
+—No subestimes lo que no comprendes, Terry —respondió Harry en un susurro tan bajo que apenas rozó la oreja de su compañero, manteniendo la vista fija en la pizarra—. Los animales heridos que fingen cojera suelen ser los que esconden las garras más afiladas bajo la hierba para que la presa se confíe. Observa sus ojos cuando cree que nadie lo está mirando directamente. No hay miedo en sus pupilas; hay cálculo y espera.
+
+Terry parpadeó, desconcertado por la gravedad reflexiva del comentario, pero volvió la vista hacia el estrado y guardó silencio durante el resto de la hora, impresionado por el tono de su compañero de habitación.
+
+La clase continuó con un análisis superficial de los métodos de camuflaje de las bestias oscuras. Quirrell intentó hacer una demostración práctica con un pequeño escarabajo de fuego cerrado en una redoma de cristal, pero al intentar manipular la tapa, fingió un temblor tan exagerado que el frasco rodó por la mesa y estuvo a punto de caer al suelo antes de que Anthony Goldstein lo detuviera con la mano extendida.
+
+—G-gracias, señor Goldstein… m-muy amable —murmuró el profesor, recogiendo el frasco con dedos crispados.
+
+Al sonar la campana de bronce de las once que marcaba el fin de la clase doble, los muchachos recogieron sus pergaminos a toda prisa, deseosos de abandonar la atmósfera viciada del aula y respirar el aire limpio de los pasillos del tercer piso.
+
+Harry guardó sus libros y su tintero con parsimonia deliberada, colocándose la bandolera al hombro mientras Terry Boot y Anthony Goldstein lo aguardaban junto a la puerta abierta comentando lo ridículo que les había parecido el temblor de las manos del maestro y haciendo bromas sobre si el ajo servía para ahuyentar vampiros o simplemente para espantar a los alumnos de primer año.
+
+Al pasar junto a la mesa del estrado, Quirrell levantó la vista de sus notas manuscritas.
+
+Por una fracción de segundo, el temblor espasmódico de sus dedos cesó por completo; sus ojos acuosos y desvaídos se clavaron en las pupilas verdes de Harry con una lucidez gélida, penetrante, antigua y voraz que no tenía el menor parentesco con el titubeo del profesor tartamudo:
+
+—S-señor P-potter… —murmuró Quirrell con una suavidad tan fría que pareció congelar el aire entre ambos pupitres—. ¿T-todo e-en orden c-con la lección de hoy? ¿L-le ha parecido b-bastante clara la e-explicación sobre las f-fuerzas de la oscuridad?
+
+Harry sostuvo la mirada con una serenidad glacial, manteniendo su mente en la galería superficial de su archivo mental, pensando únicamente en la densidad molecular del peltre de su caldero y en la lista de materiales escolares:
+
+—Todo en orden, profesor Quirrell. Una introducción sumamente instructiva sobre las defensas pasivas y los métodos de encubrimiento. Resulta fascinante comprobar cómo ciertas entidades prefieren ocultarse detrás de apariencias inofensivas para no despertar las alarmas del entorno.
+
+Quirrell sonrió con una mueca torcida que apenas tensó sus mejillas pálidas, y sus ojos destellaron con un fulgor escarlata microscópico que duró menos de un parpadeo:
+
+—M-me alegro… m-me alegro m-mucho de que lo a-aprecie así, señor Potter. La astucia… la astucia suele ser más eficaz que la fuerza bruta. Nos v-veremos el m-martes para las prácticas con las gárgolas.
+
+Harry hizo una inclinación formal de cabeza y cruzó el umbral hacia el pasillo, reuniéndose con sus compañeros de Ravenclaw mientras el dolor en su frente se apagaba lentamente a medida que la distancia física entre ambos aumentaba.
+
+Al llegar al descansillo central del gran vestíbulo, un grupo de alumnos de primer año de Gryffindor subía desde las mazmorras subterráneas con los calderos de peltre tiznados de hollín negro y caras de agotamiento absoluto. Entre ellos caminaba Ron Weasley, que arrastraba los pies con la túnica salpicada de un líquido blancuzco y espeso que desprendía un olor ácido a azufre y bilis de armadillo.
+
+—¿Qué os ha pasado abajo? —preguntó Terry Boot al cruzarse con ellos en el pie de la escalera de mármol.
+
+—Pociones con Snape —respondió Ron con voz lúgubre, amarga y cargada de resentimiento puro—. Es un monstruo. Se ha pasado la hora entera haciéndole preguntas imposibles a Neville sobre ingredientes que no vienen en el temario de primer año y quitándole puntos a Gryffindor por respirar demasiado fuerte en la segunda fila. Nos tiene a nosotros esta tarde, Harry… Dicen que odia a todo el mundo que no sea de Slytherin, pero que a ti te tiene unas ganas especiales por culpa de tu apellido. Prepárate para el purgatorio; ese hombre disfruta destrozando a la gente delante de todo el mundo.
+
+Harry miró hacia las escaleras de piedra fría que descendían hacia las mazmorras subterráneas del castillo, sintiendo el peso reconfortante de su varita de acebo bajo la manga derecha:
+
+—Snape no es un monstruo, Ron —repuso Harry con calma inalterable y reflexiva—. Es un maestro de pociones que exige rigor técnico absoluto. En una disciplina donde una gota de más de raíz de acónito puede disolver las entrañas de un paciente o hacer explotar una mesa entera de piedra, la negligencia no es un error menor: es una amenaza para el laboratorio. Si preparas la teoría antes de encender el fuego, no hay motivo para temer a las preguntas del profesor.
+
+Ron lo miró como si hubiese perdido el juicio por completo, sacudiendo la cabeza con incredidad:
+
+—Ya veremos si dices lo mismo cuando te clave los ojos negros encima y te pida que le recites la composición exacta de un veneno que nadie ha visto en doscientos años. Buena suerte, Harry; la vas a necesitar.
+
+Harry no se detuvo a discutir. Se despidió de Ron con un movimiento de cabeza y continuó hacia el Gran Comedor junto a Terry y Anthony.
+
+El almuerzo sería breve y frugal. A la una y media de la tarde, la Casa Ravenclaw descendería a los sótanos húmedos del castillo para compartir clase con los estudiantes de Slytherin, frente a los calderos hirvientes y la mirada de pedernal de Severus Snape.
+
+Y Harry Potter tenía todas sus notas sobre el asfódelo, el ajenjo y el bezoar perfectamente archivadas en la memoria, listo para defender su terreno con la fría precisión de los hechos y la dignidad de su sangre.

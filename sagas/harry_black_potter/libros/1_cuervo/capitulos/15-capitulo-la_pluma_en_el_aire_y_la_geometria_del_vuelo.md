@@ -1,0 +1,136 @@
+# CAPÍTULO 15
+## La pluma en el aire y la geometría del vuelo
+
+La segunda semana de octubre trajo consigo los primeros vendavales del norte, que azotaban las altas almenas de la torre de Ravenclaw con un silbido constante y helado. Los ventanales góticos de la sala común vibraban bajo la fuerza del viento, y las aguas del Lago Negro, visibles a cientos de pies de distancia hacia el oeste, habían adquirido un color plomizo y agitado, salpicado de crestas blancas de espuma que rompían con furia contra los riscos de basalto. El otoño escocés no pedía permiso para instalarse: desnudaba los bosques de abedules de los alrededores y cubría los senderos de gravilla con una alfombra crujiente de hojas ocres empapadas de escarcha matinal.
+
+Para los alumnos de primer año, el horario lectivo se había consolidado en una cadencia rigurosa de madrugones, escaleras móviles traicioneras que cambiaban de rellano sin previo aviso y montañas de pergaminos asignados como tareas diarias. La vida en el internado exigía una resistencia física e intelectual implacable; sin embargo, entre todas las asignaturas teóricas de la semana, la clase que generaba mayor expectación en el curso era la sesión práctica conjunta de Encantamientos, donde los estudiantes de Ravenclaw compartían aula con los de Gryffindor bajo la tutela del diminuto y afable profesor Filius Flitwick.
+
+El aula de Encantamientos estaba situada en el tercer piso del ala este. Era una estancia circular, luminosa y provista de amplios graderíos de madera de fresno que descendían en semicírculo hacia un estrado central pulido. Los rayos del sol matinal se filtraban a través de tres altos ventanales de arco apuntado, proyectando polígonos dorados sobre los pupitres de roble y haciendo brillar las motas de polvo suspendidas en el ambiente cálido, perfumado con cera virgen de abejas y lavanda seca. El profesor Flitwick, que apenas alcanzaba la altura de un escritorio común debido a su ascendencia de duende, impartía sus clases subido a una pila imponente de gruesos tomos encuadernados en becerro —compuesta por tres volúmenes de la *Enciclopedia de Encantamientos Teóricos* de Adalbert Waffling y un diccionario bilingüe arameo-latín—, desde donde dominaba la sala con unos ojos vivaces, redondos y profundamente inteligentes, acompañados por un mostacho canoso que temblaba de regocijo cada vez que un estudiante formulaba una hipótesis audaz.
+
+Harry llegó con diez minutos de antelación acompañado de Terry Boot y Padma Patil. Ocupó un banco en la segunda grada, desplegó su cuaderno de notas de pergamino grueso encuadernado en cuero marrón y colocó sobre la mesa su tintero de asta de ciervo, su pluma de cuervo afilada a mano y su varita de once pulgadas de acebo y pluma de fénix. La madera del pupitre estaba gastada por generaciones de estudiantes que habían grabado iniciales y cifras en las esquinas, pero la superficie central permanecía limpia, lisa y lista para las demostraciones de telequinesis elemental.
+
+A pocos metros a su izquierda, en el mismo nivel de la grada de fresno, Hermione Granger se hallaba ya instalada con una disciplina milimétrica que rozaba la obsesión castrense. La niña de Gryffindor tenía sobre su mesa tres plumas de ganso perfectamente ordenadas por longitud, un frasco de tinta sepia de secado rápido, un borrador de arena finísima traído del mundo no mágico y su ejemplar del *Libro reglamentario de hechizos (clase 1)* de Miranda Goshawk, abierto de par en par y señalizado con tiras de cinta de seda de distintos colores en el capítulo dedicado a la telequinesis primaria y la modulación de masas inertes.
+
+Al ver a Harry afilar la punta de su pluma de cuervo con un cortaplumas de bolsillo, Hermione giró ligeramente la cabeza en el banco y carraspeó con una mezcla de respeto formal y franca competitividad académica:
+
+—Potter —dijo la niña, con su tono resuelto, rápido y cargado de una solemnidad casi doctoral—. Supongo que habrás leído la sección sobre los tres vectores de desplazamiento del encantamiento de levitación antes de venir a esta sesión. La mayoría de los chicos en la sala común creen que solo es cuestión de apuntar con entusiasmo y mover la muñeca como si espantaran moscas, pero Goshawk insiste en que la resonancia fonética de la última sílaba determina de forma invariable el centro de gravedad del objeto inerte.
+
+Harry alzó la vista de su cuaderno y asintió con una serenidad pausada, dejando el cortaplumas sobre el reborde del pupitre:
+
+—El texto de Goshawk es correcto en la teoría acústica general para principiantes, Granger, pero el profesor Flitwick publicó un artículo complementario hace cinco años en *El Encantador Práctico* donde matiza ese punto de manera determinante. La inflexión fonética en *Gar-di-um* no crea el centro de gravedad; simplemente sincroniza la vibración vocal del mago con la frecuencia de oscilación del núcleo de la varita. Si tu núcleo es altamente reactivo, como el nervio de corazón de dragón o la pluma de fénix, forzar la articulación gutural en exceso solo genera una resistencia elástica en el canal que desvía el eje vertical de sustentación varios grados hacia la derecha.
+
+Hermione parpadeó sorprendida, ajustando las correas de su mochila de cuero con un movimiento reflejo. Sus ojos castaños recorrieron las facciones de Harry con una intensidad inquisitiva y desarmante:
+
+—¿Flitwick escribió sobre eso en *El Encantador Práctico*? No figuraba en la bibliografía recomendada de la biblioteca escolar para primer curso. He revisado el catálogo temático tres veces.
+
+—Está en la sección de publicaciones periódicas del ala norte, en la estantería de teoría de encantamientos contemporáneos, tercer estante inferior —respondió Harry con naturalidad, sin el menor rastro de superioridad—. Mi padrino siempre me repetía que los manuales de texto escolares son síntesis seguras y simplificadas para evitar accidentes con niños descuidados, pero que los tratados especializados de los maestros de duelo explican el porqué mecánico y la física mágica detrás de cada flujo elemental.
+
+Hermione entrecerró los ojos, mordiéndose ligeramente el labio inferior mientras anotaba febrilmente el nombre de la revista y la ubicación exacta en el margen superior de su pergamino con una caligrafía diminuta y apretada:
+
+—Interesante… Muy interesante. Pero aun así, la técnica clásica del «swish and flick», agitar y golpear suavemente hacia abajo, sigue siendo el estándar universal consagrado por el Consejo de Educación Mágica para garantizar que la inercia no fracture el enlace telequinético antes de estabilizar la altura. Lo comprobaremos en cuanto repartan las plumas sobre los bancos.
+
+En ese momento, la puerta de roble macizo del aula se abrió de par en par y el resto de los alumnos de Gryffindor entraron en tropel, con Ron Weasley, Seamus Finnigan y Dean Thomas a la cabeza, jadeando ruidosamente tras haber subido apresurados los tramos de escaleras móviles. Ron se dejó caer en el banco situado justo detrás de Harry y Hermione, resoplando mientras arrojaba su pesada mochila sobre el suelo de madera con un golpe sordo:
+
+—Casi no llegamos a tiempo… Una de las escaleras del rellano del cuarto piso decidió girar por su cuenta hacia el corredor de los tapices flamencos y nos dejó varados frente a la estatua de Gregory el Halagador durante diez minutos completos. Qué manía tan ridícula tienen en este castillo de no dejar nada quieto en su sitio; parece que las piedras se divierten haciéndonos llegar tarde a todas partes.
+
+—Si salieras de la torre con diez minutos de margen en lugar de quedarte comiendo tres tostadas con mermelada de grosella hasta que suena la última campana de advertencia, Weasley, no tendrías que correr por los pasillos con la corbata desabrochada —replicó Hermione sin girarse, con un tono pedagógico y seco que hizo que Ron pusiera los ojos en blanco con fastidio.
+
+—Buenos días a ti también, Granger —masculló el pelirrojo, encogiéndose de hombros antes de inclinarse hacia adelante para apoyarse en el respaldo del banco de Harry con una sonrisa amistosa—. Oye, Harry, ¿es verdad lo que no paran de comentar en el Gran Comedor sobre Pociones? Fred y George me contaron anoche en la sala común que dejaste a Snape con un palmo de narices el viernes pasado y que le diste a Ravenclaw su primer punto en las mazmorras desde tiempos inmemoriales. George decía que Snape tenía una cara como si se hubiera tragado un frasco entero de vinagre de madera sin diluir.
+
+—Solo respondí a sus preguntas sobre botánica y toxicología aplicada con los términos del texto, Ron —aclaró Harry con una sonrisa mesurada y serena—. Snape es un hombre exigente y no tolera la improvisación; si le demuestras que conoces las propiedades de los reactivos y mantienes la compostura sin alterarte, no tiene motivos legítimos para descontarte puntos. Aunque sospecho que no le agrada demasiado que un alumno de primer año no se quiebre ante su presión.
+
+—Pues ten mucho cuidado con él —le aconsejó Ron bajando la voz con un estremecimiento genuino—. Mi hermano mayor Percy dice que Snape nunca olvida un desplante, y los gemelos juran que tiene ojos en la nuca y que es capaz de oler el miedo a tres pasillos de distancia a través de las paredes de piedra.
+
+Antes de que la advertencia de Ron pudiera extenderse entre los pupitres, el profesor Flitwick dio tres palmadas sonoras y enérgicas desde lo alto de su estrado de libros:
+
+—¡Silencio, por favor, jóvenes damas y caballeros! ¡Tomen asiento de inmediato, guarden los tinteros abiertos y despejen el centro de sus mesas de trabajo! ¡Hoy es un día sumamente emocionante en el curso introductorio de Encantamientos!
+
+El aula guardó un silencio expectante de inmediato. Flitwick sonrió con regocijo paternal, haciendo girar su varita corta de madera de sauce con una destreza diminuta y elegante entre sus dedos rechonchos:
+
+—Hoy comenzaremos formalmente con la práctica del encantamiento de levitación simple: *Wingardium Leviosa*, uno de los hechizos fundamentales y más hermosos que todo mago y bruja debe dominar con absoluta solvencia técnica. Recuerden con claridad lo que hemos analizado durante las sesiones teóricas previas: la magia no es un empujón ciego de fuerza muscular bruta ni un arranque de nerviosismo. Es precisión geométrica, es control milimétrico del gesto y es la perfecta armonización entre la palabra hablada y la intención interior. ¡El famoso movimiento de muñeca que tanto hemos practicado en el aire durante la semana pasada! ¡Agitar y golpear con suavidad! ¡*Swish and flick*! Y recuerden la pronunciación correcta del latín mágico: *Win-GAR-di-um Le-vi-O-sa*. Marquen el acento con claridad en la sílaba *GAR*, suave y extendido como una cuerda de violín templada.
+
+El pequeño profesor descendió ágilmente de su pila de libros y comenzó a recorrer los graderíos circulares. Con una leve inclinación de cabeza y una sonrisa animosa, fue depositando en el centro de la mesa de cada pareja de alumnos una pluma blanca de ganso, ligera, limpia y perfectamente equilibrada.
+
+—Ahora, por favor, tomen sus varitas con firmeza pero sin rigidez en los tendones, concéntrense en la estructura ligera de la pluma y comiencen los ejercicios de sustentación. Nada de prisas ni aspavientos, jóvenes. La paciencia es la madre indiscutible de la levitación estable.
+
+De inmediato, el aula de Encantamientos se convirtió en un coro desordenado y ruidoso de voces adolescentes y sacudidas de madera contra el aire.
+
+—¡*Wingardium Leviosa*! —gritó Seamus Finnigan en la grada superior, agitando su varita como si fuera un látigo de domador de circo furioso. La pluma sobre su mesa ni siquiera se inmutó; permaneció adherida a la madera barnizada como si estuviera soldada con plomo.
+
+A su lado, Ron Weasley comenzó a mover los brazos con una desesperación creciente, propinando golpes tan violentos en el aire que parecían las aspas de un molino de viento azotado por un huracán:
+
+—¡*Wingardium Leviosa*! ¡*Wingardium Levio-saaaa*!
+
+—¡No, no, no! ¡Para, por favor, vas a sacarle un ojo a alguien! —lo interrumpió Hermione con el ceño fruncido en un gesto de exasperación pedagógica, cubriéndose la cara con los cuadernos para evitar que la varita de Ron la golpeara en la mejilla—. Si sigues blandiendo la varita de esa manera tan salvaje vas a provocar un desastre. Además, lo estás pronunciando de forma completamente incorrecta. Es *Wing-GAR-dium Levio-sa*, con la fuerza y la elevación en el *GAR*, no *Levio-saaaa* arrastrando la voz como si estuvieras llamando a una vaca perdida en un pantano.
+
+—Si eres tan lista y todo lo sabes, hazlo tú misma si tantas ganas tienes de presumir —le espetó Ron con las orejas ardiendo de un color escarlata intenso por la frustración y la vergüenza acumulada frente al resto de la clase—. Siempre tienes que meterte en lo que hacen los demás.
+
+Hermione inhaló profundamente por la nariz, alisó los pliegues de su falda escolar con dignidad regia y se sentó con la columna vertebral perfectamente erguida. Tomó su varita de madera de vid con nervio de dragón, miró fijamente la pluma blanca que reposaba sobre su pupitre y ejecutó el movimiento con una soltura admirable: un giro suave, elástico y circular de muñeca, seguido de un golpe limpio, medido y descendente hacia el centro de la masa inerte:
+
+—*Wingardium Leviosa*.
+
+La pluma de ganso respondió de inmediato. Se despegó de la superficie de roble con una lentitud majestuosa, venciendo la gravedad sin el menor temblor. Ascendió verticalmente seis pulgadas, luego un pie entero, y quedó suspendida en el aire exactamente a la altura de los ojos de la niña, oscilando con una estabilidad impecable como si reposara sobre un cojín invisible de aire tibio modulado por la punta de su varita.
+
+Desde el estrado inferior, el profesor Flitwick dio un salto de alegría tan entusiasta que casi pierde el equilibrio sobre sus gruesos volúmenes de consulta:
+
+—¡Oh, magnífico! ¡Miren todos hacia aquí, por favor! ¡La señorita Granger lo ha conseguido a la primera tentativa! ¡Excelente control de la curva de inercia y modulación armónica! ¡Cinco puntos para la Casa Gryffindor por una ejecución impecable y pulcra!
+
+Hermione sonrió con legítimo orgullo, manteniendo la pluma en suspensión durante varios segundos para que toda la clase pudiera admirar la hazaña antes de permitirle descender con suavidad sobre la madera. Giró la cabeza hacia Harry con una mirada chispeante, desprovista de burla pero cargada de una expectación académica insaciable, como un duelista cortés que acaba de clavar su espada en el centro de la diana y espera ver la réplica de su oponente de armas.
+
+Harry sonrió con una serenidad reposada y tomó su varita de acebo.
+
+En su mente, la compuerta de plomo de la Oclumancia se abrió en un canal limpio, estrecho y perfectamente enfocado. Recordó las tardes interminables de entrenamiento en la sala de estar de la cabaña de Yorkshire, donde Sirius le colocaba una hilera de cáscaras de nuez y guijarros de río sobre la repisa de piedra de la chimenea y le exigía no solo hacerlas levitar, sino trazar órbitas elípticas, figuras en ocho y rotaciones de precisión en el aire sin pronunciar una sola palabra en voz alta, bajo la mirada crítica de su padrino.
+
+*«El encantamiento verbal es una muleta acústica para la mente infantil, cachorro»*, le había explicado Sirius en aquellas tardes de lluvia incesante, mientras vigilaba el temblor de sus dedos con una seriedad que no admitía mediocridad. *«Cuando hablas, la magia espera a que termines la última sílaba para coagularse en el espacio. Si aprendes a proyectar la intención en silencio a través de los nervios de tu brazo, el hechizo nace en el mismo instante en que tu mente concibe el vector. Es más rápido, es un segundo entero de ventaja en cualquier situación real, y nadie a tu alrededor sabrá qué hilo mágico estás tensando hasta que el efecto se haya consumado».*
+
+Harry no gritó la fórmula en latín. No movió el brazo con aspaviento ni buscó llamar la atención del graderío.
+
+Se limitó a levantar la varita con un ángulo exacto de cuarenta y cinco grados respecto al plano horizontal de la mesa de fresno. En su pensamiento, estructuró la orden con una claridad geométrica absoluta: *sustentación axial, equilibrio giroscópico, radio de curvatura constante*. Realizó el movimiento de muñeca —un círculo diminuto de media pulgada trazado con la punta de la madera y un toque descendente casi imperceptible— sin emitir el menor sonido audible entre sus labios sellados.
+
+La pluma de cuervo sobre su pupitre no ascendió simplemente en línea recta.
+
+Se elevó con un impulso suave, constante y silencioso, deteniéndose a la altura exacta de la mirada de Harry. Y entonces, ante la mirada atónita de Terry Boot, de Ron y de la propia Hermione, la pluma comenzó a girar sobre su propio eje vertical con una velocidad matemática uniforme, como una peonza aérea perfecta, trazando una espiral ascendente en el aire que la llevó a elevarse dos pies más hacia la bóveda gótica del aula, gobernada de forma remota por la punta inmóvil de la varita de acebo.
+
+El profesor Flitwick se quedó con la boca abierta a medio aplauso. Se ajustó las gafas redondas sobre el puente de la nariz, se frotó los ojos y bajó apresuradamente los escalones de su estrado con pasos cortos y veloces, acercándose a la grada de Ravenclaw con una expresión de absoluto asombro que rayaba en el fervor místico:
+
+—¡Por las barbas de Merlín y la memoria de Rowena! —exclamó el diminuto maestro, siguiendo con el dedo índice la rotación matemática y sin balanceo de la pluma en el aire—. ¡Señor Potter! ¡Una levitación con control giroscópico coordinado! ¡Y… y no he escuchado la menor vibración vocal! ¿Acaso ha realizado una invocación de resonancia mental pura? ¿Magia no verbal aplicada en un encantamiento de primer curso?
+
+Harry moduló la varita con un descenso suave y continuo de la muñeca, haciendo que la pluma bajara lentamente en espiral hasta posarse sin el menor crujido sobre el centro exacto de su cuaderno de notas:
+
+—La intención kinésica es mucho más limpia si se enfoca el flujo mental directamente en el centro de gravedad del objeto inerte, profesor Flitwick —explicó Harry con un tono respetuoso, humilde pero técnicamente intachable—. Como usted mismo demostró en su monografía sobre armónicos aplicados en duelos de exhibición, la vibración fonética puede sustituirse por una modulación armónica interna si el canal del núcleo de la varita está sincronizado con el ritmo respiratorio del mago.
+
+Flitwick parecía a punto de romper a llorar de pura emoción académica. Su rostro rubicundo brillaba con un regocijo indescriptible bajo su espeso mostacho blanco:
+
+—¡Sublime! ¡Absolutamente sublime! ¡Citar mi artículo de *El Encantador Práctico* y plasmarlo en una demostración práctica de levitación no verbal en su segunda semana lectiva! ¡Diez puntos para la Casa Ravenclaw, señor Potter! ¡Diez puntos enteros por una maestría técnica y una comprensión de la dinámica de encantamientos sin precedentes en este siglo para un alumno de su edad!
+
+Los alumnos de Ravenclaw rompieron en un aplauso cerrado y unánime en las gradas. Terry Boot le palmeó la espalda con un orgullo eufórico, mientras Padma Patil y Michael Corner intercambiaban miradas de complacencia por ver a su casa encaramarse a lo más alto de los registros escolares.
+
+Hermione Granger, sentada a apenas tres pies de distancia, contemplaba la pluma de Harry con los ojos desmesuradamente abiertos. No había la menor pizca de envidia mezquina en sus facciones infantiles; había una fascinación honda, una especie de deslumbramiento intelectual que la dejó paralizada durante varios minutos enteros. Lentamente, la niña bajó su propia varita de vid, observó sus apuntes minuciosos y luego levantó la mirada hacia Harry con un respeto solemne y sincero:
+
+—Tenías toda la razón sobre los armónicos internos —admitió Hermione en un susurro honesto y claro, acercándose un paso hacia el pupitre de Harry mientras Flitwick volvía a subir a su estrado para apagar el pequeño conato de incendio que Seamus Finnigan acababa de provocar accidentalmente al encender la pelusa de su propia pluma con un chispazo mal dirigido—. Yo… yo creía que la vocalización era un requisito biológico e insoslayable para los estudiantes menores de quince años. En todos los manuales introductorios de la biblioteca se insiste en que intentar la magia no verbal antes de los TIMOS distorsiona irreversiblemente el canal del núcleo.
+
+—Los manuales estándar están redactados para evitar que niños impulsivos hagan explotar las aulas por impaciencia, Hermione —le respondió Harry con amabilidad llana y cercana, utilizando por primera vez su nombre de pila para disipar cualquier tensión competitiva—. Pero si eres capaz de visualizar la geometría del movimiento y mantienes la mente en calma, la magia obedece a la voluntad mucho antes de que las cuerdas vocales tengan tiempo de articular las sílabas.
+
+Hermione asintió con vehemencia, y por primera vez desde que se habían cruzado en los pasillos de King's Cross, una sonrisa abierta, relajada y genuina iluminó su rostro pecoso:
+
+—¿Me permitirías consultar ese artículo del profesor Flitwick después de la cena en la biblioteca escolar? Quisiera contrastar sus ecuaciones de resistencia inercial con los esquemas de modulación que dibujó Goshawk.
+
+—Por supuesto —contestó Harry de inmediato con una inclinación de cabeza—. Estaré en la sección de consulta avanzada a partir de las seis de la tarde. Si te parece, podemos comparar mis notas de campo sobre el control de masas con tus transcripciones teóricas.
+
+—Trato hecho, Harry —dijo la niña de Gryffindor con una satisfacción radiante, volviendo a su asiento para retomar sus propios ensayos con un ímpetu redoblado y mucho más reflexivo.
+
+Al sonar la campana de bronce que marcaba el final de la clase de la mañana, los estudiantes abandonaron el aula en grupos ruidosos y animados. Ron Weasley se colocó a la par de Harry mientras bajaban el tramo de escaleras que conducía al patio central del castillo, frotándose la nuca con una expresión de desconcierto casi cómico:
+
+—Oye, Harry, de verdad que a veces me das un miedo tremendo. Primero dejas a Snape clavado en el suelo en las mazmorras y ahora haces bailar plumas en el aire sin decir una sola palabra en voz alta. Si sigues acumulando puntos a este ritmo, Flitwick te va a ceder su puesto de profesor antes de que termine el trimestre de invierno.
+
+Harry rió con franqueza, dándole una palmada amistosa en el hombro al muchacho pelirrojo:
+
+—Solo es cuestión de entrenamiento diario, Ron. Sirius me obligaba a repetir el mismo movimiento de muñeca decenas de veces al día en los páramos. La única diferencia real entre un hechizo complejo y uno elemental es la paciencia que inviertes en practicarlo hasta que tus dedos se mueven por instinto.
+
+—Pues yo preferiría invertir toda esa paciencia montado sobre una buena escoba de carreras jugando al quidditch en lugar de mirar plumas de ganso durante dos horas —bromeó Ron con su desenfado característico mientras salían a la luz fresca del patio de armas—. Por cierto, ¿viste la circular que colgaron esta mañana en el vestíbulo principal? El jueves a las tres y media tenemos la primera clase de vuelo con la señora Hooch. ¡Ravenclaw y Slytherin juntos en el campo de entrenamiento exterior!
+
+Harry sintió que un latido de expectación limpia y viva le recorría el pecho.
+
+Hacía casi dos meses que no montaba en una escoba, desde aquellas noches frías y clandestinas en las que surcaba los cielos abiertos de Yorkshire junto a Sirius, esquivando las copas de los robles centenarios bajo la mirada vigilante de la luna. Volver a volar no era únicamente una oportunidad dorada para despejar la mente del peso de los pergaminos y las fórmulas latinas; era el escenario natural donde sus reflejos entrenados y su visión periférica podían operar con absoluta libertad.
+
+Y compartir la pista con los alumnos de Slytherin significaba que volvería a encontrarse en el terreno de juego con Lyra y Draco Malfoy. En el aire no habría pupitres de piedra ni citas de biblioteca tras las que guarecerse: solo el rigor del viento, la velocidad pura y la destreza del cuerpo desafiando a la gravedad.

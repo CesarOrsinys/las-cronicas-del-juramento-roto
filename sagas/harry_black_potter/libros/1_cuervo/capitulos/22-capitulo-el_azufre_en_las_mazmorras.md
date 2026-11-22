@@ -1,0 +1,146 @@
+# CAPÍTULO 22
+## El azufre en las mazmorras y la caída del coloso
+
+Cuando Harry y Ron atravesaron el umbral destrozado del lavabo de niñas del primer piso, el escenario que encontraron parecía el epicentro de un cataclismo sísmico dentro de los muros de la fortaleza.
+
+El agua helada brotaba a chorros violentos, ruidosos y descontrolados de varias tuberías de plomo partidas por la mitad contra los muros de sillería, inundando las losas de cerámica blanca hasta formar un charco turbio de dos pulgadas de profundidad que reflejaba la luz parpadeante y amarillenta de un farol de aceite moribundo. Cuatro cubículos enteros de madera de roble barnizada habían sido reducidos a astillas dispersas y escombros húmedos por el impacto ciego del garrote del monstruo; tres lavabos de porcelana blanca yacían pulverizados contra las paredes, y los fragmentos afilados y cortantes de los grandes espejos de pared brillaban esparcidos en el agua estancada como escarcha plateada y letal.
+
+En la esquina más profunda y oscura de la estancia, encogida contra el zócalo de azulejos húmedos bajo la sombra protectora de un radiador de hierro fundido, Hermione Granger temblaba de pies a cabeza con ambas manos cubriéndose desesperadamente el rostro ensangrentado por pequeños cortes de cristal. Sus ojos castaños estaban desorbitados por el espanto absoluto y la parálisis del choque; su respiración era un jadeo quebrado, agudo y entrecortado que apenas lograba llenar sus pulmones, y su cuerpo entero parecía haberse encogido hasta el tamaño de una muñeca de trapo indefensa frente a la mole descomunal y monstruosa que se alzaba pesadamente sobre ella.
+
+El trol de las montañas dominaba el centro del lavabo como una torre viva y amenazante de roca volcánica sin labrar.
+
+Medía más de doce pies de altura y desprendía un hedor insoportable, fétido, pestilente y corrosivo a alcantarilla rancia, fango de ciénaga podrida y azufre caliente que saturaba el aire húmedo de la habitación con una pesadez nauseabunda. Con su mano derecha, correosa, nudosa y dotada de uñas negras y gruesas como garras de buitre carroñero, el monstruo levantaba lentamente en el aire su gigantesco garrote de fresno macizo de casi dos metros de longitud, una maza tosca y pesada que amenazaba con descargarse con una fuerza demoledora y aplastante sobre la esquina exacta donde la niña permanecía acorralada sin escapatoria posible.
+
+—¡HERMIONE! ¡AGÁCHATE Y CÚBRETE LA CABEZA! —gritó Ron con una desesperación salvaje que le rasgó la garganta, corriendo hacia el flanco derecho del lavabo con las botas salpicando agua turbia para llamar la atención del monstruo—. ¡Oye, tú, saco de estiércol hediondo! ¡Mírame a mí si tienes agallas!
+
+Ron recogió del suelo anegado un fragmento pesado de tubería de plomo rota y lo arrojó con todas sus fuerzas contra el lomo encorvado de la criatura. El trozo de metal golpeó la piel escamosa, grisácea y granítica del trol con un ruido sordo y apagado, rebotando inútilmente en el agua sin causarle el menor rasguño pero logrando su objetivo primordial: que el monstruo detuviera el descenso de su garrote a medio camino en el aire.
+
+La diminuta cabeza calva, cónica y grotesca del gigante giró pesadamente sobre sus hombros colosales con una lentitud de estatua vieja. Sus ojos pequeños, porcinos, enrojecidos y desprovistos de cualquier chispa de inteligencia humana parpadearon con un desconcierto puramente animal al percibir a dos nuevos intrusos masculinos interponiéndose en su camino en el centro del lavabo.
+
+Harry no perdió un solo segundo en gritos destemplados, aspavientos inútiles ni llamadas vacías de atención.
+
+En el centro de su mente, la compuerta de plomo de su Oclumancia se hallaba cerrada a cal y canto con una precisión matemática y absoluta, aislando de raíz el pánico primitivo del entorno y canalizando toda su concentración en el análisis espacial, vectorial y kinésico del combate inminente. Un trol de las montañas adulto poseía una piel de cuero córneo de más de dos pulgadas de grosor, reforzada con placas minerales que le otorgaban una resistencia mágica natural capaz de disipar y neutralizar casi cualquier encantamiento de aturdimiento ordinario de nivel escolar; lanzarle un *Stupefy*, un hechizo de chispas o un encantamiento de cosquillas solo conseguiría enfurecer a la bestia y acelerar su ataque homicida. Para neutralizar con éxito a un coloso de tres toneladas en un espacio confinado y resbaladizo, era indispensable utilizar la física del entorno, las leyes de la gravedad y la inercia desmedida de su propia masa en su contra.
+
+El trol gruñó con un rugido sordo, gutural y cavernoso que hizo vibrar los fragmentos de espejo en el suelo anegado, cambió con torpeza la dirección de sus piernas semejantes a troncos de roble y comenzó a avanzar hacia Ron con pasos pesados que hacían crujir los cimientos de piedra del piso.
+
+—¡Harry, haz algo por favor! ¡No sé qué encantamiento utilizar contra esta mole! —gritó Ron retrocediendo con el agua fría salpicándole las rodillas, con los ojos llenos de puro terror ante la enorme maza de madera que volvía a elevarse amenazante sobre su cabeza.
+
+Harry dio tres zancadas rápidas, felinas y elásticas hacia el flanco izquierdo de la criatura, colocándose con absoluta frialdad táctica fuera del arco de barrido del garrote de fresno. Alzó su varita de once pulgadas de acebo y apuntó directamente a las losas de cerámica esmaltada que se encontraban bajo los pies rugosos, agrietados y descalzos del coloso.
+
+En su pensamiento estructuró con precisión geométrica la alteración física del plano horizontal: cristalización molecular del agua estancada y anulación absoluta del coeficiente de fricción estática de la superficie de apoyo. Proyectó la orden en un susurro mental no verbal, concentrando toda la energía en la punta de madera de acebo:
+
+*«¡Glisseo! ¡Spongify!»*
+
+El encantamiento actuó con una rapidez y una limpieza espectaculares. El charco de agua turbia que cubría el suelo bajo las enormes plantas del monstruo no solo se congeló instantáneamente en una plancha de hielo translúcido, reflectante y sin fricción, sino que la cerámica subyacente perdió toda adherencia mecánica, transformándose en una superficie deslizante similar a una pista de vidrio perfectamente aceitado.
+
+El trol dio un paso pesado al frente para aplastar a Ron con todo el peso de su cuerpo; pero en cuanto su pie derecho apoyó las tres toneladas de su mole sobre la zona encantada, la garra resbaló violentamente hacia adelante sin encontrar el menor punto de apoyo o tracción mecánica.
+
+La inmensa masa de piedra viva perdió el centro de gravedad con una sacudida grotesca y desacompasada.
+
+Los brazos desmesurados del monstruo se agitaron desesperadamente en el aire en un intento inútil por recuperar la verticalidad, pero la inercia ciega de su propio peso monumental jugó de forma implacable en su contra: sus piernas se abrieron en un ángulo antinatural y el coloso cayó de espaldas contra el suelo anegado con un impacto sísmico colosal que hizo crujir las vigas maestras del techo del lavabo y levantó una ola de agua de tres pies de altura que empapó las paredes y a los propios muchachos.
+
+*¡BOOOOOOM!*
+
+El garrote de fresno macizo se soltó de los dedos correosos y entumecidos del trol durante la violencia de la caída hacia atrás, saliendo despedido por los aires en una trayectoria vertical ascendente hacia las bóvedas superiores de la estancia.
+
+Harry no esperó a que la bestia aturdida intentara reincorporarse del lecho de hielo.
+
+Clavó sus pupilas verdes en la maza de madera de doscientos kilos que alcanzaba el vértice exacto de su parábola cerca del techo agrietado. Alzó la varita de acebo con un movimiento firme, limpio, sobrio y geométrico —un giro elástico de muñeca de media pulgada y un golpe descendente hacia el centro de gravedad del madero inerte—, recordando con precisión las lecciones magistrales de Flitwick y la sincronización de inercia que tantas veces había ensayado en las alturas de la torre de Ravenclaw:
+
+—*¡Wingardium Leviosa!*
+
+El garrote de fresno macizo no cayó de forma descontrolada sobre los escombros del suelo. Se detuvo en seco en el aire, a diez pies de altura, suspendido directamente sobre la cabeza del monstruo derribado como una guillotina de madera gobernada de forma remota por la punta firme de la varita de Harry.
+
+El trol, todavía tumbado pesadamente de espaldas sobre el charco helado y aturdido por el golpe en la columna, abrió lentamente sus pequeños ojos porcinos y miró hacia arriba con una expresión de perplejidad primitiva y estúpida, viendo la enorme maza de fresno flotando inmóvil y amenazante a escasos palmos de su rostro calvo.
+
+Harry cortó el enlace telequinético con un descenso seco, implacable y vertical de la muñeca.
+
+—Abajo.
+
+La aceleración de la gravedad cumplió con su cometido con una violencia matemática demoledora.
+
+El pesado garrote cayó en caída libre desde diez pies de altura, impactando con un chasquido sordo, rotundo, demoledor y seco exactamente en el centro de la diminuta cabeza cónica de la criatura de las montañas.
+
+*¡CRACK!*
+
+El sonido fue idéntico al de un mazo de herrero partiendo en dos un canto rodado sobre un yunque de hierro. El trol soltó un bufido cavernoso que expulsó una nube espesa de baba fétida y vapor azufrado por la nariz, sus cuatro extremidades corpulentas se estremecieron en una sacudida espasmódica sobre el agua helada, sus párpados pesados se cerraron de golpe y su colosal cuerpo se desplomó pesadamente contra las losas rotas, quedando completamente inmóvil, flácido y sumido en una inconsciencia profunda que rozaba el coma físico.
+
+El silencio que siguió en el lavabo fue tan denso, solemne y absoluto que solo se escuchaba el goteo rítmico del agua que manaba de las tuberías rotas y el jadeo fatigado y entrecortado de los tres muchachos de primer año.
+
+Ron Weasley se quedó petrificado en el centro de la estancia anegada, con los brazos caídos a los lados del cuerpo, los pantalones empapados de agua turbia y la boca abierta de par en par, contemplando la mole inerte del gigante con una expresión de incredulidad y asombro que no cabía en su rostro pecoso:
+
+—Por… por todos los santos y magos del cielo… —susurró el pelirrojo con la voz quebrada por el temblor de la adrenalina—. Lo has… lo has noqueado en seco con su propia maza de combate… Sin tocarlo… Sin recibir un solo rasguño…
+
+Harry bajó la varita de acebo con absoluta calma exterior, respirando despacio por la nariz para estabilizar el ritmo cardíaco y disipar la tensión del combate. Guardó el arma mágica en la funda interior de su túnica con un movimiento fluido, seguro y silencioso, y cruzó el charco de agua helada hacia la esquina oscura donde Hermione Granger permanecía encogida contra el radiador de hierro fundido.
+
+Se arrodilló frente a la niña con suavidad, cuidando de no hacer movimientos bruscos ni elevar la voz para no alterar sus nervios destrozados. El rostro pálido de Hermione estaba empapado de lágrimas amargas que habían mezclado el polvo de azulejo y el hollín con sus pecas; sus hombros delgados se sacudían con sollozos contenidos y miraba el cuerpo inerte del trol con un terror residual que tardaría horas en desaparecer de su memoria.
+
+—Ya ha terminado todo, Hermione —dijo Harry con una voz baja, cálida, firme y tranquilizadora, extendiéndole una mano limpia y abierta para ayudarla a incorporarse del suelo húmedo—. La bestia está completamente fuera de combate. No va a hacerte ningún daño. Estás a salvo.
+
+Hermione alzó la vista despacio, mirando a Harry a través de sus espesos rizos castaños empapados y enmarañados. Sus dedos pequeños y temblorosos buscaron la mano extendida del muchacho y se aferraron a ella con una fuerza desesperada y casi dolorosa, como si necesitara aferrarse a una certeza sólida para comprobar que la pesadilla del lavabo había concluido de verdad. Harry tiró de ella con suavidad calculada, ayudándola a levantarse sobre sus pies temblorosos.
+
+—Harry… Ron… —sollozó la niña con la voz entrecortada por el llanto, llevándose la manga mojada de su túnica a los ojos para secarse las lágrimas—. Ustedes… ustedes vinieron a buscarme… Arriesgaron la vida por mí… Podrían haber muerto aplastados… Esa bestia infernal casi me hace pedazos contra la pared…
+
+—No íbamos a permitir que te quedaras sola aquí abajo desprotegida, Hermione —respondió Harry con una serenidad honesta y transparente—. Ron se acordó de que no habías bajado al banquete en cuanto Quirrell dio la alarma en el Gran Comedor. Si alguien merece el mérito de haber reaccionado a tiempo para sacarte de aquí, fue él.
+
+Ron dio dos pasos al frente sobre los escombros de cerámica esmaltada, con las orejas ardiendo de un color escarlata intenso por una mezcla de pudor, vergüenza y sincero arrepentimiento moral:
+
+—Yo… lo siento de verdad, Hermione —balbuceó el pelirrojo mirando fijamente las losas rotas bajo sus botas—. Fui un completo imbécil y un grosero en el patio esta mañana después de Encantamientos. No debí decir aquellas cosas crueles sobre ti delante de los demás chicos… Estaba enfadado y frustrado conmigo mismo por no ser capaz de hacer levitar la pluma de ganso y pagué mi ineptitud contigo de la forma más rastrera. De verdad que te pido perdón de todo corazón.
+
+Hermione miró a Ron a través de sus pestañas húmedas y, por primera vez en toda aquella jornada aciaga, una sonrisa pequeña, tímida y llena de sincero perdón iluminó la palidez de sus facciones:
+
+—Gracias, Ron… Gracias a los dos de corazón…
+
+Pero antes de que pudieran añadir una sola palabra de afecto o desahogo, el eco pesado de pasos apresurados, violentos y marciales resonó en el corredor exterior, acompañado por el chasquido enérgico y metálico de varias varitas mágicas al ser desenfundadas con urgencia contra las paredes de piedra.
+
+Un segundo después, la profesora Minerva McGonagall, el profesor Filius Flitwick y Severus Snape irrumpieron en el lavabo destrozado con las capas negras y esmeraldas ondeando furiosamente a su alrededor en una marea de tela agitada.
+
+La escena que presenciaron los tres experimentados maestros los dejó completamente mudos de asombro durante varios segundos interminables.
+
+Minerva McGonagall se llevó una mano enguantada al pecho con un jadeo sordo de pura y absoluta estupefacción. Su rostro severo estaba tan blanco y tenso como la nieve perpetua de las cumbres escocesas; sus labios formaban una línea tan fina que apenas era perceptible en su mandíbula apretada, y sus ojos relampagueaban tras sus gafas cuadradas de montura metálica al contemplar la mole inmensa del trol de las montañas de doce pies tendido inconsciente sobre el charco de agua helada, rodeado por tres alumnos de primer año empapados, desaliñados pero perfectamente enteros y con las varitas bajas.
+
+A su lado, el diminuto profesor Flitwick dio dos saltitos nerviosos sobre sus talones, ajustándose las gafas redondas con una incredulidad febril y jubilosa:
+
+—¡Por la memoria de Rowena y el alma de Merlín! ¡El trol de las montañas… está completamente neutralizado y fuera de combate!
+
+Severus Snape, sin embargo, no mostraba el menor asombro ante la caída del monstruo. Sus ojos oscuros, fríos y penetrantes como estiletes barrieron a los tres muchachos con una severidad peligrosa; pero cuando su mirada se clavó en Harry, un brillo de hostilidad concentrada, amargura profunda y desconcierto amargo tiñó sus pupilas dilatadas. Harry, con su aguda capacidad de observación entrenada, notó de inmediato tres detalles cruciales que escapaban al resto de los presentes: la túnica negra de Snape estaba manchada de polvo de sillería viejo en el hombro izquierdo, una hilera de hilos desgarrados asomaba por el bajo de su pantalón, y el maestro de Pociones cojeaba de forma casi imperceptible al apoyar la pierna izquierda, ocultando una herida punzante bajo los pliegues de su capa con una rigidez calculada y dolorosa.
+
+—¿Qué significa exactamente todo este desastre? —bramó la profesora McGonagall con una voz que vibraba con un tono peligroso entre la indignación monumental y un alivio maternal reprimido—. ¡¿Qué hacían ustedes tres fuera de sus salas comunes y de los dormitorios asignados?! ¡¿Tienen la menor noción de la temeridad monstruosa e imprudente que acaban de cometer?! ¡Han tenido una suerte descomunal e irrepetible de no haber sido aplastados y reducidos a pulpa en este mismo instante!
+
+Hermione dio un paso al frente con la barbilla alzada y una resolución repentina, madura y sorprendente que dejó a Harry y a Ron completamente estupefactos:
+
+—Fue culpa exclusivamente mía, profesora McGonagall —dijo la niña con una voz clara, firme y audible, asumiendo toda la carga disciplinaria ante la subdirectora del colegio.
+
+McGonagall parpadeó desconcertada, bajando la varita un palmo:
+
+—¿Señorita Granger? Explíquese de inmediato.
+
+—Yo… yo leí en un tratado avanzado de la biblioteca que los troles de las montañas adultos podían ser sometidos y neutralizados mediante encantamientos de confusión primaria y parálisis muscular si se atacaba su plexo nervioso —mintió Hermione con una fluidez, una serenidad y un aplomo asombrosos para alguien que jamás en su vida había quebrantado un solo punto del reglamento escolar—. Tuve la arrogancia de pensar que si bajaba a las mazmorras por mi cuenta podría detener a la criatura antes de que causara daños al colegio para ganar méritos académicos para Gryffindor. Me equivoqué por completo, profesora. El trol me acorraló en este lavabo sin darme tiempo a reaccionar, y si Harry Potter y Ron Weasley no hubieran venido a buscarme a la carrera para sacarme de aquí, la bestia me habría destrozado contra las paredes. Ellos arriesgaron su integridad física únicamente para salvarme la vida, profesora McGonagall. No tienen la menor culpa de lo ocurrido.
+
+Harry y Ron intercambiaron una mirada de asombro mudo y reverencia clandestina. Que Hermione Granger, la alumna más apegada al rigor de los estatutos de todo Hogwarts, estuviera inventando una transgresión de ese calibre y manchando su propio expediente académico impecable para protegerlos del castigo disciplinario demostraba con una claridad meridiana que el vínculo de lealtad que acababa de forjarse en aquella sala destrozada entre el cuervo de Ravenclaw y los leones de Gryffindor era indestructible a partir de aquella noche.
+
+McGonagall contempló a la niña con una severidad glacial que no lograba ocultar un temblor de orgullo indiscutible en el fondo de sus pupilas:
+
+—Señorita Granger… en todos mis años de carrera docente jamás esperé una imprudencia semejante de una alumna tan reflexiva, sensata y brillante como usted. Cinco puntos menos para la Casa Gryffindor por su falta de juicio y su temeridad injustificada ante un peligro mortal.
+
+La subdirectora se giró entonces hacia Harry y Ron, clavando su mirada penetrante y penetrante en ambos muchachos de primer año:
+
+—En cuanto a ustedes dos… son muy pocos los estudiantes de séptimo curso que habrían sido capaces de derribar a un trol de las montañas adulto sin sufrir un solo rasguño de consideración. Señor Potter: el profesor Flitwick me ha señalado con admiración la técnica de encantamientos de fricción molecular y levitación inercial aplicada con precisión quirúrgica en el suelo helado y en la maza del monstruo. Una maniobra táctica brillante, sensata y admirable que demuestra que la agilidad mental y el control del entorno valen infinitamente más que la fuerza bruta descontrolada. Diez puntos para la Casa Ravenclaw por su templanza de ánimo y su valor excepcional.
+
+El profesor Flitwick sonrió con un regocijo radiante desde su montículo de escombros de porcelana, asintiendo con una reverencia de orgullo hacia su alumno predilecto.
+
+—Y cinco puntos para la Casa Gryffindor, señor Weasley, por su valentía y su lealtad indiscutible hacia una compañera de casa en peligro —añadió la profesora McGonagall con un tono notablemente suavizado—. Ahora, los tres marcharán de inmediato hacia la enfermería para que la señora Pomfrey les examine las contusiones, limpie esos cortes de cristal y les proporcione túnicas secas antes de que contraigan una pulmonía. ¡Andando, muévanse de una vez!
+
+Harry, Ron y Hermione abandonaron el lavabo en riguroso silencio, dejando a los profesores a cargo de la custodia y el traslado del coloso derribado.
+
+Mientras subían la amplia escalera de piedra que conducía al ala de hospitalización, Hermione se volvió hacia ellos con una sonrisa tímida, hermosa y sincera iluminando sus facciones cansadas:
+
+—Muchas gracias… De verdad. Por todo lo que han hecho esta noche.
+
+—Para eso estamos los amigos, Hermione —respondió Harry con una calidez serena y fraternal.
+
+—Sí… aunque para la próxima ocasión en que decidas salir a cazar monstruos de doce pies, avísanos con tiempo para traer una escoba más grande —bromeó Ron con su desenfado habitual, provocando la primera carcajada limpia, sonora y compartida de la niña en toda la noche de Halloween.
+
+Harry sonrió junto a ellos con una satisfacción limpia y profunda; pero en el fondo de su mente analítica, una serie de imágenes se hilvanaban con una fría inquietud: la cojera disimulada de Severus Snape, el polvo antiguo en su hombro izquierdo, el pantalón desgarrado a la altura de la espinilla y aquella escalera secundaria que subía directamente hacia el tercer piso.
+
+El trol de las mazmorras había caído derribado; pero la cacería de la reliquia oculta de Nicolas Flamel apenas acababa de comenzar.

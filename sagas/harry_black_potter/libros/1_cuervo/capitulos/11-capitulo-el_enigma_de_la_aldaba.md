@@ -1,0 +1,215 @@
+# CAPÍTULO 11
+## El enigma de la aldaba
+
+La primera en salir de la fila fue una niña de mejillas sonrosadas y trenzas rubias que avanzaba con paso tembloroso hacia el taburete de cuatro patas. Al colocarse el sombrero sobre la cabeza, el ala ancha le cayó hasta taparle por completo la nariz, dejándola inmóvil en la penumbra del fieltro.
+
+Apenas transcurrieron tres segundos de silencio antes de que la rasgadura del tejido se abriera de par en par:
+
+—¡HUFFLEPUFF! —gritó el sombrero con un eco sonoro que rebotó en las vigas del techo.
+
+La mesa de la derecha estalló en aplausos cálidos y vítores de bienvenida. El fantasma del Fraile Gordo agitó las dos manos transparentes con un júbilo radiante mientras Hannah Abbott corría a sentarse entre los estudiantes de corbatas amarillas, quitándose el peso de la incertidumbre de encima con un suspiro visible.
+
+—¡Bones, Susan!
+
+—¡HUFFLEPUFF! —volvió a rugir el artefacto tras un breve parpadeo, y la niña pelirroja se apresuró a reunirse con Hannah entre una nueva salva de aplausos.
+
+—¡Boot, Terry!
+
+Esta vez el sombrero tardó medio minuto en deliberar, inclinándose ligeramente hacia la izquierda antes de tomar su veredicto:
+
+—¡RAVENCLAW!
+
+La segunda mesa de la izquierda, bajo los estandartes azul noche y los blasones del águila de bronce, prorrumpió en aplausos sobrios, rítmicos y medidos. Varios alumnos mayores se pusieron en pie para estrechar la mano de Terry Boot con una cortesía formal mientras el muchacho ocupaba su asiento con una sonrisa de alivio.
+
+Harry observó la secuencia con atención matemática. Calculaba los tiempos de deliberación: algunos alumnos recibían la asignación de manera casi instantánea, lo que denotaba una estructura psicológica unidireccional y transparente; otros requerían un diálogo interno prolongado, donde el artefacto parecía contrastar aptitudes contradictorias antes de inclinar la balanza.
+
+Mandy Brocklehurst fue enviada a Ravenclaw; Lavender Brown fue la primera en inaugurar las filas de Gryffindor entre los vítores estentóreos y los silbidos de los gemelos Weasley; y Millicent Bulstrode marchó con paso pesado hacia la mesa de Slytherin, donde los aplausos fueron fríos, medidos y desprovistos de algarabía vulgar.
+
+—¡Granger, Hermione!
+
+La muchacha de la melena castaña prácticamente corrió hacia el taburete, agarrando el sombrero con las dos manos y encasquetándoselo hasta las orejas con una respiración agitada. Pasó un minuto entero. Hermione apretaba los puños sobre las rodillas, con los labios moviéndose en un murmullo imperceptible que Harry interpretó sin dificultad: estaba debatiendo activamente con la conciencia del sombrero, citando probablemente pasajes enteros de *Hogwarts: una historia* para defender su candidatura.
+
+Finalmente, la rasgadura se abrió:
+
+—¡GRYFFINDOR!
+
+Ron soltó un gruñido bajo a espaldas de Harry, mientras Hermione saltaba del taburete con una sonrisa de triunfo desbordante y marchaba a paso enérgico hacia la mesa del león dorado, donde Percy el prefecto se levantó para darle la bienvenida con una inclinación solemne.
+
+Cuando Neville Longbottom fue llamado, el pobre muchacho tropezó con la pata del taburete y estuvo a punto de caer de bruces sobre las losas de piedra. El sombrero tardó más de dos minutos en emitir su veredicto, vacilando largamente antes de proclamar *¡GRYFFINDOR!*. Neville salió corriendo con tal precipitación que olvidó quitarse el artefacto de la cabeza, teniendo que regresar sobre sus pasos entre las risas amortiguadas de todo el comedor para devolvérselo a Morag MacDougal.
+
+—¡Malfoy, Lyra!
+
+La niña rubia platino se adelantó con la parsimonia arrogante de quien acude a una coronación largamente pactada. Su túnica negra de paño fino no mostraba una sola arruga, y su rostro pálido mantenía una serenidad marmórea.
+
+Apenas la tela vieja del sombrero rozó las puntas de sus cabellos dorados, sin llegar a posarse completamente sobre su cráneo, el artefacto gritó como si hubiese tocado una superficie metálica al rojo vivo:
+
+—¡SLYTHERIN!
+
+Lyra sonrió de lado con una satisfacción glacial, descendió del estrado con la elegancia de una reina y fue a ocupar su lugar junto a los estudiantes de corbatas esmeralda, donde su llegada fue recibida con asentimientos de respeto y murmullos de aprobación de los veteranos.
+
+La lista continuó avanzando a paso rápido: Moon, Nott, Parkinson —que fue a Slytherin con una mueca de suficiencia—, las gemelas Patil divididas entre Ravenclaw y Gryffindor, y Sally-Anne Perks.
+
+Y entonces, la profesora McGonagall tomó aire, fijó la vista en la parte inferior del pergamino y pronunció las dos palabras que todo el Gran Comedor llevaba tres horas esperando:
+
+—¡Potter, Harry!
+
+El murmullo que recorrió el salón no fue un rumor ordinario; fue un chasquido eléctrico, repentino y masivo, como si una ráfaga de viento helado hubiese entrado por las vidrieras altas y agitado la llama de las miles de velas flotantes al unísono.
+
+—¿Ha dicho Potter?
+—¿Ese Potter?
+—¿El de la cicatriz?
+—¿Dónde ha estado metido todos estos años?
+
+Cientos de cabezas se estiraron hacia adelante en las cuatro mesas; los estudiantes mayores se pusieron de pie sobre las bancadas para intentar ver por encima de los hombros de sus compañeros; y en la mesa alta de profesores, la figura monumental de Albus Dumbledore se enderezó ligeramente sobre su trono dorado, entrelazando los dedos largos sobre el regazo mientras sus ojos azules centelleaban con una intensidad deslumbrante detrás de las gafas de media luna.
+
+A su lado, el profesor del turbante púrpura —Quirrell— se encogió en su asiento con un tic espasmódico que le sacudió la mejilla izquierda, mientras el hombre de túnica negra y cabellos grasientos que descansaba a su derecha, Severus Snape, clavaba su mirada oscura y rasgada en la figura del muchacho con una frialdad impenetrable.
+
+Harry no titubeó.
+
+Con el paso firme, elástico y templado que había forjado en las caminatas sobre la turba de Yorkshire, avanzó a lo largo de la tarima con la barbilla nivelada y la espalda recta. No miró a las mesas que lo señalaban con el dedo; no buscó la aprobación de los profesores ni la admiración de los novatos.
+
+Subió al estrado, tomó el Sombrero Seleccionador por la punta con un movimiento limpio y se sentó en el taburete de cuatro patas, dejándolo caer suavemente sobre su cabeza.
+
+La visión del Gran Comedor desapareció de golpe.
+
+La oscuridad interior del sombrero era tibia, densa y olía a tiempo acumulado, a pergaminos quemados y a polvo mineral de mil años.
+
+Durante dos latidos, solo se escuchó el ritmo acompasado de su propia respiración.
+
+Y entonces, una voz suave, sibilante y extraordinariamente antigua susurró directamente en el laberinto de su oído derecho:
+
+—*Vaya, vaya… qué arquitectura tan fascinante tenemos aquí.*
+
+Harry no respondió con palabras vocales. Aplicando la doctrina de Ilkley, cerró conscientemente la puerta de plomo de su archivo mental profundo y mantuvo abierta únicamente la galería superficial de su biblioteca de piedra seca: la memoria de los libros de texto leídos, el rigor del estudio y la prudencia del silencio.
+
+El sombrero soltó una risita seca, cargada de una admiración que no intentaba ocultar:
+
+—*No te molestes en levantar la compuerta de plomo, muchacho. Sé distinguir un bloqueo oclumántico forjado bajo la disciplina de los Black cuando me lo colocan en la coronilla. Tranquilo; no soy un espía del Ministerio ni un inquisidor de Dumbledore. Mi deber con este colegio no es divulgar secretos ajenos, sino entender el barro del que está hecho el hombre que se sienta en este taburete.*
+
+La presencia del artefacto recorrió las galerías de su mente con la ligereza de una pluma de ganso:
+
+—*Mucho valor… oh, sí, un valor inmenso y una fibra de león que no dudaría en plantarse frente a la muerte para cumplir un deber jurado. Tu padre James habría querido verte en Gryffindor; la sangre de los Potter late con fuerza en tus arterias. Y tampoco falta ambición ni astucia… tienes el instinto de autopreservación de una serpiente que sabe medir el veneno de sus enemigos antes de morder. Slytherin te abriría las puertas hacia una grandeza monumental, muchacho; tienes la madera para gobernar esa casa con mano de hierro.*
+
+Harry proyectó un pensamiento frío, nítido y categórico hacia la voz:
+
+*«Slytherin es un nido de familias comprometidas por deudas de guerra donde cada noche exigiría vigilar la espalda contra rencores heredados. Y Gryffindor es una tribuna ruidosa donde el director espera que actúe como un soldado prescindible para su causa moral. No busco la gloria de las sobremesas ni la nobleza cortesana del estatus puro.»*
+
+El sombrero pareció estremecerse sobre sus cabellos con un deleite intelectual profundo:
+
+—*¿No buscas la gloria, eh? ¿Y qué es lo que busca el heredero de los Potter tras dos años de forjarse en el silencio de los páramos?*
+
+*«Conocimiento»*, respondió Harry sin vacilar un solo milisegundo. *«Comprensión estructural de la magia. Los patrones que rigen las fuerzas del mundo. La verdad de los hechos antes de que la propaganda del Ministerio los deforme. El silencio para leer, el tiempo para pensar y una fortaleza que nadie pueda desmantelar a ciegas.»*
+
+—*Veo la huella de Lily Evans en la raíz de tu pensamiento* —susurró el sombrero con una reverencia casi solemne—. *Ella también tenía esa voracidad lúcida que no se conformaba con las explicaciones reglamentadas. Posees una mente brillante, Harry Potter; un intelecto afilado como una hoja de afeitar que no tolera la mediocridad y que sabe que la mayor defensa en este mundo no es una espada ensangrentada, sino la capacidad de formular la pregunta que nadie más se atreve a concebir.*
+
+La rasgadura en el tejido del ala comenzó a tensarse:
+
+—*Si buscas la verdad de las cosas antes que los aplausos del vulgo… si buscas a tus semejantes entre los que no temen a las alturas ni al viento frío de las torres… solo hay un lugar legítimo para ti en este castillo.*
+
+El sombrero respiró hondo en la oscuridad interior, y su voz no fue un susurro: fue un estruendo colosal que desgarró el silencio del Gran Comedor como un trueno de bronce:
+
+—¡RAVENCLAW!
+
+La palabra resonó contra las paredes de sillería, rebotó en los arbotantes del techo estrellado y cayó sobre las cuatro mesas como una losa de granito macizo arrojada desde la torre más alta.
+
+Durante tres segundos completos, nadie se movió en el salón.
+
+El silencio fue tan absoluto que se podía escuchar con total nitidez el goteo de la cera de una vela sobre el mantel de la mesa de Hufflepuff.
+
+En la mesa de Gryffindor, los gemelos Weasley se quedaron con las manos congeladas en el aire a medio aplauso, boquiabiertos, mientras Percy el prefecto miraba el pergamino de la profesora McGonagall como si hubiese presenciado un error tipográfico de proporciones cósmicas. En la mesa alta de profesores, Albus Dumbledore no parpadeó; sus dedos entrelazados se tensaron apenas un milímetro, y una sombra fugaz, casi imperceptible pero cargada de una extrañeza profunda, cruzó sus pupilas azules detrás de los cristales de media luna. A su derecha, Severus Snape entrecerró los ojos negros con una concentración glacial, clavando la mirada en el muchacho que acababa de quebrar el destino preconcebido de los Potter.
+
+Y entonces, la segunda mesa de la izquierda reaccionó.
+
+No fue un grito de euforia desordenada como el que solía brotar de los leones de Gryffindor; fue una ovación cerrada, densa, rítmica y majestuosa que estalló desde las bancadas de los estudiantes de corbatas azul noche y bronce.
+
+Los prefectos de Ravenclaw se pusieron de pie de un salto, seguidos por decenas de alumnos de todos los cursos que aplaudían con una satisfacción intelectual rotunda, golpeando las mesas con los nudillos y vitoreando el nombre que acababa de transformar el equilibrio político del colegio en un solo segundo:
+
+—¡Tenemos a Potter! ¡El cuervo ha elegido la torre!
+
+Harry se retiró el Sombrero Seleccionador de la cabeza con un movimiento pausado y ceremonioso, depositándolo sobre el taburete con una inclinación respetuosa hacia la profesora McGonagall.
+
+La subdirectora lo miraba con los labios apretados en una línea tan fina que apenas eran visibles, parpadeando detrás de sus gafas cuadradas con una mezcla de conmoción profesional y desconcierto íntimo; toda su vida académica había dado por sentado que el hijo de James vestiría la túnica escarlata de su propia casa.
+
+—Bien hecho, señor Potter —alcanzó a articular McGonagall con voz contenida, tragando saliva antes de volver a mirar el pergamino.
+
+Harry descendió los peldaños de la tarima con paso firme y se dirigió hacia la mesa de Ravenclaw.
+
+A mitad de camino, sus ojos se cruzaron por una fracción de segundo con los de Lyra Malfoy al otro lado del pasillo central. La heredera de los Slytherin lo observaba con una ceja arqueada y una sonrisa minúscula, casi imperceptible, en la comisura de los labios: una mirada que reconocía que el muchacho de la gorra de lana había cumplido su palabra de no terminar en una casa vulgar y que la partida entre ambos acababa de adquirir un nivel de complejidad infinitamente superior.
+
+Al llegar a la mesa del águila, Terry Boot y Robert Hilliard, el prefecto principal de séptimo año, se levantaron para estrecharle la mano con una calidez respetuosa y desprovista de servilismo:
+
+—Bienvenido a la Torre, Harry —dijo Hilliard con una sonrisa serena y ojos brillantes—. Aquí no te pediremos que cuentes batallas que no recuerdas; te pediremos que pienses con rigor y que defiendas tus argumentos con pruebas. Toma asiento.
+
+Harry se sentó entre Terry Boot y un muchacho de rostro despierto llamado Anthony Goldstein, acomodándose la túnica con un movimiento fluido. Al alzar la vista hacia la mesa alta para examinar el banquete, sintió de nuevo la quemadura sorda y punzante en el centro de su frente.
+
+El dolor no procedía de la mirada severa de Snape.
+
+Procedía del profesor Quirrell, cuyo turbante púrpura yacía inclinado hacia adelante mientras sus ojos esquivos evitaban a toda costa encontrarse con las pupilas verdes del nuevo alumno de Ravenclaw.
+
+Harry apretó los labios, registró la distancia geométrica exacta en su archivo mental y dirigió su atención hacia la ceremonia que aún continuaba en el estrado.
+
+Un segundo después, el sombrero gritó su última sentencia de la noche:
+
+—¡GRYFFINDOR!
+
+Ron Weasley, con la palidez verdosa de quien acaba de bajar de una montaña rusa averiada, marchó tropezando hacia la mesa del león dorado, donde sus hermanos lo recibieron con palmadas sonoras en la espalda que casi lo derribaron sobre los platos de oro.
+
+La profesora McGonagall enrolló el pergamino oficial, tomó el sombrero y el taburete bajo el brazo y abandonó la tarima con paso enérgico.
+
+Albus Dumbledore se puso en pie en el centro de la mesa alta.
+
+El director abrió los brazos de par en par con una sonrisa radiante y expansiva, como si nada en el mundo pudiera resultarle más grato que contemplar a aquel centenar de muchachos congregados bajo su techo:
+
+—¡Bienvenidos! —anunció Dumbledore con una voz resonante y melodiosa que llenó cada rincón del Gran Comedor—. ¡Bienvenidos a un nuevo año lectivo en Hogwarts! Antes de dar comienzo a nuestro tradicional banquete, me gustaría pronunciar unas pocas palabras. Y aquí están: ¡Papanatas! ¡Llorones! ¡Baratijas! ¡Pellizco!… ¡Muchas gracias!
+
+El anciano volvió a sentarse en su trono dorado con una reverencia cómica.
+
+Todo el salón estalló en aplausos divertidos y risas juveniles.
+
+—¿Está un poco desquiciado, no es cierto? —susurró Terry Boot al oído de Harry con una sonrisita irónica mientras los platos vacíos de oro comenzaban a llenarse mágicamente ante sus ojos.
+
+Harry observó a Dumbledore mientras el director se servía una porción moderada de faisán asado con una tranquilidad absoluta:
+
+—No está desquiciado en absoluto, Terry —respondió Harry con voz templada y analítica, sirviéndose un trozo de ternera y patatas asadas con movimientos medidos—. Las cuatro palabras corresponden a los términos peyorativos tradicionales que cada una de las casas utiliza históricamente para despreciar a las otras tres: los de Ravenclaw llaman papanatas a los impetuosos; los de Gryffindor llaman llorones a los cautos; los de Slytherin llaman baratijas a los trabajadores modestos; y los de Hufflepuff pellizcan a los que se creen superiores. Está recordándole a todo el colegio que el prejuicio entre casas es una tontería semántica… pero lo hace disfrazado de payaso para que nadie se sienta atacado directamente. Es un ejercicio de manipulación retórica impecable.
+
+Terry Boot se quedó con el tenedor en el aire a medio camino de la boca, mirando a Harry con los ojos desorbitados por el asombro:
+
+—Por Merlín bendito, Harry… apenas llevas cinco minutos en esta mesa y acabas de desarmar el discurso del mago más poderoso de Europa como si fuese un ejercicio de gramática elemental. Definitivamente el Sombrero no se equivocó contigo.
+
+A su derecha, Anthony Goldstein soltó una risita suave mientras le pasaba la bandeja de guisantes:
+
+—Aquí en Ravenclaw nos gusta desmontar las metáforas antes de que se enfríen, pero no esperaba que el Niño que Vivió empezara con el Director en el primer plato. Mi tío trabaja en el Departamento de Misterios y siempre dice que Dumbledore utiliza el humor absurdo para desarmar a los inspectores ministeriales antes de que le hagan preguntas sobre el presupuesto escolar.
+
+Harry sonrió con discreción, manteniendo la conversación en un terreno académico neutral mientras saboreaba el guiso caliente. La comida en Hogwarts era abundante y de una calidad extraordinaria: filetes de ternera asados con romero, salchichas de cerdo crujientes, patatas doradas con mantequilla de hierbas y pudines esponjosos que hacían que los recuerdos de las cortezas rancias de pan en Surrey parecieran pertenecer a otra vida remota.
+
+Sin embargo, Harry comió con la moderación que Sirius le había inculcado: raciones equilibradas, masticación pausada y sin descuidar la observación del entorno.
+
+Frente a ellos, en la mesa de Slytherin, Lyra Malfoy conversaba en voz baja con Blaise Zabini y Theodore Nott. Sus modales con los cubiertos de oro eran impecables; no devoraba como Crabbe y Goyle, que amontonaban muslos de pollo en sus platos como si estuviesen abasteciendo un fuerte sitiado. De vez en cuando, la mirada gris de la niña se elevaba y se cruzaba con la de Harry a través del pasillo; no había desafío abierto en sus ojos, sino una vigilancia mutua, el reconocimiento tácito de dos mentes que sabían que el verdadero juego de Hogwarts no se jugaría en los pasillos a base de empujones, sino en la precisión del conocimiento.
+
+Hacia el final de la cena, cuando los postres dorados —tartas de melaza, helados de fresa y fuentes de frutas confitadas— dieron paso a los platos limpios, Dumbledore volvió a ponerse en pie.
+
+El murmullo del Gran Comedor se extinguió al instante.
+
+—Ahora que todos estamos bien alimentados y satisfechos —comenzó el director con tono grave y solemne—, debo pediros vuestra atención para los habituales avisos de principio de curso. Los alumnos de primer año deben saber que el Bosque Prohibido que rodea los terrenos del castillo está terminantemente vetado para todos los estudiantes, sin excepciones. Algunos de nuestros alumnos mayores harían bien en recordarlo también.
+
+La mirada centelleante de Dumbledore se desvió un instante hacia la mesa de Gryffindor, donde los gemelos Weasley sonrieron con inocencia fingida:
+
+—El señor Filch, el conserje, me ha pedido que os recuerde que no se permite hacer magia en los pasillos durante los recreos entre clases, y que la lista completa de objetos prohibidos en el interior del castillo —que este año asciende a cuatrocientos treinta y siete artículos— se encuentra clavada en la puerta de su despacho para quien desee consultarla.
+
+Dumbledore hizo una pausa prolongada. Su semblante, hasta entonces afable y distendido, se volvió repentinamente severo y sombrío, y su voz descendió hacia una frecuencia más baja que heló el aire del comedor:
+
+—Y finalmente, debo advertiros que este año, el pasillo del tercer piso del ala derecha está estrictamente fuera de los límites de cualquier alumno que no desee sufrir una muerte sumamente dolorosa.
+
+Un silencio glacial cayó sobre las cuatro mesas.
+
+Varios alumnos de primer año se miraron con el terror pintado en los ojos, esperando que el director rematase la frase con una carcajada cómica o una nueva broma absurda.
+
+Pero Dumbledore no sonrió. Mantuvo la mirada fija sobre el salón durante tres segundos de plomo antes de dar dos palmadas y ordenar el desalojo hacia los dormitorios.
+
+Harry no sintió miedo. Sintió cómo la última pieza del rompecabezas encajaba en su sitio con un chasquido mental definitivo:
+
+*El paquete de cuatro pulgadas de la cámara setecientos trece de Gringotts.*
+*El pasillo prohibido del tercer piso.*
+*Una advertencia pública de muerte dolorosa diseñada no para alejar a los curiosos, sino para provocar a cualquiera que tenga interés en lo que está oculto.*
+
+Dumbledore acababa de tender el cebo ante toda la escuela. Y Harry Potter sabía exactamente qué puerta no debía abrir a la ligera.

@@ -1,0 +1,142 @@
+# CAPÍTULO 9
+## La serpiente en el pasillo
+
+El paisaje más allá de la ventanilla del compartimento había dejado atrás las llanuras agrícolas del centro de Inglaterra para dar paso a la geografía abrupta de las Tierras Altas de Escocia. Montañas escarpadas cubiertas de pinos oscuros, ríos de aguas bravas que serpenteaban entre desfiladeros de granito y un cielo que se teñía rápidamente de un púrpura profundo anunciaban la proximidad del término del viaje.
+
+Dentro del compartimento, la atmósfera era cálida y olía a chocolate derretido, a masa de empanadas horneadas y a papel de envolver. Harry había terminado de guardar sus notas en el bolsillo interior de su túnica negra de trabajo, la cual ya se había puesto sobre la ropa de calle, ajustando los broches de tela con movimientos metódicos y precisos. A su lado, Ron intentaba enderezar la suya, que le quedaba notablemente corta en los tobillos, dejando al descubierto unos calcetines grises con remiendos visibles en los talones y las rodillas de sus pantalones viejos.
+
+Scabbers, la rata gorda, continuaba roncando sobre el asiento como si el viaje entero hubiese sido diseñado exclusivamente para su descanso digestivo tras devorar una corteza de pastel de caldero.
+
+Harry observaba la postura encorvada de su compañero de viaje. A pesar de la bravuconería infantil que Ron mostraba al hablar de sus hermanos mayores o del equipo de quidditch de los Chudley Cannons, el muchacho pelirrojo desprendía una ansiedad constante, un temor visceral a no dar la talla en un colegio donde su linaje familiar había dejado un rastro de prefectos, capitanes y alumnos ejemplares. Era una debilidad psicológica comprensible; cuando creces a la sombra de cinco hombres que ya han transitado el mismo camino antes que tú, cada paso propio parece una copia descolorida.
+
+—Ron —dijo Harry en voz baja, rompiendo el silencio que se había instalado en la cabina—. La ceremonia de selección… ¿cómo se realiza exactamente? En los libros de historia que leí en verano no se describe la mecánica del examen. Solo dicen que se asignan las casas en presencia de todo el colegio antes del banquete.
+
+Ron tragó saliva con dificultad, pasándose la lengua por los labios secos:
+
+—Fred y George dicen que es una especie de prueba de valor físico. Dicen que tienes que enfrentarte a un troll de montaña con las manos atadas a la espalda o resistir un encantamiento de dolor que te lanza el profesor Dumbledore desde el estrado. Dicen que duele muchísimo, pero… creo que estaban bromeando. Con ellos nunca se sabe. Aunque mi hermano mayor Bill me dijo una vez que no requería magia previa, que era algo más antiguo. Lo único que sé con certeza es que si el tribunal me pone en Slytherin, mi madre me enviará una carta vociferadora que se escuchará hasta en los muelles de Londres.
+
+—No habrá ningún troll en el Gran Comedor, Ron —repuso Harry con calma lógica, apoyando los codos sobre las rodillas—. Ninguna institución educativa seria expondría a un centenar de niños de once años sin instrucción previa a un combate físico frente a toda la junta de profesores; violaría siete estatutos del Comité de Seguridad Escolar del Wizengamot y provocaría demandas inmediatas de las familias protectoras. Lo más probable es que sea una evaluación de disposiciones cognitivas mediante un artefacto de clasificación pasiva. Un examen de aptitudes, no una carnicería.
+
+Ron lo miró parpadeando despacio, asimilando el razonamiento con una mezcla de desconcierto y alivio:
+
+—A veces hablas como si fueses el juez de un tribunal de apelaciones, Harry. Pero… ojalá tengas razón. Solo pensar en tener que pelear delante de toda esa gente me revuelve el estómago.
+
+De pronto, el murmullo constante de las ruedas sobre los rieles fue interrumpido por el sonido de pasos pesados en el corredor exterior. No eran los pasos ligeros de los alumnos de primer año que corrían buscando los baños tras el susto del sapo de Neville, ni el avance ceremonioso de los prefectos de sexto año con sus insignias plateadas brillando en la solapa; eran pisadas medidas, deliberadas, que denotaban una escolta física organizada con una intención de superioridad manifiesta.
+
+La puerta corredera de madera de cerezo y vidrio esmerilado se abrió sin previo aviso, deslizándose sobre los rieles con un golpe seco.
+
+En el umbral apareció una figura que Harry reconoció de inmediato.
+
+Lyra Malfoy permanecía en el centro del pasillo con una postura impecable, vestida con su túnica de paño negro de corte a medida que caía en pliegues rectos, sobrios y perfectamente planchados hasta el borde de sus botines de cuero lustrado. Su trenza rubia platino descansaba sobre su hombro derecho, recogida con una cinta de seda verde oscuro, y sus ojos grises, fríos, acerados y evaluativos, recorrieron el compartimento con la misma lentitud inquisitiva que había mostrado en la sastrería de Madame Malkin.
+
+A ambos lados de la muchacha, ocupando casi la totalidad del ancho del pasadizo como dos columnas de piedra maciza talladas a hachazos, se alzaban dos muchachos corpulentos, de hombros anchos, cuellos bovinos y expresiones aburridas: Vincent Crabbe y Gregory Goyle. Llevaban las manos metidas en los bolsillos de sus túnicas, y su presencia física dejaba claro que su único propósito en el tren era servir de barrera disuasoria y ariete mecánico ante cualquier contratiempo que pudiera incomodar a la heredera de los Malfoy.
+
+—Así que los rumores de los prefectos eran ciertos —dijo Lyra con su tono arrastrado, suave y calculador, dando un paso al frente para entrar en el compartimento sin pedir permiso ni esperar invitación alguna—. Están diciendo por todo el convoy que Harry Potter viaja en este vagón. Parece que al fin te has quitado esa ridícula gorra de lana de campesino que llevabas en el Callejón Diagon.
+
+Ron se puso rígido en su asiento al instante, clavando la mirada en los dos guardaespaldas con una hostilidad visceral que le encendió el cuello de rojo:
+
+—¿Y tú quién demonios eres para entrar aquí como si fueses la dueña del tren? —masculló el pelirrojo con aspereza.
+
+Lyra desvió los ojos hacia Ron durante una fracción de segundo, examinando su melena pelirroja, sus pecas salpicadas sobre la nariz y la túnica descolorida con una mueca de desdén glacial que parecía considerar su existencia un error del paisaje:
+
+—No hace falta que me digas quién eres tú —soltó la niña con una calma desarmante y ponzoñosa—. Pelo rojo, cara llena de manchas de sol y ropa heredada de tres hermanos anteriores. Mi padre me dijo que todos los Weasley tienen más hijos de los que pueden alimentar con el sueldo miserable del Departamento contra el Uso Indebido de la Magia. Debes de ser el más pequeño de la camada… el que se queda con las sobras de los demás.
+
+Ron se levantó del asiento de un salto elástico, con las orejas ardiendo en un tono carmesí furibundo y los puños apretados a los costados con tal fuerza que los nudillos se le tornaron blancos:
+
+—¡Repite eso si te atreves, Malfoy! ¡Repítelo en mi cara!
+
+Crabbe y Goyle dieron medio paso al frente al unísono, tensando los brazos gruesos y bloqueando la salida con una pesadez intimidatoria que hizo que la madera del marco crujiera bajo su peso.
+
+Harry no se levantó de su asiento. Permaneció sentado junto a la ventanilla, con la espalda recta, las manos descansando sobre las rodillas y la mirada verde clavada en los ojos grises de Lyra con una fijeza analítica que desprendía una autoridad gélida, desprovista de cualquier agitación emocional visible.
+
+—Baja los puños, Ron —ordenó Harry en voz baja, pero con una firmeza tan profunda y templada que hizo que el pelirrojo vacilara en seco y retrocediera medio palmo hacia el asiento—. Las disputas físicas en un compartimento de tres metros cuadrados solo sirven para romper cristales, abollar los baúles y darle al maquinista una excusa reglamentaria para dejarnos en el siguiente apartadero de carga antes de cruzar las puertas del colegio. No alimentes una provocación que busca exactamente esa reacción.
+
+Harry giró la cabeza despacio hacia Lyra, sosteniéndole la mirada sin parpadear una sola vez:
+
+—Y tú, señorita Malfoy, deberías recordar que la nobleza de una casa antigua se demuestra en la mesura de sus palabras y en la elegancia de su conducta, no en recurrir a los chismes de sobremesa que tu padre repite para descalificar a una familia que peleó en primera línea mientras otros firmaban declaraciones juradas de coacción bajo fianza en los sótanos del Ministerio.
+
+El silencio que cayó sobre el compartimento fue tan denso que el traqueteo de la locomotora sobre las vías pareció amortiguarse de golpe.
+
+Lyra no se ruborizó, pero un ligero rictus de tensión endureció las comisuras de sus labios afilados. La mención encubierta a la coacción y las fianzas ministeriales —la fórmula jurídica exacta mediante la cual Lucius Malfoy había eludido el encarcelamiento en Azkaban tras la caída del Señor Tenebroso, alegando que había actuado bajo la maldición *Imperius*— era un golpe dialéctico directo a la línea de flotación de su estatus familiar. Nadie de once años se atrevía jamás a insinuar la fragilidad de la honorabilidad de los Malfoy en público, y mucho menos con la serenidad de quien cita un acta notarial pública.
+
+La niña dio un paso más hacia el interior de la cabina, clavando sus ojos grises en los de Harry con una intensidad renovada, donde la altivez inicial había sido reemplazada por una curiosidad peligrosa y afilada:
+
+—Parece que has estado leyendo crónicas judiciales antes de venir al colegio, Potter —dijo ella, bajando el tono hacia una cadencia más íntima, pausada y envolvente—. O quizás alguien con la memoria muy amarga y mucho tiempo libre te ha llenado la cabeza de rencores viejos en algún rincón oscuro de Inglaterra. Mi padre dice que en este mundo hay familias que comprenden hacia dónde se inclina la balanza del poder y familias que se empeñan en hundirse abrazadas a causas perdidas por una terquedad absurda. Muy pronto descubrirás que no todas las compañías son iguales en Hogwarts. Tú eres un Potter; llevas la sangre de los veintiocho linajes sagrados en las venas, aunque hayas pasado diez años viviendo entre muggles ignorantes que no saben distinguir una varita de un atizador de leña. No querrás empezar tu carrera escolar eligiendo el bando equivocado por culpa de una mala influencia en el tren.
+
+Lyra extendió su mano derecha hacia él: una mano delgada, pálida, de dedos largos y uñas perfectamente pulidas, con un anillo de plata fina luciendo en el meñique que portaba el blasón de la serpiente de los Malfoy:
+
+—Yo puedo presentarte a la gente que importa de verdad. A los que tendrán influencia real en el Wizengamot dentro de diez años y a los que manejan los resortes económicos de este país. Es una oferta que no suelo repetir dos veces a nadie.
+
+Ron contuvo la respiración al otro lado de la mesa, mirando a Harry con una angustia evidente en el semblante, temiendo que el legendario Niño que Vivió sucumbiera a la influencia aristocrática de los Slytherin antes de pisar el Gran Comedor.
+
+Harry observó la mano extendida durante tres segundos completos.
+
+Examinó la blancura de la piel, la calidad del metal en el anillo y la postura tensa de los dos guardaespaldas en el pasillo. Luego, alzó la vista hacia el rostro de Lyra y mantuvo los brazos cruzados con tranquilidad sobre el pecho:
+
+—Agradezco la cortesía de la oferta, señorita Malfoy —respondió Harry con una cortesía formal que cortaba como el cristal de una probeta de laboratorio—. Pero la historia de este país demuestra que quienes se apresuran a elegir bando antes de comprender el terreno suelen terminar sirviendo como peones sacrificables en guerras que no son suyas. Prefiero reservarme el juicio sobre quién importa y quién no hasta haber examinado las pruebas y los hechos por mi propia cuenta.
+
+La mano de Lyra permaneció en el aire durante un latido incómodo antes de descender lentamente hacia su costado. Sus ojos grises se entrecerraron con una frialdad peligrosa, pero en el fondo de sus pupilas no había furia vulgar, sino el reconocimiento táctico de que aquel muchacho no podía ser comprado con promesas de estatus ni intimidado con desplantes sociales:
+
+—Es una lástima, Potter —murmuró la niña con voz de seda envenenada—. La neutralidad en tiempos de asedio suele ser la postura más peligrosa de todas. Los que intentan caminar por el medio son los primeros en ser aplastados cuando las puertas se cierran y los bandos toman posiciones.
+
+Detrás de ella, Gregory Goyle, que parecía aburrido de la esgrima dialéctica y tenía los ojos fijos en los restos de empanadas de calabaza y pasteles de caldero sobre la mesita central, dio un paso pesado hacia adelante y extendió una mano gruesa, tosca y sucia para coger una rana de chocolate que descansaba junto al regazo de Ron:
+
+—Si vosotros no os vais a comer esto… —gruñó el muchacho con voz cavernosa y descuidada.
+
+El movimiento fue torpe y desprovisto de atención. Al inclinarse sobre el asiento, la bota pesada de Goyle pisó sin querer el dobladillo de la manta donde Scabbers continuaba durmiendo.
+
+Lo que sucedió a continuación ocurrió a una velocidad que desafió cualquier cálculo previo.
+
+La rata gris no emitió un chillido de roedor asustado; soltó un bufido ronco, casi humano, y en un parpadeo saltó hacia arriba con las cuatro patas extendidas. Sus dientes largos y amarillentos no buscaron la tela del abrigo: se clavaron con una ferocidad salvaje y milimétrica en el nudillo central del dedo índice derecho de Goyle, perforando la carne hasta el hueso.
+
+Goyle soltó un alarido ensordecedor que hizo vibrar los paneles del compartimento y resonó en todo el vagón:
+
+—¡AAAAAAAH! ¡QUITÁDMELA! ¡ME ESTÁ COMIENDO LA MANO!
+
+El muchacho comenzó a sacudir el brazo en el aire como si se hubiese prendido fuego, girando sobre sí mismo mientras la rata permanecía aferrada a sus nudillos con una mandíbula de presa implacable que no se soltaba a pesar de los manotazos. Crabbe retrocedió tropezando contra el marco del pasillo y golpeándose la nuca, mientras Lyra daba dos pasos atrás con una mueca de repugnancia visceral, apartándose de la trayectoria del torpe gigante con un movimiento impecable de su falda.
+
+Goyle estrelló la mano contra el cristal de la ventanilla; el impacto desprendió al animal, que salió volando por los aires y cayó pesadamente sobre el regazo de Harry.
+
+Goyle se apretó la mano ensangrentada contra el pecho, aullando de dolor mientras la sangre le manaba entre los dedos y le manchaba la pechera de la túnica:
+
+—¡Esa cosa inmunda está rabiosa! ¡Vámonos, Lyra, vámonos antes de que me arranque otro dedo!
+
+Lyra lanzó una última mirada glacial sobre el compartimento, deteniéndose un segundo en Harry, que sostenía a la rata inmóvil con una tranquilidad absoluta sobre sus rodillas:
+
+—Nos veremos en el castillo, Potter —sentenció la niña con voz cortante y gélida—. Y la próxima vez, no habrá cortesías formales de por medio.
+
+Dio media vuelta con un giro seco de su capa negra y desapareció por el pasillo, seguida de cerca por Crabbe y por los gemidos agónicos de Goyle que se alejaban hacia el vagón delantero en busca del botiquín de los prefectos.
+
+Ron se dejó caer de golpe en su asiento, respirando con dificultad y mirando a Harry con una mezcla de júbilo y asombro desbordante:
+
+—¡Por las barbas de Merlín! ¡Le has cerrado la boca a los Malfoy en su propia cara! ¡Y Scabbers… jamás había visto a Scabbers moverse tan rápido en toda mi vida! ¡Creí que esa rata estaba medio muerta por la edad! ¡Ha mordido a ese bruto como si fuese un perro de caza!
+
+Ron extendió la mano apresuradamente para recoger a su mascota, pero Harry no se la entregó de inmediato.
+
+El muchacho sostenía al animal por el lomo con una mano firme y enguantada. Scabbers no temblaba de dolor tras el golpe contra el cristal, ni mostraba el jadeo superficial y atolondrado de una rata que acaba de morder a un agresor por miedo ciego; sus ojillos negros y brillantes miraban fijamente a Harry con una fijeza siniestra, cargada de una inteligencia ladina, fría y clandestina que no pertenecía a ninguna bestia común de madriguera.
+
+Harry pasó la yema de su pulgar sobre la pata delantera derecha del roedor, rozando con una presión sutil la cicatriz lisa y redondeada donde faltaba la falange completa.
+
+El animal intentó zafarse con un movimiento brusco y desesperado, tensando los tendones del lomo, pero Harry apretó los dedos un milímetro más, inclinándose hacia el oído de la rata mientras susurraba en un tono inaudible para Ron, modulado con la calma de un carcelero que conoce la verdad:
+
+—Un mordisco muy preciso para un roedor doméstico, ¿verdad? Casi parece el instinto de un veterano de guerra que sabe exactamente en qué nervio morder para que lo suelten sin darle tiempo a desenfundar una varita.
+
+La rata se quedó completamente rígida bajo su mano, paralizada por una tensión que parecía rozar el pánico absoluto. Su respiración se detuvo durante tres segundos, y sus ojos vidriosos se clavaron en los ojos verdes del hijo de James Potter como si estuviese viendo a un espectro emergido del fondo de Godric's Hollow.
+
+Harry soltó al animal sobre el regazo de Ron con un movimiento suave, limpio y desinteresado, limpiándose los dedos con un pañuelo de lino crudo:
+
+—Deberías vigilarla con más cuidado, Ron. Los animales que se esconden demasiado tiempo en los rincones oscuros suelen morder cuando menos te lo esperas, sobre todo si sienten que su disfraz ya no engaña a nadie.
+
+Ron parpadeó, desconcertado por el tono enigmático de la advertencia, pero acarició la cabeza de Scabbers con torpeza:
+
+—Bah… solo es una rata vieja y gruñona. Supongo que ese bruto de Goyle le pisó la cola y se defendió. De todos modos, se lo tenía bien merecido por intentar robarse los pasteles.
+
+Antes de que Harry pudiera añadir una sola palabra, la voz amplificada mágicamente del conductor resonó a través de los altavoces de bronce del techo, haciendo vibrar los cristales del compartimento:
+
+—*Llegaremos a la estación de Hogsmeade en cinco minutos. Por favor, dejen su equipaje en los compartimentos; el personal del colegio se encargará de trasladarlo a los dormitorios correspondientes según las casas asignadas.*
+
+El tren aminoró la marcha sensiblemente, haciendo chirriar los frenos de hierro sobre las vías húmedas mientras el silbato de vapor anunciaba la llegada definitiva con tres toques cortos y agudos.
+
+Harry se puso en pie, ajustó su varita de acebo en la funda oculta bajo la manga derecha de su túnica negra y miró a través de la ventanilla hacia la oscuridad de la noche escocesa, donde las luces lejanas de un andén de madera rústica y los faroles de tormenta comenzaban a vislumbrarse entre la niebla baja de las colinas.
+
+La fase del viaje había concluido. El tablero de Hogwarts estaba desplegado ante él con todas sus piezas en movimiento, y el Sombrero Seleccionador aguardaba en el Gran Comedor para escuchar la respuesta del cuervo.

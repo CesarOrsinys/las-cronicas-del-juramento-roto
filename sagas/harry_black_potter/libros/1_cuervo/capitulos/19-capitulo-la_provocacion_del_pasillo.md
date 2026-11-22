@@ -1,0 +1,116 @@
+# CAPÍTULO 19
+## La provocación del pasillo y el mapa de las rondas
+
+La cena del martes transcurrió en el Gran Comedor bajo un ambiente cargado de tensiones soterradas, miradas furtivas y rumores que circulaban a media voz entre las cuatro mesas de las casas. El otoño escocés avanzaba con paso firme hacia finales de octubre, y las calabazas gigantescas cultivadas por Hagrid en los huertos exteriores, ya talladas por el profesor Flitwick con muecas grotescas e iluminadas por velas de grasa mágica parpadeantes, decoraban los arcos ojivales, las cornisas de piedra y los descansillos del salón principal, anticipando la llegada inminente de la víspera de Todos los Santos.
+
+Harry se encontraba sentado en la bancada central de Ravenclaw, terminando con calma un plato abundante de pastel de carne y riñones con guisantes tiernos, mientras conversaba en voz baja con Terry Boot y Michael Corner sobre las complejidades de la astronomía observacional y el alineamiento de las lunas de Júpiter que la profesora Sinistra les había exigido trazar en sus cartas celestes para la medianoche del jueves. El calor de las antorchas y el aroma a corteza tostada proporcionaban un refugio agradable frente a la lluvia helada que repiqueteaba rítmicamente contra las vidrieras góticas del castillo.
+
+De repente, una sombra alargada, angulosa y fría se proyectó sobre la superficie de roble de su mesa, interrumpiendo el flujo de luz de las velas flotantes.
+
+Draco Malfoy se había acercado por el pasillo central que dividía las mesas de Ravenclaw y Hufflepuff, flanqueado como de costumbre por Vincent Crabbe y Gregory Goyle como dos centinelas pesados y amenazantes. El muchacho rubio no lucía en esta ocasión la mueca de ira histérica de los días anteriores; en su lugar, mostraba una sonrisa de suficiencia calculada, de esas que solo exhiben los aristócratas cuando creen tener una carta triunfal guardada en la manga para aplastar a un rival sin arriesgar nada propio. A tres metros de distancia, observando la escena con la espalda apoyada contra el respaldo del banco de Slytherin, Lyra Malfoy sostenía su barbilla sobre los dedos entrelazados, con sus pupilas grises clavadas en Harry con una frialdad impenetrable que no dejaba traslucir el menor juicio de valor.
+
+—Vaya, parece que el flamante y mimado buscador de Ravenclaw prefiere llenarse la boca de hojaldre y salsa en lugar de demostrar si tiene verdadero coraje fuera de las aulas —dijo Draco con una voz arrastrada que pretendía sonar relajada pero que vibraba con un rencor mal disimulado—. Todo el mundo en los pasillos habla de tus reflejos en el aire, Potter, pero volar sobre una escoba de mil galeones que te regalaron por lástima no demuestra si eres un mago de verdad o solo un huérfano con suerte que se esconde detrás de las faldas de los profesores.
+
+Terry Boot dejó el tenedor sobre el plato con un golpe seco y metálico que resonó en la mesa, dispuesto a ponerse en pie para encararse con el muchacho de Slytherin, pero Harry le puso una mano tranquila y firme sobre el antebrazo, indicándole con un gesto suave de cabeza que no interviniera ni cayera en la provocación.
+
+Harry tragó el bocado con absoluta parsimonia, se limpió la comisura de los labios con la servilleta de lino blanco y levantó la vista hacia Draco con una mirada límpida, serena y desprovista de cualquier agitación emocional o pulso acelerado:
+
+—El valor en el aire se mide en yardas de vuelo, en ángulos de picado y en tiempos de reacción milimétricos, Malfoy. Si has cruzado todo el Gran Comedor hasta la mesa de Ravenclaw, supongo que no ha sido para elogiar la calidad de la cocina del castillo ni la sazón del pastel. ¿Qué es exactamente lo que quieres proponer?
+
+Draco se inclinó ligeramente hacia adelante sobre la mesa, bajando la voz hasta un susurro sibilante y venenoso que apenas cruzó el ancho de los bancos de madera:
+
+—Un duelo de magos formal, Potter. Tú y yo, esta misma noche. Solo varitas, sin contacto físico vulgar ni trucos de feria muggle. A menos, por supuesto, que prefieras quedarte temblando bajo las mantas de tu dormitorio o pedirle al capitán Davies que te arrope para no tener pesadillas en la torre.
+
+Un silencio denso y repentino se apoderó de los estudiantes de Ravenclaw que estaban sentados cerca. Michael Corner abrió los ojos con alarma; un reto a duelo formal era un asunto de extrema gravedad según las tradiciones y el código de honor del mundo mágico, y estaba terminantemente prohibido entre los alumnos menores de quinto curso bajo pena de severas sanciones disciplinarias e incluso la suspensión inmediata de la matrícula escolar.
+
+Harry sostuvo la mirada de Draco sin pestañear una sola vez. Con la disciplina que Sirius le había enseñado en las noches solitarias de Yorkshire, evaluó con rapidez la postura física del muchacho de Slytherin: los hombros ligeramente encorvados hacia adelante, el peso corporal desplazado de manera insegura sobre el talón derecho y esa mirada ansiosa y esquiva que delata de forma inequívoca a quien no busca una confrontación de honor frente a frente, sino tender una emboscada con ventaja previa para regodearse en la desgracia ajena.
+
+—Un duelo formal requiere condiciones muy precisas según el código del Wizengamot, Malfoy —respondió Harry con voz tranquila, pausada y perfectamente articulada—. ¿Lugar, hora exacta y padrinos designados?
+
+Draco sonrió con una arrogancia desmedida, creyendo con ingenuidad que el muchacho de Ravenclaw había mordido el anzuelo hasta el fondo:
+
+—A medianoche en punto. En la sala de trofeos del tercer piso. Vincent Crabbe será mi padrino de armas. Tú puedes traer a cualquiera de estos ratones de biblioteca si es que alguno de ellos se atreve a salir de la cama sin pedirle permiso por escrito al prefecto de turno.
+
+—Allí estaremos a medianoche en punto —contestó Harry con una frialdad y una compostura impecables.
+
+Draco soltó una risita burlona y estridente, dio media vuelta sobre sus talones lustrosos y se marchó con paso triunfal hacia la mesa de Slytherin, seguido pesadamente por sus dos fornidos guardaespaldas, celebrando entre susurros lo que consideraban una victoria anticipada.
+
+En cuanto el trío de Slytherin se hubo alejado lo suficiente hacia el otro extremo del salón, Terry Boot se inclinó hacia Harry con el rostro demudado por la angustia y los ojos desorbitados:
+
+—¡¿Te has vuelto completamente loco de remate, Harry?! ¡La sala de trofeos está en el ala este del tercer piso, a escasos cincuenta metros del corredor prohibido donde Dumbledore dijo que nos esperaba una muerte atroz! Y a medianoche… ¡Argus Filch y esa maldita gata esquelética recorren esa ala a partir de las once y media en sus rondas más estrictas! ¡Si nos sorprenden fuera de la cama a esas horas nos quitarán cien puntos a Ravenclaw y la profesora McGonagall nos expulsará antes de que termine la semana!
+
+—Cálmate, Terry, baja la voz y termina tu cena —le susurró Harry con una sonrisa mesurada y reflexiva—. No nos van a atrapar de ninguna manera porque sé perfectamente cuál es el plan real de Malfoy.
+
+—¿Cuál es su plan? —preguntó Terry desconcertado, arrugando la servilleta entre sus dedos sudorosos.
+
+—Draco Malfoy no sabe batirse en un duelo de magos —analizó Harry con una calma quirúrgica y demoledora—. Apenas conoce dos o tres encantamientos elementales de chispas y zancadillas, y carece por completo de la disciplina mental y del pulso para sostener un intercambio de varitas en la oscuridad de una galería cerrada. No piensa presentarse en la sala de trofeos esta noche, Terry. Su verdadero plan es avisar a Argus Filch mediante una delación anónima de que un grupo de alumnos de primer año estará en la sala de trofeos a medianoche para que el celador nos pille con las manos en la masa y nos arrastre al despacho del director, mientras él se queda durmiendo plácidamente en las mazmorras fingiendo inocencia.
+
+Terry se quedó con la boca abierta de par en par, asimilando la bajeza moral y la cobardía de la maniobra:
+
+—Ese miserable cobarde… Es una trampa repugnante y sucia. Entonces, ¿por qué demonios aceptaste el reto delante de todo el mundo? ¿Acaso no vamos a ir a la cita?
+
+—Iremos al tercer piso —respondió Harry con una chispa de viva determinación en sus ojos verdes—. Pero no iremos a la sala de trofeos a esperar como corderos asustados en el matadero. Iremos a observar el despliegue de patrulla de Filch, a cronometrar sus rondas nocturnas con exactitud y a comprobar sobre el terreno qué es lo que realmente hay detrás de la puerta del tercer piso cuando el castillo queda sumido en el silencio absoluto de la noche. El conocimiento minucioso de los pasillos es una ventaja táctica invaluable, Terry; y esta noche vamos a cartografiar la vigilancia de Hogwarts mientras Filch pierde el tiempo registrando armarios vacíos.
+
+Al terminar la cena y salir del Gran Comedor para emprender el largo ascenso hacia la torre, Harry se despidió momentáneamente de Terry y Padma con la excusa de devolver un tomo de consulta al ala de lectura. Mientras caminaba por el corredor de los tapices flamencos, al pasar junto a una imponente estatua de granito que representaba a un guerrero medieval con armadura completa y celada bajada, sintió que una mano enguantada en terciopelo le tiraba suavemente de la manga de la túnica desde las sombras de la hornacina.
+
+Harry reaccionó con los reflejos automáticos que Sirius le había grabado a fuego: su mano derecha resbaló de inmediato hacia el bolsillo interior de la pechera, aferrando la madera cálida de su varita de acebo antes de girarse sobre sus talones.
+
+Era Lyra Malfoy.
+
+La niña de Slytherin se encontraba resguardada en el hueco oscuro de la pared, con los brazos cruzados con elegancia sobre el pecho y el cabello rubio platino recogido en una trenza impecable que caía sobre su hombro derecho. Miró con rapidez hacia ambos extremos del corredor desierto para cerciorarse de que no hubiera oídos indiscretos antes de clavar sus penetrantes pupilas grises en el rostro de Harry:
+
+—Eres un auténtico idiota si piensas presentarte en la sala de trofeos esta noche, Potter —dijo la muchacha con un tono seco, bajo, aristocrático y afilado como una navaja de afeitar de plata—. Mi hermano Draco es un estúpido consentido y arrogante, pero no es tan rematadamente imbécil como para arriesgar su propio pellejo en un duelo abierto que sabe de antemano que no puede ganar. Ya le ha dejado una nota manuscrita en el buzón del conserje a Filch diciendo que unos alumnos de Ravenclaw planean forzar las vitrinas de los premios especiales a las doce en punto.
+
+Harry contempló a la niña con una serenidad imperturbable, sin mostrar la menor sorpresa ni el más mínimo sobresalto ante la advertencia:
+
+—Lo sé perfectamente, señorita Malfoy. Supe que se trataba de una delación calculada en el mismo instante en que Draco propuso la sala de trofeos como escenario del encuentro. La estructura de esa galería es un callejón sin salida con una sola escalera de escape hacia el vestíbulo inferior; un lugar pésimo y desastroso para un duelo formal de caballeros, pero perfecto para una redada del celador.
+
+Lyra parpadeó desconcertada, y una sombra fugaz de asombro cruzó sus facciones pálidas y aristocraticas:
+
+—¿Lo sabías desde el principio? Y aun así… ¿tuviste la audacia de aceptar el reto delante de medio comedor escolar?
+
+—Si me negaba a aceptar el desafío, tu hermano habría pasado las próximas tres semanas pregonando por los corredores que los alumnos de Ravenclaw somos cobardes temblorosos que huimos ante la sola mención de las serpientes de Slytherin —explicó Harry con una voz templada, madura y profundamente reflexiva—. Al aceptar el duelo con firmeza, he fijado la hora y el lugar de su propia trampa. Y mientras Filch esté ocupado registrando la sala de trofeos con su linterna de aceite y buscando fantasmas entre las copas de plata, el resto del ala este quedará completamente desguarnecido de vigilancia.
+
+Lyra lo miró fijamente durante varios segundos que parecieron eternos en la penumbra del corredor. Por primera vez desde que se habían conocido en la tienda de Madam Malkin en el Callejón Diagon, una sonrisa genuina, desprovista de veneno altanero y cargada de una sincera admiración intelectual, curvó los labios pálidos de la niña:
+
+—Juegas con fuego muy peligroso, Potter. Tienes la astucia calculadora de una serpiente y la frialdad de un maestro de ajedrez, aunque te hayan puesto esa corbata de seda azul y bronce en la cabeza. Pero te advierto una cosa: Argus Filch no patrulla solo; esa gata infernal suya, la señora Norris, tiene un olfato que detecta el rastro del sudor humano a través de los tapices de terciopelo a veinte yardas de distancia. Si te atrapan esta noche, no cuentes con que yo testifique a tu favor ni dé la cara por ti ante el director Dumbledore.
+
+—Jamás esperaría que una heredera de la Casa Malfoy testificara a favor de un Potter —respondió Harry con una inclinación cortés de cabeza y una sonrisa mesurada—. Pero te agradezco el aviso, Lyra. Demuestra que en tu familia no todos comparten la afición vulgar por las trampas de patio de recreo.
+
+La muchacha ladeó ligeramente la cabeza, contemplándolo con una intensidad indescifrable en sus ojos grises, dio media vuelta con un movimiento grácil de su túnica de terciopelo verde y se perdió en el recodo de la escalera que descendía hacia los sótanos húmedos de las mazmorras.
+
+A las once y media de la noche, la sala común de Ravenclaw estaba sumida en una penumbra silenciosa y solemne. El fuego de la gran chimenea de mármol se había consumido casi por completo, reducido a un lecho de brasas rojizas que proyectaban sombras temblorosas sobre la estatua de mármol blanco de Rowena Ravenclaw y sobre los lomos dorados de los miles de volúmenes que cubrían las estanterías de la torre. Todos los estudiantes dormían profundamente en sus respectivos dormitorios circulares en las plantas superiores.
+
+Harry descendió la escalera de caracol de los chicos vestido con su ropa oscura de abrigo, pantalones de pana gruesa, botas de montar de cuero suave que no producían el menor ruido sobre las losas de piedra y su varita de acebo sujeta en la funda interior de su manga izquierda. A su lado, Terry Boot lo acompañaba con el rostro blanco como el papel y la respiración contenida, armado únicamente con su varita de madera de sauce y un pánico silencioso que intentaba dominar con todas las fuerzas de su voluntad.
+
+—Recuerda con precisión lo que practicamos en el dormitorio, Terry —le susurró Harry junto al umbral de la aldaba de bronce que custodiaba la salida—. Nada de pasos precipitados ni de arrastrar las suelas. Caminamos siempre pegados al zócalo de los muros para evitar las losas flojas que crujen con el peso, y si percibimos el menor resplandor de linterna o el roce de unos pasos, nos pegamos a los tapices, bajamos la barbilla y ralentizamos la respiración al mínimo.
+
+Harry abrió la pesada puerta de roble con un movimiento suave y milimétrico, y ambos muchachos se deslizaron hacia el corredor exterior del séptimo piso.
+
+El castillo de noche era un laberinto completamente distinto al bullicioso edificio que conocían durante las horas diurnas. Las corrientes de aire helado se filtraban por los ventanales góticos desprovistos de cortinas con un gemido lúgubre y constante; las pesadas armaduras de hierro que custodiaban los descansillos de las escaleras parecían centinelas vivos y amenazantes, dispuestos a dejar caer sus alabardas oxidadas ante el menor crujido; y los personajes de los retratos que cubrían los muros dormían pesadamente en sus marcos dorados, emitiendo ronquidos sordos y rítmicos que llenaban las galerías vacías con un rumor fantasmal.
+
+Harry avanzaba con un paso elástico, rítmico y felino, aplicando con rigor la disciplina de sigilo y camuflaje que Sirius le había inculcado durante aquellas largas noches de entrenamiento en los páramos de Yorkshire. Su oído estaba sintonizado con cada vibración del aire; sus ojos verdes, perfectamente adaptados a la penumbra gracias al control oclumántico de sus sentidos, escudriñaban cada recodo antes de permitir que Terry diera un paso al frente.
+
+Al descender por una escalera secundaria y alcanzar el rellano del cuarto piso, Harry se detuvo en seco, extendió el brazo hacia atrás y pegó a Terry contra la pared en sombras, detrás de un espeso tapiz que representaba a unos monjes medievales cazando jabalíes mágicos.
+
+A cincuenta metros de distancia, en el extremo norte del pasillo de los trofeos, el reflejo titilante y amarillento de una linterna de aceite bailaba sobre las losas húmedas de piedra caliza.
+
+Argus Filch.
+
+El celador avanzaba con su cojera pronunciada y siniestra, arrastrando los pies con un crujido de cuero viejo y sosteniendo en alto su linterna de latón oxidada. A sus pies, moviéndose con una lentitud espectral, la silueta esquelética, huesuda y parduzca de la señora Norris, su gata de ojos saltones como dos faros amarillentos y malévolos, olfateaba las rendijas de los zócalos con una concentración diabólica, moviendo los bigotes con cada bocanada de aire húmedo.
+
+—Huelo a algo vivo, mi tesoro… —murmuró la voz áspera, rasposa y cascada de Filch, rompiendo el silencio nocturno con un murmullo escalofriante que hizo que Terry contuviera el aliento hasta casi ahogarse—. Huelo a alumnos insolentes fuera de sus camas a medianoche… Estarán escondidos en la sala de trofeos, justo como decía la nota que dejaron en mi buzón… Vamos a cazarlos en su propia madriguera, sí… los llevaremos a las mazmorras y los colgaremos de los pulgares con las cadenas viejas hasta que amanezca el día…
+
+El celador y su gata enfilaron con paso apresurado el corredor que conducía directamente a la galería acristalada de las vitrinas de plata del tercer piso, alejándose de la posición donde Harry y Terry permanecían ocultos tras el terciopelo.
+
+—Tenías toda la razón del mundo… —susurró Terry con un hilo de voz quebrado por una mezcla de terror y un alivio inmenso—. Malfoy le tendió la trampa con la nota y Filch se ha tragado el cebo por completo. Si hubiéramos acudido a la sala de trofeos a esperar el duelo, estaríamos encadenados en las mazmorras ahora mismo.
+
+—La trampa se ha cerrado sobre una habitación vacía —analizó Harry en un susurro gélido, pausado y tranquilo, extrayendo de su bolsillo interior un pequeño trozo de pergamino doblado y una punta afilada de grafito para anotar con precisión los tiempos de desplazamiento—. Filch tardará al menos quince minutos completos en revisar cada una de las vitrinas de los premios escolares y registrar los armarios de servicio antes de darse cuenta de que lo han engañado miserablemente con una nota falsa. Eso nos deja una ventana temporal de seguridad perfecta para cruzar el corredor del ala oeste sin peligro de intercepción.
+
+—¿El ala oeste? —preguntó Terry desconcertado, mirando a su alrededor—. ¿Por qué quieres ir hacia allí? La torre de Ravenclaw está en la dirección contraria; deberíamos volver a la cama ahora que tenemos el camino despejado.
+
+—Porque el ala oeste conecta directamente con el rellano que da a la puerta prohibida del tercer piso, Terry —respondió Harry con una serenidad inquebrantable en la mirada—. Si queremos entender qué está ocurriendo realmente en este colegio y por qué se han desplegado semejantes medidas de seguridad, tenemos que comprobar con nuestros propios ojos qué es lo que Albus Dumbledore y los profesores están custodiando con tanto celo detrás de ese cerrojo prohibido.
+
+Sin esperar réplica ni dar margen a la duda, Harry reanudó la marcha en silencio por el corredor en penumbra, aprovechando las sombras protectoras de las columnas y la ausencia total de guardias en aquella sección de la fortaleza.
+
+La noche apenas acababa de comenzar, y el cuervo estaba a punto de posarse sobre el cerrojo del secreto más peligroso y letal de Hogwarts.

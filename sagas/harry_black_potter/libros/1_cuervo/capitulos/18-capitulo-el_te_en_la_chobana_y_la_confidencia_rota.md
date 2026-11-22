@@ -1,0 +1,138 @@
+# CAPÍTULO 18
+## El té en la choza y la confidencia rota
+
+La tarde del viernes trajo consigo una tregua bendita en los vendavales huracanados que durante días enteros habían azotado con violencia las altas almenas de Hogwarts. Una calma húmeda, densa y gris descendió lentamente sobre los valles escarpados de las Tierras Altas escocesas, envolviendo las orillas pedregosas del Lago Negro y las copas oscuras del Bosque Prohibido en una bruma espesa, helada y algodonosa que amortiguaba los ecos lejanos de la vida escolar. Las torres del castillo parecían agujas de piedra descolorida que se perdían entre las nubes bajas, y el aire que se colaba por los claustros abiertos olía a musgo congelado, a leña de roble húmeda y al invierno inminente que comenzaba a deslizarse desde el norte.
+
+Harry había recibido a primera hora de la mañana, durante el desayuno en la mesa de Ravenclaw, una pequeña nota manuscrita entregada por una lechuza común de aspecto desaliñado y plumas erizadas por la llovizna. El trozo de pergamino tosco estaba escrito con una caligrafía grande, descuidada, torpe y llena de manchas de tinta:
+
+*«Querido Harry:*
+
+*Sé que tienes las tardes libres los viernes antes de la cena de bienvenida del fin de semana. Me gustaría muchísimo que bajaras a tomar una buena taza de té a mi cabaña alrededor de las tres de la tarde. Tengo unas ganas tremendas de saber cómo te van las cosas por esa torre de Ravenclaw y charlar un rato sobre tus primeras semanas en el colegio. Ven solo o con algún amigo de tu entera confianza.*
+
+*Hagrid.»*
+
+Harry dobló la nota con parsimonia y la guardó con cuidado en el bolsillo interior de su túnica. Recordaba vívidamente al semigigante de barba hirsuta y corazón bondadoso con quien se había cruzado en el Callejón Diagon durante aquel caluroso verano londinense. Rubeus Hagrid era el guardián indiscutible de las llaves y los terrenos de Hogwarts, un hombre profundamente leal a Albus Dumbledore hasta la devoción absoluta, pero cuya franqueza espontánea, su ingenuidad infantil y su falta de malicia solían convertirlo en una fuente involuntaria de revelaciones cruciales para cualquiera que supiera escuchar entre líneas y conectar los silencios con los hechos observados.
+
+A las tres menos cinco, Harry descendió por los senderos de piedra rodada que bajaban serpenteando desde el patio de armas hacia la llanura oeste. Iba acompañado de Ron Weasley, a quien se había encontrado en el rellano del vestíbulo buscando desesperadamente cualquier distracción plausible para escapar de los agobiantes deberes de Transformaciones que la profesora McGonagall les había encomendado para el lunes siguiente.
+
+—Mi hermano mayor Charlie siempre me decía que Hagrid es la mejor persona y la más noble de todo el colegio —comentó Ron mientras saltaban juntos un charco de lodo helado junto a la verja que protegía los huertos de calabazas—. Vive solo en los lindes exteriores del bosque porque ninguna cama normal de los dormitorios del castillo aguantaría su peso descomunal sin venirse abajo. Además, los chicos mayores dicen que cuida de criaturas y bestias mágicas que harían temblar de miedo a los aurores más veteranos del Ministerio de Magia.
+
+La cabaña de Hagrid era una construcción rústica, robusta y solitaria de madera oscura de alerce y piedra rodada del río, levantada al borde mismo de los primeros pinos centenarios del Bosque Prohibido. En la parte posterior se extendía un huerto generoso donde crecían calabazas de un tamaño descomunal, algunas de ellas tan colosales como barriles de sidra, cubiertas bajo una lona encerada para protegerlas de las primeras heladas nocturnas. Junto a la pesada puerta de entrada colgaban una ballesta de hierro forjado, un carcaj de saetas de madera de fresno y un par de botas de montar embarradas de cuero negro de tamaño monumental.
+
+Harry dio tres golpes firmes con los nudillos sobre la gruesa madera de roble.
+
+Al instante, desde el interior se desató un coro ensordecedor y cavernoso de ladridos graves y profundos que hicieron vibrar los cristales emplomados de las ventanas, acompañados por el estrépito de muebles arrastrados y una voz atronadora que intentaba imponer orden a grito limpio:
+
+—¡Atrás, Fang! ¡Atrás he dicho, perro tonto! ¡Échate en tu cesta de una buena vez!
+
+La puerta se abrió con un crujido de bisagras, revelando la colosal figura de Rubeus Hagrid. El guardabosques vestía su habitual abrigo de piel de topo con bolsillos inmensos y desbordantes de cordeles, plumas de faisán y trozos de cecina seca; su rostro ancho y surcado de arrugas sonreía con una calidez desbordante a través de su maraña de barba y cabello oscuro que caía sobre sus hombros como una melena leonina. Con una mano del tamaño de una tapa de alcantarilla mantenía sujeto por el collar a un enorme perro gran danés negro que babeaba copiosamente y movía la cola con frenesí contra el suelo de losas.
+
+—¡Harry! ¡Pasa, muchacho, pasa de una vez antes de que entre el frío! —bramó el gigante con alegría contagiosa, abriendo la puerta de par en par—. Y has traído a otro Weasley, por lo que veo. Si no me equivoco con esa mata de pelo pelirrojo, esas pecas en la nariz y esa expresión de hambre atrasada, debes de ser el hermano pequeño de Ron, ¿verdad? Pasé la mitad de mi juventud sacando a tus hermanos gemelos Fred y George de los senderos prohibidos del bosque cuando se escapaban a buscar huevos de hipogrifo.
+
+—Soy Ron, señor Hagrid —se presentó el muchacho con timidez respetuosa mientras cruzaban el umbral de madera—. Y muchas gracias por recibirnos.
+
+El interior de la cabaña constaba de una sola estancia espaciosa, cálida y acogedora. Del techo bajo y ennegrecido por el hollín colgaban jamones curados, ristras de cebollas silvestres, manojos de lavanda y hierbas secas cuyo aroma a resina de pino y humo de turba llenaba el ambiente con una atmósfera hogareña y campestre. En una esquina descansaba una cama gigantesca cubierta con una colcha de retazos de lona y pieles de cordero, y en el centro ardía un fuego alegre y chisporroteante en una chimenea de piedra abierta sobre la que reposaba una tetera de cobre del tamaño de un caldero escolar de tamaño cuatro.
+
+Hagrid soltó al perro, que se abalanzó de inmediato sobre Harry, no con ferocidad, sino para restregar su enorme y húmedo hocico negro contra la túnica del chico y lamerle las manos con un entusiasmo desmedido que amenazaba con tirarlo al suelo.
+
+—Échate, Fang, deja tranquilo al muchacho —reprendió Hagrid con cariño bonachón, sirviendo un té oscuro, espeso y humeante en tres jarras de barro cocido tan grandes y pesadas que Harry tuvo que sujetar la suya con ambas manos para no derramar el líquido hirviendo sobre la mesa—. Tomen, tomen un buen trago largo para espantar el relente de la tarde escocesa. Y aquí tienen una fuente de pasteles de roca recién salidos del horno. Cuidado que están un poco crujientes por fuera, pero llenan el estómago para todo el día.
+
+Hagrid depositó sobre la mesa de pino un plato colmado de unos bollos oscuros, rugosos e informes que parecían auténticos pedernales extraídos de una cantera de granito. Ron intentó morder uno con entusiasmo y estuvo a punto de fracturarse un colmillo en el empeño, disimulando su mueca de dolor mientras depositaba el pedazo intacto con disimulo sobre el borde del platillo.
+
+Harry, por su parte, tomó un sorbo medido del té caliente, sintiendo cómo el calor le reconfortaba el pecho tras la caminata por el viento. Observó la estancia con su habitual atención analítica y minuciosa: en una repisa de madera junto a la ventana vio herramientas de forja, tenazas de herrero, frascos sellados con ungüentos para picaduras de mantícora y, doblado sobre la mesa de trabajo de carpintería, un ejemplar atrasado del diario *El Profeta*, fechado a finales de julio de aquel mismo año.
+
+—Bueno, Harry, cuéntame despacio —dijo Hagrid, acomodando su inmenso cuerpo en un sillón de mimbre trenzado que crujió ruidosamente bajo su peso como si fuera a partirse en dos—. ¿Cómo van las cosas por esa torre tan alta de Ravenclaw? Todos en el colegio dicen que eres el alumno más despierto que ha pisado esas aulas en décadas enteras. El profesor Flitwick no paraba de cantar tus alabanzas ayer en la sala común de profesores, diciendo que manejas los encantamientos de levitación sin pronunciar una sola palabra en voz alta, como si hubieras nacido con una varita de fresno en la cuna.
+
+—Las clases son fascinantes, Hagrid —respondió Harry con modestia sincera y voz pausada—. Los profesores tienen un nivel extraordinario y la biblioteca es un tesoro inagotable. Aunque las mazmorras son bastante más frías de lo que esperaba para un aula de ciencias.
+
+El rostro de Hagrid se ensombreció ligeramente al escuchar la mención a los sótanos; sus ojos negros brillaron con una chispa de inquietud y pesadumbre tras sus tupidas cejas pobladas:
+
+—Ah… Severus Snape. Me han llegado rumores de que te hizo pasar un examen bastante duro e injusto en tu primera sesión práctica de Pociones. Pero no le hagas mucho caso a Severus, muchacho. Es un buen mago, leal a Albus Dumbledore hasta los mismos huesos, pero… bueno, tiene un carácter amargo, solitario y difícil, y no le gusta que los alumnos recién llegados destaquen demasiado rápido en sus dominios. Casi nunca le cae bien nadie que no vista la túnica verde y plata de su propia casa.
+
+—A mí no me pareció simplemente una cuestión de exigencia docente o de severidad académica, Hagrid —señaló Harry con voz tranquila y meditada, sosteniendo la jarra entre sus dedos mientras clavaba sus ojos verdes en el gigante—. Snape me miró como si conociera a mi padre desde hacía muchos años… y como si guardara una deuda pendiente y dolorosa con él que ahora pretende cobrarme a mí en cada clase.
+
+Hagrid desvió la mirada hacia las brasas de la chimenea con una incomodidad patente, frotándose las manos gigantescas sobre los pantalones de pana:
+
+—Tonterías de muchachos, chiquilladas de colegio de hace quince años… Tu padre James y él no se llevaban bien en sus tiempos de estudiantes en Hogwarts, eso es toda la verdad. Eran jóvenes orgullosos y tenían rivalidades tontas entre Gryffindor y Slytherin, de esas que ocurren siempre entre casas rivales. Cosas del pasado que quedaron enterradas hace mucho tiempo y que no tienen absolutamente nada que ver contigo, Harry. Dumbledore confía plenamente en Severus Snape, y con eso debería bastarle a cualquiera en este castillo para dormir tranquilo.
+
+Harry asintió en silencio sin insistir. Forzar a Hagrid a profundizar sobre la animadversión de Snape solo conseguiría que el guardabosques cerrara la boca por lealtad inquebrantable a las órdenes del director; pero la confirmación involuntaria de aquella antigua enemistad escolar encajaba a la perfección con las advertencias que Sirius le había formulado en sus cartas secretas sobre los rencores que James y Canuto habían sembrado en su juventud contra el alumno solitario de Slytherin.
+
+Para desviar la tensión que se había apoderado de la mesa, Ron intervino señalando el trozo de pastel de roca con curiosidad infantil:
+
+—Oye, Hagrid, ¿es verdad lo que susurran los alumnos mayores en los corredores sobre el perro gigante de tres cabezas que está encerrado en el tercer piso? ¿Es verdad que ese monstruo te pertenece a ti?
+
+Hagrid se atragantó con su propio sorbo de té, tosiendo con tal violencia que una lluvia de gotas oscuras y espesas salpicó la campana de la chimenea. Sus ojos se abrieron desorbitados por el espanto:
+
+—¿Cómo… cómo demonios saben ustedes sobre Fluffy? ¿Acaso han estado husmeando a escondidas por el corredor prohibido del tercer piso? ¡Dumbledore fue sumamente claro y terminante en el banquete de bienvenida sobre ese pasillo! ¡Dijo que cualquiera que no deseara morir de una forma sumamente dolorosa debía mantenerse alejado de esa puerta!
+
+—Nadie ha puesto un solo pie en ese pasillo, Hagrid —aclaró Harry de inmediato con una serenidad pacificadora y convincente—. Pero en la torre de Ravenclaw los prefectos y los alumnos mayores comentan que el suelo de esa ala está sellado con un encantamiento de confinamiento de bestias de clasificación cinco del Ministerio de Magia. Solo una criatura de esa envergadura y ferocidad requeriría un cerrojo mágico de grado militar.
+
+Hagrid soltó un suspiro de alivio tan gigantesco que pareció desinflar su propio abrigo de piel de topo, limpiándose la barba húmeda con el dorso de su manga peluda:
+
+—Menos mal… Por un momento creí que se habían metido en un lío espantoso que les costaría la expulsión directa. Sí, bueno, Fluffy es mío. Se lo compré a un marinero griego con el que me tomé unas cuantas copas en una taberna del puerto de Aberdeen el año pasado. Es un animal de lo más cariñoso y noble si sabes cómo tratarlo y cómo calmarle los ánimos, pero tiene un genio terrible y peligroso cuando lo despiertan de malas maneras sin avisar. Se lo presté personalmente al profesor Dumbledore para… bueno, para custodiar un asunto de la más absoluta importancia escolar y de seguridad nacional.
+
+—¿Custodiar qué cosa exactamente, Hagrid? —preguntó Ron con los ojos abiertos como platos soperos, inclinándose sobre la mesa de pino.
+
+—¡Ni una sola palabra más de eso! —bramó el gigante con firmeza torpe y nerviosa, golpeando la madera con el puño cerrado con tanta fuerza que los platos de peltre dieron un brinco metálico en el aire—. Eso es un secreto de estado de la más alta reserva entre el profesor Albus Dumbledore y Nicolas Flamel… ¡Digo, entre Dumbledore y el Consejo Superior del Ministerio! ¡Maldita sea mi boca de trapo! ¡No debí pronunciar ese nombre jamás! ¡Olviden ese nombre ahora mismo si tienen un poco de aprecio por mí!
+
+Harry clavó sus pupilas verdes en el rostro acongojado, ruborizado y arrepentido de Hagrid.
+
+*Nicolas Flamel.*
+
+El nombre quedó registrado, catalogado y grabado de inmediato en los anaqueles más seguros de su memoria oclumántica, sellado con un hilo dorado para su posterior investigación bibliográfica en los archivos históricos. Era evidente que el bondadoso semigigante carecía por completo de la capacidad para guardar secretos bajo una conversación distendida.
+
+Con un movimiento disimulado de los ojos, la mirada calculadora de Harry se desvió hacia la mesa de trabajo de Hagrid, posándose nuevamente sobre el ejemplar atrasado de *El Profeta* que descansaba junto a las herramientas de forja. El titular principal de la portada de aquel número, impreso en grandes caracteres negros y móviles que vibraban con lentitud mágica, rezaba:
+
+*«MISTERIOSO INTENTO DE ROBO EN EL BANCO DE GRINGOTTS: LA CÁMARA 713 APARECE VACÍA TRAS UNA INCURSIÓN DE MAGOS OSCUROS NO IDENTIFICADOS».*
+
+Harry sintió que una corriente helada y electrizante le recorría la médula espinal de arriba abajo.
+
+El 31 de julio.
+
+El mismo día exacto en que él y Sirius habían caminado por las galerías subterráneas de Gringotts acompañados por el duende Bogrod para visitar la bóveda de los Potter. La misma cámara número 713 de máxima seguridad que Sirius le había señalado con la barbilla mientras el carrito de hierro descendía velozmente hacia las profundidades del banco, advirtiéndole que aquel compartimento ocultaba un secreto de trascendencia histórica codiciado por las facciones más oscuras de Europa.
+
+—Hagrid… —dijo Harry con voz suave, baja y pausada, señalando con el dedo el periódico doblado sobre el banco de carpintería—. ¿Te importaría si le echo un vistazo a ese artículo de *El Profeta* que tienes ahí guardado?
+
+El rostro ancho de Hagrid pasó del rubor de la vergüenza a un tono escarlata oscuro como el de una remolacha madura. Con un movimiento rápido, brusco y torpe de sus manazas gigantescas, el guardabosques estiró el brazo, arrebató el periódico de la mesa y lo arrugó con fuerza bajo su axila izquierda:
+
+—No, no… no hay absolutamente nada interesante que leer en ese papel viejo, Harry. Solo habladurías sin fundamento y exageraciones vulgares de los periodistas sensacionalistas de Londres. Ya sabes perfectamente cómo les gusta inventar tragedias y asustar a la gente común para vender más ejemplares los domingos por la mañana.
+
+—El artículo relata el intento de allanamiento en Gringotts, ¿verdad? —insistió Harry con una calma analítica y quirúrgica que desarmaba cualquier evasiva—. La incursión clandestina en los sótanos del banco ocurrió el treinta y uno de julio. La misma mañana en que tú estuviste en el Callejón Diagon realizando compras especiales por encargo del colegio.
+
+Hagrid tragó saliva con tanta dificultad que el sonido de su garganta resonó claramente en la cabaña; su nuez de Adán subió y bajó como un bulto elástico:
+
+—Gringotts es el lugar más seguro y mejor defendido del mundo mágico entero después de este castillo, muchacho. Quienquiera que fuera el hechicero tenebroso que intentó forzar la entrada de esa cámara secreta se marchó con las manos completamente vacías porque… bueno, porque lo que estaba guardado en ese cofre ya no se encontraba allí dentro. Había sido retirado ese mismo mediodía por orden expresa del profesor Dumbledore bajo escolta oficial.
+
+—Y ahora ese mismo objeto descansa bajo la trampilla de madera que vigila tu perro Fluffy en el corredor prohibido del tercer piso —concluyó Harry sin alterar un solo ápice el tono monocorde y pausado de su voz, uniendo las piezas dispersas del rompecabezas con una lógica deductiva incontestable.
+
+Hagrid se quedó completamente petrificado en su inmenso sillón de mimbre. Sus labios gruesos temblaron bajo la barba oscura; en sus ojos negros brillaba la expresión aterrada y culpable de un niño gigante que acaba de ser sorprendido con las manos untadas en el tarro de la confitura prohibida:
+
+—Harry… muchacho… por el amor de Merlín, te lo suplico por lo que más quieras en este mundo. No vuelvas a pronunciar una sola palabra sobre esto delante de nadie. Si Albus Dumbledore llega a enterarse de que he estado soltando detalles confidenciales delante de dos alumnos de primer año, me retirará las llaves de los terrenos de inmediato y me desterrará del colegio para siempre. Eso que está celosamente custodiado en el tercer piso es un asunto de vida o muerte para la seguridad del mundo mágico. Nadie debe meter las narices en ese corredor. Ni tú, ni Ron, ni ningún otro estudiante de Hogwarts.
+
+Harry contempló la angustia sincera, honesta e infantil que inundaba los ojos del guardabosques. Se dio cuenta cabal de que presionar más a Hagrid en aquel instante solo conseguiría causarle un sufrimiento moral desgarrador a un hombre que le profesaba un cariño leal y desinteresado, y cuya única falta era su excesiva bonhomía.
+
+—Quédate tranquilo, Hagrid —dijo Harry con una sonrisa cálida y tranquilizadora, extendiendo la mano para posarla sobre el fornido antebrazo del gigante cubierto de piel de topo—. Nosotros no le diremos una sola palabra a nadie en el castillo. Lo que se conversa en esta cabaña al calor del fuego se queda estrictamente entre estas cuatro paredes.
+
+Hagrid soltó un suspiro de alivio tan descomunal y profundo que las ristras de cebollas y los manojos de hierbas que colgaban de las vigas oscuras del techo oscilaron de un lado a otro como péndulos:
+
+—Eres un muchacho noble y sensato, Harry. Tienes el juicio y la discreción que tenía tu madre Lily cuando bajaba a charlar conmigo en sus primeros años de escuela. Come otro pastel de roca, anda, que se van a quedar fríos y duros como cantos rodados.
+
+Pasaron la siguiente hora conversando de asuntos mucho más livianos y cotidianos: las complejas costumbres territoriales de los bowtruckles que anidaban en los fresnos centenarios del linde del bosque, las tácticas de vuelo que Roger Davies pensaba aplicar en el partido de quidditch contra Hufflepuff y las travesuras de Fang, que no cesó de apoyar su pesada y babeante cabeza sobre las rodillas de Ron hasta dejar los pantalones del pelirrojo empapados de una baba espesa y pegajosa que provocó las risas de todos.
+
+A las cinco y media de la tarde, cuando la niebla escocesa comenzaba a cerrarse en una muralla blanca y opaca sobre los campos de calabazas y el frío de la penumbra amenazaba con congelar el rocío sobre la hierba, Harry y Ron se despidieron afectuosamente de Hagrid y emprendieron el camino de ascenso hacia las luces del castillo.
+
+Mientras subían la colina pedregosa en un silencio pensativo, con las botas crujiendo rítmicamente sobre la gravilla del sendero, Ron se volvió hacia Harry con una expresión de desconcierto y asombro que no cabía en su rostro pecoso:
+
+—¿Te das cuenta de lo que acaba de suceder ahí dentro, Harry? Hagrid prácticamente nos ha confesado que lo que los ladrones oscuros intentaron saquear en Gringotts está escondido debajo de las patas de ese perro de tres cabezas en el tercer piso del colegio. ¡Y soltó el nombre de un tal Nicolas Flamel antes de morderse la lengua y casi ponerse a llorar del susto!
+
+—Lo sé perfectamente, Ron —respondió Harry manteniendo la vista fija en el resplandor ámbar de las ventanas del Gran Comedor que brillaban a través de la niebla—. El paquete de la cámara 713 fue extraído el mismo día en que asaltaron el banco. Quienquiera que planeara esa intrusión subterránea conocía al milímetro los movimientos de los duendes y sabía con certeza qué reliquia se custodiaba en aquel compartimento blindado.
+
+—¿Y qué clase de objeto puede ser tan peligroso o valioso? —susurró Ron con un estremecimiento palpable de curiosidad y miedo—. ¿Un talismán de magia negra? ¿Una fortuna en gemas malditas?
+
+—No es dinero ni una maldición ordinaria, Ron —analizó Harry con voz baja, serena y profundamente reflexiva—. Es un artefacto lo bastante pequeño como para transportarse en un paquete envuelto en papel de estraza, y lo bastante trascendental como para que Albus Dumbledore haya involucrado a un legendario maestro de la alquimia, a una bestia mitológica de tres cabezas y a las defensas más rigurosas de la escuela para asegurar su ocultamiento.
+
+Llegaron finalmente al pie del gran vestíbulo de piedra, donde la calidez acogedora de las antorchas encendidas y el murmullo bullicioso de cientos de estudiantes que descendían hacia el banquete de la cena rompieron la atmósfera clandestina y conspirativa de la tarde.
+
+Harry se despidió de Ron con una inclinación sobria de cabeza y tomó las escaleras de caracol que conducían a la alta torre de Ravenclaw. Esa noche no solo tendría que repasar en su mente las formaciones de vuelo para los entrenamientos de quidditch del amanecer; tendría que descender en silencio a la sección de biografías mágicas y tratados medievales de la biblioteca para desentrañar quién era en verdad Nicolas Flamel y cuál era el poder real de la reliquia que descansaba sobre el abismo de la trampilla.
+
+El misterio del tercer piso había dejado de ser un rumor escolar: era una encrucijada letal donde se cruzaban las sombras del asalto a Gringotts y el destino del propio colegio Hogwarts.
