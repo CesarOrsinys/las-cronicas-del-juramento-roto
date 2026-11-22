@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 36
+# CAPÍTULO 36
 ## La trampa de la torre
 
 La medianoche del sábado señalado para la evacuación del Ridgeback noruego trajo consigo una niebla espesa y helada que envolvía las agujas del castillo de Hogwarts como un sudario de gasa húmeda.

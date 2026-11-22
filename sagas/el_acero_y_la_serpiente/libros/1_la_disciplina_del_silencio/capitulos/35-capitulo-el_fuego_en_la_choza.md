@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 35
+# CAPÍTULO 35
 ## El fuego en la choza
 
 A finales de marzo y principios de abril, el deshielo de las cumbres de las Tierras Altas transformó los senderos que descendían hacia el linde del Bosque Prohibido en torrenteras de barro negro y grava suelta.

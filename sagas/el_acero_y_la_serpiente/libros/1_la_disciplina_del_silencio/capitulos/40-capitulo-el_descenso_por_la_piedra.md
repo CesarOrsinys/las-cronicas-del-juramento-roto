@@ -1,83 +1,106 @@
-﻿# CAPÍTULO 40: El descenso por la piedra
+﻿# CAPÍTULO 40
+## El descenso por la piedra
 
-A principios de junio, tras la última semana de exámenes teóricos, el castillo de Hogwarts quedó sumergido en un sopor caluroso y denso. Pero en los corredores del tercer piso, la tensión había alcanzado el punto de ruptura.
+A principios de junio, tras la última semana de exámenes teóricos, el calor sofocante del verano escocés sumergió a Hogwarts en un sopor denso y pegajoso. Pero en los corredores del tercer piso, la tensión había alcanzado el punto exacto de fractura.
 
-La partida repentina de Albus Dumbledore hacia Londres —convocado mediante una lechuza urgente del Ministerio de Magia que Harry identificó de inmediato como una distracción operativa evidente— dejó la entrada del tercer piso abierta a la penetración final.
+La partida repentina de Albus Dumbledore hacia Londres —convocado mediante una lechuza urgente con el sello lacrado en cera roja del Ministerio que Harry había identificado en la biblioteca como una burda distracción operativa— dejó la entrada al corredor prohibido sin el único escudo disuasorio del castillo.
 
-Esa noche, Harry no convocó a asambleas en la sala común de Gryffindor. Sabía que Ron y Hermione intentarían detenerlo o acompañarlo por puro celo moral; pero Harry no operaba con contingentes desordenados. Se deslizó fuera del dormitorio en el cambio de guardia de la medianoche, llevando únicamente su equipo de combate: la túnica reforzada, la varita de acebo, el reloj de bolsillo de Charlus y una cuerda de cáñamo impregnada en resina ignífuga.
+Esa noche, Harry no convocó asambleas en la sala común de Gryffindor. Sabía que Ron y Hermione intentarían disuadirlo o acompañarlo por celo moral infantil; pero Harry no operaba con contingentes desordenados. Se deslizó fuera del dormitorio en el cambio de guardia de la medianoche, llevando únicamente su equipo de asalto: la túnica reforzada ceñida al cuerpo, la varita de acebo en el antebrazo, el reloj de bolsillo de Charlus en la pechera, la navaja de resorte de Sirius en el cinto y una soga de cáñamo impregnada en resina ignífuga.
 
-En el corredor prohibido del tercer piso, la puerta estaba entornada.
+En el corredor prohibido del tercer piso, la puerta maciza estaba entornada.
 
-En el umbral, recortada contra la penumbra del pasillo, una silueta lo aguardaba con los brazos cruzados y la varita oculta bajo la manga.
+En el umbral, recortada contra la penumbra del pasillo, una silueta lo aguardaba con los brazos cruzados y la varita oculta bajo la manga de seda esmeralda.
 
 Lyra Malfoy.
 
-—Sabía que vendrías esta noche, Potter —dijo ella en un susurro gélido, sin un ápice de sorpresa—. La lechuza a Dumbledore fue demasiado burda. Mi padre usa trucos ministeriales más refinados para desalojar testigos.
+—Sabía que vendrías esta noche, Potter —dijo ella en un susurro gélido, sin un ápice de sorpresa—. La lechuza a Dumbledore fue demasiado burda. Mi padre usa trucos ministeriales mucho más refinados cuando necesita apartar testigos.
 
 —Si estás aquí para delatarme, estás perdiendo el tiempo —repuso Harry, avanzando hacia la puerta sin alterar su cadencia de paso.
 
-—No vine a delatarte. Vine a asegurarme de que lo que duerme ahí abajo no caiga en las manos equivocadas. Si el espectro del bosque obtiene esa piedra, ni siquiera el dinero de los Malfoy podrá comprar nuestra seguridad.
+—No vine a delatarte. Vine a asegurarme de que lo que duerme ahí abajo no caiga en las manos equivocadas. Si el espectro del bosque obtiene esa piedra, ni siquiera el dinero ni el apellido de los Malfoy podrán comprar nuestra seguridad en el nuevo orden.
 
 Entraron juntos a la cámara.
 
-En el centro del suelo de piedra, la mole de tres cabezas de Fluffy dormitaba pesadamente. A sus patas yacía un arpa encantada que emitía acordes lánguidos por sí sola: el infiltrado ya había descendido.
+El hedor a fiera dormida y carne macerada llenaba la estancia. En el centro del suelo de losas, la mole colosal de tres cabezas de Fluffy roncaba pesadamente, con sus patas delanteras extendidas sobre el borde de la trampilla. A sus garras yacía un arpa dorada encantada que emitía acordes lánguidos y continuos por sí sola: el usurpador ya había descendido.
 
-La trampilla de madera maciza estaba abierta, revelando un foso de negrura absoluta.
+La trampilla de madera maciza de roble estaba abierta de par en par, revelando un foso vertical de negrura absoluta.
 
 —Sin vacilaciones —dijo Harry—. Al suelo.
 
-Saltaron uno tras otro a través de la abertura. La caída libre duró tres segundos antes de que ambos impactaran contra una masa húmeda, blanda y elástica que amortiguó el golpe.
+Saltaron uno tras otro a través de la abertura.
 
-Casi de inmediato, zarcillos oscuros y gruesos como serpientes comenzaron a reptar sobre sus tobillos y muñecas, ciñéndose con una fuerza hidráulica que amenazaba con quebrarles los huesos.
+La caída libre duró tres segundos enteros a través del aire frío y húmedo antes de que ambos impactaran contra una masa blanda, esponjosa y viscosa que amortiguó el golpe como una red de brea vegetal.
 
-—*Lazo del Diablo* —masculló Lyra, forcejeando instintivamente mientras una rama le aprisionaba el cuello—. ¡Nos está asfixiando!
+### Primera Defensa: El Lazo del Diablo (Pomona Sprout)
 
-—¡No te muevas! —ordenó Harry en un gruñido autoritario—. La planta responde a la tensión cinética. Cuanto más luchas, más rápido te tritura.
+Casi en el mismo instante en que tocaron el fondo, una red tupida de zarcillos oscuros, gruesos como brazos humanos y cubiertos de un limo resbaladizo, comenzó a reptar sobre sus tobillos y muñecas, enredándose con una fuerza hidráulica que amenazaba con astillarles los huesos.
 
-Con la mano derecha inmovilizada contra el muslo, Harry giró la punta de su varita hacia la base de las raíces. No intentó formular un encantamiento verbal ruidoso; concentró su voluntad en el recuerdo del calor del fogón de Sirius en Yorkshire y liberó una llamarada azul de fuego comprimido directamente desde la madera de acebo.
+—*Lazo del Diablo* —masculló Lyra, forcejeando instintivamente mientras una rama nudosa le aprisionaba el cuello contra el suelo—. ¡Nos está arrastrando hacia la base!
 
-El calor seco y fulminante actuó como ácido sobre la vegetación. El Lazo del Diablo chilló con un silbido de vapor hediondo y retiró sus tentáculos en una contracción violenta, arrojando a Harry y a Lyra hacia una cornisa de piedra seca que descendía hacia un túnel abovedado.
+—¡No te muevas! —ordenó Harry en un gruñido autoritario—. La planta responde a la tensión cinética. Cuanto más luchas, más rápido se cierra el estrangulamiento. Recuerda la clase de Herbología: *al Lazo del Diablo le gusta la sombra y la humedad, pero el calor y la llama lo hacen retroceder*.
 
-Se incorporaron de inmediato, sacudiéndose el limo de las ropas.
+Con la mano derecha inmovilizada contra el muslo, Harry no intentó gesticular con el brazo. Forzó la orientación de la punta de su varita de acebo hacia el lecho de raíces que se retorcían bajo sus espaldas.
 
-—Buena reacción —dijo Lyra, recomponiendo su respiración y alisándose la pechera de la túnica con dignidad intacta.
+No pronunció una sola palabra en voz alta.
 
-Avanzaron por el pasadizo subterráneo hasta desembocar en una cámara inmensa de techos altos, iluminada por antorchas de fuego frío. El aire vibraba con un zumbido agudo, similar al aleteo de miles de avispas metálicas. En el aire revoloteaban centenares de llaves plateadas con alas de plumas de hierro. Al fondo de la sala, una pesada puerta de roble y cerrojos de bronce bloqueaba el acceso.
+Concentró su voluntad en el recuerdo del fogón ardiente de Blackstone Tor y liberó una llamarada azul de fuego comprimido directamente desde el núcleo de pluma de fénix de su varita.
 
-A un costado, dos escobas de vuelo descansaban apoyadas contra la pared.
+El calor seco y fulminante actuó como ácido hirviendo sobre la vegetación subterránea. El Lazo del Diablo chilló con un silbido agudo de vapor fétido, soltando sus presas en una contracción espasmódica violenta que arrojó a Harry y a Lyra hacia una cornisa de piedra seca que descendía hacia un túnel abovedado.
 
-—Una prueba de reflejos y persecución —dijo Lyra, examinando la cerradura con ojo clínico—. Diseñada para los talentos de un buscador de Quidditch. La cerradura es de latón envejecido y tiene un ala quebrada en el perno izquierdo.
+Se incorporaron de inmediato, sacudiéndose el limo de las túnicas.
 
-Harry alzó la vista y barrió la nube de llaves con la mirada analítica que utilizaba en el campo de vuelo. En menos de cinco segundos identificó el objetivo: una llave grande, de bronce deslustrado, cuyas plumas plumbeas estaban dobladas por un forcejeo reciente.
+—Buena respuesta técnica —dijo Lyra, recomponiendo su respiración y alisándose la pechera con dignidad intacta.
 
-—No vamos a perder diez minutos persiguiéndola por el aire —dijo Harry con frialdad—. Es una trampa de fatiga.
+Avanzaron por el pasadizo subterráneo excavado en la roca viva, guiados por el eco distante de un zumbido metálico que vibraba en las paredes.
 
-Elevó la varita de acebo apuntando directamente al centro del enjambre. En lugar de un encantamiento de invocación suave, lanzó una pulsación magnética invertida combinada con una ráfaga de aire comprimido: la onda de choque dispersó a las llaves secundarias en una lluvia de esquirlas contra las paredes, dejando a la llave mayor desestabilizada y cayendo en barrena hacia el centro de la sala.
+### Segunda Defensa: El Enjambre de Llaves Aladas (Filius Flitwick)
 
-Harry dio tres pasos rápidos y la atrapó en el aire con un chasquido seco de su mano enguantada.
+Desembocaron en una cámara monumental de techos abovedados de cincuenta pies de altura, iluminada por antorchas de fuego frío empotradas en los muros. El aire zumbaba como si miles de avispas de bronce estuvieran batiendo las alas al unísono: en el espacio aéreo revoloteaban centenares de llaves plateadas y doradas, dotadas de alas membranosas de hierro fino.
 
-La introdujo en la cerradura, giró el perno con un golpe seco y empujó la puerta.
+Al fondo de la sala, una pesada puerta de roble macizo con herrajes de bronce y una cerradura arcaica cortaba el paso.
 
-La siguiente estancia era un abismo de mármol negro. Sobre un tablero colosal de sesenta y cuatro escaques se alzaban figuras esculpidas en piedra de basalto y alabastro blanco, de siete pies de altura, portando espadas melladas, hachas de guerra y mazas de combate.
+A un costado, dos escobas de carreras escolares descansaban apoyadas contra la pared de piedra.
 
-El ajedrez mágico de Minerva McGonagall.
+—La trampa de Flitwick —dijo Lyra, examinando la cerradura con ojo clínico—. Diseñada para medir la velocidad de persecución de un buscador de Quidditch. Mira la cerradura: es de latón envejecido, y el ojo de la cerradura tiene una muesca torcida en el perno izquierdo. La llave correcta debe tener las alas rotas por haber sido forzada recientemente.
 
-Las piezas negras del bando opuesto tenían los ojos vacíos de obsidiana y cortaban el paso hacia la puerta del fondo.
+Harry alzó la vista y barrió la nube zumbante con la mirada analítica que utilizaba en el campo de vuelo. En menos de cinco segundos identificó el blanco: una llave grande de bronce deslustrado, cuyas plumas plumbeas estaban dobladas en un ángulo de cuarenta y cinco grados por el forcejeo de Quirrell.
 
-—Tenemos que jugar como piezas —dijo Lyra, dando un paso adelante y evaluando la formación enemiga con la arrogancia nata de una estratega de linaje—. Las defensas de McGonagall son rígidas. Se basan en el sacrificio de peones para abrir líneas para la dama. Yo tomaré el puesto del alfil de las sombras; tú toma el caballo.
+—No vamos a perder diez minutos persiguiéndola en círculos por el aire —dijo Harry con frialdad—. Es una trampa de fatiga para agotar los reflejos del intruso antes del asalto final.
 
-—No voy a jugar bajo las reglas de la profesora —replicó Harry con una frialdad que congeló a la muchacha—. Esto no es un torneo del club de ajedrez. Es un corredor de asalto.
+Elevó la varita de acebo apuntando directamente al centro de gravedad del enjambre.
+
+En lugar de un encantamiento de invocación suave que cualquier llave encantada resistiría, Harry combinó dos vectores físicos: una onda de dispersión cinética percusiva para abrir el aire, seguida de un pulso de tracción magnética invertida.
+
+El estallido de presión sorda dispersó a las llaves secundarias en una lluvia de esquirlas metálicas contra las paredes. La llave mayor de bronce deslustrado, desestabilizada por la turbulencia, perdió sustentación y cayó en barrena hacia el centro de la estancia.
+
+Harry dio tres zancadas rápidas y la atrapó en el aire con un chasquido seco de su mano enguantada.
+
+La introdujo en la cerradura, giró el perno con un golpe seco de muñeca y empujó la puerta de roble.
+
+### Tercera Defensa: El Ajedrez de Mármol Gigante (Minerva McGonagall)
+
+La siguiente estancia era un abismo de mármol negro donde la luz de las antorchas apenas alcanzaba a disipar las sombras.
+
+Sobre un tablero colosal de sesenta y cuatro escaques de basalto y alabastro blanco se alzaban figuras esculpidas de piedra viva, de ocho pies de altura, portando espadas melladas, hachas de guerra y mazas de combate.
+
+El ajedrez táctico de Minerva McGonagall.
+
+Las piezas negras del bando opuesto tenían los ojos vacíos de obsidiana y cortaban el paso hacia la arcada del fondo con una formación cerrada de falange militar.
+
+—Tenemos que jugar como piezas —dijo Lyra, dando un paso adelante y evaluando la formación enemiga con la arrogancia nata de una estratega de linaje—. Las defensas de McGonagall son inflexibles. Se basan en el sacrificio de peones para abrir líneas para la dama. Yo tomaré el puesto del alfil de las sombras; tú toma el caballo.
+
+—No voy a jugar bajo las reglas deportivas de la profesora —replicó Harry con una frialdad que congeló a la muchacha—. Esto no es un torneo del club de ajedrez. Es un corredor de asalto militar.
 
 Harry desenfundó la navaja de Sirius con la izquierda y sostuvo la varita con la derecha.
 
-—Las piezas responden a órdenes de mando y a masa física. No necesitamos sacrificar peones si neutralizamos los pivotes estructurales del tablero.
+—Las piezas responden a órdenes de mando y a masa física. No necesitamos sacrificar vidas ni tolerar que una maza de granito nos fracture las costillas si atacamos los pivotes estructurales del tablero.
 
-Avanzaron hacia las casillas marcadas. Harry ordenó los primeros cuatro movimientos con una economía implacable, evitando los intercambios sangrientos y concentrando la presión en las articulaciones de los peones enemigos mediante ráfagas no verbales que astillaban los tobillos de mármol de las estatuas.
+Ocuparon las casillas designadas. Harry ordenó los primeros movimientos con una economía implacable: en lugar de intercambios sangrientos, ordenó al peón de rey avanzar dos escaques y concentró ráfagas no verbales de percusión contra las articulaciones de los tobillos de mármol de los peones enemigos, astillando la piedra antes del contacto.
 
-Cuando la reina blanca amagó con abalanzarse sobre la casilla de Lyra para destrozarla con su maza de granito, Harry no permitió el impacto: un golpe de percusión lanzado con la varita de acebo desvió el golpe del arma contra el suelo, abriendo una brecha de dos segundos que permitió a Lyra rematar el flanco del rey blanco con un estallido de chispas que redujo la corona de piedra a escombros.
+Cuando la reina blanca amagó con abalanzarse sobre la casilla de Lyra para destrozarla con su maza de granito, Harry no permitió el impacto: un golpe de percusión lanzado con la varita de acebo desvió el golpe del arma contra las losas del suelo, abriendo una brecha de dos segundos que permitió a Lyra rematar el flanco del rey blanco con un estallido de chispas que redujo la corona de piedra a escombros.
 
-El rey enemigo arrojó su espada al suelo con un estruendo metálico. Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
+El rey enemigo arrojó su espada al suelo con un estruendo metálico que hizo temblar la sala.
 
-Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre y vinagre amargo.
+Las piezas restantes se hicieron a un lado, inclinando sus cabezas ciegas hacia la salida.
 
-
+Frente a ellos, la puerta del tramo final se abrió sobre un pasaje que olía a azufre, sangre fresca y vinagre amargo.

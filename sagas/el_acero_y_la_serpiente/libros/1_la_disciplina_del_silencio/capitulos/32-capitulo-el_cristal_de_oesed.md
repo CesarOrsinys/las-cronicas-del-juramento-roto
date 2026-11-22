@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 32
+# CAPÍTULO 32
 ## El cristal de Oesed
 
 La escarcha sobre los ventanales del ala sur formaba helechos de hielo opaco que filtraban la luz lunar en un resplandor azulado y cadavérico. Eran las dos de la madrugada de la noche de Navidad. El castillo entero dormía bajo el silencio pesado de las fortalezas invernales: los cuadros roncaban en sus lienzos carcomidos, las armaduras crujían por la contracción térmica del metal y en la lejanía sólo el aullido del viento sobre las almenas competía con el rumor de la respiración de Harry.

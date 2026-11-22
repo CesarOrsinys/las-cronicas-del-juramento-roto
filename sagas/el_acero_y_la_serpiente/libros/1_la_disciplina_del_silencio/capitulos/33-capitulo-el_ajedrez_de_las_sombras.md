@@ -1,4 +1,4 @@
-﻿# CAPÍTULO 33
+# CAPÍTULO 33
 ## El ajedrez de las sombras
 
 La noche siguiente, a la una de la madrugada, Harry regresó al aula desierta del cuarto piso.
