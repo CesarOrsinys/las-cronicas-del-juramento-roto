@@ -15,31 +15,31 @@ No era un muchacho.
 
 Era una niña de su misma edad, de piel extraordinariamente pálida, facciones afiladas y aristocráticas que parecían esculpidas en mármol frío, y una melena rubia casi platino que caía en una trenza pulcra y severa sobre su hombro izquierdo. Sus ojos, de un gris claro y acerado, tenían una fijeza inquisitiva y aburrida que examinaba cada rincón del local con la suficiencia de quien está acostumbrado a que el mundo se adapte a su conveniencia.
 
-Lyra Malfoy.
+Draconia Malfoy.
 
 Harry la reconoció al instante por las descripciones detalladas que Sirius le había transmitido en las veladas de Ilkley al repasar las ramas vivas del tapiz genealógico de los Black: la única heredera de Lucius Malfoy y Narcissa Black, educada en la mansión de Wiltshire bajo la rigidez protocolaria de la nobleza francesa y británica, cuya familia había eludido Azkaban alegando la influencia de la maldición *Imperius* en los días finales de la guerra.
 
 Madame Malkin colocó a Harry sobre un segundo escabel situado a un metro escaso de la niña, deslizándole una túnica negra de trabajo por la cabeza y comenzando a prender alfileres con una rapidez mecánica para marcar la longitud sobre los tobillos.
 
-Lyra giró la cabeza despacio, examinando la gorra de lana de Harry, su abrigo de campo y sus botas de cuero gastado con una ceja ligeramente arqueada:
+Draconia giró la cabeza despacio, examinando la gorra de lana de Harry, su abrigo de campo y sus botas de cuero gastado con una ceja ligeramente arqueada:
 
 —¿También vas a Hogwarts? —preguntó la niña. Su voz era templada, cristalina y poseía una cadencia arrastrada y pausada, típica de los salones de alta cuna, pero carente de la grosería estridente de su primo Dudley.
 
 —Así es —respondió Harry con un tono sereno y medido, sosteniendo la mirada gris sin pestañear—. Primer año.
 
-—Mi madre está calle arriba, en la botica del boticario Mulpepper, asegurándose de que los ingredientes de la lista no sean restos de segunda mano —continuó Lyra, observando el trabajo de la modista con un desdén tranquilo—. Y mi padre está en la tienda de instrumentos de precisión encargando un telescopio de latón con lentes de aumento calibradas en Núremberg. Luego los arrastraré a mirar las escobas de carreras al escaparate de *Artículos de Calidad para Quidditch*. No entiendo por qué la dirección del colegio prohíbe las escobas propias a los de primer año. Es una norma absurda diseñada para no acomplejar a los que no saben mantener el equilibrio en el aire. Pienso fastidiar a mi padre hasta que me compre una *Cometa doscientos sesenta* y la meteré de contrabando en el baúl.
+—Mi madre está calle arriba, en la botica del boticario Mulpepper, asegurándose de que los ingredientes de la lista no sean restos de segunda mano —continuó Draconia, observando el trabajo de la modista con un desdén tranquilo—. Y mi padre está en la tienda de instrumentos de precisión encargando un telescopio de latón con lentes de aumento calibradas en Núremberg. Luego los arrastraré a mirar las escobas de carreras al escaparate de *Artículos de Calidad para Quidditch*. No entiendo por qué la dirección del colegio prohíbe las escobas propias a los de primer año. Es una norma absurda diseñada para no acomplejar a los que no saben mantener el equilibrio en el aire. Pienso fastidiar a mi padre hasta que me compre una *Cometa doscientos sesenta* y la meteré de contrabando en el baúl.
 
 Harry escuchó sin interrumpir, recordando las advertencias de Sirius sobre la psicología de las serpientes jóvenes: no alimentan la discusión si no encuentran resistencia abierta.
 
 —Una prohibición reglamentaria suele existir por dos motivos —repuso Harry con calma analítica, mientras Madame Malkin le clavaba un alfiler en el dobladillo de la manga—. Para evitar accidentes de navegación entre novatos que no dominan la cinemática del vuelo, o para nivelar el campo de observación de los profesores durante las primeras semanas. Meter una escoba de contrabando en la torre solo garantiza que el conserje te confisque el artefacto antes del banquete de bienvenida.
 
-Lyra lo miró con mayor atención, entrecerrando los ojos claros con una chispa de sorpresa genuina. No estaba acostumbrada a que un desconocido de su edad respondiera a sus desplantes con un argumento deductivo en lugar de una mueca de envidia o un tartamudeo sumiso:
+Draconia lo miró con mayor atención, entrecerrando los ojos claros con una chispa de sorpresa genuina. No estaba acostumbrada a que un desconocido de su edad respondiera a sus desplantes con un argumento deductivo en lugar de una mueca de envidia o un tartamudeo sumiso:
 
 —¿Y tú sabes volar? —inquirió ella, cambiando ligeramente el ángulo del mentón.
 
 —He estudiado la aerodinámica y el equilibrio de pesos —respondió Harry con cautela—. La práctica en el aire ya vendrá cuando tengamos un campo reglamentario y la supervisión adecuada.
 
-—Volar no se aprende en los libros, muchacho —soltó Lyra con una sonrisa lánguida y condescendiente—. Se lleva en el pulso o no se lleva. Mi padre dice que sería un escándalo que no me elijan para jugar por mi casa en el segundo año, y la verdad es que estoy de acuerdo con él. La Casa Slytherin necesita recuperar el control de la copa escolar; los Gryffindor llevan demasiado tiempo haciendo ruido en los pasillos sin disciplina real.
+—Volar no se aprende en los libros, muchacho —soltó Draconia con una sonrisa lánguida y condescendiente—. Se lleva en el pulso o no se lleva. Mi padre dice que sería un escándalo que no me elijan para jugar por mi casa en el segundo año, y la verdad es que estoy de acuerdo con él. La Casa Slytherin necesita recuperar el control de la copa escolar; los Gryffindor llevan demasiado tiempo haciendo ruido en los pasillos sin disciplina real.
 
 —¿Das por sentado que serás de Slytherin? —preguntó Harry con curiosidad reflexiva.
 
@@ -49,7 +49,7 @@ Harry recordó la doctrina de Ilkley: la soberbia de sangre siempre delata las d
 
 —Hufflepuff produce lealtades que no se quiebran bajo presión ministerial —comentó Harry con frialdad serena—. Y Ravenclaw produce mentes que resuelven problemas mientras los demás siguen discutiendo sobre sus antepasados. Cada casa tiene su propia función en el equilibrio del castillo.
 
-Lyra se enderezó sobre el escabel, clavando sus ojos grises en los del muchacho con una intensidad nueva, despojada ya del aburrimiento inicial. Aquellas palabras no sonaban a las que pronunciaba un niño de once años educado en el conformismo; poseían una resonancia aristocrática y calculadora que le resultaba familiar y extraña a la vez:
+Draconia se enderezó sobre el escabel, clavando sus ojos grises en los del muchacho con una intensidad nueva, despojada ya del aburrimiento inicial. Aquellas palabras no sonaban a las que pronunciaba un niño de once años educado en el conformismo; poseían una resonancia aristocrática y calculadora que le resultaba familiar y extraña a la vez:
 
 —Hablas de una forma muy peculiar para alguien que viste un abrigo de lana de segunda mano —observó la niña, ladeando la cabeza con una curiosidad punzante—. ¿Cuál es tu apellido?
 
@@ -57,13 +57,13 @@ Antes de que Harry pudiera articular una respuesta que eludiera el impacto de su
 
 —Ya está listo lo tuyo, señorita Malfoy. Las tres túnicas estarán empaquetadas en el mostrador en cinco minutos.
 
-Lyra descendió del escabel con la gracia ensayada de una bailarina de corte, acomodándose los pliegues de la falda con un movimiento seco de muñeca. Se detuvo a dos palmos de Harry, sosteniéndole la mirada durante un latido prolongado:
+Draconia descendió del escabel con la gracia ensayada de una bailarina de corte, acomodándose los pliegues de la falda con un movimiento seco de muñeca. Se detuvo a dos palmos de Harry, sosteniéndole la mirada durante un latido prolongado:
 
 —Nos veremos en el tren, supongo —dijo la muchacha con una voz que ya no sonaba desdeñosa, sino evaluativa—. Espero que tengas suficiente ingenio para no acabar en una casa donde no valga la pena dirigirte la palabra.
 
 —El Sombrero tomará la decisión que corresponda —repuso Harry con una inclinación casi imperceptible de cabeza—. Hasta el primero de septiembre, señorita Malfoy.
 
-Lyra parpadeó, sorprendida por el uso formal de su apellido sin que ella lo hubiese mencionado en voz alta, pero recogió su paquete del mostrador y salió de la tienda con la cabeza alta, dejando tras de sí una estela sutil de perfume de lilas y nieve.
+Draconia parpadeó, sorprendida por el uso formal de su apellido sin que ella lo hubiese mencionado en voz alta, pero recogió su paquete del mostrador y salió de la tienda con la cabeza alta, dejando tras de sí una estela sutil de perfume de lilas y nieve.
 
 Veinte minutos después, con tres túnicas negras de paño fino, una capa de invierno con broches de plata y un sombrero puntiagudo empaquetados en una caja de cartón encerado bajo el brazo, Harry regresó a la calzada del callejón. El perro negro se incorporó de inmediato a su costado, trotando en silencio mientras completaban la lista reglamentaria con rapidez quirúrgica:
 

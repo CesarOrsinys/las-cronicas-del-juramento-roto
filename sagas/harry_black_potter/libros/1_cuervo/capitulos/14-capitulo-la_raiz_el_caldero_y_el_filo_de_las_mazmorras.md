@@ -9,15 +9,15 @@ El aula de Pociones era una cámara abovedada y oscura, el doble de amplia que l
 
 Los alumnos de Ravenclaw ocuparon el ala izquierda del aula; los de Slytherin, que habían llegado con cinco minutos de antelación y ya tenían sus balanzas de latón colocadas sobre las mesas, ocupaban el ala derecha.
 
-Harry tomó asiento en la segunda fila, compartiendo el banco de piedra con Terry Boot. A su derecha, al otro lado del pasillo central que dividía ambas casas, Lyra Malfoy se acomodaba la túnica con movimientos pulcros junto a Daphne Greengrass. La niña rubia platino había desplegado sobre la mesa un estuche de terciopelo verde donde reposaban cuchillos de plata de hoja curva para cortar raíces y una balanza de precisión alemana con pesas de níquel reluciente. A unos pasos, Draco Malfoy ocupaba la primera fila junto a Vincent Crabbe y Gregory Goyle, exhibiendo una sonrisa de superioridad satisfecha, sabiéndose en el feudo indiscutible de su padrino y protector de casa.
+Harry tomó asiento en la segunda fila, compartiendo el banco de piedra con Terry Boot. A su derecha, al otro lado del pasillo central que dividía ambas casas, Draconia Malfoy se acomodaba la túnica con movimientos pulcros junto a Daphne Greengrass. La niña rubia platino había desplegado sobre la mesa un estuche de terciopelo verde donde reposaban cuchillos de plata de hoja curva para cortar raíces y una balanza de precisión alemana con pesas de níquel reluciente. A unos pasos, Draco Malfoy ocupaba la primera fila junto a Vincent Crabbe y Gregory Goyle, exhibiendo una sonrisa de superioridad satisfecha, sabiéndose en el feudo indiscutible de su padrino y protector de casa.
 
-Al cruzar la mirada con Harry, Lyra alzó ligeramente una ceja y ladeó la cabeza hacia la puerta de la trastienda:
+Al cruzar la mirada con Harry, Draconia alzó ligeramente una ceja y ladeó la cabeza hacia la puerta de la trastienda:
 
 —Espero que tengas el caldero bien nivelado, Potter —dijo la muchacha en un susurro arrastrado y templado que apenas cruzó el pasillo central con una cortesía acerada—. Snape no tolera a los alumnos que confunden la química con la cocina campesina. El primer error de temperatura te costará quince puntos antes de que empiece a hervir el agua.
 
 —El peltre medida dos tiene una conductividad térmica uniforme si se modula la llama a tres pulgadas de la base, señorita Malfoy —respondió Harry con calma analítica, ajustando la llave de paso de su quemador con los dedos sin perder la serenidad—. La negligencia térmica es un problema de quienes no leen el manual antes de encender la mecha.
 
-Lyra esbozó una sonrisa minúscula y afilada, evaluando la respuesta como quien sopesa una jugada de ajedrez bien articulada:
+Draconia esbozó una sonrisa minúscula y afilada, evaluando la respuesta como quien sopesa una jugada de ajedrez bien articulada:
 
 —Veremos si tu teoría resiste la presión del mortero, Potter. En estas mazmorras, los libros no cocinan por ti.
 
@@ -29,7 +29,7 @@ Su capa negra ondeaba a sus espaldas como las alas de un murciélago gigantesco 
 
 Snape tomó la lista de asistencia y comenzó a pasar lista con una voz baja, grave y cortante que no necesitaba elevarse para imponer un silencio sepulcral en la estancia:
 
-—…Boot, Terry… Brocklehurst, Mandy… Corner, Michael… Greengrass, Daphne… Malfoy, Draco… Malfoy, Lyra…
+—…Boot, Terry… Brocklehurst, Mandy… Corner, Michael… Greengrass, Daphne… Malfoy, Draco… Malfoy, Draconia…
 
 El profesor hizo una pausa de un segundo al pronunciar los apellidos de los Malfoy, dedicándoles una inclinación casi imperceptible de cabeza antes de continuar deslizando la pluma sobre el pergamino.
 
@@ -57,7 +57,7 @@ Snape giró sobre sus talones con un movimiento seco de capa y clavó sus ojos d
 
 —Potter. Dígame: ¿qué obtendría si añado polvo de raíz de asfódelo a una infusión de ajenjo?
 
-Al otro lado del pasillo, Lyra Malfoy apoyó la barbilla en la mano con una media sonrisa expectante, mientras Terry Boot tragaba saliva aterrorizado junto a Harry. Draco sonrió con arrogancia, esperando la humillación inmediata del niño huérfano. Era la clásica pregunta trampa de nivel avanzado que ningún alumno común de primer año sabría responder en su primera semana de clase.
+Al otro lado del pasillo, Draconia Malfoy apoyó la barbilla en la mano con una media sonrisa expectante, mientras Terry Boot tragaba saliva aterrorizado junto a Harry. Draco sonrió con arrogancia, esperando la humillación inmediata del niño huérfano. Era la clásica pregunta trampa de nivel avanzado que ningún alumno común de primer año sabría responder en su primera semana de clase.
 
 Harry no titubeó ni medio latido. Enderezó la espalda sobre el banco de piedra y respondió con una voz clara, pausada y firme que resonó limpia en toda la bóveda:
 
@@ -89,7 +89,7 @@ Harry respiró hondo por la nariz, manteniendo la compuerta de plomo de su mente
 
 El aula de Pociones quedó sumida en un silencio tan denso que se podía escuchar el goteo rítmico del agua en el desagüe del fondo.
 
-Al otro lado del pasillo, la sonrisa burlona de Draco se había desvanecido; miraba a Harry con incredulidad irritada. Lyra, en cambio, observaba al chico de gafas con ojos entornados y analíticos, fascinada por la compostura inquebrantable que demostraba ante el docente más temido del colegio.
+Al otro lado del pasillo, la sonrisa burlona de Draco se había desvanecido; miraba a Harry con incredulidad irritada. Draconia, en cambio, observaba al chico de gafas con ojos entornados y analíticos, fascinada por la compostura inquebrantable que demostraba ante el docente más temido del colegio.
 
 Snape permaneció inmóvil frente a Harry durante cinco segundos que parecieron durar un siglo entero.
 
@@ -111,19 +111,19 @@ El aula se llenó al instante del ruido metálico de balanzas y cuchillos. Harry
 
 —Concéntrate en el mortero, Terry —le indicó Harry en voz baja, vigilando el hervor del agua destilada y comprobando la temperatura con una varilla de cristal—. Si machacas los colmillos de serpiente con demasiada fuerza, perderán el polvo fino y la reacción con las púas de erizo volverá ácida la mezcla. La precisión es lo único que nos mantendrá a salvo en esta sala.
 
-Al otro lado del pasillo, Lyra Malfoy trabajaba en silencio junto a Daphne Greengrass. Los movimientos de la muchacha eran elegantes y disciplinados: pesaba los ingredientes con gramajes exactos y usaba su cuchillo de plata con incisiones milimétricas. De vez en cuando, la mirada gris de la niña se desviaba hacia el caldero de Harry, observando cómo el vapor de la mezcla de los cuervos adquiría una tonalidad azulada límpida y perfecta, sin emitir una sola chispa de hollín ni olores cáusticos.
+Al otro lado del pasillo, Draconia Malfoy trabajaba en silencio junto a Daphne Greengrass. Los movimientos de la muchacha eran elegantes y disciplinados: pesaba los ingredientes con gramajes exactos y usaba su cuchillo de plata con incisiones milimétricas. De vez en cuando, la mirada gris de la niña se desviaba hacia el caldero de Harry, observando cómo el vapor de la mezcla de los cuervos adquiría una tonalidad azulada límpida y perfecta, sin emitir una sola chispa de hollín ni olores cáusticos.
 
-—Tienes buena mano para la dosificación, Potter —comentó Lyra sin apartar la vista de su mortero, en un tono que combinaba el desafío con la curiosidad genuina—. La mayoría de los mestizos y criados por muggles habrían triturado los colmillos como si fueran granos de pimienta. ¿Dónde aprendiste toxicología aplicada? Eso no venía en la lista de lecturas obligatorias de Flourish y Blotts.
+—Tienes buena mano para la dosificación, Potter —comentó Draconia sin apartar la vista de su mortero, en un tono que combinaba el desafío con la curiosidad genuina—. La mayoría de los mestizos y criados por muggles habrían triturado los colmillos como si fueran granos de pimienta. ¿Dónde aprendiste toxicología aplicada? Eso no venía en la lista de lecturas obligatorias de Flourish y Blotts.
 
 —En los libros que leen quienes no se conforman con aprobar por los pelos, Malfoy —respondió Harry cortando una rama de ortiga en trozos simétricos de media pulgada—. La química no distingue sangre ni cunas; solo entiende de proporciones molares y puntos de fusión. Si respetas el reactivo, el reactivo te obedece.
 
-Lyra dejó escapar una risa breve, casi inaudible, que denotaba que la respuesta había tocado una fibra de su propio orgullo intelectual:
+Draconia dejó escapar una risa breve, casi inaudible, que denotaba que la respuesta había tocado una fibra de su propio orgullo intelectual:
 
 —Proporciones molares… Hablas más como un alquimista de la vieja escuela que como un novato de once años. Aunque dudo que tu sangre mestiza aguante el ritmo cuando lleguemos a las soluciones de plata viviente en segundo curso.
 
 —Cuando lleguemos a la plata viviente, señorita Malfoy, ya habré calculado la constante de evaporación antes de que enciendas tu estuche alemán —replicó Harry con calma imperturbable.
 
-Daphne Greengrass miró a su compañera de casa con los ojos abiertos de par en par, asombrada de que alguien le respondiera a Lyra con semejante insolencia elegante sin que la rubia estallara en cólera. Pero Lyra no parecía ofendida; al contrario, sus ojos grises brillaban con una chispa de satisfacción competitiva que rara vez concedía a sus propios compañeros de Slytherin.
+Daphne Greengrass miró a su compañera de casa con los ojos abiertos de par en par, asombrada de que alguien le respondiera a Draconia con semejante insolencia elegante sin que la rubia estallara en cólera. Pero Draconia no parecía ofendida; al contrario, sus ojos grises brillaban con una chispa de satisfacción competitiva que rara vez concedía a sus propios compañeros de Slytherin.
 
 En la primera fila, Draco Malfoy y Vincent Crabbe estaban teniendo serios problemas. El caldero de Crabbe chisporroteaba con un humo grisáceo y denso que olía a cuerno quemado, y Draco intentaba desesperadamente rebajar la llama sin quemarse los dedos, lanzando miradas de soslayo hacia Snape con evidente pánico a ser reprendido.
 
@@ -141,7 +141,7 @@ Snape alzó la vista y clavó sus ojos oscuros en Harry. Había en su rostro una
 
 —Retiren el caldero y embotellen dos muestras para calificación —dijo Snape con un tono seco y monocorde que apenas ocultaba su frustración—. Y recuerden etiquetar con nombre y fecha. La mediocridad no se premia en esta clase, pero la técnica correcta se registra.
 
-Snape dio media vuelta y pasó a la mesa de los Malfoy, donde inspeccionó la poción de Lyra y Daphne con una inclinación de cabeza aprobatoria, aunque sin dedicarles más tiempo del necesario.
+Snape dio media vuelta y pasó a la mesa de los Malfoy, donde inspeccionó la poción de Draconia y Daphne con una inclinación de cabeza aprobatoria, aunque sin dedicarles más tiempo del necesario.
 
 Cuando sonó la campana que marcaba el final de la doble sesión de la mañana, los estudiantes comenzaron a recoger sus materiales con un suspiro colectivo de alivio. Harry vertió la poción azul en dos redomas de cristal, selló los corchos con lacre y escribió con letra clara en las etiquetas: *Filtro para forúnculos. Muestra A. H. Potter y T. Boot. Ravenclaw*.
 

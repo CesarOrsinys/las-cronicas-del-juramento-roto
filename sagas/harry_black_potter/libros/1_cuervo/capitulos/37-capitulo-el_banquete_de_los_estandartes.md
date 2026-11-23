@@ -63,21 +63,21 @@ Harry ignoró la conmoción con la compostura sosegada que se había convertido 
 
 Al pasar junto a la mesa de Slytherin, una figura esbelta de cabello negro azabache recogido en una trenza impecable levantó la vista de su plato de porcelana.
 
-Lyra Malfoy lo contempló fijamente con sus ojos grises como el hielo del invierno. No había burla en sus facciones aristocráticas ni el desdén insolente que solían exhibir sus compañeros de casa; había una curiosidad afilada, un respeto silencioso y una evaluación táctica que medía cada milímetro de la postura del muchacho.
+Draconia Malfoy lo contempló fijamente con sus ojos grises como el hielo del invierno. No había burla en sus facciones aristocráticas ni el desdén insolente que solían exhibir sus compañeros de casa; había una curiosidad afilada, un respeto silencioso y una evaluación táctica que medía cada milímetro de la postura del muchacho.
 
 Harry se detuvo un segundo frente a su asiento, sosteniendo la mirada de la heredera de la Casa Malfoy con una tranquilidad imperturbable.
 
-—Pareces sorprendentemente entero para ser alguien que supuestamente bajó a los infiernos del colegio, Potter —dijo Lyra con su tono suave, modulado y frío, en el que se apreciaba el entrenamiento riguroso de la nobleza mágica—. La mitad de los alumnos de mi sala común aseguraban que habías perdido un brazo en el proceso.
+—Pareces sorprendentemente entero para ser alguien que supuestamente bajó a los infiernos del colegio, Potter —dijo Draconia con su tono suave, modulado y frío, en el que se apreciaba el entrenamiento riguroso de la nobleza mágica—. La mitad de los alumnos de mi sala común aseguraban que habías perdido un brazo en el proceso.
 
 —Los rumores en este castillo suelen sufrir una notable hipertrofia dramática, Malfoy —respondió Harry con una leve curvatura irónica en la comisura de sus labios—. Afortunadamente para mí, mis extremidades siguen en su posición anatómica correcta y las pruebas no requerían desmembramientos innecesarios.
 
-Lyra enarcó una ceja delgada con elegante perspicacia:
+Draconia enarcó una ceja delgada con elegante perspicacia:
 
 —El profesor Quirrell renunció a su cátedra de forma abrupta antes de que terminaran las notas finales. Y Severus camina por los pasillos con una expresión aún más agria de lo habitual. No eres un Gryffindor impulsivo que busca la gloria en el fango, Potter; eres un cuervo metódico. Me pregunto qué era lo que realmente estaba escondido tras esa trampilla del tercer piso para que decidieras mancharte las manos.
 
 —A veces, Malfoy, la preservación del orden requiere que alguien examine los engranajes rotos antes de que la maquinaria entera salte por los aires —dijo Harry con serenidad—. Y en ocasiones, los peones son más útiles que los alfiles cuando el rey está ausente.
 
-Los ojos grises de Lyra brillaron con una chispa de inteligencia compartida. Asintió levemente con la cabeza, un gesto casi imperceptible pero cargado de un reconocimiento explícito:
+Los ojos grises de Draconia brillaron con una chispa de inteligencia compartida. Asintió levemente con la cabeza, un gesto casi imperceptible pero cargado de un reconocimiento explícito:
 
 —Una respuesta diplomática impecable. Disfruta de la plata y el verde esta noche, Potter; me temo que Ravenclaw tendrá que esperar al menos otro año para ver sus colores en el techo.
 
@@ -133,7 +133,7 @@ El silencio que cayó sobre la sala fue tan denso que se habría podido escuchar
 
 La mesa de Ravenclaw estalló en un rugido ensordecedor de júbilo colectivo. Terry Boot, Michael Corner y Anthony Goldstein se pusieron en pie de un salto, vitoreando el nombre de Harry mientras agitaban sus servilletas en el aire. Con aquellos sesenta puntos añadidos a su casillero, Ravenclaw sumaba un total exacto de cuatrocientos ochenta y seis puntos, superando por catorce puntos a los cuatrocientos setenta y dos de Slytherin.
 
-En la mesa verde, los rostros eran máscaras de incredulidad y estupefacción amarga. Draco Malfoy contemplaba el marcador con los ojos desorbitados de rabia, con la mandíbula apretada con tanta fuerza que sus nudillos se tornaron blancos sobre la mesa. Lyra Malfoy, por el contrario, mantuvo una compostura aristocrática impecable: cruzó las manos sobre su regazo y miró a Harry a través del pasillo con una inclinación de cabeza lenta, fría y reflexiva, aceptando el resultado con la dignidad severa de quien reconoce un golpe táctico magistral.
+En la mesa verde, los rostros eran máscaras de incredulidad y estupefacción amarga. Draco Malfoy contemplaba el marcador con los ojos desorbitados de rabia, con la mandíbula apretada con tanta fuerza que sus nudillos se tornaron blancos sobre la mesa. Draconia Malfoy, por el contrario, mantuvo una compostura aristocrática impecable: cruzó las manos sobre su regazo y miró a Harry a través del pasillo con una inclinación de cabeza lenta, fría y reflexiva, aceptando el resultado con la dignidad severa de quien reconoce un golpe táctico magistral.
 
 —Y finalmente… —prosiguió Dumbledore, haciendo una pausa teatral mientras una sonrisa cómplice se dibujaba en sus labios blancos—, hay muchos tipos de valentía en este mundo. Se requiere un gran coraje para enfrentarse a los enemigos jurados de la magia… pero se requiere un coraje infinitamente mayor para mantenerse firme en los principios de la prudencia y la verdad ante las burlas ajenas. Por lo tanto, otorgo a la casa Gryffindor diez puntos adicionales al señor Neville Longbottom.
 
@@ -177,6 +177,6 @@ A medianoche, cuando el silencio volvió a adueñarse de la torre y los muchacho
 
 Abrió el postigo de madera y dejó que la brisa fría de las cumbres escocesas refrescara su rostro. En el horizonte oscuro, más allá de los contornos sombríos del Bosque Prohibido y del lago negro donde el calamar gigante dormitaba en las profundidades, se extendía la inmensidad del mundo exterior: un mundo complejo, peligroso y lleno de secretos antiguos que apenas comenzaba a descifrar.
 
-El primer año había llegado a su fin. Las pruebas habían sido superadas, las intrigas de la Piedra habían sido sofocadas y sus lazos de lealtad con Ron, Hermione y su propia casa se habían forjado en el crisol de la adversidad. Pero en el corazón de Harry, la mirada gris de Lyra Malfoy, la advertencia sombría de Voldemort en la caverna y la soledad clandestina de Sirius en los páramos marcaban el inicio de una contienda mucho más profunda.
+El primer año había llegado a su fin. Las pruebas habían sido superadas, las intrigas de la Piedra habían sido sofocadas y sus lazos de lealtad con Ron, Hermione y su propia casa se habían forjado en el crisol de la adversidad. Pero en el corazón de Harry, la mirada gris de Draconia Malfoy, la advertencia sombría de Voldemort en la caverna y la soledad clandestina de Sirius en los páramos marcaban el inicio de una contienda mucho más profunda.
 
 El cuervo había probado sus alas; y el invierno del regreso comenzaba a desplegar su vuelo hacia el hogar.

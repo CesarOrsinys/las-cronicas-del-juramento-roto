@@ -9,7 +9,7 @@ Sin embargo, en las mesas de las otras tres casas la reacción era sumamente dis
 
 En Slytherin, por el contrario, la envidia, el despecho y la irritación se palpaban en el aire denso de las mazmorras. Draco Malfoy no dejaba de despotricar entre sus allegados sobre el favoritismo escandaloso del cuerpo docente, afirmando con amargura constante que Dumbledore manipulaba el reglamento a su antojo para beneficiar a su protegido de Ravenclaw y que un huérfano recién llegado del mundo exterior no tenía el menor derecho a vestir los colores de un equipo colegial.
 
-Lyra Malfoy, no obstante, mantenía una actitud mucho más calculadora, madura y distante. Cuando se cruzaba con Harry en el vestíbulo principal, en el patio de los claustros o en los pasillos de la biblioteca, no lanzaba insultos pueriles ni muecas grotescas como su hermano; se limitaba a sostenerle la mirada con sus ojos grises y afilados, evaluando la postura del chico como un maestro de ajedrez que mide las fuerzas y las aperturas de un oponente formidable antes de que comiencen las hostilidades abiertas en el tablero.
+Draconia Malfoy, no obstante, mantenía una actitud mucho más calculadora, madura y distante. Cuando se cruzaba con Harry en el vestíbulo principal, en el patio de los claustros o en los pasillos de la biblioteca, no lanzaba insultos pueriles ni muecas grotescas como su hermano; se limitaba a sostenerle la mirada con sus ojos grises y afilados, evaluando la postura del chico como un maestro de ajedrez que mide las fuerzas y las aperturas de un oponente formidable antes de que comiencen las hostilidades abiertas en el tablero.
 
 La mañana del martes siguiente amaneció cubierta de una densa niebla blanca y helada que borraba por completo las cimas de las montañas de las Tierras Altas y hacía que las altas torres del castillo parecieran flotar en un mar lechoso y silencioso. El aire que entraba por los corredores entreabiertos olía a nieve temprana y a corteza húmeda de pino.
 
@@ -37,7 +37,7 @@ Antes de que Harry pudiera salir de su sorpresa inicial, una séptima ave —un 
 
 Harry acarició las plumas suaves de la garganta del búho con profunda gratitud y le ofreció un generoso trozo de corteza de tocino crujiente del plato, que el ave engulló de un solo bocado antes de emitir un ulular bajo de despedida y levantar el vuelo hacia las vigas oscuras del techo gótico.
 
-Todo el Gran Comedor estaba sumido en un silencio sepulcral, cargado de una tensión electrizante. En la mesa de Gryffindor, Ron y los gemelos Weasley se habían puesto de pie sobre los bancos para ver mejor por encima de las cabezas de sus compañeros. En la mesa de Slytherin, Draco Malfoy apretaba los dientes con tal fuerza que la mandíbula se le marcaba en la piel pálida, con los ojos inyectados en sangre por una mezcla corrosiva de curiosidad morbosa y rabia; Lyra Malfoy, sentada frente a él, observaba la escena con la espalda rígidamente recta y las manos apoyadas en el borde de la mesa, reconociendo al instante el porte aristocrático del búho mensajero perteneciente a la rama principal de la Casa Black.
+Todo el Gran Comedor estaba sumido en un silencio sepulcral, cargado de una tensión electrizante. En la mesa de Gryffindor, Ron y los gemelos Weasley se habían puesto de pie sobre los bancos para ver mejor por encima de las cabezas de sus compañeros. En la mesa de Slytherin, Draco Malfoy apretaba los dientes con tal fuerza que la mandíbula se le marcaba en la piel pálida, con los ojos inyectados en sangre por una mezcla corrosiva de curiosidad morbosa y rabia; Draconia Malfoy, sentada frente a él, observaba la escena con la espalda rígidamente recta y las manos apoyadas en el borde de la mesa, reconociendo al instante el porte aristocrático del búho mensajero perteneciente a la rama principal de la Casa Black.
 
 En la mesa de los profesores, en el estrado elevado del fondo, Severus Snape clavaba su mirada oscura, penetrante y gélida en el bulto alargado, con la mano crispada sobre la copa de jugo de calabaza, mientras la profesora McGonagall y el profesor Flitwick intercambiaban una mirada de complicidad risueña y satisfecha desde sus respectivos asientos de honor.
 
@@ -81,7 +81,7 @@ No deseaba dejar un artefacto tan valioso expuesto innecesariamente a miradas in
 
 Sin embargo, al llegar al pie del amplio vestíbulo de piedra que conectaba con las escaleras de caracol, se encontraron con el paso completamente bloqueado.
 
-Draco Malfoy, flanqueado por Vincent Crabbe y Gregory Goyle como dos torres de basalto toscas, pesadas y amenazantes, se interponía en medio del arco de la gran puerta de roble. El rostro del muchacho rubio estaba contraído por una envidia ponzoñosa y visceral que le hacía temblar la comisura de los labios pálidos. A pocos pasos detrás de ellos, recortada contra la penumbra de una columna de mármol veteado, Lyra Malfoy se apoyaba con los brazos cruzados sobre el pecho, observando la escena con un mutismo gélido, distante e indescifrable.
+Draco Malfoy, flanqueado por Vincent Crabbe y Gregory Goyle como dos torres de basalto toscas, pesadas y amenazantes, se interponía en medio del arco de la gran puerta de roble. El rostro del muchacho rubio estaba contraído por una envidia ponzoñosa y visceral que le hacía temblar la comisura de los labios pálidos. A pocos pasos detrás de ellos, recortada contra la penumbra de una columna de mármol veteado, Draconia Malfoy se apoyaba con los brazos cruzados sobre el pecho, observando la escena con un mutismo gélido, distante e indescifrable.
 
 —Esa es una escoba de carreras reglamentaria de alta gama, Potter —dijo Draco con una voz chillona, áspera y crispada por la indignación, señalando con un dedo acusador el paquete envuelto bajo el brazo de Harry—. Los alumnos de primer año tienen terminantemente prohibido poseer escobas privadas en el recinto del castillo según el reglamento general. Es una violación flagrante y descarada de los estatutos fundacionales del colegio. Esta misma mañana redactaré una lechuza urgente a mi padre para que exija a la junta de gobernadores la confiscación inmediata del paquete por contrabando de material deportivo y tu correspondiente suspensión disciplinaria.
 
@@ -95,19 +95,19 @@ Draco abrió la boca para replicar con una sarta de insultos biliosos, pero las 
 
 —No es la cicatriz lo que te tiene tan alterado y fuera de tus casillas, Draco —intervino una voz templada, arrastrada, aristocrática y cortante como una navaja de afeitar desde las sombras de la columna de mármol.
 
-Lyra Malfoy dio dos pasos largos y elegantes hacia adelante, interponiéndose con naturalidad gélida entre su hermano y Harry. Sus ojos de un gris tormentoso barrieron a Draco de arriba abajo con un desdén tan absoluto que el muchacho rubio dio un paso involuntario hacia atrás:
+Draconia Malfoy dio dos pasos largos y elegantes hacia adelante, interponiéndose con naturalidad gélida entre su hermano y Harry. Sus ojos de un gris tormentoso barrieron a Draco de arriba abajo con un desdén tan absoluto que el muchacho rubio dio un paso involuntario hacia atrás:
 
 —Lo que te carcome las entrañas, Draco, es que tú pasaste tres semanas enteras rogándole y suplicándole a padre por una modesta Barredora Siete para presumir los fines de semana, mientras que Potter acaba de recibir la escoba de carreras más rápida y avanzada del mercado europeo sin haber tenido que pronunciar una sola súplica. Y lo que es infinitamente peor para tu orgullo: te aterra admitir que él sabe maniobrar una vieja Cometa de entrenamiento con más destreza y precisión de la que tú jamás serás capaz de demostrar a los mandos de una máquina de mil galeones. Deja de hacer el ridículo más espantoso en medio del vestíbulo principal frente a los alumnos de todas las casas; pareces un chiquillo malcriado y vulgar al que le acaban de quitar una manzana confitada en el mercado del pueblo.
 
 Draco miró a su hermana con los ojos desorbitados por lo que consideraba una traición familiar imperdonable en público:
 
-—¡Lyra! ¿De qué demonios estás hablando? ¡Se supone que eres una Malfoy! ¡Se supone que debes respaldarme frente a esta chusma!
+—¡Draconia! ¿De qué demonios estás hablando? ¡Se supone que eres una Malfoy! ¡Se supone que debes respaldarme frente a esta chusma!
 
 —Soy una Malfoy, Draco —sentenció la niña con una frialdad pétrea que pareció bajar la temperatura del vestíbulo varios grados—. Y precisamente porque llevo este apellido sé distinguir con perfecta claridad cuándo una disputa está perdida de antemano por falta de argumentos y cuándo hay que retirarse con dignidad señorial en lugar de montar un espectáculo deplorable para deleite de los curiosos. Retírate de la puerta de inmediato y déjalos pasar.
 
 Crabbe y Goyle miraron a Draco con los ojos vacíos, esperando una orden de ataque que nunca llegó. El muchacho rubio, completamente sobrepasado por la autoridad aplastante y humillante de su hermana y abrumado por las miradas burlonas y los murmullos de los estudiantes que se agolpaban en los arcos del vestíbulo, soltó un bufido ahogado de rabia impotente, dio media vuelta sobre sus talones y se marchó a zancadas furiosas hacia la escalera que descendía a las mazmorras de Slytherin, seguido a trompicones por sus dos torpes secuaces.
 
-Lyra se quedó sola frente a Harry en el centro del vestíbulo. Se alisó con parsimonia los puños de encaje negro de su túnica con un movimiento lento, casi coreográfico, y clavó sus pupilas grises directamente en las de él:
+Draconia se quedó sola frente a Harry en el centro del vestíbulo. Se alisó con parsimonia los puños de encaje negro de su túnica con un movimiento lento, casi coreográfico, y clavó sus pupilas grises directamente en las de él:
 
 —Tienes en tus manos un arma formidable, Potter. La Nimbus dos mil no es un juguete para aficionados ni una herramienta condescendiente; su aceleración inicial es tan brutal y sensible que el menor titubeo en el timón o una fracción de segundo de duda puede estamparte contra los muros de la torre antes de que tengas tiempo de pensar en frenar.
 
@@ -117,7 +117,7 @@ Lyra se quedó sola frente a Harry en el centro del vestíbulo. Se alisó con pa
 
 —Estaré encantado de medir sus trayectorias y esquivarlos en las alturas, Malfoy —concluyó Harry con la misma calma imperturbable.
 
-Lyra asintió una sola vez con un movimiento sobrio de barbilla, dio media vuelta y descendió hacia los dominios subterráneos de su casa con un porte señorial indiscutible.
+Draconia asintió una sola vez con un movimiento sobrio de barbilla, dio media vuelta y descendió hacia los dominios subterráneos de su casa con un porte señorial indiscutible.
 
 Harry, Terry y Padma reanudaron la marcha, subiendo los amplios tramos de escaleras de piedra caliza hacia la torre de Ravenclaw. La jornada lectiva prometía ser exigente, con una doble sesión de Transformaciones avanzadas con la profesora McGonagall y la traducción de un texto de runas antiguas para el final de la tarde; pero al sentir el peso firme, noble y perfectamente equilibrado de la Nimbus 2000 descansando bajo su brazo, y la carta de advertencia de Sirius resguardada contra su pecho, Harry supo que su posición en el tablero de Hogwarts se había dotado de una pieza táctica de primer orden.
 

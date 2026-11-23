@@ -17,7 +17,7 @@ Davies se giró hacia Harry, que se encontraba sentado en el banco de madera aju
 
 A las once en punto de la mañana, el equipo de Ravenclaw salió al campo de juego en fila india, recibiendo una ovación atronadora y ensordecedora que hizo temblar literalmente los tablones de las gradas. Cientos de bufandas de color azul y bronce se agitaban al unísono en la tribuna este, acompañadas por los aplausos entusiastas y generosos de los estudiantes de Gryffindor —encabezados por Ron Weasley y Hermione Granger, quienes habían desplegado una pancarta gigante de tela blanca pintada a mano donde se leía en letras doradas: *«¡Fuerza, Harry Potter!»*—, mientras que en la bancada de Slytherin reinaba un silencio escéptico, distante y desdeñoso.
 
-En la primera fila de la tribuna verde y plata de las serpientes, Lyra Malfoy observaba la entrada del equipo con unos prismáticos de latón pulido, envuelta en una elegante capa de viaje de terciopelo esmeralda forrada de armiño blanco que le cubría los hombros. A su izquierda, Draco Malfoy mascullaba maldiciones entre dientes con los brazos cruzados con rabia, deseando fervientemente que una bludger descontrolada partiera la flamante Nimbus de su rival en mil pedazos sobre el césped congelado.
+En la primera fila de la tribuna verde y plata de las serpientes, Draconia Malfoy observaba la entrada del equipo con unos prismáticos de latón pulido, envuelta en una elegante capa de viaje de terciopelo esmeralda forrada de armiño blanco que le cubría los hombros. A su izquierda, Draco Malfoy mascullaba maldiciones entre dientes con los brazos cruzados con rabia, deseando fervientemente que una bludger descontrolada partiera la flamante Nimbus de su rival en mil pedazos sobre el césped congelado.
 
 En el centro exacto del campo, la señora Hooch aguardaba con su silbato plateado entre los labios, de pie junto al baúl de hierro forjado que contenía las cuatro pelotas reglamentarias del juego.
 
@@ -141,7 +141,7 @@ A unos metros de distancia, Cedric Diggory aterrizó con elegancia deportiva, se
 
 —Muchas gracias, Cedric. Ha sido un honor disputar el partido contra un piloto tan formidable como tú —respondió Harry devolviéndole el saludo con respeto genuino.
 
-En lo alto de la tribuna de Slytherin, mientras los estudiantes comenzaban a desalojar los tablones con rostros sombríos y amargados, Lyra Malfoy bajó lentamente sus prismáticos de latón. Clavó su mirada gris en la figura de Harry, que celebraba en hombros de sus compañeros con una serenidad digna en medio del júbilo colectivo. La niña esbozó una sonrisa minúscula, afilada y llena de un respeto indiscutible antes de dar media vuelta y perderse en las sombras de la salida.
+En lo alto de la tribuna de Slytherin, mientras los estudiantes comenzaban a desalojar los tablones con rostros sombríos y amargados, Draconia Malfoy bajó lentamente sus prismáticos de latón. Clavó su mirada gris en la figura de Harry, que celebraba en hombros de sus compañeros con una serenidad digna en medio del júbilo colectivo. La niña esbozó una sonrisa minúscula, afilada y llena de un respeto indiscutible antes de dar media vuelta y perderse en las sombras de la salida.
 
 Sin embargo, mientras Harry levantaba el brazo sosteniendo la snitch dorada ante los aplausos de la multitud, sus ojos se cruzaron por un segundo con los de Severus Snape en el palco de honor.
 

@@ -119,7 +119,7 @@ Harry vio alejarse a la niña hacia la torre de Gryffindor y luego emprendió el
 
 Al día siguiente, tal y como había previsto con lucidez, la noticia de la deducción de ciento cincuenta puntos sacudió los cimientos del colegio como un terremoto social. En la mesa de Ravenclaw, los alumnos mayores lo miraban con una mezcla de estupefacción amarga e incredulidad herida; Michael Corner no se atrevía a mirarlo a los ojos y Roger Davies le preguntó con seriedad qué había ocurrido para que la profesora McGonagall le impusiera un castigo de esa gravedad. Harry mantuvo la calma y no reveló el asunto del dragón, asumiendo la responsabilidad formal de la infracción sin quejarse ni buscar excusas públicas.
 
-En Slytherin, la situación para Draco Malfoy era infinitamente peor: sus propios compañeros de casa lo insultaban en voz baja en los pasillos por haber sido tan estúpido de dejarse atrapar en su propia delación, y Lyra Malfoy no le dirigió la palabra durante cuatro días seguidos, tratándolo con un desdén gélido que destrozaba el orgullo del muchacho rubio.
+En Slytherin, la situación para Draco Malfoy era infinitamente peor: sus propios compañeros de casa lo insultaban en voz baja en los pasillos por haber sido tan estúpido de dejarse atrapar en su propia delación, y Draconia Malfoy no le dirigió la palabra durante cuatro días seguidos, tratándolo con un desdén gélido que destrozaba el orgullo del muchacho rubio.
 
 Durante las clases conjuntas de Pociones y Encantamientos de aquella semana, el ambiente era irrespirable. Los estudiantes de Gryffindor y Ravenclaw esquivaban el contacto visual con Harry y Hermione, susurrando reproches amargos sobre la pérdida del liderato en la Copa de las Casas. Neville Longbottom, que también había sido interceptado por Filch esa misma noche intentando buscar a sus compañeros para advertirles de la delación de Draco, compartía la condena disciplinaria y caminaba cabizbajo con los ojos hinchados por la culpa.
 
@@ -129,19 +129,19 @@ Harry utilizó cada hora libre para repasar mentalmente sus defensas oclumántic
 
 Harry asintió ante el consejo de su padrino, guardando el espejo bajo la almohada. En su mente analítica, el tablero mostraba una realidad mucho más seria y trascendental que la pérdida de puntos en un reloj de arena.
 
-La tarde del jueves previa a la sanción, mientras Harry estudiaba en un banco apartado del patio central bajo el sol pálido de la primavera incipiente, Lyra Malfoy se detuvo frente a él. La niña de Slytherin no vestía su habitual túnica de gala; llevaba guantes de piel de dragón y una bufanda de seda esmeralda ceñida al cuello.
+La tarde del jueves previa a la sanción, mientras Harry estudiaba en un banco apartado del patio central bajo el sol pálido de la primavera incipiente, Draconia Malfoy se detuvo frente a él. La niña de Slytherin no vestía su habitual túnica de gala; llevaba guantes de piel de dragón y una bufanda de seda esmeralda ceñida al cuello.
 
-—Mi hermano es un completo imbécil, Potter —dijo Lyra con su tono arrastrado y aristocrático, rompiendo el silencio con una franqueza desprovista de cortesía fingida—. Creía que denunciándote a McGonagall ganaría el favor de la casa, y lo único que ha conseguido es que Slytherin caiga al fondo de la clasificación y que todos sus amigos le den la espalda en la mesa del comedor.
+—Mi hermano es un completo imbécil, Potter —dijo Draconia con su tono arrastrado y aristocrático, rompiendo el silencio con una franqueza desprovista de cortesía fingida—. Creía que denunciándote a McGonagall ganaría el favor de la casa, y lo único que ha conseguido es que Slytherin caiga al fondo de la clasificación y que todos sus amigos le den la espalda en la mesa del comedor.
 
 —Las trampas que se construyen sobre el rencor suelen atrapar al que coloca el cepo, Malfoy —respondió Harry con una leve sonrisa, cerrando su cuaderno de notas—. Pero supongo que no has venido hasta aquí solo para criticar a tu hermano.
 
-Lyra clavó sus pupilas grises en las de él, y una sombra de advertencia genuina tiñó su mirada:
+Draconia clavó sus pupilas grises en las de él, y una sombra de advertencia genuina tiñó su mirada:
 
 —La detención de mañana no es un simple castigo de limpiar calderos en las mazmorras, Potter. Filch los llevará a los lindes del Bosque Prohibido. Algo está ocurriendo allí dentro desde hace semanas; los cazadores y los centauros han estado agitados y se han avistado rastros extraños cerca de las vallas exteriores. Si vas a entrar en esa espesura con mi hermano y con Longbottom, mantén la varita a mano. Mi padre suele decir que los bosques de Hogwarts guardan cosas que devoran tanto a la sangre pura como a los mestizos si bajan la guardia en la penumbra.
 
-—Agradezco el consejo, Lyra —dijo Harry con una inclinación de cabeza—. Me aseguraré de que tu hermano regrese entero al castillo.
+—Agradezco el consejo, Draconia —dijo Harry con una inclinación de cabeza—. Me aseguraré de que tu hermano regrese entero al castillo.
 
-Lyra enarcó una ceja con una sonrisa afilada:
+Draconia enarcó una ceja con una sonrisa afilada:
 
 —Haz lo que consideres oportuno con él, Potter. Solo asegúrate de regresar tú también. La liga de quidditch sería muy aburrida si el buscador de Ravenclaw termina en el estómago de una mantícora antes de nuestro partido.
 
