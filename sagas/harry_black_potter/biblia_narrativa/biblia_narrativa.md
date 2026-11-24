@@ -34,7 +34,7 @@
   - Relación con figuras clave: Terry Boot, Michael Corner, Anthony Goldstein, Padma Patil, y más adelante Luna Lovegood.
 * **Relación con las otras Casas:**
   - *Hermione Granger (Gryffindor):* Encuentra en Harry a la primera persona que no solo iguala su ritmo de lectura, sino que cuestiona la autoridad ciega de los libros de texto del Ministerio. Su rivalidad académica se convierte en un debate intelectual constante.
-  - *Draco Malfoy (Slytherin):* Malfoy no puede intimidar ni manipular a un Harry que conoce el árbol genealógico de los Black mejor que él mismo.
+  - *Draconia Malfoy (Slytherin):* Malfoy no puede intimidar ni manipular a un Harry que conoce el árbol genealógico de los Black mejor que él mismo.
   - *Ron Weasley (Gryffindor):* Distanciamiento natural de casas, pero respeto mutuo tras compartir el viaje en tren.
   - *Neville Longbottom (Gryffindor):* Harry reconoce en Neville la misma sombra del dolor familiar y lo ayuda a ganar confianza técnica en sus propios términos.
 

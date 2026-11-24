@@ -1,7 +1,7 @@
 # CAPÍTULO 30
 ## La espesura de las raíces y la sangre de plata
 
-A las once en punto de la noche del viernes, el gran vestíbulo de entrada de la fortaleza de Hogwarts estaba sumido en una penumbra fría, lúgubre, húmeda y sepulcral. Solo una antorcha solitaria de aceite mineral ardía sobre el quicio de piedra de la gran puerta principal, proyectando sombras temblorosas, alargadas y deformes sobre los muros de sillería y sobre las siluetas de los cuatro alumnos de primer año congregados para cumplir la severa detención disciplinaria impuesta por la profesora Minerva McGonagall: Harry Potter, Hermione Granger, Neville Longbottom y Draco Malfoy.
+A las once en punto de la noche del viernes, el gran vestíbulo de entrada de la fortaleza de Hogwarts estaba sumido en una penumbra fría, lúgubre, húmeda y sepulcral. Solo una antorcha solitaria de aceite mineral ardía sobre el quicio de piedra de la gran puerta principal, proyectando sombras temblorosas, alargadas y deformes sobre los muros de sillería y sobre las siluetas de los cuatro alumnos de primer año congregados para cumplir la severa detención disciplinaria impuesta por la profesora Minerva McGonagall: Harry Potter, Hermione Granger, Neville Longbottom y Draconia Malfoy.
 
 Argus Filch aguardaba de pie junto al umbral con su habitual cojera siniestra y una sonrisa desdentada, torcida y cruel que iluminaba sus ojos amarillentos y saltones con un brillo malicioso. Sostenía en alto una vieja linterna de latón oxidado que chirriaba con cada ráfaga de viento gélido que se colaba por las rendijas de los pesados portones de roble, mientras la señora Norris se paseaba entre las botas de los muchachos con un ronroneo bajo, seco y amenazante que erizaba la piel.
 
@@ -15,11 +15,11 @@ El guardabosques vestía su habitual abrigo de piel de topo reforzado, llevaba s
 
 —¿Eres tú, Filch? —bramó la voz cavernosa y profunda de Hagrid a través de la niebla nocturna—. Date prisa de una vez y entrégame a los muchachos. Tengo mucho trabajo urgente que hacer dentro del bosque antes de que amanezca el día y no pienso perder el tiempo escuchando tus sermones de calabozo.
 
-—Aquí tienes a tus cuatro pequeños héroes de pacotilla, Hagrid —dijo Filch con desdén amargo, empujando a Draco por el hombro hacia la hierba húmeda y resbaladiza—. Te los entrego bajo tu entera y exclusiva responsabilidad. Y espero sinceramente que no te apiades de ninguno de ellos si alguno se pone a lloriquear por el barro o por los arañazos de las ramas.
+—Aquí tienes a tus cuatro pequeños héroes de pacotilla, Hagrid —dijo Filch con desdén amargo, haciendo un gesto áspero con su linterna hacia el grupo sobre la hierba húmeda y resbaladiza—. Te los entrego bajo tu entera y exclusiva responsabilidad. Y espero sinceramente que no te apiades de ninguno de ellos si alguno se pone a quejarse por el barro o por los arañazos de las ramas.
 
-El muchacho rubio de Slytherin miró la imponente mole oscura del bosque milenario y la ballesta de Hagrid con una mezcla de espanto, desconcierto y pánico visceral que le hizo palidecer hasta los mismos labios:
+Draconia Malfoy, erguida con su habitual elegancia incluso sobre el fango, contempló la imponente mole oscura del bosque milenario y la enorme ballesta de Hagrid con una ceja arqueada y una frialdad rigurosa, aunque sus dedos enguantados se cerraron con fuerza imperceptible sobre el forro de su capa:
 
-—¡Un momento! —protestó Draco con una voz chillona y crispada, retrocediendo dos pasos sobre la hierba húmeda hacia los escalones de piedra del vestíbulo—. ¡Usted dijo en las mazmorras que íbamos a cumplir una detención ordinaria de limpieza, no que nos adentraríamos en el Bosque Prohibido a medianoche! ¡Ese bosque está terminantemente vedado para todos los estudiantes de primer curso según los estatutos del colegio! ¡Todo el mundo sabe que allí dentro habitan criaturas carnívoras, manadas de hombres lobo salvajes y monstruos del averno!
+—Un momento —intervino Draconia con su voz templada, arrastrada y aristocrática, sin elevar el tono pero con una firmeza acerada—. ¡Usted dijo en las mazmorras que íbamos a cumplir una detención ordinaria de limpieza, no que nos adentraríamos en el Bosque Prohibido a medianoche! ¡Ese bosque está terminantemente vedado para todos los estudiantes de primer curso según los estatutos del colegio! ¡Todo el mundo sabe que allí dentro habitan criaturas carnívoras, manadas de hombres lobo salvajes y monstruos del averno!
 
 —Si hubieras pensado en los hombres lobo y en los peligros del bosque antes de salirte de tu cama a la una de la madrugada para espiar a tus compañeros de colegio por los pasillos, señorito Malfoy, ahora estarías durmiendo plácidamente bajo las mantas de tu dormitorio en las mazmorras —le espetó Argus Filch con una risotada seca, burlona y despiadada—. En la espesura del bosque hay cosas infinitamente peores que los hombres lobo, muchacho. Criaturas que no se andan con rodeos ni respetan los apellidos de sangre pura. Que tengan una velada sumamente instructiva.
 
@@ -45,29 +45,37 @@ Quienquiera que estuviera cazando y bebiendo la sangre de aquellas bestias sagra
 
 —Nos dividiremos en dos grupos separados para cubrir más terreno antes de que la llovizna borre las huellas en el barro —ordenó Hagrid, comprobando la tensión de la cuerda de su ballesta—. Neville y Hermione vendrán conmigo; nosotros seguiremos el sendero del este hacia el claro de los sauces llorones. Harry, tú irás con Malfoy y con Fang por el sendero del oeste, bordeando las raíces del desfiladero rocoso. Fang es un cobarde con las criaturas grandes que rugen, pero tiene un olfato formidable para detectar el rastro plateado en la oscuridad de la noche. Si alguno de los dos grupos encuentra al unicornio herido o se topa con un peligro grave que amenace su vida, lancen chispas rojas al aire con la varita de inmediato y vendré a buscarlos a la carrera rompiendo ramas. Si todo está despejado y encuentran el rastro limpio, lancen chispas verdes. ¿Ha quedado perfectamente claro para todos?
 
-Draco Malfoy tragó saliva con una angustia evidente que le hacía castañetear los dientes, mirando al enorme perro negro con una desconfianza absoluta:
+Draconia Malfoy sostuvo la mirada de Hagrid con pupilas grises como el hielo, calculando las probabilidades tácticas de la expedición:
 
-—¡Yo me quedo con el perro! —exigió el muchacho rubio con la voz crispada por el pánico—. ¡Pero que conste que si veo la menor sombra o escucho un aullido me largo corriendo al castillo y no pienso mirar atrás!
+—¿Y qué ocurre si la entidad que abatió al unicornio sigue rondando en este cuadrante del bosque? —preguntó la joven aristócrata con voz gélida y contenida—. Un unicornio adulto posee velocidad y reflejos superiores a cualquier montura mágica. Quienquiera que lo haya derribado no retrocederá ante una patrulla de novatos armados con linternas de latón.
 
-—Fang irá contigo, Malfoy —respondió Harry con una serenidad glacial que desarmó por completo el conato de histeria del slytherin—. Y si ves una sombra, procura no gritar como un chiquillo malcriado si no quieres que la criatura te localice por el eco antes de que puedas sacar la varita del bolsillo interior.
+—No hay criatura en este bosque que se atreva a tocarlos mientras mantengan las antorchas encendidas y sigan los senderos marcados —aseguró el semigigante con una calma rotunda—. Nos dividiremos en dos grupos separados para cubrir más terreno antes de que la llovizna borre las huellas en el barro. Neville y Hermione vendrán conmigo hacia el este; Harry, tú y Malfoy tomarán el sendero del oeste bordeando las raíces del desfiladero rocoso con Fang. Si alguno de los dos grupos encuentra al animal o se topa con un peligro grave, lancen chispas rojas al aire de inmediato. Si todo está despejado y el rastro es limpio, lancen chispas verdes. ¿Ha quedado perfectamente claro para todos?
 
-Hagrid asintió con aprobación hacia Harry, le palmeó el hombro con su manaza de oso y se internó en la espesura del sendero oriental seguido muy de cerca por Hermione y Neville.
+Draconia miró al gran danés negro, que olfateaba el aire nocturno con evidente inquietud, y luego clavó sus ojos en Harry con una severidad analítica:
 
-Harry, Draco y el gran danés tomaron el sendero occidental.
+—Aceptable. Potter demostró reflejos decentes en el aire; supongo que sabrá mantener la compostura en tierra firme si la situación se complica.
+
+Harry asintió con una leve inclinación de cabeza, sereno ante la disposición:
+
+—Mantendremos a Fang en cabeza, Hagrid. Si localizamos el rastro principal o avistamos peligro, lanzaremos chispas rojas al cielo nocturno.
+
+Hagrid asintió con aprobación hacia ambos, le palmeó el hombro a Harry con su manaza de oso y se internó en la espesura del sendero oriental seguido muy de cerca por Hermione y Neville.
+
+Harry, Draconia y el gran danés tomaron el sendero occidental.
 
 La espesura del Bosque Prohibido los engulló en un silencio denso, vegetal, asfixiante y sepulcral. Los troncos de los robles, tejos y hayas centenarias eran tan descomunales que cuatro hombres con los brazos abiertos apenas habrían podido rodear sus cortezas rugosas cubiertas de líquenes fluorescentes; las ramas superiores se entrelazaban en una bóveda vegetal tan tupida y cerrada que borraba por completo el cielo nocturno, impidiendo que la menor gota de llovizna o rayo de luna alcanzara el suelo cubierto de musgo podrido y hojas secas descompuestas. Raíces gigantescas, retorcidas y gruesas como serpientes de basalto sobresalían de la tierra a cada paso, obligándolos a sortear fosos naturales, troncos caídos y charcos de agua estancada que olían a cieno antiguo.
 
-Harry avanzaba con las rodillas ligeramente flexionadas, el centro de gravedad bajo y la varita de once pulgadas de acebo y pluma de fénix firmemente sujeta en la mano derecha, aplicando con rigor el riguroso protocolo de patrulla nocturna que Sirius le había enseñado en los páramos de Yorkshire. Su oído estaba sintonizado con cada chasquido de corteza en la penumbra; sus ojos verdes, perfectamente adaptados a la oscuridad, escudriñaban cada sombra entre los matorrales antes de permitir que Draco diera un paso al frente sobre las raíces resbaladizas.
+Harry avanzaba con las rodillas ligeramente flexionadas, el centro de gravedad bajo y la varita de acebo empuñada con firmeza pero sin rigidez innecesaria bajo el dobladillo de la manga. Su respiración era silenciosa, rítmica y acompasada; sus ojos verdes escaneaban cada tronco cubierto de líquenes húmedos, cada rama crujiente y cada claro abierto entre la niebla con la precisión metódica que Sirius le había inculcado durante sus largas sesiones de instrucción física y táctica en Grimmauld Place. Detenía el paso cada diez metros para escuchar el susurro del viento entre las copas y evaluar las posibles rutas de escape entre los matorrales antes de permitir que Draconia diera un paso al frente sobre las piedras cubiertas de musgo resbaladizo.
 
-Fang caminaba dos pasos por delante con el hocico pegado al suelo húmedo, deteniéndose a intervalos regulares para olfatear las gotas plateadas de sangre de unicornio que brillaban en las raíces como rocío fosforescente y trágico.
+Sobre la tierra negra del sendero, entre las raíces nudosas de los sauces y los robles milenarios, brillaban pequeñas salpicaduras líquidas de una sustancia luminiscente, densa, espesa y plateada que despedía un resplandor azulado tenue y casi sobrenatural: la sangre del unicornio herido, derramada gota a gota en su huida agónica hacia lo más profundo de la floresta. Cada rastro en el barro mostraba la desesperación de la presa, marcando hendiduras profundas de cascos hendidos que se desvanecían hacia el norte con un brillo fosforescente y trágico.
 
-A su lado, Draco Malfoy temblaba de pies a cabeza. El muchacho de Slytherin caminaba encorvado, mirando frenéticamente hacia las copas de los árboles con los ojos desorbitados, sobresaltándose violentamente con el aleteo lejano de una lechuza o con el crujido involuntario de una rama seca bajo sus propias botas de montar:
+A su lado, Draconia Malfoy caminaba con pasos calculados, sosteniendo su varita de espino con la mano derecha enguantada. Aunque su orgullo de sangre pura le impedía mostrar debilidad manifiesta, Harry percibía la tensión en sus hombros rígidos y la forma en que sus pupilas se dilataban ante los crujidos lejanos de la arboleda.
 
-—Potter… esto es una locura absoluta y suicida —susurró Draco con la voz quebrada por el miedo, intentando disimular su temblor sin conseguirlo en lo más mínimo—. Mi padre le tiene dicho a la junta de gobernadores que este bosque maldito debería ser talado y purgado con fuego por los aurores del Ministerio. Hay colonias enteras de acromántulas carnívoras a dos millas de aquí… y salvajes centauros que disparan flechas envenenadas a cualquiera que cruce sus lindes sagrados sin pedir permiso de rodillas.
+—Potter… esto excede cualquier estándar de seguridad escolar —susurró Draconia con un hilo de voz templada pero tensa, manteniendo la mirada fija en las sombras densas—. Si mi padre se entera de que nos han enviado a rastrear una entidad carnívora sin escolta de aurores, Dumbledore enfrentará una querella criminal en el Wizengamot antes de que salga el sol.
 
-—Los centauros no atacan a los niños si no se profana su territorio sagrado ni se arrancan sus hierbas rituales, Malfoy —respondió Harry en un susurro gélido, pausado y tranquilo, sin apartar la mirada de las sombras que se abrían ante ellos en la espesura—. Y las arañas gigantes evitan los senderos principales mientras huelan la resina fresca del arco de Hagrid. Lo único que debe preocuparte esta noche es la criatura que ha sido capaz de derribar a un unicornio adulto en plena carrera sin dejar rastro de huellas comunes.
+—Las querellas del Wizengamot no detienen garras ni colmillos en mitad de la noche, Malfoy —respondió Harry en un susurro gélido, pausado y tranquilo, sin apartar la vista de los matorrales—. Y las criaturas comunes evitan los senderos principales mientras huelan la resina fresca del arco de Hagrid. Lo único que debe preocuparnos esta noche es la entidad capaz de derribar a un unicornio adulto en plena carrera sin dejar rastro de huellas ordinarias.
 
-—¿Y qué clase de bestia puede hacer algo semejante en la oscuridad? —preguntó Draco, apretando la varita de madera de espino contra su pecho con los nudillos blancos.
+—¿Y qué clase de ser puede alimentarse de algo tan puro y sagrado? —preguntó Draconia, apretando la madera pulida de su varita con una intensidad contenida.
 
 —Un monstruo que no tiene absolutamente nada que perder —sentenció Harry.
 
@@ -77,9 +85,9 @@ Y entonces, al doblar un recodo bordeado por las ramas espinosas de un zarzal ce
 
 El enorme perro gran danés agachó las orejas contra el cráneo, metió el rabo entre las patas traseras temblorosas y soltó un aullido desgarrador, quebrado, lastimero y aterrado que heló la sangre de los muchachos en las venas. Acto seguido, la mole negra del animal dio media vuelta sobre el barro y huyó a la carrera hacia el sendero por el que habían llegado, perdiéndose en la penumbra de la espesura como una sombra despavorida que busca la luz del castillo.
 
-—¡Fang! ¡Vuelve aquí de inmediato, maldito perro cobarde! —gritó Draco con un hilo de voz ahogado por el pánico más puro.
+—¡Fang! —susurró Draconia con la voz crispada por la alarma, retrocediendo un paso instintivo cuando el animal desapareció en la niebla.
 
-Harry no miró al animal que huía. Levantó la mano izquierda con la palma abierta y firme, inmovilizando a Draco en el sitio con un ademán que no admitía vacilaciones:
+Harry no miró al perro que huía. Levantó la mano izquierda con la palma abierta y firme, deteniendo a Draconia en el sitio con un ademán tajante que no admitía vacilaciones:
 
 —Silencio, Malfoy. Baja la cabeza y no te muevas ni un solo milímetro.
 
@@ -89,7 +97,7 @@ Un unicornio.
 
 Un soberbio semental de pelaje blanco níveo, puro y brillante como la nieve virgen recién caída, cuyas crines de plata pura caían desparramadas sobre el lecho de hojas muertas y barro. Su cuerno espiralado y nacarado apuntaba hacia la bóveda vegetal del cielo nocturno; pero sus ojos oscuros estaban vidriosos, apagados y fijos en el vacío de la muerte, y sus cuatro patas esbeltas yacían inertes y quebradas sobre las raíces de piedra caliza. De una herida profunda, desgarradora y atroz abierta en su cuello esbelto manaba un hilo continuo y espeso de sangre plateada que formaba un charco resplandeciente y fosforescente sobre el musgo húmedo del claro.
 
-Draco ahogó un gemido de espanto absoluto, retrocediendo un paso con las piernas temblorosas como juncos azotados por el viento.
+Draconia ahogó un gemido de espanto absoluto. La máscara de frialdad aristocrática se hizo pedazos en su rostro níveo; dio dos pasos hacia atrás con las piernas temblorosas, llevándose una mano a la garganta mientras el aire se le atascaba en el pecho.
 
 Y entonces, desde las sombras más espesas e impenetrables del zarzal que bordeaba el cadáver del unicornio, surgió la pesadilla viviente.
 
@@ -103,24 +111,6 @@ Se arrodilló con una lentitud blasfema sobre el charco de sangre plateada, incl
 
 Un sonido espantoso, húmedo, voraz y gutural —el chasquido rítmico y obsceno de unos labios secos sorbiendo el fluido vital de la bestia sagrada— resonó en la inmensidad gélida del claro con una perversidad tan profunda que heló el corazón de Harry en su pecho.
 
-Draco Malfoy soltó un alarido histérico, salvaje, agudo y desquiciado que rasgó la noche del bosque como un relámpago de locura:
+Draconia Malfoy no pudo resistir el horror supremo de la escena. Un grito ahogado y desgarrador escapó de sus labios; soltó la linterna sobre el lodo con un golpe sordo y, dominada por un terror cerval y visceral que quebró cualquier vestigio de orgullo, dio media vuelta y echó a correr a la desesperada por el sendero hacia la espesura, huyendo despavorida de la abominación que devoraba la luz del bosque.
 
-—¡¡¡AAAAAHHHHHHHH!!! ¡¡¡SOCORROOOO!!!
 
-El muchacho rubio arrojó la linterna al suelo con un estrépito metálico que se apagó en el lodo y echó a correr despavorido por el sendero hacia la salida, huyendo con el terror ciego de quien ha visto el rostro mismo de la muerte cara a cara.
-
-Harry Potter no corrió.
-
-La compuerta de plomo de su Oclumancia se cerró con un chasquido metálico absoluto y demoledor en el centro de su mente, aislando de raíz el impulso biológico de la huida y clavando sus botas firmemente en el barro del sendero. Sabía por las enseñanzas de Sirius que huir de espaldas frente a un depredador mágico desconocido era una sentencia de muerte segura; solo la firmeza del cuerpo y el control de la varita podían ofrecer una oportunidad de supervivencia.
-
-Al escuchar el grito de pánico de Malfoy y el eco de sus pasos fugitivos, la figura encapuchada detuvo su festín macabro.
-
-Lentamente, con una cadencia espectral y antinatural que desafiaba a las leyes de la biología, la criatura alzó la cabeza ensangrentada del cuello inerte del animal. Un hilo denso, brillante y fosforescente de sangre de plata pura goteaba por los bordes negros y deshilachados de su capucha sobre el musgo húmedo del suelo.
-
-La sombra se puso en pie en toda su estatura esquelética y clavó sus ojos invisibles directamente en la silueta solitaria del muchacho de Ravenclaw.
-
-Y en ese preciso instante, un dolor desgarrador, ardiente, inhumano, volcánico y atroz estalló como una granada de fósforo blanco en el centro exacto de la frente de Harry.
-
-La cicatriz en forma de rayo.
-
-El muchacho cayó de rodillas sobre la tierra húmeda, apretándose la frente con ambas manos enguantadas mientras sentía que su cráneo amenazaba con partirse en dos bajo una agonía espantosa que le quemaba las terminaciones nerviosas como si le hubieran clavado un clavo de hierro fundido al rojo vivo directamente en el cerebro. Sus ojos verdes se inundaron de lágrimas de dolor físico incontrolable; y a través de la niebla borrosa de su sufrimiento extremo, vio a la figura encapuchada comenzar a deslizarse hacia él con paso silencioso, reptante y letal, alzando una mano pálida y huesuda de entre los pliegues de la túnica negra para apagar su vida en la oscuridad del Bosque Prohibido.

@@ -15,7 +15,7 @@ La profesora Hooch llegó con paso enérgico y marcial. Era una mujer de complex
 
 Harry se situó a la izquierda de su escoba. El mango de la Cometa mostraba arañazos profundos y la madera parecía reseca por la intemperie, pero al mirarla con atención notó que el barniz encantado aún conservaba una leve vibración elástica a lo largo de la viga central. A su derecha, Terry Boot miraba la escoba con un recelo evidente, tragando saliva con dificultad.
 
-Al otro lado de la hilera, en las filas de Slytherin, Draconia Malfoy ocupaba una posición frente a Harry, con Draco y Pansy Parkinson a su izquierda. Draconia vestía su túnica de vuelo con una elegancia aristocrática impecable; no mostraba nerviosismo, sino una frialdad contenida y atenta. Draco, por el contrario, no paraba de vanagloriarse en voz alta de haber pasado las vacaciones enteras surcando los jardines de la mansión Malfoy a bordo de una Barredora Siete, esquivando los helicópteros de los muggles y burlándose de los cazadores locales.
+Al otro lado de la hilera, en las filas de Slytherin, Draconia Malfoy ocupaba una posición frente a Harry, flanqueada por Pansy Parkinson y Daphne Greengrass. Draconia vestía su túnica de vuelo con una elegancia aristocrática impecable y severa; no mostraba el menor asomo de nerviosismo ni la agitación ruidosa de sus compañeros de casa, sino una frialdad contenida, altiva y meticulosamente atenta a cada variación de las corrientes de aire. A su alrededor, Vincent Crabbe y Gregory Goyle forcejeaban torpemente con sus arreos, mientras otros alumnos de Slytherin murmuraban bravuconadas sobre escobas de carreras privadas que palidecían ante la serenidad imperturbable de la única heredera de la Casa Malfoy.
 
 —Extiendan la mano derecha sobre el mango de la escoba —gritó la señora Hooch, paseándose entre las dos filas con la mirada fija en las posturas corporales de los chicos—. Y digan con voz firme, clara y autoritaria: «¡ARRIBA!». ¡Nada de súplicas ni gritos destemplados! ¡La escoba debe sentir la determinación de su voluntad!
 
@@ -25,7 +25,7 @@ La escoba de Harry saltó a su mano en el mismo instante en que pronunció la pa
 
 A su lado, la escoba de Terry Boot solo rodó unos centímetros por el suelo, levantando un poco de tierra húmeda.
 
-Al otro lado, la escoba de Draconia Malfoy también ascendió a su mano con una rapidez impecable, demostrando que la muchacha poseía un entrenamiento previo meticuloso y un pulso de hierro. La de Draco saltó de inmediato, lo que le permitió dedicar una mirada de mofa hacia los alumnos de Ravenclaw que aún forcejeaban con los mangos inertes en el césped.
+Al otro lado, la escoba de Draconia Malfoy también ascendió a su mano enguantada con una rapidez fulgurante e impecable al primer llamado, demostrando que la heredera poseía un entrenamiento previo meticuloso, una postura equilibrada y un pulso de hierro. La muchacha sujetó el fresno pulido con absoluta sobriedad y dedicó una mirada gélida y evaluadora hacia las filas de Ravenclaw, deteniéndose apenas una fracción de segundo en Harry antes de volver su atención al frente.
 
 —¡Bien, bien! —exclamó la señora Hooch tras unos minutos de repeticiones y correcciones de postura—. Ahora que tienen la escoba en la mano, móntenla a horcajadas. Sujeten el mango con firmeza, inclinen el torso ligeramente hacia adelante y mantengan las rodillas flexionadas para absorber el impacto. Cuando cuente hasta tres y haga sonar el silbato, darán una patada fuerte contra el suelo para elevarse dos o tres metros en el aire, mantendrán la escoba nivelada durante cinco segundos y luego descenderán inclinando el peso hacia el frente. ¿Entendido? A la de una… a la de dos…
 
@@ -53,29 +53,27 @@ La instructora se puso en pie, sosteniendo a Neville por el hombro mientras el n
 
 La profesora se alejó apresuradamente hacia los senderos de piedra que conducían a la puerta principal del castillo, sujetando al niño herido.
 
-En cuanto la figura de la señora Hooch desapareció tras el recodo de la muralla de las lechuzas, el silencio del campo se rompió con una carcajada estridente y burlona.
+En cuanto la figura de la señora Hooch desapareció tras el recodo de la muralla de las lechuzas, el silencio del campo se rompió cuando un objeto rodó lentamente sobre el césped húmedo.
 
-Draco Malfoy se agachó sobre el césped húmedo y recogió un objeto pequeño y esférico que había rodado desde los bolsillos de la túnica de Neville durante el impacto. Era una bola de cristal transparente del tamaño de una manzana pequeña, llena de un humo blanco y arremolinado que empezaba a teñirse de un escarlata intenso al detectar la ausencia de memoria de su dueño: la Recordadora que la abuela de Longbottom le había enviado por correo esa misma mañana.
+Había caído de los bolsillos de la túnica de Neville durante el violento impacto: una bola de cristal transparente del tamaño de una manzana pequeña, llena de un humo blanco y arremolinado que empezaba a teñirse de un escarlata intenso al registrar la ausencia de memoria de su dueño. Era la Recordadora que la abuela de Longbottom le había enviado por correo esa misma mañana.
 
-—Miren esto —dijo Draco con una sonrisa cruel y desdeñosa, sosteniendo la esfera en alto para que la vieran los chicos de Slytherin—. El gordo de Longbottom se ha dejado aquí su preciado juguete de cristal. Qué inútil… Si tuviera un gramo de cerebro, la Recordadora le habría avisado de que no debía montar en escoba si no sabe distinguir su pie izquierdo de su pie derecho.
+Vincent Crabbe soltó un gruñido torpe e hizo ademán de patearla, pero Draconia Malfoy se adelantó con paso firme y aristocrático. Se agachó con elegancia impecable, levantó la esfera entre sus dedos delgados y la examinó a contraluz con una expresión de frialdad analítica y desdeñosa.
 
-—Déjala en el suelo, Draco —intervino Draconia Malfoy de inmediato, con una frialdad afilada y cortante en la voz que cortó la risa de Crabbe y Goyle—. La profesora Hooch fue muy clara. Si te expulsan por una estupidez semejante, padre no se molestará en pagarle una lechuza a Dumbledore para salvar tu pellejo. Madura de una vez.
+—Una Recordadora de fabricación alemana de segunda categoría —dictaminó Draconia con voz clara y pausada, audible para todos los presentes—. Típica baratija para mentes dispersas que no logran retener ni sus propias obligaciones elementales. Longbottom no distingue la inercia del pánico; era cuestión de tiempo que terminara en la enfermería.
 
-Draco miró a su hermana con una mezcla de despecho y rencor acumulado por las humillaciones de la semana:
+Pansy Parkinson soltó una risita servil, pero Draconia no sonrió. Sus ojos grises como el pedernal se desviaron directamente hacia Harry, sosteniéndole la mirada con una intensidad cargada de desafío.
 
-—Cállate, Draconia. Tú siempre defendiendo a los mediocres y a los sangre sucia. Voy a dejar esta baratija en un sitio donde el llorón de Longbottom tenga que trepar para buscarla. ¿Qué tal en lo alto de aquel haya centenario?
+Con un movimiento fluido y desprovisto de toda vacilación, Draconia montó sobre su escoba y dio una patada seca en el suelo. Ascendió verticalmente con una técnica refinada y asombrosa, estabilizándose a quince metros de altura en una suspensión perfecta contra las ráfagas del norte. Desde allí arriba, con el cabello rubio ondeando al viento, alzó la esfera entre el pulgar y el índice:
 
-Con un salto ágil, Draco montó en su Cometa 260 y dio una patada en el suelo, elevándose en el aire con una velocidad vertiginosa. A quince metros de altura, el muchacho rubio trazó un círculo en el viento, haciendo girar la bola de cristal entre sus dedos con una mueca de triunfo infantil:
+—Dicen que los Ravenclaw se jactan de su intelecto abstracto, Potter —dijo Draconia con voz gélida que cortó el viento con nitidez matemática—. Pero el vuelo exige algo más que teoría de biblioteca. Demuéstrame si ese prodigioso cálculo del que tanto alardeas sobrevive a una caída libre… o si Longbottom tendrá que recoger los pedazos de su memoria entre las piedras del acantilado.
 
-—¡Ven a buscarla si tienes agallas, Potter! —gritó Draco hacia el suelo, señalando con sorna a Harry—. ¡Demuestra si los cuervos de Ravenclaw saben volar o si solo sirven para emborronar pergaminos en las torres!
+En la explanada, Terry Boot tiró de la manga de la túnica de Harry con visible alarma:
 
-En la explanada, Terry Boot tiró de la manga de la túnica de Harry con angustia:
+—No lo hagas, Harry. La señora Hooch dijo que nos expulsaría si nos despegábamos del suelo. Es una provocación de Malfoy para que ambos terminen sancionados.
 
-—No lo hagas, Harry. La señora Hooch dijo que nos expulsaría si nos despegábamos del suelo. Es una provocación ridícula de Malfoy para meterte en problemas con la dirección.
+Harry observó la posición de Draconia en el cielo. Su respiración era tranquila y pausada; sus ojos verdes, tras los cristales de sus gafas, calcularon la altura exacta, la fuerza del viento del norte que soplaba a doce nudos y la trayectoria balística que seguiría una esfera de vidrio de doscientos cincuenta gramos en caso de ser arrojada en un ángulo pronunciado hacia las rocas del linde.
 
-Harry observó la posición de Draco en el cielo. Su respiración era tranquila y pausada; sus ojos verdes, tras los cristales de sus gafas, calcularon la altura, la fuerza del viento del norte que soplaba a unos doce nudos y la trayectoria de descenso que seguiría una esfera de vidrio de doscientas cincuenta gramos si era arrojada con fuerza parabólica hacia las rocas del linde.
-
-No era una cuestión de vanidad pueril ni de orgullo de casa. Dejar que Malfoy destruyera la pertenencia de un compañero herido mientras los demás miraban con los brazos cruzados era permitir que la mezquindad impusiera sus reglas en la escuela. Y además, Harry conocía la capacidad de su propia escoba mejor que nadie en aquel campo.
+No era una cuestión de vanidad pueril ni de orgullo de casa. Dejar que la esfera se hiciera añicos contra el peñasco mientras los demás miraban con los brazos cruzados era permitir que la arrogancia impusiera sus términos. Y además, Harry conocía la respuesta aerodinámica de su Cometa mejor que nadie en aquel campo.
 
 Montó la Cometa a horcajadas con un movimiento fluido.
 
@@ -87,15 +85,15 @@ Harry dio una patada seca y firme contra el suelo.
 
 El viento le golpeó la cara con una ráfaga helada y pura que le despejó todos los sentidos al instante. La Cometa 260 respondió con una agilidad sorprendente bajo su peso ligero; el mango vibró con una armonía limpia que Harry dominó de inmediato desplazando el centro de gravedad de su cadera hacia adelante. Ascendió como una flecha disparada hacia el cielo de Escocia, ganando quince metros de altura en menos de tres segundos con un control del timón de cola tan natural que parecía una prolongación de su propio esqueleto.
 
-Abajo, los alumnos de ambas casas soltaron un jadeo de sorpresa colectiva. Draconia Malfoy dio un paso al frente sobre la hierba, clavando sus ojos grises en la silueta de Harry con una fascinación que no pudo disimular.
+Abajo, los alumnos de ambas casas soltaron un jadeo de sorpresa colectiva. Daphne Greengrass y Pansy Parkinson dieron un paso al frente sobre la hierba, clavando sus miradas en el ascenso fulgurante del buscador de Ravenclaw.
 
-Draco vio a Harry ascender hacia él y su sonrisa de suficiencia se congeló al instante. No esperaba aquella velocidad de respuesta; esperaba que el muchacho de Ravenclaw se quedara paralizado por el miedo a las normas escolares.
+Draconia vio a Harry ascender hacia ella y sus cejas se arquearon levemente. No esperaba aquella velocidad pasmosa de aceleración; esperaba que el muchacho de Ravenclaw vacilara ante el peso de las normas disciplinarias de la escuela.
 
-—Dámela, Malfoy —dijo Harry deteniendo su escoba a cinco metros exactos de Draco, manteniéndose inmóvil en el aire sin que la Cometa oscilara una sola pulgada en el viento—. Longbottom está en la enfermería con un hueso roto. Esto no es una broma; es una mezquindad que no te reporta ninguna gloria.
+—Dámela, Malfoy —dijo Harry deteniendo su escoba a cinco metros exactos de Draconia, manteniéndose perfectamente inmóvil en el aire sin que la Cometa oscilara una sola pulgada en el viento—. Longbottom está en la enfermería con una muñeca fracturada. Esto no es un examen ni una demostración de rango; es un objeto que no te pertenece.
 
-—¡Atrápala si puedes, huérfano! —gritó Draco con rabia histérica.
+—Si de verdad lo quieres para él, Potter, tendrás que ganártelo en el aire —respondió Draconia con una frialdad punzante, en cuyos ojos centelleaba una chispa de auténtica fascinación competitiva.
 
-Con un movimiento violento del brazo, el muchacho rubio arrojó la Recordadora de cristal con todas sus fuerzas hacia el vacío, describiendo una parábola descendente que la proyectaba a gran velocidad hacia las rocas escarpadas que bordeaban la muralla exterior del castillo.
+Con un movimiento preciso y seco de la muñeca, la heredera de Slytherin arrojó la Recordadora de cristal hacia el vacío, trazando una parábola limpia y veloz que la proyectaba hacia las rocas escarpadas que bordeaban la base exterior de las murallas.
 
 La esfera de vidrio comenzó su caída libre a más de sesenta kilómetros por hora.
 
@@ -139,7 +137,7 @@ La profesora McGonagall bajaba por la ladera de césped a zancadas colosales, co
 
 —¡En todos mis años en Hogwarts… jamás… jamás había visto semejante temeridad! —bramó la subdirectora, deteniéndose frente a Harry con el pecho agitado por la carrera—. ¡Podrías haberte roto el cuello! ¡Podrías haberte estrellado contra los cimientos del castillo!
 
-—Profesora McGonagall, fue culpa de Draco… —intentó intervenir Terry Boot con valentía, dando un paso al frente—. Malfoy arrojó la Recordadora de Longbottom hacia las piedras y Harry solo…
+—Profesora McGonagall, fue Malfoy quien arrojó la esfera… —intentó intervenir Terry Boot con valentía, dando un paso al frente—. Lanzó la Recordadora de Longbottom hacia las piedras y Harry solo intentó evitar que se hiciera añicos…
 
 —¡Silencio, señor Boot! —cortó la profesora con un tono que no admitía réplica—. ¡Nadie le dio autorización para despegar! ¡La señora Hooch fue terminante en sus órdenes!
 
@@ -147,7 +145,7 @@ McGonagall clavó sus ojos penetrantes en Harry, que se mantenía firme, con la 
 
 —Venga conmigo de inmediato, Potter. Ahora mismo.
 
-Draco Malfoy, que acababa de aterrizar con torpeza tras su vuelo ilegal, exhibió una sonrisa de victoria radiante, saboreando ya la inminente expulsión de su rival de Ravenclaw. Draconia, sin embargo, miró a su hermano con un desprecio helado antes de volver la vista hacia Harry, como preguntándose cómo saldría librado de aquel atolladero disciplinario.
+Draconia Malfoy, que había descendido del aire con una suavidad impecable y posado sus botas sobre el césped sin el menor sobresalto, contemplaba la escena con una máscara de impasibilidad aristocrática, aunque sus pupilas grises seguían a Harry fijamente, calculando con frialdad cómo saldría librado de aquel formidable atolladero disciplinario.
 
 Harry dejó la escoba en el suelo con cuidado y siguió a la profesora McGonagall colina arriba sin decir una sola palabra. Subieron las escaleras de piedra del vestíbulo, cruzaron el corredor de los tapices y doblaron hacia el ala norte, donde se encontraban las aulas de los cursos superiores.
 

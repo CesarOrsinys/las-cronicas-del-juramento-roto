@@ -34,7 +34,7 @@
 * **CAPÍTULO 6: El callejón de las sombras y el banco de piedra**
   - Visita clandestina al Callejón Diagon. Entrada discreta por el Caldero Chorreante eludiendo atenciones innecesarias. Breve cruce con Quirrell (Harry detecta anomalías en su magia residual). Visita a Gringotts con los duendes: la bóveda 687 de los Potter y la observación de la cámara 713 (Harry deduce de inmediato que Dumbledore está moviendo un cebo de máximo valor hacia el colegio).
 * **CAPÍTULO 7: La seda, el tejo y la pluma gemela**
-  - Madame Malkin: primer encuentro con Draco Malfoy. En lugar de una rabieta infantil, Harry desarma la arrogancia de Draco con compostura, etiqueta aristocrática y réplicas incisivas que dejan a Malfoy descolocado. Visita a Ollivanders: el examen minucioso de varitas, la elección de la vara de acebo y fénix, y la revelación de la varita gemela de Voldemort analizada como una anomalía hermética de resonancia mágica.
+  - Madame Malkin: primer encuentro con Draconiania Malfoy. En lugar de una rabieta infantil, Harry desarma la arrogancia de Draconia con compostura, etiqueta aristocrática y réplicas incisivas que dejan a Malfoy descolocado. Visita a Ollivanders: el examen minucioso de varitas, la elección de la vara de acebo y fénix, y la revelación de la varita gemela de Voldemort analizada como una anomalía hermética de resonancia mágica.
 * **CAPÍTULO 8: El andén nueve y tres cuartos**
   - 1 de septiembre en King's Cross. Despedida codificada con Sirius bajo forma canina. Harry cruza la barrera con precisión metódica. El Expreso de Hogwarts: observación del flujo de familias y dinámicas sociales del mundo mágico.
 * **CAPÍTULO 9: La geometría de los compartimentos**
@@ -42,7 +42,7 @@
 * **CAPÍTULO 10: El sapo, la mandona y el debate de los tomos**
   - Neville Longbottom entra buscando a Trevor; Harry le ofrece una respuesta analítica sobre hábitos de anfibios. Entrada de Hermione Granger. Demostración del falso hechizo de la rata. Choque dialéctico e intelectual: Hermione cree ciegamente en la literalidad de los libros escolares de texto; Harry cuestiona la falta de fundamentación teórica de los encantamientos ministeriales, generando una chispa de rivalidad académica fascinante.
 * **CAPÍTULO 11: La serpiente en el pasillo**
-  - Draco Malfoy se presenta con Crabbe y Goyle buscando sumar a Harry a su círculo de influencia. Harry rechaza la oferta con una cortesía tan glacial y argumentada que enfurece a Malfoy. Incidente de Scabbers mordiendo a Goyle: Harry observa a la rata con sospecha clínica, notando su falta de comportamientos roedores comunes y el dedo mutilado.
+  - Draconiania Malfoy se presenta con Crabbe y Goyle buscando sumar a Harry a su círculo de influencia. Harry rechaza la oferta con una cortesía tan glacial y argumentada que enfurece a Malfoy. Incidente de Scabbers mordiendo a Goyle: Harry observa a la rata con sospecha clínica, notando su falta de comportamientos roedores comunes y el dedo mutilado.
 
 #### ARCO III: LA TORRE DEL ÁGUILA (Caps 12 - 17)
 * **CAPÍTULO 12: El lago negro y los peñascos**

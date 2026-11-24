@@ -5,35 +5,35 @@ La cena del martes transcurrió en el Gran Comedor bajo un ambiente cargado de t
 
 Harry se encontraba sentado en la bancada central de Ravenclaw, terminando con calma un plato abundante de pastel de carne y riñones con guisantes tiernos, mientras conversaba en voz baja con Terry Boot y Michael Corner sobre las complejidades de la astronomía observacional y el alineamiento de las lunas de Júpiter que la profesora Sinistra les había exigido trazar en sus cartas celestes para la medianoche del jueves. El calor de las antorchas y el aroma a corteza tostada proporcionaban un refugio agradable frente a la lluvia helada que repiqueteaba rítmicamente contra las vidrieras góticas del castillo.
 
-De repente, una sombra alargada, angulosa y fría se proyectó sobre la superficie de roble de su mesa, interrumpiendo el flujo de luz de las velas flotantes.
+De repente, dos sombras alargadas, toscas y pesadas se proyectaron sobre la superficie de roble de su mesa, interrumpiendo el flujo de luz de las velas flotantes.
 
-Draco Malfoy se había acercado por el pasillo central que dividía las mesas de Ravenclaw y Hufflepuff, flanqueado como de costumbre por Vincent Crabbe y Gregory Goyle como dos centinelas pesados y amenazantes. El muchacho rubio no lucía en esta ocasión la mueca de ira histérica de los días anteriores; en su lugar, mostraba una sonrisa de suficiencia calculada, de esas que solo exhiben los aristócratas cuando creen tener una carta triunfal guardada en la manga para aplastar a un rival sin arriesgar nada propio. A tres metros de distancia, observando la escena con la espalda apoyada contra el respaldo del banco de Slytherin, Draconia Malfoy sostenía su barbilla sobre los dedos entrelazados, con sus pupilas grises clavadas en Harry con una frialdad impenetrable que no dejaba traslucir el menor juicio de valor.
+Vincent Crabbe y Gregory Goyle se habían acercado por el pasillo central que dividía las mesas de Ravenclaw y Hufflepuff, con los hombros encorvados y los puños cerrados como dos arietes de basalto. Sin embargo, no venían por iniciativa propia: tras ellos, caminando con una lentitud cadenciosa, regia y calculada, Draconia Malfoy avanzaba con las manos unidas a la espalda y la barbilla ligeramente alzada. La joven aristócrata no mostraba la menor agitación en su porte; sus ojos grises como el pedernal se clavaron en Harry con un brillo gélido y evaluador.
 
-—Vaya, parece que el flamante y mimado buscador de Ravenclaw prefiere llenarse la boca de hojaldre y salsa en lugar de demostrar si tiene verdadero coraje fuera de las aulas —dijo Draco con una voz arrastrada que pretendía sonar relajada pero que vibraba con un rencor mal disimulado—. Todo el mundo en los pasillos habla de tus reflejos en el aire, Potter, pero volar sobre una escoba de mil galeones que te regalaron por lástima no demuestra si eres un mago de verdad o solo un huérfano con suerte que se esconde detrás de las faldas de los profesores.
+—Vaya, parece que el nuevo buscador de Ravenclaw prefiere llenarse la boca de hojaldre y salsa en lugar de demostrar si su reputación se sostiene fuera de una escoba de carreras —dijo Draconia con su tono arrastrado, templado y aristocrático, deteniéndose a dos pasos de la mesa mientras Crabbe y Goyle se abrían a sus costados—. Todo el colegio comenta tus reflejos en el aire, Potter, pero volar sobre una Nimbus dos mil solo demuestra destreza motriz y buena fortuna con los regalos de tutoría. En los círculos que importan, el verdadero temple se mide con la varita en la mano.
 
-Terry Boot dejó el tenedor sobre el plato con un golpe seco y metálico que resonó en la mesa, dispuesto a ponerse en pie para encararse con el muchacho de Slytherin, pero Harry le puso una mano tranquila y firme sobre el antebrazo, indicándole con un gesto suave de cabeza que no interviniera ni cayera en la provocación.
+Terry Boot dejó el tenedor sobre el plato con un golpe seco y metálico que resonó en la mesa, dispuesto a ponerse en pie para encararse con ellos, pero Harry le puso una mano tranquila y firme sobre el antebrazo, indicándole con un gesto suave de cabeza que no interviniera ni cayera en una reacción impulsiva.
 
-Harry tragó el bocado con absoluta parsimonia, se limpió la comisura de los labios con la servilleta de lino blanco y levantó la vista hacia Draco con una mirada límpida, serena y desprovista de cualquier agitación emocional o pulso acelerado:
+Harry tragó el bocado con absoluta parsimonia, se limpió la comisura de los labios con la servilleta de lino blanco y levantó la vista hacia Draconia con una mirada límpida, serena y desprovista de cualquier agitación emocional:
 
-—El valor en el aire se mide en yardas de vuelo, en ángulos de picado y en tiempos de reacción milimétricos, Malfoy. Si has cruzado todo el Gran Comedor hasta la mesa de Ravenclaw, supongo que no ha sido para elogiar la calidad de la cocina del castillo ni la sazón del pastel. ¿Qué es exactamente lo que quieres proponer?
+—El valor en el aire se mide en trayectorias y respuestas bajo presión, Malfoy. Si has cruzado todo el Gran Comedor hasta la bancada de Ravenclaw, supongo que no ha sido para debatir sobre la sazón del pastel ni la cortesía en la mesa. ¿Qué es exactamente lo que tienes en mente?
 
-Draco se inclinó ligeramente hacia adelante sobre la mesa, bajando la voz hasta un susurro sibilante y venenoso que apenas cruzó el ancho de los bancos de madera:
+Draconia esbozó una sonrisa mínima, fría y afilada como una hoja de afeitar, dando medio paso hacia adelante:
 
-—Un duelo de magos formal, Potter. Tú y yo, esta misma noche. Solo varitas, sin contacto físico vulgar ni trucos de feria muggle. A menos, por supuesto, que prefieras quedarte temblando bajo las mantas de tu dormitorio o pedirle al capitán Davies que te arrope para no tener pesadillas en la torre.
+—Un duelo de magos formal, Potter. Esta misma noche. Solo varitas, sin contacto físico vulgar ni trucos de salón. A menos, por supuesto, que prefieras refugiarte en las teorías abstractas de tu torre o esperar a que el profesor Flitwick te dé permiso para blandir madera pulida en la oscuridad.
 
-Un silencio denso y repentino se apoderó de los estudiantes de Ravenclaw que estaban sentados cerca. Michael Corner abrió los ojos con alarma; un reto a duelo formal era un asunto de extrema gravedad según las tradiciones y el código de honor del mundo mágico, y estaba terminantemente prohibido entre los alumnos menores de quinto curso bajo pena de severas sanciones disciplinarias e incluso la suspensión inmediata de la matrícula escolar.
+Un silencio denso y repentino se apoderó de los estudiantes de Ravenclaw que estaban sentados cerca. Michael Corner abrió los ojos con alarma; un reto a duelo formal era un asunto de extrema gravedad según las tradiciones y el código de honor del mundo mágico, y estaba terminantemente prohibido entre los alumnos menores de quinto curso bajo pena de severas sanciones disciplinarias.
 
-Harry sostuvo la mirada de Draco sin pestañear una sola vez. Con la disciplina que Sirius le había enseñado en las noches solitarias de Yorkshire, evaluó con rapidez la postura física del muchacho de Slytherin: los hombros ligeramente encorvados hacia adelante, el peso corporal desplazado de manera insegura sobre el talón derecho y esa mirada ansiosa y esquiva que delata de forma inequívoca a quien no busca una confrontación de honor frente a frente, sino tender una emboscada con ventaja previa para regodearse en la desgracia ajena.
+Harry sostuvo la mirada de Draconia sin pestañear una sola vez. Con la disciplina que Sirius le había enseñado en Grimmauld Place, leyó al instante la postura de la muchacha: no había rencor ciego en sus ojos, sino un cálculo táctico implacable, una prueba deliberada diseñada para forzarlo a cometer un error o medir el alcance de sus recursos bajo presión.
 
-—Un duelo formal requiere condiciones muy precisas según el código del Wizengamot, Malfoy —respondió Harry con voz tranquila, pausada y perfectamente articulada—. ¿Lugar, hora exacta y padrinos designados?
+—Un reto formal exige condiciones formales, Malfoy —respondió Harry con voz mesurada y cristalina—. ¿Lugar, hora exacta y padrinos designados?
 
-Draco sonrió con una arrogancia desmedida, creyendo con ingenuidad que el muchacho de Ravenclaw había mordido el anzuelo hasta el fondo:
+Draconia sostuvo su expresión de gélida suficiencia, convencida de que el muchacho de Ravenclaw aceptaba el terreno propuesto:
 
-—A medianoche en punto. En la sala de trofeos del tercer piso. Vincent Crabbe será mi padrino de armas. Tú puedes traer a cualquiera de estos ratones de biblioteca si es que alguno de ellos se atreve a salir de la cama sin pedirle permiso por escrito al prefecto de turno.
+—A medianoche en punto. En la sala de trofeos del tercer piso; estará desierta y las vitrinas de cristal amortiguarán cualquier rebote de chispas perdidas. Crabbe será mi padrino. Tú puedes traer a quien consideres oportuno para que te asista cuando tu varita ruede por el suelo.
 
-—Allí estaremos a medianoche en punto —contestó Harry con una frialdad y una compostura impecables.
+—A medianoche será, señorita Malfoy —aceptó Harry con una leve inclinación de barbilla, manteniendo una frialdad y una compostura impecables.
 
-Draco soltó una risita burlona y estridente, dio media vuelta sobre sus talones lustrosos y se marchó con paso triunfal hacia la mesa de Slytherin, seguido pesadamente por sus dos fornidos guardaespaldas, celebrando entre susurros lo que consideraban una victoria anticipada.
+Draconia asintió con una lentitud severa, dio media vuelta sobre sus talones lustrosos y se marchó con paso regio hacia la mesa de Slytherin, seguida pesadamente por sus dos fornidos escoltas.
 
 En cuanto el trío de Slytherin se hubo alejado lo suficiente hacia el otro extremo del salón, Terry Boot se inclinó hacia Harry con el rostro demudado por la angustia y los ojos desorbitados:
 
@@ -43,7 +43,7 @@ En cuanto el trío de Slytherin se hubo alejado lo suficiente hacia el otro extr
 
 —¿Cuál es su plan? —preguntó Terry desconcertado, arrugando la servilleta entre sus dedos sudorosos.
 
-—Draco Malfoy no sabe batirse en un duelo de magos —analizó Harry con una calma quirúrgica y demoledora—. Apenas conoce dos o tres encantamientos elementales de chispas y zancadillas, y carece por completo de la disciplina mental y del pulso para sostener un intercambio de varitas en la oscuridad de una galería cerrada. No piensa presentarse en la sala de trofeos esta noche, Terry. Su verdadero plan es avisar a Argus Filch mediante una delación anónima de que un grupo de alumnos de primer año estará en la sala de trofeos a medianoche para que el celador nos pille con las manos en la masa y nos arrastre al despacho del director, mientras él se queda durmiendo plácidamente en las mazmorras fingiendo inocencia.
+—La Casa Malfoy no lanza desafíos a ciegas sin una red de contingencia —analizó Harry con una calma quirúrgica y demoledora—. Draconia sabe de sobra que un enfrentamiento a varita limpia a medianoche arriesga cincuenta puntos y una suspensión formal para su propia casa si un prefecto nos descubre. La sala de trofeos es una galería cerrada con un único acceso principal hacia la escalera central. Un escenario pésimo para un intercambio mágico, pero una ratonera insuperable si alguien le desliza un soplo a Argus Filch. Es una prueba de reflejos estratégicos, Terry: si acudimos como colegiales novatos, el celador nos cazará con las manos en la masa mientras Slytherin se lava las manos.
 
 Terry se quedó con la boca abierta de par en par, asimilando la bajeza moral y la cobardía de la maniobra:
 
@@ -57,25 +57,25 @@ Harry reaccionó con los reflejos automáticos que Sirius le había grabado a fu
 
 Era Draconia Malfoy.
 
-La niña de Slytherin se encontraba resguardada en el hueco oscuro de la pared, con los brazos cruzados con elegancia sobre el pecho y el cabello rubio platino recogido en una trenza impecable que caía sobre su hombro derecho. Miró con rapidez hacia ambos extremos del corredor desierto para cerciorarse de que no hubiera oídos indiscretos antes de clavar sus penetrantes pupilas grises en el rostro de Harry:
+La heredera de Slytherin se encontraba resguardada en el hueco oscuro de la pared, sola, sin sus habituales guardaespaldas, con los brazos cruzados con elegancia sobre el pecho y el cabello rubio platino recogido en una trenza impecable que caía sobre su hombro derecho. Miró con rapidez hacia ambos extremos del corredor desierto para cerciorarse de que no hubiera oídos indiscretos antes de clavar sus penetrantes pupilas grises en el rostro de Harry:
 
-—Eres un auténtico idiota si piensas presentarte en la sala de trofeos esta noche, Potter —dijo la muchacha con un tono seco, bajo, aristocrático y afilado como una navaja de afeitar de plata—. Mi hermano Draco es un estúpido consentido y arrogante, pero no es tan rematadamente imbécil como para arriesgar su propio pellejo en un duelo abierto que sabe de antemano que no puede ganar. Ya le ha dejado una nota manuscrita en el buzón del conserje a Filch diciendo que unos alumnos de Ravenclaw planean forzar las vitrinas de los premios especiales a las doce en punto.
+—Eres un auténtico imprudente si piensas presentarte en la sala de trofeos esta noche, Potter —dijo la muchacha con un tono seco, bajo, aristocrático y afilado como una navaja de afeitar de plata—. Mi desafío en el Gran Comedor fue público porque debía dejar clara la posición de Slytherin ante los murmullos de los mayores. Pero no soy tan insensata como para arriesgar mi propio expediente por una disputa de salón. Ya le he dejado una nota manuscrita en el buzón del conserje a Filch advirtiendo que unos alumnos merodearán por las vitrinas a medianoche. Si pones un pie allí, el celador te atrapará antes de que puedas encender la punta de tu varita.
 
-Harry contempló a la niña con una serenidad imperturbable, sin mostrar la menor sorpresa ni el más mínimo sobresalto ante la advertencia:
+Harry contempló a la niña con una serenidad imperturbable, sin mostrar la menor sorpresa ni el más mínimo sobresalto ante la revelación:
 
-—Lo sé perfectamente, señorita Malfoy. Supe que se trataba de una delación calculada en el mismo instante en que Draco propuso la sala de trofeos como escenario del encuentro. La estructura de esa galería es un callejón sin salida con una sola escalera de escape hacia el vestíbulo inferior; un lugar pésimo y desastroso para un duelo formal de caballeros, pero perfecto para una redada del celador.
+—Lo sé perfectamente, señorita Malfoy. Supe que la sala de trofeos era una emboscada en el mismo instante en que la propusiste en la mesa. La estructura de esa galería es un callejón sin salida con una sola escalera de escape; un lugar pésimo para batirse con honor, pero impecable para una redada del celador coordinada desde las sombras.
 
-Draconia parpadeó desconcertada, y una sombra fugaz de asombro cruzó sus facciones pálidas y aristocraticas:
+Draconia parpadeó desconcertada, y una sombra fugaz de asombro cruzó sus facciones pálidas y aristocráticas:
 
-—¿Lo sabías desde el principio? Y aun así… ¿tuviste la audacia de aceptar el reto delante de medio comedor escolar?
+—¿Lo sabías desde el principio? Y aun así… ¿tuviste la osadía de aceptar el reto delante de medio comedor escolar?
 
-—Si me negaba a aceptar el desafío, tu hermano habría pasado las próximas tres semanas pregonando por los corredores que los alumnos de Ravenclaw somos cobardes temblorosos que huimos ante la sola mención de las serpientes de Slytherin —explicó Harry con una voz templada, madura y profundamente reflexiva—. Al aceptar el duelo con firmeza, he fijado la hora y el lugar de su propia trampa. Y mientras Filch esté ocupado registrando la sala de trofeos con su linterna de aceite y buscando fantasmas entre las copas de plata, el resto del ala este quedará completamente desguarnecido de vigilancia.
+—Si me negaba a aceptar el desafío, Slytherin habría pregonado por los corredores que los alumnos de Ravenclaw somos cobardes temblorosos que huimos ante una mirada severa —explicó Harry con voz templada, madura y profundamente reflexiva—. Al aceptar el duelo con firmeza, he fijado la hora y el lugar de tu propia maniobra. Y mientras Filch esté ocupado registrando la sala de trofeos con su linterna de aceite y buscando sombras entre las copas de plata, el resto del ala este quedará completamente desguarnecido de vigilancia para cualquiera que sepa moverse con sigilo.
 
 Draconia lo miró fijamente durante varios segundos que parecieron eternos en la penumbra del corredor. Por primera vez desde que se habían conocido en la tienda de Madam Malkin en el Callejón Diagon, una sonrisa genuina, desprovista de veneno altanero y cargada de una sincera admiración intelectual, curvó los labios pálidos de la niña:
 
-—Juegas con fuego muy peligroso, Potter. Tienes la astucia calculadora de una serpiente y la frialdad de un maestro de ajedrez, aunque te hayan puesto esa corbata de seda azul y bronce en la cabeza. Pero te advierto una cosa: Argus Filch no patrulla solo; esa gata infernal suya, la señora Norris, tiene un olfato que detecta el rastro del sudor humano a través de los tapices de terciopelo a veinte yardas de distancia. Si te atrapan esta noche, no cuentes con que yo testifique a tu favor ni dé la cara por ti ante el director Dumbledore.
+—Juegas con fuego muy peligroso, Potter. Tienes la astucia calculadora de una serpiente y la frialdad de un maestro de ajedrez, aunque te hayan puesto esa corbata de seda azul y bronce en el pecho. Pero te advierto una cosa: Argus Filch no patrulla solo; esa gata infernal suya, la señora Norris, tiene un olfato que detecta el rastro del sudor humano a través de los tapices de terciopelo a veinte yardas de distancia. Si te atrapan esta noche, no cuentes con que yo testifique a tu favor ni dé la cara por ti ante el director Dumbledore.
 
-—Jamás esperaría que una heredera de la Casa Malfoy testificara a favor de un Potter —respondió Harry con una inclinación cortés de cabeza y una sonrisa mesurada—. Pero te agradezco el aviso, Draconia. Demuestra que en tu familia no todos comparten la afición vulgar por las trampas de patio de recreo.
+—Jamás esperaría que la heredera de la Casa Malfoy testificara a favor de un Potter —respondió Harry con una inclinación cortés de cabeza y una sonrisa mesurada—. Pero aprecio la confirmación de la jugada, Draconia. Demuestra que tus movimientos obedecen a la estrategia y no a la histeria vulgar.
 
 La muchacha ladeó ligeramente la cabeza, contemplándolo con una intensidad indescifrable en sus ojos grises, dio media vuelta con un movimiento grácil de su túnica de terciopelo verde y se perdió en el recodo de la escalera que descendía hacia los sótanos húmedos de las mazmorras.
 

@@ -9,7 +9,7 @@ El aula de Pociones era una cámara abovedada y oscura, el doble de amplia que l
 
 Los alumnos de Ravenclaw ocuparon el ala izquierda del aula; los de Slytherin, que habían llegado con cinco minutos de antelación y ya tenían sus balanzas de latón colocadas sobre las mesas, ocupaban el ala derecha.
 
-Harry tomó asiento en la segunda fila, compartiendo el banco de piedra con Terry Boot. A su derecha, al otro lado del pasillo central que dividía ambas casas, Draconia Malfoy se acomodaba la túnica con movimientos pulcros junto a Daphne Greengrass. La niña rubia platino había desplegado sobre la mesa un estuche de terciopelo verde donde reposaban cuchillos de plata de hoja curva para cortar raíces y una balanza de precisión alemana con pesas de níquel reluciente. A unos pasos, Draco Malfoy ocupaba la primera fila junto a Vincent Crabbe y Gregory Goyle, exhibiendo una sonrisa de superioridad satisfecha, sabiéndose en el feudo indiscutible de su padrino y protector de casa.
+Harry tomó asiento en la segunda fila, compartiendo el banco de piedra con Terry Boot. A su derecha, al otro lado del pasillo central que dividía ambas casas, Draconia Malfoy se acomodaba la túnica con movimientos pulcros junto a Daphne Greengrass. La niña rubia platino había desplegado sobre la mesa un estuche de terciopelo verde donde reposaban cuchillos de plata de hoja curva para cortar raíces y una balanza de precisión alemana con pesas de níquel reluciente. A unos pasos, Vincent Crabbe y Gregory Goyle ocupaban la primera fila exhibiendo muecas de superioridad satisfecha, sabiéndose en el feudo indiscutible del jefe de su casa.
 
 Al cruzar la mirada con Harry, Draconia alzó ligeramente una ceja y ladeó la cabeza hacia la puerta de la trastienda:
 
@@ -29,9 +29,9 @@ Su capa negra ondeaba a sus espaldas como las alas de un murciélago gigantesco 
 
 Snape tomó la lista de asistencia y comenzó a pasar lista con una voz baja, grave y cortante que no necesitaba elevarse para imponer un silencio sepulcral en la estancia:
 
-—…Boot, Terry… Brocklehurst, Mandy… Corner, Michael… Greengrass, Daphne… Malfoy, Draco… Malfoy, Draconia…
+—…Boot, Terry… Brocklehurst, Mandy… Corner, Michael… Greengrass, Daphne… Malfoy, Draconia…
 
-El profesor hizo una pausa de un segundo al pronunciar los apellidos de los Malfoy, dedicándoles una inclinación casi imperceptible de cabeza antes de continuar deslizando la pluma sobre el pergamino.
+El profesor hizo una pausa de un segundo al pronunciar el apellido de la heredera Malfoy, dedicándoles una inclinación casi imperceptible de cabeza antes de continuar deslizando la pluma sobre el pergamino.
 
 Y entonces se detuvo en seco.
 
@@ -57,7 +57,7 @@ Snape giró sobre sus talones con un movimiento seco de capa y clavó sus ojos d
 
 —Potter. Dígame: ¿qué obtendría si añado polvo de raíz de asfódelo a una infusión de ajenjo?
 
-Al otro lado del pasillo, Draconia Malfoy apoyó la barbilla en la mano con una media sonrisa expectante, mientras Terry Boot tragaba saliva aterrorizado junto a Harry. Draco sonrió con arrogancia, esperando la humillación inmediata del niño huérfano. Era la clásica pregunta trampa de nivel avanzado que ningún alumno común de primer año sabría responder en su primera semana de clase.
+Al otro lado del pasillo, Draconia Malfoy apoyó la barbilla en la mano con una media sonrisa expectante, mientras Terry Boot tragaba saliva aterrorizado junto a Harry. Varios alumnos de Slytherin sonrieron con arrogancia, esperando la humillación inmediata del recién llegado. Era la clásica pregunta trampa de nivel avanzado que ningún alumno común de primer año sabría responder en su primera semana de clase.
 
 Harry no titubeó ni medio latido. Enderezó la espalda sobre el banco de piedra y respondió con una voz clara, pausada y firme que resonó limpia en toda la bóveda:
 
@@ -89,7 +89,7 @@ Harry respiró hondo por la nariz, manteniendo la compuerta de plomo de su mente
 
 El aula de Pociones quedó sumida en un silencio tan denso que se podía escuchar el goteo rítmico del agua en el desagüe del fondo.
 
-Al otro lado del pasillo, la sonrisa burlona de Draco se había desvanecido; miraba a Harry con incredulidad irritada. Draconia, en cambio, observaba al chico de gafas con ojos entornados y analíticos, fascinada por la compostura inquebrantable que demostraba ante el docente más temido del colegio.
+Al otro lado del pasillo, las miradas burlonas de los alumnos de Slytherin se habían congelado en una incredulidad irritada. Draconia, en cambio, observaba al chico de gafas con ojos entornados y analíticos, fascinada por la compostura inquebrantable que demostraba ante el docente más temido del colegio.
 
 Snape permaneció inmóvil frente a Harry durante cinco segundos que parecieron durar un siglo entero.
 
@@ -125,7 +125,7 @@ Draconia dejó escapar una risa breve, casi inaudible, que denotaba que la respu
 
 Daphne Greengrass miró a su compañera de casa con los ojos abiertos de par en par, asombrada de que alguien le respondiera a Draconia con semejante insolencia elegante sin que la rubia estallara en cólera. Pero Draconia no parecía ofendida; al contrario, sus ojos grises brillaban con una chispa de satisfacción competitiva que rara vez concedía a sus propios compañeros de Slytherin.
 
-En la primera fila, Draco Malfoy y Vincent Crabbe estaban teniendo serios problemas. El caldero de Crabbe chisporroteaba con un humo grisáceo y denso que olía a cuerno quemado, y Draco intentaba desesperadamente rebajar la llama sin quemarse los dedos, lanzando miradas de soslayo hacia Snape con evidente pánico a ser reprendido.
+En la primera fila, Vincent Crabbe y Gregory Goyle estaban teniendo serios problemas. El caldero de Crabbe chisporroteaba con un humo grisáceo y denso que olía a cuerno quemado, y Goyle intentaba desesperadamente rebajar la llama sin quemarse los dedos, lanzando miradas de soslayo hacia Snape con evidente pánico a ser reprendidos.
 
 A diez minutos del final de la sesión, Snape comenzó su ronda de inspección entre las mesas. Caminaba despacio, con las manos a la espalda y la capa rozando el suelo de piedra, señalando con silencioso desdén los errores ajenos: un corte irregular de ortiga por aquí, una balanza mal calibrada por allá. A los alumnos de Ravenclaw les dedicaba miradas agrias y comentarios mordaces que hacían que los chicos bajaran la cabeza hacia sus cuadernos.
 
@@ -141,7 +141,7 @@ Snape alzó la vista y clavó sus ojos oscuros en Harry. Había en su rostro una
 
 —Retiren el caldero y embotellen dos muestras para calificación —dijo Snape con un tono seco y monocorde que apenas ocultaba su frustración—. Y recuerden etiquetar con nombre y fecha. La mediocridad no se premia en esta clase, pero la técnica correcta se registra.
 
-Snape dio media vuelta y pasó a la mesa de los Malfoy, donde inspeccionó la poción de Draconia y Daphne con una inclinación de cabeza aprobatoria, aunque sin dedicarles más tiempo del necesario.
+Snape dio media vuelta y pasó a la mesa de Draconia Malfoy, donde inspeccionó la poción que compartía con Daphne con una inclinación de cabeza aprobatoria, aunque sin dedicarles más tiempo del necesario.
 
 Cuando sonó la campana que marcaba el final de la doble sesión de la mañana, los estudiantes comenzaron a recoger sus materiales con un suspiro colectivo de alivio. Harry vertió la poción azul en dos redomas de cristal, selló los corchos con lacre y escribió con letra clara en las etiquetas: *Filtro para forúnculos. Muestra A. H. Potter y T. Boot. Ravenclaw*.
 
