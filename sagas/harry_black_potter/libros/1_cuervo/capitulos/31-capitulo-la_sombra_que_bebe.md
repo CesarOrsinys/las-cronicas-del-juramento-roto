@@ -93,7 +93,7 @@ A los diez minutos de carrera silenciosa y majestuosa por la espesura, Firenze f
 
 Harry desmontó con un salto ágil sobre la hierba húmeda y se giró hacia el centauro con una mano apoyada sobre el pecho en señal de gratitud eterna y lealtad:
 
-—Jamás olvidaré lo que ha hecho por mí esta noche, señor Firenze. Mi padrino Sirius me enseñó que la lealtad y el honor verdadero no se miden por la raza, ni por las especies, ni por los linajes de sangre, sino por los actos concretos de valor en medio del peligro. Tiene usted mi respeto y mi alianza para siempre.
+—Jamás olvidaré lo que ha hecho por mí esta noche, señor Firenze. Me enseñaron desde muy pequeño que la lealtad y el honor verdadero no se miden por la raza, ni por las especies, ni por los linajes de sangre, sino por los actos concretos de valor y rectitud en medio del peligro. Tiene usted mi respeto y mi alianza para siempre.
 
 Firenze sonrió con una calidez noble que iluminó sus profundos ojos de zafiro:
 
