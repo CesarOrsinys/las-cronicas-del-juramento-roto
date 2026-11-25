@@ -45,7 +45,7 @@ Harry tomó la carta con dedos tranquilos y firmes. Rompió el lacre negro con l
 
 *«Querido cachorro:*
 
-*El capitán Davies y la jefa de tu casa se pusieron en contacto conmigo a través del consejo escolar y la subdirección para notificarme formalmente tu incorporación al equipo titular de quidditch de Ravenclaw. No puedo describirte con simples palabras el orgullo salvaje que sentí al leer el informe minucioso de Minerva sobre tu maniobra de descenso balístico; tu padre habría pagado gustoso cien galeones de oro por ver la cara de ese viejo gato escocés asombrada y descolocada ante tu vuelo.*
+*El capitán Davies y el profesor Flitwick se pusieron en contacto conmigo a través del consejo escolar y la dirección para notificarme formalmente tu incorporación al equipo titular de quidditch de Ravenclaw. No puedo describirte con simples palabras el orgullo salvaje que sentí al leer el informe minucioso de Filius sobre tu maniobra de descenso balístico para salvar a ese chico Longbottom en caída libre; tu padre habría pagado gustoso cien galeones de oro por ver la cara de medio colegio asombrada ante tu vuelo.*
 
 *Un buscador que lleva la sangre de la Casa Black y el linaje de la Casa Potter no puede presentarse a competir en un torneo oficial montado en una leña carcomida que tiembla en las curvas cerradas y pierde sustentación en los descensos verticales. En este paquete encontrarás una Nimbus 2000, la última palabra y la joya indiscutible de la industria mágica de carreras. Su mango de caoba española seleccionada posee un equilibrio balístico perfecto, y los encantamientos de amortiguación responden a la más mínima presión de los muslos y al giro de tus hombros.*
 
